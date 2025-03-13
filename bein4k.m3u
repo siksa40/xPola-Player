@@ -1,151 +1,18 @@
-<!DOCTYPE html>
-<html lang="ar">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>مشغل القنوات - XPola Player</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background: linear-gradient(45deg, #0f172a, #1e3a8a, #0f172a);
-            background-size: 400% 400%;
-            animation: gradientBG 10s infinite alternate;
-            color: #ffffff;
-            margin: 0;
-            padding: 20px;
-        }
-        @keyframes gradientBG {
-            0% { background-position: 0% 50%; }
-            100% { background-position: 100% 50%; }
-        }
-        h2 {
-            margin-bottom: 20px;
-            text-shadow: 0px 0px 10px #00bcd4;
-        }
-        .container {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-            gap: 15px;
-            justify-content: center;
-            max-width: 1000px;
-            margin: auto;
-        }
-        .channel {
-            background: #1e1e2e;
-            padding: 15px;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-            text-align: center;
-            cursor: pointer;
-            transition: transform 0.2s, box-shadow 0.2s, border 0.3s;
-            border: 3px solid transparent;
-        }
-        .channel:hover, .channel:focus {
-            transform: translateY(-5px);
-            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
-            background: #3949ab;
-            border: 3px solid #00bcd4;
-        }
-        .logo {
-            width: 100px;
-            height: auto;
-            border-radius: 5px;
-            margin-bottom: 10px;
-        }
-        .channel:focus {
-            outline: 2px solid #ffffff;
-        }
-    </style>
-</head>
-<body>
-    <h2>📺  بي إن سبورتس K4</h2>
-    <div class="container" id="channels"></div>
-
-    <script>
-        // قائمة القنوات بصيغة M3U
-        const m3uData = `
-         #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/bein1.jpg?v=6"Algeria - ",  بي إن سبورتس 1
-http://goldenpro.xyz/live/88DS5N6/5U9RD6P/986973.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/bein1.jpg?v=6"Algeria - ",  بي إن سبورتس 1
+http://12.troya.info:34000/ch227/mono.m3u8?token=padurarunick1._cq6UKuIYBZy9-Z9InEizrYhPuZY6AaSn8TWCMb6deSo_YvRElDqzkRzxHQyN2c3
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/bein2.jpg?v=6"Algeria - ", بي إن سبورتس 2
-http://goldenpro.xyz/live/88DS5N6/5U9RD6P/986974.ts
+http://12.troya.info:34000/ch228/mono.m3u8?token=padurarunick1._cq6UKuIYBZy9-Z9InEizuxmyhhPTY5mb0ZcehKlR_gFVmhuNG7Tb-87-IprZT0n
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6"Algeria - ", بي إن سبورتس 3
-http://goldenpro.xyz/live/88DS5N6/5U9RD6P/986975.ts
+http://12.troya.info:34000/ch229/mono.m3u8?token=padurarunick1._cq6UKuIYBZy9-Z9InEiziE1v1HL9Uu5kPX7soUJJ4U-MqnyJyR-bq00Gh1QNLcx
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/bein4.jpg?v=6"Algeria - ", بي إن سبورتس 4
-http://goldenpro.xyz/live/88DS5N6/5U9RD6P/986976.ts
+http://12.troya.info:34000/ch230/mono.m3u8?token=padurarunick1._cq6UKuIYBZy9-Z9InEiziIxzb2uEd0guSOgfUcYlsFmIlQyNHsek1t6CTiE9Umt
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/bein5.jpg?v=6"Algeria - ", بي إن سبورتس 5
-http://goldenpro.xyz/live/88DS5N6/5U9RD6P/986977.ts
+http://12.troya.info:34000/ch231/mono.m3u8?token=padurarunick1._cq6UKuIYBZy9-Z9InEizhdhLNP-xPijFz9A75K_czzatFNTft6RI6n1AhP8XLP-
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6"Algeria - ", بي إن سبورتس 6
-http://goldenpro.xyz/live/88DS5N6/5U9RD6P/986978.ts
+http://12.troya.info:34000/ch1062/mono.m3u8?token=padurarunick1._cq6UKuIYBZy9-Z9InEizvpzllSdtTJyFDIrjAq1eONtC-YiFhfPlt46yhaj9GLz
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/bein7.jpg?v=6g"Algeria - ", بي إن سبورتس 7
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/986979.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/bein8.jpg?v=6"Algeria - ", بي إن سبورتس 8
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/986980.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/bein9.jpg?v=6"Algeria - ", بي إن سبورتس 9
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/986981.ts
-
-
-
-        `;
-
-        // تحويل بيانات M3U إلى مصفوفة من القنوات
-        function parseM3U(data) {
-            const lines = data.trim().split("\n");
-            let channels = [];
-            for (let i = 0; i < lines.length; i++) {
-                if (lines[i].startsWith("#EXTINF")) {
-                    let logo = lines[i].match(/tvg-logo="(.*?)"/);
-                    let name = lines[i].split(",")[1];
-                    let url = lines[i + 1]?.trim();
-
-                    let drm = null;
-                    if (url.includes("|drm-info=clearkey|")) {
-                        let parts = url.split("|drm-info=clearkey|");
-                        url = parts[0];
-                        drm = parts[1];
-                    }
-
-                    channels.push({
-                        name: name,
-                        logo: logo ? logo[1] : "",
-                        url: url,
-                        drm: drm
-                    });
-                }
-            }
-            return channels;
-        }
-
-        function displayChannels() {
-            const channels = parseM3U(m3uData);
-            const container = document.getElementById("channels");
-            container.innerHTML = "";
-            channels.forEach(channel => {
-                const div = document.createElement("div");
-                div.className = "channel";
-                div.tabIndex = 0;
-                div.innerHTML = `
-                    <img class='logo' src='${channel.logo}' /><br>
-                    <strong>${channel.name}</strong>
-                `;
-                div.onclick = () => playChannel(channel.url, channel.drm);
-                container.appendChild(div);
-            });
-        }
-
-        function playChannel(url, drm) {
-            let intentUrl;
-            if (drm) {
-                let fullUrl = encodeURIComponent(url + "|drm-info=clearkey|" + drm);
-                intentUrl = `intent://${fullUrl}#Intent;scheme=xmtv;package=com.xpola.player;end`;
-            } else {
-                let fullUrl = encodeURIComponent(url);
-                intentUrl = `intent://${fullUrl}#Intent;scheme=xmtv;package=com.xpola.player;end`;
-            }
-            window.location.href = intentUrl;
-        }
-
-        displayChannels();
-    </script>
-</body>
-</html>
