@@ -1,9 +1,9 @@
  #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/8f53295a73878494e9bc8dd6c3c7104f.128.png?ver=12-01-2025"Algeria - ",  بي إن سبورتس 1 
-http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1023969.ts
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/1023969.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-9.png"Algeria - ", بي إن سبورتس 1
-http://goldenpro.xyz/live/88DS5N6/5U9RD6P/551241.ts
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/551241.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-2.png"Algeria - ", بي إن سبورتس 2
-http://goldenpro.xyz/live/88DS5N6/5U9RD6P/551242.ts
+http://goldenpro.xyz/live/88DS5N6/5U9RD6P/551242.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-3.png"Algeria - ", بي إن سبورتس 3
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/551243.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-4.png"Algeria - ", بي إن سبورتس 4
@@ -12,19 +12,20 @@ http://goldenpro.xyz/live/88DS5N6/5U9RD6P/551244.ts
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/551245.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-6.png"Algeria - ", بي إن سبورتس 6
 http://goldenpro.xyz/live/88DS5N6/5U9RD6P/551246.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-7.png"Algeria - ", بي إن سبورتس 7
-http://goldenpro.xyz/live/88DS5N6/5U9RD6P/551247.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-8.png"Algeria - ", بي إن سبورتس 8
-http://goldenpro.xyz/live/88DS5N6/5U9RD6P/551248.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-9.png"Algeria - ", بي إن سبورتس 9
-http://goldenpro.xyz/live/88DS5N6/5U9RD6P/551249.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/a501bebf79d570651ff601788ea9d16d.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 1
-http://goldenpro.xyz/live/88DS5N6/5U9RD6P/551286.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/501e3f8a108d7ab9335ceecd363d113d.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 2
-http://goldenpro.xyz/live/88DS5N6/5U9RD6P/551287.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/a501bebf79d570651ff601788ea9d16d.128.png?ver=12-01-2025"Algeria - ",بي إن سبورتس إكسترا 1
-http://goldenpro.xyz/live/88DS5N6/5U9RD6P/551281.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/051928341be67dcba03f0e04104d9047.128.png?ver=12-01-2025"Algeria - ",بي إن سبورتس إكسترا 2
-http://goldenpro.xyz/live/88DS5N6/5U9RD6P/551251.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/75c6b2d6319e12f37ff421834ad22fa8.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس إكسترا 3
-http://goldenpro.xyz/live/88DS5N6/5U9RD6P/551262.ts
+#EXTINF:-1 tvg-id="SSC News" tvg-logo="https://iili.io/JhkLNe9.png" group-title="ARABIC SPORTS",SSC News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
+https://ssc-news-live-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd
+#EXTINF:-1 tvg-id="SSC 1 4K" tvg-logo="https://iili.io/JhkQEp1.png" group-title="ARABIC SPORTS",SSC 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+#EXTINF:-1 tvg-id="SSC 2 4K" tvg-logo="https://iili.io/JhkQMTF.png" group-title="ARABIC SPORTS",SSC 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+#EXTINF:-1 tvg-id="SSC 3 4K" tvg-logo="https://iili.io/JhkQVhg.png" group-title="ARABIC SPORTS",SSC 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
+https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
+xyz/live/88DS5N6/5U9RD6P/551262.ts
