@@ -1,31 +1,18 @@
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS 1 4Kˢᴬ" tvg-logo="http://logo.ottcst.info/BEINSPORTS1.png" group-title="ARAB| BEIN SPORTS SA",|AR| BEIN SPORTS 1 4Kˢᴬ
-http://1.ies9.site/live/juan7866/904662/135004.ts
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS 2 4Kˢᴬ" tvg-logo="http://logo.ottcst.info/BEINSPORTS2.png" group-title="ARAB| BEIN SPORTS SA",|AR| BEIN SPORTS 2 4Kˢᴬ
-http://1.ies9.site/live/juan7866/904662/135006.ts
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS 3 4Kˢᴬ" tvg-logo="http://logo.ottcst.info/BEINSPORTS3.png" group-title="ARAB| BEIN SPORTS SA",|AR| BEIN SPORTS 3 4Kˢᴬ
-http://1.ies9.site/live/juan7866/904662/135008.ts
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS 4 4Kˢᴬ" tvg-logo="http://logo.ottcst.info/BEINSPORTS4.png" group-title="ARAB| BEIN SPORTS SA",|AR| BEIN SPORTS 4 4Kˢᴬ
-http://1.ies9.site/live/juan7866/904662/135010.ts
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS 5 4Kˢᴬ" tvg-logo="http://logo.ottcst.info/BEINSPORTS5.png" group-title="ARAB| BEIN SPORTS SA",|AR| BEIN SPORTS 5 4Kˢᴬ
-http://1.ies9.site/live/juan7866/904662/135012.ts
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS 6 4Kˢᴬ" tvg-logo="http://logo.ottcst.info/BEINSPORTS6.png" group-title="ARAB| BEIN SPORTS SA",|AR| BEIN SPORTS 6 4Kˢᴬ
-http://1.ies9.site/live/juan7866/904662/135014.ts
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS 7 4Kˢᴬ" tvg-logo="http://logo.ottcst.info/BEINSPORTS7.png" group-title="ARAB| BEIN SPORTS SA",|AR| BEIN SPORTS 7 4Kˢᴬ
-http://1.ies9.site/live/juan7866/904662/135016.ts
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS 8 4Kˢᴬ" tvg-logo="http://logo.ottcst.info/BEINSPORTS8.png" group-title="ARAB| BEIN SPORTS SA",|AR| BEIN SPORTS 8 4Kˢᴬ
-http://1.ies9.site/live/juan7866/904662/135018.ts
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS 9 4Kˢᴬ" tvg-logo="http://logo.ottcst.info/BEINSPORTS9.png" group-title="ARAB| BEIN SPORTS SA",|AR| BEIN SPORTS 9 4Kˢᴬ
-http://1.ies9.site/live/juan7866/904662/135020.ts
-#EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-name="|AR| BEIN SPORTS FR 1 HEVC" tvg-logo="http://logo.ottcst.info/BEINSPORTSFRENCH1.png" group-title="ARAB| BEIN SPORTS HEVC",|AR| BEIN SPORTS FR 1 HEVC
-http://1.ies9.site/live/juan7866/904662/133525.ts
-#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="|AR| BEIN SPORTS FR 2 HEVC" tvg-logo="http://logo.ottcst.info/BEINSPORTSFRENCH2.png" group-title="ARAB| BEIN SPORTS HEVC",|AR| BEIN SPORTS FR 2 HEVC
-http://1.ies9.site/live/juan7866/904662/133528.ts
-#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="|AR| BEIN SPORTS FR 3 HEVC" tvg-logo="http://logo.ottcst.info/BEINSPORTSFRENCH3.png" group-title="ARAB| BEIN SPORTS HEVC",|AR| BEIN SPORTS FR 3 HEVC
-http://1.ies9.site/live/juan7866/904662/133529.ts
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN EXTRA 1 4Kˢᴬ" tvg-logo="http://logo.ottcst.info/BEINSPORTSXTRA1.png" group-title="ARAB| BEIN SPORTS SA",|AR| BEIN EXTRA 1 4Kˢᴬ
-http://1.ies9.site/live/juan7866/904662/135026.ts
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN EXTRA 2 4Kˢᴬ" tvg-logo="http://logo.ottcst.info/BEINSPORTSXTRA2.png" group-title="ARAB| BEIN SPORTS SA",|AR| BEIN EXTRA 2 4Kˢᴬ
-http://1.ies9.site/live/juan7866/904662/135027.ts
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN EXTRA 3 4Kˢᴬ" tvg-logo="http://logo.ottcst.info/BEINSPORTSXTRA3.png" group-title="ARAB| BEIN SPORTS SA",|AR| BEIN EXTRA 3 4Kˢᴬ
-http://1.ies9.site/live/juan7866/904662/135028.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://connect.bein.com/proxy/imgdata?objectId=65&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"Algeria - ",  بي إن سبورتس 1
+http://teledunet.com:8080/live/tdn/tdn/9960382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://connect.bein.com/proxy/imgdata?objectId=66&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"Algeria - ", بي إن سبورتس 2
+http://teledunet.com:8080/live/tdn/tdn/456488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://connect.bein.com/proxy/imgdata?objectId=67&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"Algeria - ", بي إن سبورتس 3
+http://teledunet.com:8080/live/tdn/tdn/456489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://connect.bein.com/proxy/imgdata?objectId=70&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"Algeria - ", بي إن سبورتس 4
+http://teledunet.com:8080/live/tdn/tdn/456490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://connect.bein.com/proxy/imgdata?objectId=68&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"Algeria - ", بي إن سبورتس 5
+http://teledunet.com:8080/live/tdn/tdn/456491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://connect.bein.com/proxy/imgdata?objectId=69&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"Algeria - ", بي إن سبورتس 6
+http://teledunet.com:8080/live/tdn/tdn/456492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://connect.bein.com/proxy/imgdata?objectId=73&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"Algeria - ", بي إن سبورتس 7
+http://teledunet.com:8080/live/tdn/tdn/456493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://connect.bein.com/proxy/imgdata?objectId=71&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"Algeria - ", بي إن سبورتس 8
+http://teledunet.com:8080/live/tdn/tdn/456494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://connect.bein.com/proxy/imgdata?objectId=58&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"Algeria - ", بي إن سبورتس 9
+http://teledunet.com:8080/live/tdn/tdn/456490.m3u8
