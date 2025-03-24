@@ -5,13 +5,13 @@ http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/515.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| CANAL+ FOOT  FHD" tvg-logo="" group-title="FR SPORT",|FR.SPOR| CANAL+ FOOT  FHD
 http://zara4k.live:8080/D19Jy7UsfDh6LV/24217175622649/509811
 #EXTINF:-1 tvg-id="C1290.api.telerama.fr" tvg-name="|FR.SPOR| BeIN Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/BeinSports-1.jpg" group-title="FR SPORT",|FR.SPOR| BeIN Sports 1 HD
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/520.m3u8
+http://195.128.248.40:2082/live/GGGG29GG65/GGGG29GG65/111429.ts
 #EXTINF:-1 tvg-id="C1304.api.telerama.fr" tvg-name="|FR.SPOR| BeIN Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png?uselang=fr" group-title="FR SPORT",|FR.SPOR| BeIN Sports 2 HD
-http://zara4k.live:8080/D19Jy7UsfDh6LV/24217175622649/509836
+http://195.128.248.40:2082/live/GGGG29GG65/GGGG29GG65/111433.ts
 #EXTINF:-1 tvg-id="C1335.api.telerama.fr" tvg-name="|FR.SPOR| BeIN Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png?uselang=fr" group-title="FR SPORT",|FR.SPOR| BeIN Sports 3 HD
-http://zara4k.live:8080/D19Jy7UsfDh6LV/24217175622649/509838
+http://195.128.248.40:2082/live/GGGG29GG65/GGGG29GG65/111437.ts
 #EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| BeIN Sports Max 4 HD" tvg-logo="http://vod-logo.net/photos/5534c388e2b8d766d01e73dc03f70460.png" group-title="FR SPORT",|FR.SPOR| BeIN Sports Max 4 HD
-http://zara4k.live:8080/D19Jy7UsfDh6LV/24217175622649/509839
+http://195.128.248.40:2082/live/GGGG29GG65/GGGG29GG65/111440.ts
 #EXTINF:-1 tvg-id="beIN SPORTS MAX 5.fr" tvg-logo="https://i.ibb.co/s9yfNbx/beinmax5.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS MAX 5 🇫🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sEeP0mQk6I+h5keO411/CA","k":"9QRCQtjSJMrkCH/Y72VAIw"},{"kty":"oct","kid":"InUSnyhWdxReNOuL4kmuSg","k":"dQVcYFHWUMUpYnseYm9TCg"},{"kty":"oct","kid":"LrcsuNUlcZzdo+H1zEOzQg","k":"4Hl+IoZXVIcgUgFd2ikF9w"},{"kty":"oct","kid":"CtLb067+IHA08kBQ68mM0Q","k":"CxIf52nQsbRaOmu4xA40BQ"}]}
