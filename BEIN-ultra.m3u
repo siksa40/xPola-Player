@@ -1,21 +1,39 @@
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://connect.bein.com/proxy/imgdata?objectId=65&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"Algeria - ",  بي إن سبورتس 1
-http://195.128.248.40:2082/live/GGGG29GG65/GGGG29GG65/121668.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://connect.bein.com/proxy/imgdata?objectId=66&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"Algeria - ", بي إن سبورتس 2
-http://195.128.248.40:2082/live/GGGG29GG65/GGGG29GG65/121670.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://connect.bein.com/proxy/imgdata?objectId=67&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"Algeria - ", بي إن سبورتس 3
-http://195.128.248.40:2082/live/GGGG29GG65/GGGG29GG65/121669.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://connect.bein.com/proxy/imgdata?objectId=70&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"Algeria - ", بي إن سبورتس 4
-http://195.128.248.40:2082/live/GGGG29GG65/GGGG29GG65/121671.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://connect.bein.com/proxy/imgdata?objectId=68&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"Algeria - ", بي إن سبورتس 5
-http://195.128.248.40:2082/live/GGGG29GG65/GGGG29GG65/121672.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://connect.bein.com/proxy/imgdata?objectId=69&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"Algeria - ", بي إن سبورتس 6
-http://195.128.248.40:2082/live/GGGG29GG65/GGGG29GG65/121673.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://connect.bein.com/proxy/imgdata?objectId=73&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"Algeria - ", بي إن سبورتس 7
-http://195.128.248.40:2082/live/GGGG29GG65/GGGG29GG65/121674.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://connect.bein.com/proxy/imgdata?objectId=71&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"Algeria - ", بي إن سبورتس 8
-http://195.128.248.40:2082/live/GGGG29GG65/GGGG29GG65/121675.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://connect.bein.com/proxy/imgdata?objectId=58&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"Algeria - ", بي إن سبورتس 9
-http://195.128.248.40:2082/live/GGGG29GG65/GGGG29GG65/121676.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.128.png?ver=12-01-2025"Algeria - ",  بي إن سبورتس 1
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/240463.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 2
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/240464.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 3
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/240465.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 4
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/240466.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 5
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/240467.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 6
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/240468.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/a3ce63a7a8521c37a513db67129855a8.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 7
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/240469.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 8
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/240470.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 9
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/240471.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.128.png?ver=12-01-2025"Algeria - ",  بي إن سبورتس 1
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/240454.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 2
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/240455.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 3
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/240456.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 4
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/240457.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 5
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/240458.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 6
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/240459.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/a3ce63a7a8521c37a513db67129855a8.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 7
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/240460.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 8
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/240461.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 9
+http://20025.online:2086/live/888420221658/21945814066f91c99369e5/240462.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://connect.bein.com/proxy/imgdata?objectId=65&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"Algeria - ",  بي إن سبورتس 1
 http://r2cfiz8zbv.spo.isnon.me:25461/live/303270J1373G3Y/z2F397281c399U/1167.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://connect.bein.com/proxy/imgdata?objectId=66&type=100&format_w=125&format_h=125&ratio=1&languageId=ara"Algeria - ", بي إن سبورتس 2
