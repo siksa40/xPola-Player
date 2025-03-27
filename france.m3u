@@ -1,9 +1,9 @@
 #EXTINF:-1 tvg-id="beINSport1.fr" tvg-name="FR: BEIN SPORT 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="FR SPORT SD HD",FR: BEIN SPORT 1 HD
-http://live.lynxiptv.xyz/live/331437455915/B9VsAttwEi/17.ts
+http://live.lynxiptv.xyz/live/331437455915/B9VsAttwEi/17.m3u8
 #EXTINF:-1 tvg-id="beINSport2.fr" tvg-name="FR: BEIN SPORT 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="FR SPORT SD HD",FR: BEIN SPORT 2 HD
-http://live.lynxiptv.xyz/live/331437455915/B9VsAttwEi/18.ts
+http://live.lynxiptv.xyz/live/331437455915/B9VsAttwEi/18.m3u8
 #EXTINF:-1 tvg-id="beINSport3.fr" tvg-name="FR: BEIN SPORT 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="FR SPORT SD HD",FR: BEIN SPORT 3 HD
-http://live.lynxiptv.xyz/live/331437455915/B9VsAttwEi/19.ts
+http://live.lynxiptv.xyz/live/331437455915/B9VsAttwEi/19.m3u8
 #EXTINF:-1 tvg-id="BeInSportMax4.fr" tvg-name="FR: BEIN SPORT MAX 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-4-qa.png" group-title="FR SPORT SD HD",FR: BEIN SPORT MAX 4 HD
 http://live.lynxiptv.xyz/live/331437455915/B9VsAttwEi/3902.ts
 #EXTINF:-1 tvg-id="BeInSportMax5.fr" tvg-name="FR: BEIN SPORT MAX 5 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-5-qa.png" group-title="FR SPORT SD HD",FR: BEIN SPORT MAX 5 HD
@@ -19,11 +19,11 @@ http://live.lynxiptv.xyz/live/331437455915/B9VsAttwEi/135401.ts
 #EXTINF:-1 tvg-id="BeInSportMax10.fr" tvg-name="FR: BEIN SPORT MAX 10 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-10-qa.png" group-title="FR SPORT SD HD",FR: BEIN SPORT MAX 10 HD
 http://live.lynxiptv.xyz/live/331437455915/B9VsAttwEi/135402.ts
 #EXTINF:-1 tvg-id="C+FOOT.fr" tvg-name="FR: CANAL+ FOOT HD" tvg-logo="http://logo.lynxcontents.click/Logo/france/canal-plus-foot-fr.png" group-title="FR SPORT SD HD",FR: CANAL+ FOOT HD
-http://live.lynxiptv.xyz/live/331437455915/B9VsAttwEi/190020.ts
+http://live.lynxiptv.xyz/live/331437455915/B9VsAttwEi/190020.m3u8
 #EXTINF:-1 tvg-id="C+SPORT360.fr" tvg-name="FR: CANAL+ SPORT 360 HD" tvg-logo="http://logo.lynxcontents.click/Logo/france/canal-plus-sport-360-fr.png" group-title="FR SPORT SD HD",FR: CANAL+ SPORT 360 HD
 http://live.lynxiptv.xyz/live/331437455915/B9VsAttwEi/190018.ts
 #EXTINF:-1 tvg-id="CANALplusSPORT.fr" tvg-name="FR: CANAL+ SPORT HD" tvg-logo="http://logo.lynxcontents.click/Logo/france/canalplus_fr_sport.png" group-title="FR SPORT SD HD",FR: CANAL+ SPORT HD
-http://live.lynxiptv.xyz/live/331437455915/B9VsAttwEi/739.ts
+http://live.lynxiptv.xyz/live/331437455915/B9VsAttwEi/739.m3u8
 #EXTINF:-1 tvg-id=CANALplusCINEMA.fr tvg-name="FR: CANAL CINEMA FHD" tvg-logo="http://logo.lynxcontents.click/Logo/france/canalplus_fr_cinema.png" group-title="FR FHD",FR: CANAL CINEMA FHD
 http://live.lynxiptv.xyz/live/122841940227/WsbntDUBj4/158638.ts
 #EXTINF:-1 tvg-id=Canal+Docs.fr tvg-name="FR: CANAL DOCS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-docs-fr.png" group-title="FR FHD",FR: CANAL DOCS FHD
