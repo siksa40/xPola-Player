@@ -12,9 +12,9 @@ http://44321.online:2086/live/888420221658/21945814066f91c99369e5/240694.ts
 http://44321.online:2086/live/888420221658/21945814066f91c99369e5/240695.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bein  Drama" tvg-logo="https://besttvps.com/app/tv/news/panel/beindrama1.png" group-title="BEIN PREMIER",Bein  Drama
 http://44321.online:2086/live/888420221658/21945814066f91c99369e5/240696.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN TV YA HALA" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN TV YA HALA
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN TV YA HALA" tvg-logo="http://content.osn.com/logo/channel/cropped/OYC.png" group-title="AR OSN PREMIUM",AR: OSN TV YA HALA
 http://44321.online:2086/live/172555148248/6740ab8668b6d/240402.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN YA HALA  AFLAM" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN YA HALA  AFLAM
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN YA HALA  AFLAM" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1285_1.png" group-title="AR OSN PREMIUM",AR: OSN YA HALA  AFLAM
 http://44321.online:2086/live/172555148248/6740ab8668b6d/240400.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: OSN YA HALA BIL ARABI" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN YA HALA BIL ARABI
 http://44321.online:2086/live/172555148248/6740ab8668b6d/240401.ts
@@ -34,9 +34,9 @@ http://cms-ar.accesss.me:25461/live/303270J1373G3Y/z2F397281c399U/2276.ts
 http://cms-ar.accesss.me:25461/live/303270J1373G3Y/z2F397281c399U/2280.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: OSN ALFA MUSALSALAT 2" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN ALFA MUSALSALAT 2
 http://cms-ar.accesss.me:25461/live/303270J1373G3Y/z2F397281c399U/2279.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES ACTION" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN MOVIES ACTION
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES ACTION" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1211_1.png" group-title="AR OSN PREMIUM",AR: OSN MOVIES ACTION
 http://44321.online:2086/live/172555148248/6740ab8668b6d/240420.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES PREMIERE" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN MOVIES PREMIERE
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES PREMIERE" tvg-logo="https://media.elcinema.com/tvguide/1213_1.png" group-title="AR OSN PREMIUM",AR: OSN MOVIES PREMIERE
 http://44321.online:2086/live/172555148248/6740ab8668b6d/240421.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: OSN SHOWCASE" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN SHOWCASE
 http://44321.online:2086/live/172555148248/6740ab8668b6d/240426.ts
@@ -44,7 +44,7 @@ http://44321.online:2086/live/172555148248/6740ab8668b6d/240426.ts
 http://satpower.shop:8080/MustafaIbrahim/E3WnrMo2q4/567414
 #EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES HOLLYWOOD" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN MOVIES HOLLYWOOD
 http://44321.online:2086/live/172555148248/6740ab8668b6d/240419.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES COMEDY" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN MOVIES COMEDY
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES COMEDY" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1257_1.png" group-title="AR OSN PREMIUM",AR: OSN MOVIES COMEDY
 http://44321.online:2086/live/172555148248/6740ab8668b6d/240422.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: OSN TV NOW" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN TV NOW
 http://44321.online:2086/live/172555148248/6740ab8668b6d/240435.ts
