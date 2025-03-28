@@ -12,6 +12,10 @@ https://fastly-live.cdn.intigral-ott.net/DSC/DSC.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bce56c8de2f1b27b16dd7d3abc2409b6:8c1c393bb61be740910438f6e49c7c32
 https://uselector.cdn.intigral-ott.net/DCF/DCF.isml/manifest.mpd
+#EXTINF:-1 tvg-id="DISCOVERY ID" tvg-name="AR: DISCOVERY ID  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="AR OSN PREMIUM",AR: DISCOVERY ID 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e364252e8341f5b172da9aa813947e7:674099ec66ddecbc55a244ce06228188 
+https://fastly-live.cdn.intigral-ott.net/DCX/DCX.isml/manifest.mpd
 #EXTINF:-1 tvg-id="NatGeo.fr" tvg-name="FR: NAT GEO HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg" group-title="FR CULTURE",FR: NAT GEO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c
@@ -24,3 +28,15 @@ https://fastly-live.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2809a502e0ff23f323ff75fcd6dd04ae:59588452aa32e3616a03e32addcdbc4a
 https://fastly-live.cdn.intigral-ott.net/FAT/FAT.isml/manifest.mpd
+#EXTINF:-1 tvg-id="Travel" tvg-name="AR: Travel  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Travel_Channel_logo-aqua.png/120px-Travel_Channel_logo-aqua.png" group-title="AR OSN PREMIUM",AR: Travel 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffc77ff035a2f1839c498d6431de9905:aa4bb62d5c3b25238332511972b1cbc8
+https://fastly-live.cdn.intigral-ott.net/TRA/TRA.isml/manifest.mpd
+#EXTINF:-1 tvg-id="ANIMAL PALANT" tvg-name="AR: ANIMAL PALANT  " tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/animal_planet.png" group-title="AR OSN PREMIUM",AR: ANIMAL PALANT 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=807d6b44b0ab6496877be8513313e3ce:a57d64d5e08284e52555f57b8e68b21c
+https://fastly-live.cdn.intigral-ott.net/APL/APL.isml/manifest.mpd
+#EXTINF:-1 tvg-id="ALSHARQ DISCOVERY" tvg-name="AR: ALSHARQ DISCOVERY  " tvg-logo="https://wasmenia.com/_next/image?url=https%3A%2F%2Fstrapi.wasmenia.com%2Fuploads%2FAsharq_Discovery_01_df7e757371.svg&w=640&q=75" group-title="AR OSN PREMIUM",AR: ALSHARQ DISCOVERY 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e7f1745be715fe2a00986a210408c2c:509911a82482f4cf248a534023eb9cdb  
+https://fastly-live.cdn.intigral-ott.net/ASHD/ASHD.isml/manifest.mpd
