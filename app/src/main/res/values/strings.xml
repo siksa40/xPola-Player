@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="subtitles_array">
+        <item>English</item>
+        <item>Arabic</item>
+        <item>French</item>
+        <item>Spanish</item>
+    </string-array>
+</resources>

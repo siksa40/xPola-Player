@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SIKTV</string>
+    <!-- يمكنك إضافة المزيد من السلاسل هنا حسب الحاجة -->
+<style name="Theme.SIKTV" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+</resources>
