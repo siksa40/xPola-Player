@@ -1,10 +1,10 @@
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein-Logo.png", siksa
 #EXTVLCOPT:http-player-type=m3u
-https://raw.githubusercontent.com/siksa40/xPola-Player/refs/heads/main/bein8k.m3u
+https://raw.githubusercontent.com/siksa40/xPola-Player/refs/heads/main/MYHD.m3u
 #EXTINF:-1 tvg
 logo="https://storage.googleapis.com/a1aa/image/ISUWPNn5CYdPj6VtXxfg9hjSyOhlXhHf3KTpsAExBXk.jpg", siksa
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/siksa40/xPola-Player/refs/heads/main/bein-falcon.m3u
 #EXTINF:-1 tvg-logo="https://footballarroyo.co.uk/wp-content/uploads/2023/01/The-frequency-of-the-SSC-Sports-5-HD-channel-broadcasting-the-Saudi-League-matches-on-Nilesat-1024x683.jpg", siksa
 #EXTVLCOPT:http-player-type=m3u
-https://raw.githubusercontent.com/siksa40/xPola-Player/refs/heads/main/SSC.m3u
+https://raw.githubusercontent.com/siksa40/xPola-Player/refs/heads/main/bein4k.m3u
