@@ -1,11 +1,13 @@
-#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 1" tvg-logo="" group-title="Arabes",PS | Al Fajer 1
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/6728.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 3" tvg-logo="" group-title="Arabes",PS | Al Fajer 3
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/6729.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 4" tvg-logo="" group-title="Arabes",PS | Al Fajer 4
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/6730.ts
-#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 5" tvg-logo="" group-title="Arabes",PS | Al Fajer 5
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/6731.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 4 K" tvg-logo="http://bl3rbe.net/up/jFbLyS8Mqp9.png" group-title="  group-title="⚽ BEIN SPORT  بي إن سبورت ",بي إن 1 سبورت 
+http://faiv5.biz:80/live/MOSTAFA/MOSTAFA/271896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 4 K (1080p)" tvg-logo="http://bl3rbe.net/up/aC9bhfiQx.png" group-title="group-title="⚽ BEIN SPORT  بي إن سبورت ",بي إن 2 سبورت
+http://faiv5.biz:80/live/MOSTAFA/MOSTAFA/271897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 4k" tvg-logo="https://www6.0zz0.com/2021/07/08/08/752923487.png" group-title="⚽ BEIN SPORT  بي إن سبورت ",بي إن 1 سبورت
+http://faiv5.biz/live/MOSTAFA/MOSTAFA/163571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 4k" tvg-logo="https://www6.0zz0.com/2021/07/08/08/886438986.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 2 
+http://faiv5.biz/live/MOSTAFA/MOSTAFA/163572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 4k" tvg-logo="https://www6.0zz0.com/2021/07/08/08/927254160.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 3 
+http://faiv5.biz/live/MOSTAFA/MOSTAFA/163573.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="BeIn Sports",AR | BEIN SPORTS 1 FHD
 http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/5079.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5080.png" group-title="BeIn Sports",AR | BEIN SPORTS 2 FHD
