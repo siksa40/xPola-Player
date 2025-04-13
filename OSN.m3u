@@ -1,9 +1,9 @@
 #EXTINF:-1 tvg-id="" tvg-name="Bein  Movies-1" tvg-logo="https://besttvps.com/app/tv/news/panel/beinpremiere.png" group-title="BEIN PREMIER",Bein  Movies-1
-http://44321.online:2086/live/888420221658/21945814066f91c99369e5/240690.ts
+http://cms-ar.accesss.me:25461/live/303270J1373G3Y/z2F397281c399U/2280.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bein  Movies-2" tvg-logo="https://besttvps.com/app/tv/news/panel/beinaction.png" group-title="BEIN PREMIER",Bein  Movies-2
 http://44321.online:2086/live/888420221658/21945814066f91c99369e5/240691.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bein  Movies-3" tvg-logo="https://besttvps.com/app/tv/news/panel/beindrama.png" group-title="BEIN PREMIER",Bein  Movies-3
-http://44321.online:2086/live/888420221658/21945814066f91c99369e5/240692.ts
+http://44321.online:2086/live/888420221658/21945814066f91c99369e5/240692.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein  Movies-4" tvg-logo="https://besttvps.com/app/tv/news/panel/beinfamily.png" group-title="BEIN PREMIER",Bein  Movies-4
 http://44321.online:2086/live/888420221658/21945814066f91c99369e5/240693.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bein Serie-1" tvg-logo="https://besttvps.com/app/tv/news/panel/beinseries1.png" group-title="BEIN PREMIER",Bein Serie-1
@@ -40,21 +40,3 @@ http://44321.online:2086/live/172555148248/6740ab8668b6d/240420.ts
 http://44321.online:2086/live/172555148248/6740ab8668b6d/240421.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: OSN SHOWCASE" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN SHOWCASE
 http://44321.online:2086/live/172555148248/6740ab8668b6d/240426.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES CRIME" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN MOVIES CRIME
-http://satpower.shop:8080/MustafaIbrahim/E3WnrMo2q4/567414
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES HOLLYWOOD" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN MOVIES HOLLYWOOD
-http://44321.online:2086/live/172555148248/6740ab8668b6d/240419.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES COMEDY" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1257_1.png" group-title="AR OSN PREMIUM",AR: OSN MOVIES COMEDY
-http://44321.online:2086/live/172555148248/6740ab8668b6d/240422.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN TV NOW" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN TV NOW
-http://44321.online:2086/live/172555148248/6740ab8668b6d/240435.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES FAMILY" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN MOVIES FAMILY
-http://44321.online:2086/live/172555148248/6740ab8668b6d/240438.ts
-#EXTINF:-1 tvg-id="cinema1.sa" tvg-name="AR: OSN CINEMA 1" tvg-logo="http://51.158.145.100/picons/logos/cinema1.jpg" group-title="AR OSN PREMIUM",AR: OSN CINEMA 1
-http://cms-ar.accesss.me:25461/live/303270J1373G3Y/z2F397281c399U/2277.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN CINEMA 2" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN CINEMA 2
-http://cms-ar.accesss.me:25461/live/303270J1373G3Y/z2F397281c399U/2278.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN AL SAFWA" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN AL SAFWA
-http://cms-ar.accesss.me:25461/live/303270J1373G3Y/z2F397281c399U/2275.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MEZZE" tvg-logo="https://cne-eg.com/uploads/logos/20201810134328.png" group-title="AR OSN PREMIUM",AR: OSN MEZZE
-http://44321.online:2086/live/172555148248/6740ab8668b6d/240436.ts
