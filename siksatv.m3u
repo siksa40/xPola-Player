@@ -9,3 +9,12 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/bein8k.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="STC" tvg-logo="https://play-lh.googleusercontent.com/PcElR7hORfG7zB9cZLxGdFgqlSg7dJVdv-BHbKloE5Xg2Cp9prh_8LJ54jN0AveEjqo=w240-h480"Algeria - ",  STC
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/STC.m3u
+
+#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN DISCOVERY HD" tvg-logo="https://p7.hiclipart.com/preview/512/390/419/discovery-channel-television-channel-discovery-hd-television-show-science.jpg" group-title="DOC",  وثائقي
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/DOC.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.128.png?ver=12-01-2025"Algeria -  ",  FOREVER
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/FOREVER.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png ",  falcon
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/bein-falcon.m3u
