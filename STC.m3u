@@ -1,11 +1,7 @@
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/30.png" group-title="ARABIC SPORTS",MBC 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a
-https://fastly-live.cdn.intigral-ott.net/MB1/MB1.isml/manifest.mpd
+https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/36.png" group-title="ARABIC SPORTS",MBC DRAMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91fd848bc682f2ab5420a2ac015babda:e43f533738247b56fefebcee90376cd3
-https://fastly-live.cdn.intigral-ott.net/MBDH/MBDH.isml/manifest.mpd
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/36.png" group-title="ARABIC SPORTS",MBC Drama Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a
@@ -19,13 +15,9 @@ https://fastly-live.cdn.intigral-ott.net/MBMS_TMP/MBMS_TMP.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=8004a6813fbfe74903b41063f9d475ba:85409011875d7f74f547143f646d6bd9
 https://fastly-live.cdn.intigral-ott.net/MBMS_TMP/MBMS_TMP.isml/manifest.mpd
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/480.png" group-title="ARABIC SPORTS",MBC MASR 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4da4fec209622c5da04762e8d2d2f1d7:4495168cf1a99038546b9d042dbe7c97
-https://fastly-live.cdn.intigral-ott.net/MBMS2/MBMS2.isml/manifest.mpd
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/33.png" group-title="ARABIC SPORTS",MBC 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c9cf1779757abfd8e720760281f3682d:dc32f1eac4848a679c0c038f5be08d47
-https://fastly-live.cdn.intigral-ott.net/MB4H/MB4H.isml/manifest.mpd
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/30.png" group-title="ARABIC SPORTS",MBC VARITY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5af533daeb9c443a78888ac6b2a2eb4:43ab3a679a943a11877cb219d2b7239c
