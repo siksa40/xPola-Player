@@ -76,7 +76,7 @@ class MainActivity : AppCompatActivity() {
             Channel("DISCOVERY", "http://logo.lynxcontents.click/Logo/france/discovery_global_us.png", "http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2410.ts"),
             Channel("PLANETE+", "http://logo.lynxcontents.click/Logo/france/planete_plus.png", "http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2415.ts"),
             Channel("PLANETE+ AVENTURE", "http://logo.lynxcontents.click/Logo/france/planete_plus_action_experience.png", "http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/2416.ts"),
-            Channel("SSC 1", "https://iili.io/JhkQEp1.png", "https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd")
+            Channel("SSC 1", "https://iili.io/JhkQEp1.png", "http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/1937.ts")
 
         )
 
