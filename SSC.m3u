@@ -4,6 +4,8 @@
 https://ssc-news-live-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd
 #EXTINF:-1 tvg-id="SSC 1 4K" tvg-logo="https://iili.io/JhkQEp1.png" group-title="ARABIC SPORTS",SSC 1
 https://flowcastapp.com/SSC1/
+#EXTINF:-1 tvg-id="SSC 1 4K" tvg-logo="https://iili.io/JhkQEp1.png" group-title="ARABIC SPORTS",SSC 1
+https://hamada-tv.com/SSC1.html
 #EXTINF:-1 tvg-id="SSC 2 4K" tvg-logo="https://iili.io/JhkQMTF.png" group-title="ARABIC SPORTS",SSC 2
 https://flowcastapp.com/SSC2/
 #EXTINF:-1 tvg-id="SSC 3 4K" tvg-logo="https://iili.io/JhkQVhg.png" group-title="ARABIC SPORTS",SSC 3
