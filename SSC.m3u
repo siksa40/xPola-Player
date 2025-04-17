@@ -18,6 +18,8 @@ https://flowcastapp.com/SSCEXTRA1/
 https://flowcastapp.com/SSCEXTRA2/
 #EXTINF:-1 tvg-id="SSC Extra 3 HD" tvg-logo="https://iili.io/JhkLW0l.png" group-title="ARABIC SPORTS",SSC Extra 3
 https://flowcastapp.com/SSCEXTRA3/
+#EXTINF:-1 tvg-id="DAZAN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tv-channel-%E2%94%82-dazn-2.png/960px-Tv-channel-%E2%94%82-dazn-2.png?20221217130913" group-title="ARABIC SPORTS",DAZN 2
+https://la12hd.com/vivo/canal.php?stream=eleven2_pt
 #EXTINF:-1 tvg-id="SSC News" tvg-logo="https://iili.io/JhkLNe9.png" group-title="ARABIC SPORTS",SSC News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
