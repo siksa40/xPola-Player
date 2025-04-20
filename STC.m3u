@@ -3,6 +3,8 @@ https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/36.png" group-title="ARABIC SPORTS",MBC DRAMA
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/36.png" group-title="ARABIC SPORTS",MBC Drama Plus
+https://hamada-tv.com/mbcplus.html
+#EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/36.png" group-title="ARABIC SPORTS",MBC Drama Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a
 https://fastly-live.cdn.intigral-ott.net/MB1/MB1.isml/manifest.mpd
@@ -23,9 +25,7 @@ https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/in
 #KODIPROP:inputstream.adaptive.license_key=e5af533daeb9c443a78888ac6b2a2eb4:43ab3a679a943a11877cb219d2b7239c
 https://fastly-live.cdn.intigral-ott.net/MBV/MBV.isml/manifest.mpd
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/31.png" group-title="ARABIC SPORTS",MBC 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=baa1907a284502eabc320d77051c575c:58fa20cf6055f3aefc15707992c0b685
-https://fastly-live.cdn.intigral-ott.net/MB2H/MB2H.isml/manifest.mpd
+https://hamada-tv.com/mbc2.html
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="http://ll.ssdlist.xyz:2022/logochanel/38.png" group-title="ARABIC SPORTS",MBC MAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a414b719bade2acc124e22c042290f3:db84a5afa10a001dd73b094c14638212
