@@ -83,9 +83,9 @@ http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/22221.m3u8
 #EXTINF:-1 tvg-id="13RUE.fr" tvg-name="FR: 13EME RUE HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/13eme_rue_fr.png" group-title="FR DIVERT",FR: 13EME RUE HD
 http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/143704.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1 HD" tvg-logo="http://logo.lynxcontents.click/Logo/france/tf1.png" group-title="FR TNT HD",FR: TF1 HD
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/703.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="FR: TFX HD" tvg-logo="http://logo.lynxcontents.click/Logo/france/tfx-fr.png" group-title="FR TNT HD",FR: TFX HD
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/1936.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="FR: TF1 SERIES FILM HD" tvg-logo="http://logo.lynxcontents.click/Logo/france/tf1-series-films-fr.png" group-title="FR TNT HD",FR: TF1 SERIES FILM HD
 http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/2216.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="FR: FRANCE 2 HD" tvg-logo="http://logo.lynxcontents.click/Logo/france/france2-fr.png" group-title="FR TNT HD",FR: FRANCE 2 HD
@@ -101,7 +101,7 @@ http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/711.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="FR: W9 HD" tvg-logo="http://logo.lynxcontents.click/Logo/france/w9_fr.png" group-title="FR TNT HD",FR: W9 HD
 http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/700.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="FR: TMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/120px-TMC_logo_2016.svg.png" group-title="FR TNT HD",FR: TMC HD
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/816.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR: ARTE HD" tvg-logo="http://logo.lynxcontents.click/Logo/france/arte_fr.png" group-title="FR TNT HD",FR: ARTE HD
 http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/745.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-name="FR: C8 HD" tvg-logo="http://logo.lynxcontents.click/Logo/france/canalplus_fr_c_8.png" group-title="FR TNT HD",FR: C8 HD
