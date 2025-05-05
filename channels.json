@@ -2,16 +2,16 @@
     {
         "name": "SSC News",
         "logo": "https://iili.io/JhkLNe9.png",
-        "url": "https://ssc-news-live-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd",
+        "url": "https://sps1.starzplayarabia.com/out/v1/41ff8fde1cd84ed5b30ab8198755356b/index.mpd",
         "license_type": "clearkey",
-        "license_key": "3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60"
+        "license_key": "b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42"
     },
     {
         "name": "SSC 1",
         "logo": "https://iili.io/JhkQEp1.png",
-        "url": "https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd",
+        "url": "https://sps2.starzplayarabia.com/out/v1/ff6cef29465f4c3a9b0e8ea5bbf8839f/index.mpd",
         "license_type": "clearkey",
-        "license_key": "d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f"
+        "license_key": "ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0"
     },
     {
         "name": "SSC 2",
@@ -61,20 +61,5 @@
         "url": "https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd",
         "license_type": "clearkey",
         "license_key": "98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a"
-    },
-    {
-"name": "ABU DHABI SPORT 1", "url": "https://adsp1.starzplayarabia.com/out/v1/bbb3c2aca3eb43138810b3303d932a12/index.mpd",
-"key": "3abe3e0569181fe9be37769893db4aab:7b79353d7b840390d988d1bd6999302d" },
-{ "name": "ABU DHABI SPORT 2",
-"url": "https://adsp2.starzplayarabia.com/out/v1/6a5b2f1fea49459599ac1e58568c7e4a/index.mpd", "key": "1ae76d26b3d348e3eb071c3342e940f8:cc9f0c73ad0dde1aa0953b17c0ba6b6f"
-}, {
-"name": "ABU DHABI SPORT PREMIUM 1", "url": "https://sps1.starzplayarabia.com/out/v1/41ff8fde1cd84ed5b30ab8198755356b/index.mpd",
-"key": "b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42" },
-{ "name": "ABU DHABI SPORT PREMIUM 2",
-"url": "https://sps2.starzplayarabia.com/out/v1/ff6cef29465f4c3a9b0e8ea5bbf8839f/index.mpd", "key": "ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0"
-}, 
-{
-"name": "STARZPLAY SPORTS", "url": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd",
-"key": "117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13" },
-
+    }
 ]
