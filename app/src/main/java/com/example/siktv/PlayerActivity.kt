@@ -1,15 +1,14 @@
-package com.example.siktv
+package com.example.s
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.siktv.databinding.ActivityPlayerBinding
-import com.google.android.exoplayer2.ExoPlayer
-import com.google.android.exoplayer2.MediaItem
-import com.google.android.exoplayer2.source.MediaSource
-import com.google.android.exoplayer2.source.ProgressiveMediaSource
-import com.google.android.exoplayer2.source.hls.HlsMediaSource
-import com.google.android.exoplayer2.upstream.DefaultDataSource
-import com.google.android.exoplayer2.upstream.DefaultHttpDataSource
+import androidx.media3.common.MediaItem
+import androidx.media3.exoplayer.ExoPlayer
+import androidx.media3.exoplayer.source.ProgressiveMediaSource
+import androidx.media3.datasource.DefaultDataSource
+import com.example.s.databinding.ActivityPlayerBinding
+import androidx.media3.datasource.DefaultHttpDataSource
+import androidx.media3.exoplayer.hls.HlsMediaSource
 
 class PlayerActivity : AppCompatActivity() {
     private lateinit var binding: ActivityPlayerBinding
@@ -38,7 +37,7 @@ class PlayerActivity : AppCompatActivity() {
         val dataSourceFactory = DefaultDataSource.Factory(this, httpDataSourceFactory)
 
         // تحديد نوع MediaSource (HLS أو MP4)
-        val mediaSource: MediaSource = if (videoUrl.endsWith(".m3u8")) {
+        val mediaSource = if (videoUrl.endsWith(".m3u8")) {
             HlsMediaSource.Factory(dataSourceFactory).createMediaSource(MediaItem.fromUri(videoUrl))
         } else {
             ProgressiveMediaSource.Factory(dataSourceFactory).createMediaSource(MediaItem.fromUri(videoUrl))
