@@ -1,19 +1,19 @@
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 [H256]" tvg-logo="http://195.154.136.206/Bein/New/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="BEIN SPORT 4K",beIN SPORTS 1 [H256]
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/71.m3u8
+http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=31412&extension=ts&play_token=AZlEJyWNwn
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS2 [H265]" tvg-logo="http://195.154.136.206/Bein/4K/Bein2.png" group-title="BEIN SPORT 4K",beIN SPORTS2 [H265]
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/72.m3u8
+http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=31413&extension=ts&play_token=C5pkWkPKM3
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS3 [H265]" tvg-logo="http://195.154.136.206/Bein/4K/Bein3.png" group-title="BEIN SPORT 4K",beIN SPORTS3 [H265]
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/73.m3u8
+http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=31414&extension=ts&play_token=lcdO0Wldrd
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS4 [H265]" tvg-logo="http://195.154.136.206/Bein/4K/Bein4.png" group-title="BEIN SPORT 4K",beIN SPORTS4 [H265]
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/74.m3u8
+http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=31415&extension=ts&play_token=RvQxYx0YkV
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS5 [H265]" tvg-logo="http://195.154.136.206/Bein/4K/Bein5.png" group-title="BEIN SPORT 4K",beIN SPORTS5 [H265]
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/75.m3u8
+http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=31416&extension=ts&play_token=nQp9BfDIDU
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS6 [H265]" tvg-logo="http://195.154.136.206/Bein/4K/Bein6.png" group-title="BEIN SPORT 4K",beIN SPORTS6 [H265]
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/76.m3u8
+http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=31407&extension=ts&play_token=lvD3PZDc7t
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS7 [H265]" tvg-logo="http://195.154.136.206/Bein/4K/Bein7.png" group-title="BEIN SPORT 4K",beIN SPORTS7 [H265]
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/77.m3u8
+http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=31408&extension=ts&play_token=whzTRDwKOY
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS8[H265]" tvg-logo="" group-title="BEIN SPORT 4K",beIN SPORTS8[H265]
-http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/2379.m3u8
+http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=31409&extension=ts&play_token=rDK1y6H7Ol
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS9 [H265]" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png" group-title="BEIN SPORT 4K",beIN SPORTS9 [H265]
 http://viperiptv.xyz:25461/live/tunisia/HX79tSVlUK/87.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN ENGLISH 1FHD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png" group-title="BEIN SPORT 4K",BEIN ENGLISH 1FHD
