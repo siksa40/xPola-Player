@@ -12,31 +12,52 @@ http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/1346.ts
 http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/1347.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bein  Drama" tvg-logo="https://besttvps.com/app/tv/news/panel/beindrama1.png" group-title="BEIN PREMIER",Bein  Drama
 http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/1359.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN TV YA HALA" tvg-logo="http://content.osn.com/logo/channel/cropped/OYC.png" group-title="AR OSN PREMIUM",AR: OSN TV YA HALA
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN TV YA HALA" tvg-logo="http://148.251.133.153:8181/logo/chn/4777.png" group-title="AR OSN PREMIUM",AR: OSN TV YA HALA
 http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/2270.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN YA HALA  AFLAM" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1285_1.png" group-title="AR OSN PREMIUM",AR: OSN YA HALA  AFLAM
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN YA HALA  AFLAM" tvg-logo="http://148.251.133.153:8181/logo/chn/4780.png" group-title="AR OSN PREMIUM",AR: OSN YA HALA  AFLAM
 http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/2272.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN YA HALA BIL ARABI" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN YA HALA BIL ARABI
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN YA HALA BIL ARABI" tvg-logo="http://148.251.133.153:8181/logo/chn/4779.png" group-title="AR OSN PREMIUM",AR: OSN YA HALA BIL ARABI
 http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/2271.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART HEKAYAT 1" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN ART HEKAYAT 1
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART HEKAYAT 1" tvg-logo="http://148.251.133.153:8181/logo/chn/4758.png" group-title="AR OSN PREMIUM",AR: OSN ART HEKAYAT 1
 http://cms-ar.accesss.me:25461/live/303270J1373G3Y/z2F397281c399U/2285.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART HEKAYAT 2" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN ART HEKAYAT 2
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART HEKAYAT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/4746.png" group-title="AR OSN PREMIUM",AR: OSN ART HEKAYAT 2
 http://cms-ar.accesss.me:25461/live/303270J1373G3Y/z2F397281c399U/2286.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART AFLAM 1" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/art_aflam_1.jpg?v=7" group-title="AR OSN PREMIUM",AR: OSN ART AFLAM 1
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART AFLAM 1" tvg-logo="http://148.251.133.153:8181/logo/chn/4747.png" group-title="AR OSN PREMIUM",AR: OSN ART AFLAM 1
 http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/2282.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART AFLAM 2" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/art_aflam_2.jpg?v=7" group-title="AR OSN PREMIUM",AR: OSN ART AFLAM 2
 http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/2283.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART AFLAM 2" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/art_cinema.jpg?v=7" group-title="AR OSN PREMIUM",AR: OSN ART CINEMA
-http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/2284.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN AL YAWM" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN AL YAWM
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART AFLAM 2" tvg-logo="http://148.251.133.153:8181/logo/chn/4750.png" group-title="AR OSN PREMIUM",AR: OSN ART CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="OSN | Cinema 1" tvg-logo="http://148.251.133.153:8181/logo/chn/4723.png" group-title="ShowTime OSN",OSN | Cinema 1
+http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/2277.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN | Cinema 2" tvg-logo="http://148.251.133.153:8181/logo/chn/4750.png" group-title="ShowTime OSN",OSN | Cinema 2
+http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/2278.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN AL YAWM" tvg-logo="http://148.251.133.153:8181/logo/chn/4745.png" group-title="AR OSN PREMIUM",AR: OSN AL YAWM
 http://cms-ar.accesss.me:25461/live/303270J1373G3Y/z2F397281c399U/2276.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ALFA MUSALSALAT 1" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN ALFA MUSALSALAT 1
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ALFA MUSALSALAT 1" tvg-logo="http://148.251.133.153:8181/logo/chn/4782.png" group-title="AR OSN PREMIUM",AR: OSN ALFA MUSALSALAT 1
 http://cms-ar.accesss.me:25461/live/303270J1373G3Y/z2F397281c399U/2280.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ALFA MUSALSALAT 2" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN ALFA MUSALSALAT 2
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ALFA MUSALSALAT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/4726.png" group-title="AR OSN PREMIUM",AR: OSN ALFA MUSALSALAT 2
 http://cms-ar.accesss.me:25461/live/303270J1373G3Y/z2F397281c399U/2279.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN | POP UP" tvg-logo="https://content.osn.com/logo/channel/cropped/OMZ.png" group-title="ShowTime OSN",OSN | Mezze
+http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/2314.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES ACTION" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1211_1.png" group-title="AR OSN PREMIUM",AR: OSN MOVIES ACTION
-http://s.rocketdns.info:8080/live/19995634/79960700/659517.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES PREMIERE" tvg-logo="https://media.elcinema.com/tvguide/1213_1.png" group-title="AR OSN PREMIUM",AR: OSN MOVIES PREMIERE
-http://s.rocketdns.info:8080/live/19995634/79960700/659484.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN SHOWCASE" tvg-logo="http://sltv-logo.cms-s.com/logo/ARABE/osn.png" group-title="AR OSN PREMIUM",AR: OSN SHOWCASE
-http://s.rocketdns.info:8080/live/19995634/79960700/659518.m3u8
+http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/2292.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES PREMIERE" tvg-logo="http://148.251.133.153:8181/logo/chn/4721.png" group-title="AR OSN PREMIUM",AR: OSN MOVIES PREMIERE
+http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/2299.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN SHOWCASE" tvg-logo="http://148.251.133.153:8181/logo/chn/4720.png" group-title="AR OSN PREMIUM",AR: OSN SHOWCASE
+http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/2321.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN | MOVIES Hollywood" tvg-logo="http://148.251.133.153:8181/logo/chn/4719.png" group-title="ShowTime OSN",OSN | MOVIES Hollywood
+http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/2298.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN | MOVIES Hollywood" tvg-logo="http://148.251.133.153:8181/logo/cat/42.png" group-title="ShowTime OSN",OSN | MOVIES Enigma
+http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/2309.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN | POP UP" tvg-logo="https://content.osn.com/logo/channel/cropped/POP.png" group-title="ShowTime OSN",OSN | POP UP
+http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/2319.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN | MOVIES FAMILY" tvg-logo="http://148.251.133.153:8181/logo/chn/4755.png" group-title="ShowTime OSN",OSN | MOVIES FAMILY
+http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/2310.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN | NOW" tvg-logo="http://148.251.133.153:8181/logo/chn/4761.png" group-title="ShowTime OSN",OSN | NOW
+http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/2303.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN | DISCOVERY" tvg-logo="http://148.251.133.153:8181/logo/chn/4753.png" group-title="ShowTime OSN",OSN | DISCOVERY
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/4753.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN | E!" tvg-logo="http://148.251.133.153:8181/logo/chn/4727.png" group-title="ShowTime OSN",OSN | E!
+http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/2308.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN | NAT GEO WILD" tvg-logo="http://148.251.133.153:8181/logo/chn/4772.png" group-title="ShowTime OSN",OSN | NAT GEO WILD
+http://cms-ar.accesss.me:25461/live/NP02f14NE771k667/V7hc77I22221PX/2302.ts
