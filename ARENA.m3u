@@ -30,19 +30,29 @@ http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=212&extensio
 http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=286&extension=ts&play_token=gA8vplS2s5
 #EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: S. SPORT 1 HD" tvg-logo="https://images.g-med.xyz:8443/images/Logo/sport/skysport.png" group-title="SPORT",DE: S. SPORT 1 HD
 http://mu3241218.oknirvana.club:8880/live/D12m3825/43449314/29071.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1 HD" tvg-logo="https://images.g-med.xyz:8443/images/Logo/sport/supersport.png" group-title="SPORT",AL: SUPER SPORT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/4312.png" group-title="SPORT",AL: SUPER SPORT 1 HD
 http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=17879&extension=ts&play_token=1TFxkhkULL
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 2 HD" tvg-logo="https://images.g-med.xyz:8443/images/Logo/sport/supersport.png" group-title="SPORT",AL: SUPER SPORT 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 2 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/4313.png" group-title="SPORT",AL: SUPER SPORT 2 HD
 http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=17880&extension=ts&play_token=a1JaOuJiwY
 #EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 1 HD" tvg-logo="https://images.g-med.xyz:8443/images/Logo/sport/supersport.png" group-title="SPORT",AL: TRING SPORT 1 HD
 http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=17881&extension=ts&play_token=aIrMc46jfr
 #EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 2 HD" tvg-logo="https://images.g-med.xyz:8443/images/Logo/sport/supersport.png" group-title="SPORT",AL: TRING SPORT 2 HD
 http://beno4k.live:8080/live/2375476/8880577/16349.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 1" tvg-logo="" group-title="ALBANIA",AL: ART SPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORT 3" tvg-logo="http://148.251.133.153:8181/logo/chn/4314.png" group-title="Albania",AL | SUPER SPORT 3
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/4314.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORT 4" tvg-logo="http://148.251.133.153:8181/logo/chn/4315.png" group-title="Albania",AL | SUPER SPORT 4
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/4315.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORTS 5" tvg-logo="http://148.251.133.153:8181/logo/chn/4316.png" group-title="Albania",AL | SUPER SPORTS 5
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/4316.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORT 6 [Live During Events Only]" tvg-logo="http://148.251.133.153:8181/logo/chn/4317.png" group-title="Albania",AL | SUPER SPORT 6 [Live During Events Only]
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/4317.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORT 7 [Live During Events Only]" tvg-logo="http://148.251.133.153:8181/logo/chn/4318.png" group-title="Albania",AL | SUPER SPORT 7 [Live During Events Only]
+http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/4318.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 1" tvg-logo="http://148.251.133.153:8181/logo/chn/4216.png" group-title="ALBANIA",AL: ART SPORT 1
 http://mu3241218.oknirvana.club:8880/live/D12m3825/43449314/30623.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 2" tvg-logo="" group-title="ALBANIA",AL: ART SPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/4217.png" group-title="ALBANIA",AL: ART SPORT 2
 http://mu3241218.oknirvana.club:8880/live/D12m3825/43449314/30622.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 3" tvg-logo="" group-title="ALBANIA",AL: ART SPORT 3
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 3" tvg-logo="http://148.251.133.153:8181/logo/chn/4218.png" group-title="ALBANIA",AL: ART SPORT 3
 http://mu3241218.oknirvana.club:8880/live/D12m3825/43449314/30621.m3u8
 
 
