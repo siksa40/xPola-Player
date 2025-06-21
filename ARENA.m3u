@@ -1,9 +1,9 @@
 #EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/LkhJQrR/a1p.png", ARENA SPORT PREMIUM 1 🇧🇦
-http://199.115.193.39:8008/live/AlexxCostin/cN9rx9Z3wK/473600.ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=227251&extension=ts&play_token=9By75BNDfF
 #EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/HKHVbhz/a2p.png", ARENA SPORT PREMIUM 2 🇧🇦
-http://199.115.193.39:8008/live/AlexxCostin/cN9rx9Z3wK/473601.ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=227252&extension=ts&play_token=TQT7h58yZN
 #EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/dcN9dPL/a3p.png", ARENA SPORT PREMIUM 3 🇧🇦
-http://199.115.193.39:8008/live/AlexxCostin/cN9rx9Z3wK/473602.ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=227257&extension=ts&play_token=B5BPevDD99
 #EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/sggNDR7/a1.png", ARENA SPORT 1 🇧🇦
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=32850&extension=ts&play_token=YsAdrfS7Yj
 #EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/R4yyyng/a2.png", ARENA SPORT 2 🇧🇦
@@ -16,44 +16,34 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=32857&extensi
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=32858&extension=ts&play_token=KYrvrcSoKl
 #EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/HH4TJ8T/a6.png", ARENA SPORT 6 🇧🇦
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=32859&extension=ts&play_token=KYrvrcSoKl
-#EXTINF:-1 tvg-id="sportklub1.rs" tvg-name="SPORT KLUB 1 SR FHD" tvg-logo="https://images.g-med.xyz:8443/images/Logo/sport/sportklub.png" group-title="SPORT",SPORT KLUB 1 SR FHD
-http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=15788&extension=ts&play_token=YZflvDhiKn
-#EXTINF:-1 tvg-id="sportklub2.rs" tvg-name="SPORT KLUB 2 SR FHD" tvg-logo="https://images.g-med.xyz:8443/images/Logo/sport/sportklub.png" group-title="SPORT",SPORT KLUB 2 SR FHD
-http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=15789&extension=ts&play_token=wK0czaciON
-#EXTINF:-1 tvg-id="sportklub3.rs" tvg-name="SPORT KLUB 3 SR FHD" tvg-logo="https://images.g-med.xyz:8443/images/Logo/sport/sportklub.png" group-title="SPORT",SPORT KLUB 3 SR FHD
-http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=15790&extension=ts&play_token=WCcweCmDub
-#EXTINF:-1 tvg-id="24kitchen.si" tvg-name="DE: DAZN 1 FHD" tvg-logo="https://images.g-med.xyz:8443/images/Logo/sport/dazn.jpg" group-title="SPORT",DE: DAZN 1 FHD
-http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=28&extension=ts&play_token=sRGbNgGD1q
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DE: DAZN 2 FHD" tvg-logo="https://images.g-med.xyz:8443/images/Logo/sport/dazn.jpg" group-title="SPORT",DE: DAZN 2 FHD
-http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=212&extension=ts&play_token=P5K1oNNbkV
-#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="DE: S. SPORT NEWS" tvg-logo="https://images.g-med.xyz:8443/images/Logo/sport/skysport.png" group-title="SPORT",DE: S. SPORT NEWS
-http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=286&extension=ts&play_token=gA8vplS2s5
-#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: S. SPORT 1 HD" tvg-logo="https://images.g-med.xyz:8443/images/Logo/sport/skysport.png" group-title="SPORT",DE: S. SPORT 1 HD
-http://mu3241218.oknirvana.club:8880/live/D12m3825/43449314/29071.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/4312.png" group-title="SPORT",AL: SUPER SPORT 1 HD
-http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=17879&extension=ts&play_token=1TFxkhkULL
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 2 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/4313.png" group-title="SPORT",AL: SUPER SPORT 2 HD
-http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=17880&extension=ts&play_token=a1JaOuJiwY
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 1 HD" tvg-logo="https://images.g-med.xyz:8443/images/Logo/sport/supersport.png" group-title="SPORT",AL: TRING SPORT 1 HD
-http://ds.raptortv.de:80/play/live.php?mac=00:1A:79:76:FD:FA&stream=17881&extension=ts&play_token=aIrMc46jfr
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 2 HD" tvg-logo="https://images.g-med.xyz:8443/images/Logo/sport/supersport.png" group-title="SPORT",AL: TRING SPORT 2 HD
-http://beno4k.live:8080/live/2375476/8880577/16349.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORT 3" tvg-logo="http://148.251.133.153:8181/logo/chn/4314.png" group-title="Albania",AL | SUPER SPORT 3
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/4314.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORT 4" tvg-logo="http://148.251.133.153:8181/logo/chn/4315.png" group-title="Albania",AL | SUPER SPORT 4
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/4315.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORTS 5" tvg-logo="http://148.251.133.153:8181/logo/chn/4316.png" group-title="Albania",AL | SUPER SPORTS 5
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/4316.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORT 6 [Live During Events Only]" tvg-logo="http://148.251.133.153:8181/logo/chn/4317.png" group-title="Albania",AL | SUPER SPORT 6 [Live During Events Only]
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/4317.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORT 7 [Live During Events Only]" tvg-logo="http://148.251.133.153:8181/logo/chn/4318.png" group-title="Albania",AL | SUPER SPORT 7 [Live During Events Only]
-http://148.251.133.153:8181/live/N9eSp8k95MieWyC/9sr8aO4rJUZ/4318.ts
+#EXTINF:-1 tvg-id="sportklub1.rs" tvg-name="SPORT KLUB 1 SR FHD" tvg-logo="https://images.g-med.xyz:8443/images/Logo/sport/sportklub.png", KLUB 1
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=32982&extension=ts&play_token=jypQrmBXHc
+#EXTINF:-1 tvg-id="sportklub2.rs" tvg-name="SPORT KLUB 2 SR FHD" tvg-logo="https://images.g-med.xyz:8443/images/Logo/sport/sportklub.png", KLUB 2 
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=32984&extension=ts&play_token=ahJHdPzoUh
+#EXTINF:-1 tvg-id="sportklub3.rs" tvg-name="SPORT KLUB 3 SR FHD" tvg-logo="https://images.g-med.xyz:8443/images/Logo/sport/sportklub.png",SPORT KLUB 3
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=32986&extension=ts&play_token=YyqqAXB8oQ
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/4312.png", SUPER SPORT 1
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=33531&extension=ts&play_token=WEwYvRlhyQ
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/4312.png", SUPER SPORT 1
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=156708&extension=ts&play_token=PUpfz7MQCW
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 2 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/4313.png", SUPER SPORT 2
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=156709&extension=ts&play_token=aWTaH42mEX
+#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORT 3" tvg-logo="http://148.251.133.153:8181/logo/chn/4314.png", SUPER SPORT 3
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=156710&extension=ts&play_token=KgLElJtguv
+#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORT 4" tvg-logo="http://148.251.133.153:8181/logo/chn/4315.png", SUPER SPORT 4
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=156711&extension=ts&play_token=LkzreJAF6c
+#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORTS 5" tvg-logo="http://148.251.133.153:8181/logo/chn/4316.png", SUPER SPORTS 5
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=156712&extension=ts&play_token=o2RBIpSu9j
+#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORT 6 [Live During Events Only]" tvg-logo="http://148.251.133.153:8181/logo/chn/4317.png", SUPER SPORT 6
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=156713&extension=ts&play_token=IB8N8lyUK1
+#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORT 7 [Live During Events Only]" tvg-logo="http://148.251.133.153:8181/logo/chn/4318.png", SUPER SPORT 7
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=304662&extension=ts&play_token=CuVTC6Xg9B
 #EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 1" tvg-logo="http://148.251.133.153:8181/logo/chn/4216.png" group-title="ALBANIA",AL: ART SPORT 1
-http://mu3241218.oknirvana.club:8880/live/D12m3825/43449314/30623.m3u8
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=156719&extension=ts&play_token=0rcrtsGeAi
 #EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/4217.png" group-title="ALBANIA",AL: ART SPORT 2
-http://mu3241218.oknirvana.club:8880/live/D12m3825/43449314/30622.m3u8
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=156720&extension=ts&play_token=l3cdQvqWRw
 #EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 3" tvg-logo="http://148.251.133.153:8181/logo/chn/4218.png" group-title="ALBANIA",AL: ART SPORT 3
-http://mu3241218.oknirvana.club:8880/live/D12m3825/43449314/30621.m3u8
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=156721&extension=ts&play_token=lp6XPJyjcl
 
 
 
