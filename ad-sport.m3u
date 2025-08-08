@@ -39,16 +39,16 @@ https://fastly-live.cdn.intigral-ott.net/SHS/SHS.isml/manifest.mpd
 #EXTVLCOPT:http-drm-license=12d37f04317d5c2e5f044a79f967c67e:75deea8e41e389997f34d0ebca3f1fb7
 #EXTINF:-1 group-title="Starz-play" tvg-logo="http://148.251.133.153:8181/logo/chn/3372.png", LIGA DE CAMPEONES
 #EXTVLCOPT:http-drm-scheme=clearkey
-https://live12-dash.cdns.cdn.orangetv.orange.es/hpVkPAjFFpE3JSIKY3SY-Q/1727923395/104469517/132089857/87/cmaf/r12_mcampeones/dash_high.mpd
-#EXTVLCOPT:http-drm-license=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+https://uselector.cdn.intigral-ott.net/STC/STC.isml/manifest.mpd
+#EXTVLCOPT:http-drm-license=47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/EUROPE/SPAIN/laliga.png", LA LIGÁ
 #EXTVLCOPT:http-drm-scheme=clearkey
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 #EXTVLCOPT:http-drm-license=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 #EXTINF:-1 tvg-id="SSC News" tvg-logo="https://iili.io/JhkLNe9.png" group-title="ARABIC SPORTS",SSC News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
-https://ssc-news-live-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b
+https://uselector.cdn.intigral-ott.net/JAW1/JAW1.isml/manifest.mpd
 #EXTINF:-1 tvg-id="SSC 1 4K" tvg-logo="https://iili.io/JhkQEp1.png" group-title="ARABIC SPORTS",SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
