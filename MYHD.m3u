@@ -1,66 +1,38 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR: VIP BEIN SPORT 1 HD HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_1.png" group-title="AR SPORT",AR: VIP BEIN SPORT 1 HD HEVC
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/209441.m3u8
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR: VIP BEIN SPORT 2 HD HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/BEIN/BEINSPORT21.2MB.png" group-title="AR SPORT",AR: VIP BEIN SPORT 2 HD HEVC
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/211432.m3u8
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR: VIP BEIN SPORT 3 HD HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/BEIN/BEINSPORT31.2MB.png" group-title="AR SPORT",AR: VIP BEIN SPORT 3 HD HEVC
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/211433.m3u8
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR: VIP BEIN SPORT 4 HD HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/BEIN/BEINSPORT41.2MB.png" group-title="AR SPORT",AR: VIP BEIN SPORT 4 HD HEVC
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/211434.m3u8
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR: VIP BEIN SPORT 5 HD HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/BEIN/BEINSPORT51.2MB.png" group-title="AR SPORT",AR: VIP BEIN SPORT 5 HD HEVC
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/211435.m3u8
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR: VIP BEIN SPORT 6 HD HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/SAUDIARABIA/beinSports6.png" group-title="AR SPORT",AR: VIP BEIN SPORT 6 HD HEVC
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/211436.m3u8
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR: VIP BEIN SPORT 7 HD HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/SAUDIARABIA/beinSports7.png" group-title="AR SPORT",AR: VIP BEIN SPORT 7 HD HEVC
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/211437.m3u8
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR: VIP BEIN SPORT 8 HD HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/SAUDIARABIA/beinSportsPremium1.png" group-title="AR SPORT",AR: VIP BEIN SPORT 8 HD HEVC
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/211438.m3u8
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR: VIP BEIN SPORT 1 FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_1.png" group-title="AR SPORT",AR: VIP BEIN SPORT 1 FHD
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/133816.m3u8
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR: VIP BEIN SPORT 2 FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_2.png" group-title="AR SPORT",AR: VIP BEIN SPORT 2 FHD
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/133817.m3u8
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR: VIP BEIN SPORT 3 FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_3.png" group-title="AR SPORT",AR: VIP BEIN SPORT 3 FHD
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/133818.m3u8
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR: VIP BEIN SPORT 4 FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/BEIN/BEINSPORT41.2MB.png" group-title="AR SPORT",AR: VIP BEIN SPORT 4 FHD
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/133819.m3u8
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR: VIP BEIN SPORT 5 FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/BEIN/BEINSPORT51.2MB.png" group-title="AR SPORT",AR: VIP BEIN SPORT 5 FHD
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/133820.m3u8
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR: VIP BEIN SPORT 6 FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/SAUDIARABIA/beinSports6.png" group-title="AR SPORT",AR: VIP BEIN SPORT 6 FHD
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/133821.m3u8
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR: VIP BEIN SPORT 7 FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/SAUDIARABIA/beinSports7.png" group-title="AR SPORT",AR: VIP BEIN SPORT 7 FHD
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/133822.m3u8
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR: VIP BEIN XTRA FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/SAUDIARABIA/beinSportsPremium1.png" group-title="AR SPORT",AR: VIP BEIN XTRA FHD
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/133823.m3u8
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR: VIP BEIN SPORT 9 FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/ARABE/beinSportsPremium2.png" group-title="AR SPORT",AR: VIP BEIN SPORT 9 FHD
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/139572.m3u8
-#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="AR: VIP BEIN SPORT 8 FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/SAUDIARABIA/beinSportsPremium3.png" group-title="AR SPORT",AR: VIP BEIN SPORT 8 FHD
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/139573.m3u8
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="AR: BEIN SPORT NEWS" tvg-logo="http://sltv-icon.cms-s.com/logo/SAUDIARABIA/beinSportsNews.png" group-title="AR SPORT",AR: BEIN SPORT NEWS
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/30067.m3u8
-#EXTINF:-1 tvg-name="AR: BEIN SPORTS GLOBAL" tvg-logo="http://sltv-icon.cms-s.com/logo/SAUDIARABIA/beinSports.png" group-title="AR SPORT",AR: BEIN SPORTS GLOBAL
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/142422.m3u8
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR: BEIN SPORTS 1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_1.png" group-title="AR SPORT",AR: BEIN SPORTS 1 HD
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/534.m3u8
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR: BEIN SPORTS 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/ARABE/beinSports2.png" group-title="AR SPORT",AR: BEIN SPORTS 2 HD
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/535.m3u8
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR: BEIN SPORTS 3 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/ARABE/beinSports3.png" group-title="AR SPORT",AR: BEIN SPORTS 3 HD
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/536.m3u8
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR: BEIN SPORTS 4 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/ARABE/beinSports4.png" group-title="AR SPORT",AR: BEIN SPORTS 4 HD
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/537.m3u8
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR: BEIN SPORTS 5 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/ARABE/beinSports5.png" group-title="AR SPORT",AR: BEIN SPORTS 5 HD
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/538.m3u8
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR: BEIN SPORTS 6 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/SAUDIARABIA/beinSports6.png" group-title="AR SPORT",AR: BEIN SPORTS 6 HD
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/747.m3u8
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR: BEIN SPORTS 7 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/SAUDIARABIA/beinSports7.png" group-title="AR SPORT",AR: BEIN SPORTS 7 HD
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/748.m3u8
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR: BEIN SPORTS 8 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/SAUDIARABIA/beinSportsPremium1.png" group-title="AR SPORT",AR: BEIN SPORTS 8 HD
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/749.m3u8
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR: BEIN SPORTS 9 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/SAUDIARABIA/beinSportsPremium2.png" group-title="AR SPORT",AR: BEIN SPORTS 9 HD
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/750.m3u8
-#EXTINF:-1 tvg-name="AR: VIP BEIN SPORT XTRA 1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/ARABE/beINSportsXtra1.png" group-title="AR SPORT",AR: VIP BEIN SPORT XTRA 1 HD
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/333091.m3u8
-#EXTINF:-1 tvg-name="AR: VIP BEIN SPORT XTRA 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/ARABE/beINSportsXtra2.png" group-title="AR SPORT",AR: VIP BEIN SPORT XTRA 2 HD
-http://promaxhd.com:8080/live/idKLrjRCVC/0hc9MC28Kj/333090.m3u8
-
-
-
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 HD (50 FPS)
+http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=639908&extension=ts
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 FHD (50 FPS)
+http://line.iptv-4k.cc/live/AD1137/498545/1461007.m3u8
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2 HD (50 FPS)
+http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510909&extension=ts
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2 FHD (50 FPS)
+http://line.iptv-4k.cc/live/AD1137/498545/1461008.m3u8
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="|AR| BEIN SPORTS 3 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 3 HD (50 FPS)
+http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510910&extension=ts
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="|AR| BEIN SPORTS 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 3 FHD (50 FPS)
+http://line.iptv-4k.cc/live/AD1137/498545/1461009.m3u8
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="|AR| BEIN SPORTS 4 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 4 HD (50 FPS)
+http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510911&extension=ts
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="|AR| BEIN SPORTS 4 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 4 FHD (50 FPS)
+http://line.iptv-4k.cc/live/AD1137/498545/1462095.m3u8
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="|AR| BEIN SPORTS 5 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 5 HD (50 FPS)
+http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510912&extension=ts
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="|AR| BEIN SPORTS 5 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 5 FHD (50 FPS)
+http://line.iptv-4k.cc/live/AD1137/498545/1462095.m3u8
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS 6 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 6 HD (50 FPS)
+http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510913&extension=ts
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS 6 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 6 FHD (50 FPS)
+http://line.iptv-4k.cc/live/AD1137/498545/1462096.m3u8
+#EXTINF:-1 tvg-name="|AR| BEIN SPORTS EN FRANÇAIS FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS EN FRANÇAIS FHD (50 FPS)
+http://line.iptv-4k.cc/live/AD1137/498545/1462097.m3u8
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 7 HD (50 FPS)
+http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510914&extension=ts
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 7 FHD (50 FPS)
+http://line.iptv-4k.cc/live/AD1137/498545/1462098.m3u8
+#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="|AR| BEIN SPORTS 8 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 8 HD (50 FPS)
+http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510915&extension=ts
+#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="|AR| BEIN SPORTS 8 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 8 FHD (50 FPS)
+http://line.iptv-4k.cc/live/AD1137/498545/1462099.m3u8
+#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="|AR| BEIN SPORTS 9 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 9 HD (50 FPS)
+http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510916&extension=ts
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="|AR| BEIN SPORTS 9 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 9 FHD (50 FPS)
+http://line.iptv-4k.cc/live/AD1137/498545/1591582.m3u8
