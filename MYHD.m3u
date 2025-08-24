@@ -1,38 +1,36 @@
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 HD (50 FPS)
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=639908&extension=ts
+http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=706551&extension=ts&play_token=kDgWUtOkRF
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 FHD (50 FPS)
-http://line.iptv-4k.cc/live/AD1137/498545/1461007.m3u8
+http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=1201141&extension=ts&play_token=ovfM3azkF6
 #EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2 HD (50 FPS)
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510909&extension=ts
+http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=706550&extension=ts&play_token=cklvSjIY7B
 #EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 2 FHD (50 FPS)
-http://line.iptv-4k.cc/live/AD1137/498545/1461008.m3u8
+http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=1201140&extension=ts&play_token=DoScmikdYD
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="|AR| BEIN SPORTS 3 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 3 HD (50 FPS)
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510910&extension=ts
+http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=706549&extension=ts&play_token=kZkoYaM64D
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="|AR| BEIN SPORTS 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 3 FHD (50 FPS)
-http://line.iptv-4k.cc/live/AD1137/498545/1461009.m3u8
+http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=1201139&extension=ts&play_token=QScdJDDO0C
 #EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="|AR| BEIN SPORTS 4 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 4 HD (50 FPS)
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510911&extension=ts
+http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=706548&extension=ts&play_token=x5wHyHq86T
 #EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="|AR| BEIN SPORTS 4 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 4 FHD (50 FPS)
-http://line.iptv-4k.cc/live/AD1137/498545/1462095.m3u8
+http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=1201138&extension=ts&play_token=igFDIQjnFo
 #EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="|AR| BEIN SPORTS 5 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 5 HD (50 FPS)
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510912&extension=ts
+http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=706547&extension=ts&play_token=AiuRGvoQq5
 #EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="|AR| BEIN SPORTS 5 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 5 FHD (50 FPS)
 http://line.iptv-4k.cc/live/AD1137/498545/1462095.m3u8
 #EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS 6 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 6 HD (50 FPS)
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510913&extension=ts
+http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=706546&extension=ts&play_token=FDEGASavqU
 #EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS 6 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 6 FHD (50 FPS)
-http://line.iptv-4k.cc/live/AD1137/498545/1462096.m3u8
-#EXTINF:-1 tvg-name="|AR| BEIN SPORTS EN FRANÇAIS FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS EN FRANÇAIS FHD (50 FPS)
-http://line.iptv-4k.cc/live/AD1137/498545/1462097.m3u8
+http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=706545&extension=ts&play_token=EWJ6OTdwnk
 #EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 7 HD (50 FPS)
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510914&extension=ts
+http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=706545&extension=ts&play_token=EWJ6OTdwnk
 #EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 7 FHD (50 FPS)
 http://line.iptv-4k.cc/live/AD1137/498545/1462098.m3u8
 #EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="|AR| BEIN SPORTS 8 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 8 HD (50 FPS)
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510915&extension=ts
+http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=706544&extension=ts&play_token=TPq8h1yPTj
 #EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="|AR| BEIN SPORTS 8 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 8 FHD (50 FPS)
 http://line.iptv-4k.cc/live/AD1137/498545/1462099.m3u8
 #EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="|AR| BEIN SPORTS 9 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 9 HD (50 FPS)
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=510916&extension=ts
+http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:00:23:B1&stream=706543&extension=ts&play_token=1ub23JLQx9
 #EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="|AR| BEIN SPORTS 9 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 9 FHD (50 FPS)
 http://line.iptv-4k.cc/live/AD1137/498545/1591582.m3u8
