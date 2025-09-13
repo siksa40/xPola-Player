@@ -129,6 +129,38 @@ http://user.scalecdn.co:8080/live/19995634/79960700/607903.m3u8
 http://user.scalecdn.co:8080/live/19995634/79960700/659444.m3u8
 #EXTINF:-1 tvg-id="beinsportsextra2.ar" tvg-name="Bein Sports Xtra 2" tvg-logo="https://prod-media.beinsports.com/image/051928341be67dcba03f0e04104d9047.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس إكسترا 2
 http://user.scalecdn.co:8080/live/19995634/79960700/659443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.128.png?ver=12-01-2025"Algeria - ",  بي إن سبورتس 1
+http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/105276
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.128.png?ver=12-01-2025"Algeria - ",  بي إن سبورتس 1
+http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1662310
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.128.png?ver=12-01-2025"Algeria - ",  بي إن سبورتس 1
+http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/22989
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 2
+http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/105275
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 2
+http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1662309
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 2
+http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1620485
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 3
+http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1508203
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 3
+http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1662308
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 3
+http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1620484
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 4
+http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1508202
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 4
+http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1620483
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 5
+http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1620482
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 6
+http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1620481
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/a3ce63a7a8521c37a513db67129855a8.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 7
+http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1620480
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 8
+http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1620479
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 9
+http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1620478
 #EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
