@@ -79,6 +79,18 @@ http://176.119.29.54/72fa7606-10d0-4338-a515-19ccd1312a7b.m3u8
 http://176.119.29.54/00df2c2c-c740-41c4-b1ae-d7b57469bccc.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 9 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="BEIN SPORT",beIN SPORTS 9 SD
 http://176.119.29.54/31dc1067-8fa1-4189-bfc2-b0550f8c477b.m3u8
+#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640309104961.png" ,ALWAN 1
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1859098&extension=ts&play_token=Pzy7kgJzHe
+#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640311747621.png" ,ALWAN 2
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1859097&extension=ts&play_token=RYa5KPezCR
+#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640314461031.png" ,ALWAN 3
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1859096&extension=ts&play_token=nyR75oZUVs
+#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640316876931.png" ,ALWAN 4
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1859095&extension=ts&play_token=aV7KlHvoJx
+#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640318756891.png" ,ALWAN 5
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1859094&extension=ts&play_token=i5p9echQhG
+#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640320453981.png" ,ALWAN 6
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1859093&extension=ts&play_token=pZbzX6dU
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 FHD
 https://wo.cma.footballii.ir/hls2/b1.m3u8
 #EXTINF:-1 tvg-id="beinsports2.ar" tvg-name="Bein Sports 1" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 1
@@ -117,46 +129,52 @@ http://user.scalecdn.co:8080/live/19995634/79960700/607903.m3u8
 http://user.scalecdn.co:8080/live/19995634/79960700/659444.m3u8
 #EXTINF:-1 tvg-id="beinsportsextra2.ar" tvg-name="Bein Sports Xtra 2" tvg-logo="https://prod-media.beinsports.com/image/051928341be67dcba03f0e04104d9047.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس إكسترا 2
 http://user.scalecdn.co:8080/live/19995634/79960700/659443.m3u8
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640309104961.png" ,ALWAN 1
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1859098&extension=ts&play_token=Pzy7kgJzHe
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640311747621.png" ,ALWAN 2
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1859097&extension=ts&play_token=RYa5KPezCR
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640314461031.png" ,ALWAN 3
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1859096&extension=ts&play_token=nyR75oZUVs
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640316876931.png" ,ALWAN 4
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1859095&extension=ts&play_token=aV7KlHvoJx
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640318756891.png" ,ALWAN 5
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1859094&extension=ts&play_token=i5p9echQhG
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640320453981.png" ,ALWAN 6
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1859093&extension=ts&play_token=pZbzX6dU
 #EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 4k" tvg-logo="https://www6.0zz0.com/2021/07/08/08/752923487.png" group-title="⚽ BEIN SPORT  بي إن سبورت ",بي إن 1 سبورت
-https://xtrmh2.vg2095-2024-vega.com/7_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ",بي إن 1 سبورت
-https://xtrmh2.vg2095-2024-vega.com/1_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 2 
-https://xtrmh2.vg2095-2024-vega.com/8_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/2-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 2 
-https://xtrmh2.vg2095-2024-vega.com/2_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/2-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 3 
-https://xtrmh2.vg2095-2024-vega.com/9_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 3 
-https://xtrmh2.vg2095-2024-vega.com/3_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 4 
-https://xtrmh2.vg2095-2024-vega.com/10_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 4 
-https://xtrmh2.vg2095-2024-vega.com/4_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 5 
-https://xtrmh2.vg2095-2024-vega.com/11_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 5 
-https://xtrmh2.vg2095-2024-vega.com/5_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 6 
-https://xtrmh2.vg2095-2024-vega.com/12_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 4k" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-fhd.png" group-title="⚽ BEIN SPORT  بي إن سبورت ⚽",BEIN SPORTS 6 
-https://xtrmh2.vg2095-2024-vega.com/6_.m3u8
+#EXTINF:-1 group-title="DAZN ar" tvg-logo="https://prod-media.beinsports.com/image/83ff5fb7036545401a7d3aa37880b8aa.128.png?ver=03-06-2025", BEIN usa
+https://seed.nakachi.online/hls/beinusa/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 FHD
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=506552&extension=ts&play_token=EJXdXZNoyU
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5080.png" group-title="Sports",AR | BEIN SPORTS 2 FHD
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=506551&extension=ts&play_token=xWYfSSGh10
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5081.png" group-title="Sports",AR | BEIN SPORTS 3 FHD
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=506550&extension=ts&play_token=7Ru5AARpwF
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=1002837&extension=ts&play_token=OcVK1y8VpX
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=1002841&extension=ts&play_token=a8HcHIHaPx
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=1421486&extension=ts&play_token=C96DXPdXMJ
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=1421487&extension=ts&play_token=rOhBPtMLXy
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 3 HD
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=1421488&extension=ts&play_token=JS0vt02Rq2
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 5.fr" tvg-logo="https://i.ibb.co/s9yfNbx/beinmax5.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS MAX 5 🇫🇷
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sEeP0mQk6I+h5keO411/CA","k":"9QRCQtjSJMrkCH/Y72VAIw"},{"kty":"oct","kid":"InUSnyhWdxReNOuL4kmuSg","k":"dQVcYFHWUMUpYnseYm9TCg"},{"kty":"oct","kid":"LrcsuNUlcZzdo+H1zEOzQg","k":"4Hl+IoZXVIcgUgFd2ikF9w"},{"kty":"oct","kid":"CtLb067+IHA08kBQ68mM0Q","k":"CxIf52nQsbRaOmu4xA40BQ"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 6.fr" tvg-logo="https://i.ibb.co/h864VzZ/beinmax6.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS MAX 6 🇫🇷
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yYYxNFFJQ2w3eMrqtX2XxQ","k":"YSVZDrmgy4yaF90mgAACkg"},{"kty":"oct","kid":"n4mcpBLhgHdviFwMIUsCoA","k":"PzV909+vkmI5A8qRuIsF9A"},{"kty":"oct","kid":"A+5m6Sb2o0oYFfEXvBJ5nA","k":"HciVpD4gfwK9L85i3l+9Og"},{"kty":"oct","kid":"JXGAsG/5y826q8GuN2UPng","k":"oAdo0BvILC3X4hHFmt3Jpg"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/974/1/live.mpd
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 7.fr" tvg-logo="https://i.ibb.co/3sdcSYC/beinmax7.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS MAX 7 🇫🇷
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"P6u/hBdnpkWtLYXB4JnpTQ","k":"veY1qjAoqrONaAZy+IoMfA"},{"kty":"oct","kid":"xMZPFBSVjN4H/kDNhfIjjA","k":"ziiHuEO3WQpe4IOk2PZnwg"},{"kty":"oct","kid":"beH6tI2CWzmmN0bYnpCoSA","k":"JDWhEQ6JK32pTnmnvUm0nA"},{"kty":"oct","kid":"M3NIiSyqu7FHY1SMyxpqxw","k":"dEXBfW2jOmTqgjikM/nL4w"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/975/1/live.mpd
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 8.fr" tvg-logo="https://i.ibb.co/mcKR74G/beinmax8.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS MAX 8 🇫🇷
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"nyyYAGozu8g/fAPvNTBAOw","k":"VGsdNLG+ERxRPTj+yuqZ5A"},{"kty":"oct","kid":"60lJeWg5sIkYvE68Jazrpg","k":"m1On/Af6kFGqz4vGk7GHsA"},{"kty":"oct","kid":"0FJZFObD5r5v6F3NuKO+Lw","k":"2hyWuQPAwlLxsdgvJRfAfg"},{"kty":"oct","kid":"Swndelr/YBIS89SYMJ5GfA","k":"ftV9Nqhbuoi3N2k6s2gzDg"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/976/1/live.mpd
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 9.fr" tvg-logo="https://i.ibb.co/Vt4BTkg/beinmax9.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS MAX 9 🇫🇷
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RSbM19SZsLJAEc5a3OGGVg","k":"PS7YDPH1qaS5p2IbnmxOKg"},{"kty":"oct","kid":"4gBtijMCXNeUOl8CABeB7A","k":"Ncey7Cfys3SScHqLTNNxVA"},{"kty":"oct","kid":"GjGJTwxBoP4MUIeE0NFWmw","k":"EhFkMR97MIo35VBLcXrj1Q"},{"kty":"oct","kid":"qNXw4AIU43d9dbibBdr2TQ","k":"8DceiPbCv3hE1p2bngpSrw"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 10.fr" tvg-logo="https://i.ibb.co/sFgSN38/beinmax10.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS MAX 10 🇫🇷
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yh0KU6YG+P/rAo9rJHe6ow","k":"OIphdZ3jYt/K3vchuTbWmg"},{"kty":"oct","kid":"Fdq88eq8hxeEL+tl9xUhBw","k":"c4D2F5XK6+wmsHE7zipOPQ"},{"kty":"oct","kid":"+cKiW7q8jTgE30ZBgGnvBw","k":"J8pFeiu5dRpcHrFYR0NGoA"},{"kty":"oct","kid":"xBuLKVwIMH3cHjoi6pEncg","k":"2SX+aD7ZHlg3qqTlFHrYhQ"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 #EXTINF:-1 tvg-id="FajerTV1.ps" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="General",Fajer TV 1
 http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" group-title="General",Fajer TV 2
@@ -185,30 +203,32 @@ https://htvint.mada.ps/kolalnas/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/669bb376/9069a322.isml/.mpd
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 5.fr" tvg-logo="https://i.ibb.co/s9yfNbx/beinmax5.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS MAX 5 🇫🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sEeP0mQk6I+h5keO411/CA","k":"9QRCQtjSJMrkCH/Y72VAIw"},{"kty":"oct","kid":"InUSnyhWdxReNOuL4kmuSg","k":"dQVcYFHWUMUpYnseYm9TCg"},{"kty":"oct","kid":"LrcsuNUlcZzdo+H1zEOzQg","k":"4Hl+IoZXVIcgUgFd2ikF9w"},{"kty":"oct","kid":"CtLb067+IHA08kBQ68mM0Q","k":"CxIf52nQsbRaOmu4xA40BQ"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 6.fr" tvg-logo="https://i.ibb.co/h864VzZ/beinmax6.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS MAX 6 🇫🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yYYxNFFJQ2w3eMrqtX2XxQ","k":"YSVZDrmgy4yaF90mgAACkg"},{"kty":"oct","kid":"n4mcpBLhgHdviFwMIUsCoA","k":"PzV909+vkmI5A8qRuIsF9A"},{"kty":"oct","kid":"A+5m6Sb2o0oYFfEXvBJ5nA","k":"HciVpD4gfwK9L85i3l+9Og"},{"kty":"oct","kid":"JXGAsG/5y826q8GuN2UPng","k":"oAdo0BvILC3X4hHFmt3Jpg"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/974/1/live.mpd
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 7.fr" tvg-logo="https://i.ibb.co/3sdcSYC/beinmax7.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS MAX 7 🇫🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"P6u/hBdnpkWtLYXB4JnpTQ","k":"veY1qjAoqrONaAZy+IoMfA"},{"kty":"oct","kid":"xMZPFBSVjN4H/kDNhfIjjA","k":"ziiHuEO3WQpe4IOk2PZnwg"},{"kty":"oct","kid":"beH6tI2CWzmmN0bYnpCoSA","k":"JDWhEQ6JK32pTnmnvUm0nA"},{"kty":"oct","kid":"M3NIiSyqu7FHY1SMyxpqxw","k":"dEXBfW2jOmTqgjikM/nL4w"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/975/1/live.mpd
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 8.fr" tvg-logo="https://i.ibb.co/mcKR74G/beinmax8.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS MAX 8 🇫🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"nyyYAGozu8g/fAPvNTBAOw","k":"VGsdNLG+ERxRPTj+yuqZ5A"},{"kty":"oct","kid":"60lJeWg5sIkYvE68Jazrpg","k":"m1On/Af6kFGqz4vGk7GHsA"},{"kty":"oct","kid":"0FJZFObD5r5v6F3NuKO+Lw","k":"2hyWuQPAwlLxsdgvJRfAfg"},{"kty":"oct","kid":"Swndelr/YBIS89SYMJ5GfA","k":"ftV9Nqhbuoi3N2k6s2gzDg"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/976/1/live.mpd
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 9.fr" tvg-logo="https://i.ibb.co/Vt4BTkg/beinmax9.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS MAX 9 🇫🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RSbM19SZsLJAEc5a3OGGVg","k":"PS7YDPH1qaS5p2IbnmxOKg"},{"kty":"oct","kid":"4gBtijMCXNeUOl8CABeB7A","k":"Ncey7Cfys3SScHqLTNNxVA"},{"kty":"oct","kid":"GjGJTwxBoP4MUIeE0NFWmw","k":"EhFkMR97MIo35VBLcXrj1Q"},{"kty":"oct","kid":"qNXw4AIU43d9dbibBdr2TQ","k":"8DceiPbCv3hE1p2bngpSrw"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 10.fr" tvg-logo="https://i.ibb.co/sFgSN38/beinmax10.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS MAX 10 🇫🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yh0KU6YG+P/rAo9rJHe6ow","k":"OIphdZ3jYt/K3vchuTbWmg"},{"kty":"oct","kid":"Fdq88eq8hxeEL+tl9xUhBw","k":"c4D2F5XK6+wmsHE7zipOPQ"},{"kty":"oct","kid":"+cKiW7q8jTgE30ZBgGnvBw","k":"J8pFeiu5dRpcHrFYR0NGoA"},{"kty":"oct","kid":"xBuLKVwIMH3cHjoi6pEncg","k":"2SX+aD7ZHlg3qqTlFHrYhQ"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 1" tvg-logo="https://lo1.in/por/sptv1.png" group-title="Portugal",PT | SPORT TV 1
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=118447&extension=ts&play_token=7sVLfOLUzM
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 2" tvg-logo="https://lo1.in/por/sptv2.png" group-title="Portugal",PT | SPORT TV 2
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=107435&extension=ts&play_token=unwUSfhg7q
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 3" tvg-logo="https://lo1.in/por/sptv3.png" group-title="Portugal",PT | SPORT TV 3
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=107434&extension=ts&play_token=mvMRk7bN5r
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 4" tvg-logo="https://lo1.in/por/sptv4.png" group-title="Portugal",PT | SPORT TV 4
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=107433&extension=ts&play_token=fgcuXtunGa
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 5" tvg-logo="https://lo1.in/por/spotv5.png" group-title="Portugal",PT | SPORT TV 5
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=148667&extension=ts&play_token=zCaBkDzUXP
+#EXTINF:-1 tvg-id="" tvg-name="PT | Sport TV 6" tvg-logo="https://lo1.in/por/spotv6.png" group-title="Portugal",PT | Sport TV 6
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=712739&extension=ts&play_token=AxdtVaRZ1h
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV NBA" tvg-logo="https://lo1.in/por/fuelhd.png" group-title="Portugal",PT | SPORT TV NBA
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=107431&extension=ts&play_token=MfGxAJutw5
+#EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1720521601000&quality=70",PT | DAZN 1
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=107495&extension=ts&play_token=Lj2V72hufX
+#EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=70",PT | DAZN 2
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=107494&extension=ts&play_token=TQwvf8LJfN
+#EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 3" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1twx1j8a3gge219010n6o2qlgx_image-header_pRow_1720521671000&quality=70",PT | DAZN 3
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=122484&extension=ts&play_token=cR3GEI0nI4
+#EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 4" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a5inhkok5yrf1826le2ie3gxh_image-header_pRow_1720521702000",PT | DAZN 4
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=122485&extension=ts&play_token=sPCEapJWd4
+#EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 5" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1s05qqmsbs2rr113rlpmwh8llz_image-header_pRow_1720521735000&quality=70",PT | DAZN 5
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=122486&extension=ts&play_token=vRGIgnhcNp
+#EXTINF:-1 tvg-id="" tvg-name="PT | DAZN 6" tvg-logo="" group-title="Portugal",PT | DAZN 6
+http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=107490&extension=ts&play_token=YMMFHU0pv7
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: HG TV  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/150px-HGTV_logo.svg.png" group-title="AR OSN PREMIUM",AR: HG TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9692022f609d8b8fa2525048aaed26c3:42f4137b0a0f3ee9e52aeddb8a9544e1
