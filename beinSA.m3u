@@ -1,106 +1,102 @@
-#EXTINF:-1 tvg-id="TOD 1" tvg-logo="https://i.postimg.cc/HxnnQcmM/tod.png" group-title="ARABIC SPORTS",TOD 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39471a4508f1387d96867b6e8ffa1e39:ddd1fa7cd620953469679dca5bc19e54
-https://cdn-bein-prod-a-01.vos360.video/Content/Channel/svc-spo-hd-08-dt/DASH/playlist.mpd
-#EXTINF:-1 tvg-id= tvg-name="beIN SPORTS 1 4K  (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 4K  (S2)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/196157.m3u8
-#EXTINF:-1 tvg-id=beinsports2premiumar.qa tvg-name="beIN SPORTS 2 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 2 4K (S1)
-https://cma.footballii.ir/hls2/b2.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN SPORTS 2 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 2 4K (S2)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/196158.m3u8
-#EXTINF:-1 tvg-id=beinsports3premiumar.qa tvg-name="beIN SPORTS 3 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 3 4K (S1)
-https://cma.footballii.ir/hls2/b3.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN SPORTS 3 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 3 4K (S2)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/196159.m3u8
-#EXTINF:-1 tvg-id=beinseries1.qa tvg-name="beIN SPORTS 4 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 4 4K (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/67341.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN SPORTS 4 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 4 4K (S2)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/196160.ts
-#EXTINF:-1 tvg-id=beinseries2.qa tvg-name="beIN SPORTS 5 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 5 4K (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/67342.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN SPORTS 5 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 5 4K (S2)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/196161.m3u8
-#EXTINF:-1 tvg-id=beinsports3.qa tvg-name="beIN SPORTS 6 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 6 4K (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/67343.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN SPORTS 6 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 6 4K (S2)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/196162.m3u8
-#EXTINF:-1 tvg-id=beinsports4.qa tvg-name="beIN SPORTS 7 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 7 4K (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/67344.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN SPORTS 7 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 7 4K (S2)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/196163.ts
-#EXTINF:-1 tvg-id=beinsports5.qa tvg-name="beIN SPORTS 8  4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 8  4K (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/67345.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN SPORTS 8 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 8 4K (S2)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/196164.m3u8
-#EXTINF:-1 tvg-id=beinsports6.qa tvg-name="beIN SPORTS 9 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 9 4K (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/67346.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN SPORTS 9 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 9 4K (S2)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/196165.m3u8
-#EXTINF:-1 tvg-id=beinsports7.qa tvg-name="beIN EXTRA 3 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-3-qa.png" group-title="BEIN HEVC & FHD",beIN EXTRA 3 4K (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/67347.m3u8
-#EXTINF:-1 tvg-id=beinsports1premium.qa tvg-name="beIN SPORTS 1 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 FHD (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/138135.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN SPORTS 1 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 FHD (S2)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/196167.m3u8
-#EXTINF:-1 tvg-id=beinsports2premium.qa tvg-name="beIN SPORTS 2 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 2 FHD (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/138136.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN SPORTS 2 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 2 FHD (S2)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/196168.m3u8
-#EXTINF:-1 tvg-id=beinsports3premium.qa tvg-name="beIN SPORTS 3 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 3 FHD (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/138137.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN SPORTS 3 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 3 FHD (S2)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/196169.m3u8
-#EXTINF:-1 tvg-id=beinseries1.qa tvg-name="beIN SPORTS 4 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 4 FHD (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/138138.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN SPORTS 4 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 4 FHD (S2)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/196170.m3u8
-#EXTINF:-1 tvg-id=beinseries2.qa tvg-name="beIN SPORTS 5 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 5 FHD (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/138139.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN SPORTS 5 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 5 FHD (S2)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/196171.m3u8
-#EXTINF:-1 tvg-id=beinsports3.qa tvg-name="beIN SPORTS 6 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 6 FHD (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/138140.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN SPORTS 6 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 6 FHD (S2)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/196172.m3u8
-#EXTINF:-1 tvg-id=beinsports4.qa tvg-name="beIN SPORTS 7 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 7 FHD (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/138141.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN SPORTS 7 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 7 FHD (S2)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/196173.m3u8
-#EXTINF:-1 tvg-id=beinsports5.qa tvg-name="beIN SPORTS 8 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 8 FHD (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/138142.ts
-#EXTINF:-1 tvg-id= tvg-name="beIN SPORTS 8 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 8 FHD (S2)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/196174.m3u8
-#EXTINF:-1 tvg-id=beinsports6.qa tvg-name="beIN SPORTS 9 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 9 FHD (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/138143.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN SPORTS 9 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 9 FHD (S2)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/196175.ts
-#EXTINF:-1 tvg-id=beinsports7.qa tvg-name="beIN EXTRA 3 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-3-qa.png" group-title="BEIN HEVC & FHD",beIN EXTRA 3 FHD (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/138144.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN AFC 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-afc-qa.png" group-title="BEIN HEVC & FHD",beIN AFC 4K (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/219939.ts
-#EXTINF:-1 tvg-id= tvg-name="beIN AFC1 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-afc-1-qa.png" group-title="BEIN HEVC & FHD",beIN AFC1 4K (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/219942.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN AFC2 4K (S1)" tvg-logo="" group-title="BEIN HEVC & FHD",beIN AFC2 4K (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/222040.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN AFC3 4K (S1)" tvg-logo="" group-title="BEIN HEVC & FHD",beIN AFC3 4K (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/222041.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN AFC4 4K (S1)" tvg-logo="" group-title="BEIN HEVC & FHD",beIN AFC4 4K (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/222042.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN AFC5 4K (S1)" tvg-logo="" group-title="BEIN HEVC & FHD",beIN AFC5 4K (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/222043.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN Xtra1 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="BEIN HEVC & FHD",beIN Xtra1 4K (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/219945.ts
-#EXTINF:-1 tvg-id= tvg-name="beIN Xtra2 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-2-qa.png" group-title="BEIN HEVC & FHD",beIN Xtra2 4K (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/219948.m3u8
-#EXTINF:-1 tvg-id= tvg-name="beIN Xtra3 4K (S1)" tvg-logo="" group-title="BEIN HEVC & FHD",beIN Xtra3 4K (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/222052.m3u8
-#EXTINF:-1 tvg-id=beinsports1fr.qa tvg-name="beIN FR 1 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-french-1-qa.png" group-title="BEIN HEVC & FHD",beIN FR 1 4K (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/67351.m3u8
-#EXTINF:-1 tvg-id=beinsports2fr.qa tvg-name="beIN FR 2 4k (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-french-2-qa.png" group-title="BEIN HEVC & FHD",beIN FR 2 4k (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/67352.m3u8
-#EXTINF:-1 tvg-id=beinsports1en.qa tvg-name="beIN EN 1 4k (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png" group-title="BEIN HEVC & FHD",beIN EN 1 4k (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/67353.m3u8
-#EXTINF:-1 tvg-id=beinsportsnba.qa tvg-name="beIN NBA 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-nba-qa.png" group-title="BEIN HEVC & FHD",beIN NBA 4K (S1)
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/67354.m3u8
-#EXTINF:-1 tvg-id=beinmovies1.qa tvg-name="AR: beIN MOVIES 4K 1" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-premiere-qa-tr.png" group-title="BEIN ENT",AR: beIN MOVIES 4K 1
-http://live.lynxiptv.xyz/live/122841940227/Df3vwa0F7K/67355.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67338.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 4K  (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 4K  (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196157.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 2 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 2 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67339.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 2 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 2 4K (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196158.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 3 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 3 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67340.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 3 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 3 4K (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196159.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 4 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 4 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67341.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 4 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 4 4K (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196160.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 5 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 5 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67342.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 5 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 5 4K (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196161.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 6 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 6 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67343.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 6 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 6 4K (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196162.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 7 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 7 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67344.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 7 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 7 4K (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196163.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 8  4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 8  4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67345.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 8 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 8 4K (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196164.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 9 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 9 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67346.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 9 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 9 4K (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196165.m3u8
+#EXTINF:-1 tvg-name="beIN EXTRA 3 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-3-qa.png" group-title="BEIN HEVC & FHD",beIN EXTRA 3 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67347.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 FHD (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138135.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 FHD (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196167.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 2 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 2 FHD (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138136.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 2 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 2 FHD (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196168.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 3 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 3 FHD (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138137.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 3 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 3 FHD (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196169.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 4 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 4 FHD (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138138.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 4 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 4 FHD (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196170.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 5 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 5 FHD (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138139.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 5 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 5 FHD (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196171.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 6 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 6 FHD (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138140.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 6 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 6 FHD (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196172.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 7 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 7 FHD (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138141.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 7 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 7 FHD (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196173.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 8 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 8 FHD (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138142.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 8 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 8 FHD (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196174.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 9 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 9 FHD (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138143.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 9 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 9 FHD (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196175.m3u8
+#EXTINF:-1 tvg-name="beIN EXTRA 3 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-3-qa.png" group-title="BEIN HEVC & FHD",beIN EXTRA 3 FHD (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138144.m3u8
+#EXTINF:-1 tvg-name="beIN AFC 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-afc-qa.png" group-title="BEIN HEVC & FHD",beIN AFC 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/219939.m3u8
+#EXTINF:-1 tvg-name="beIN AFC1 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-afc-1-qa.png" group-title="BEIN HEVC & FHD",beIN AFC1 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/219942.m3u8
+#EXTINF:-1 tvg-name="beIN AFC2 4K (S1)" group-title="BEIN HEVC & FHD",beIN AFC2 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/222040.m3u8
+#EXTINF:-1 tvg-name="beIN AFC3 4K (S1)" group-title="BEIN HEVC & FHD",beIN AFC3 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/222041.m3u8
+#EXTINF:-1 tvg-name="beIN AFC4 4K (S1)" group-title="BEIN HEVC & FHD",beIN AFC4 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/222042.m3u8
+#EXTINF:-1 tvg-name="beIN AFC5 4K (S1)" group-title="BEIN HEVC & FHD",beIN AFC5 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/222043.m3u8
+#EXTINF:-1 tvg-name="beIN Xtra1 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="BEIN HEVC & FHD",beIN Xtra1 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/219945.m3u8
+#EXTINF:-1 tvg-name="beIN Xtra2 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-2-qa.png" group-title="BEIN HEVC & FHD",beIN Xtra2 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/219948.m3u8
+#EXTINF:-1 tvg-name="beIN Xtra3 4K (S1)" group-title="BEIN HEVC & FHD",beIN Xtra3 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/222052.m3u8
+#EXTINF:-1 tvg-name="beIN FR 1 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-french-1-qa.png" group-title="BEIN HEVC & FHD",beIN FR 1 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67351.m3u8
+#EXTINF:-1 tvg-name="beIN FR 2 4k (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-french-2-qa.png" group-title="BEIN HEVC & FHD",beIN FR 2 4k (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67352.m3u8
+#EXTINF:-1 tvg-name="beIN EN 1 4k (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png" group-title="BEIN HEVC & FHD",beIN EN 1 4k (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67353.m3u8
+#EXTINF:-1 tvg-name="beIN NBA 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-nba-qa.png" group-title="BEIN HEVC & FHD",beIN NBA 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67354.m3u8
