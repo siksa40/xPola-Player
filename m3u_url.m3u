@@ -157,28 +157,22 @@ http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1620480
 http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1620479
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 9
 http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1620478
-#EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-#EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="DAZN ar" tvg-logo="https://prod-media.beinsports.com/image/83ff5fb7036545401a7d3aa37880b8aa.128.png?ver=03-06-2025", BEIN usa
-https://seed.nakachi.online/hls/beinusa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 FHD
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=506552&extension=ts&play_token=EJXdXZNoyU
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=146116&extension=ts&play_token=6znkzCQyO0
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5080.png" group-title="Sports",AR | BEIN SPORTS 2 FHD
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=506551&extension=ts&play_token=xWYfSSGh10
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=149773&extension=ts&play_token=dvNH4e67it
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5081.png" group-title="Sports",AR | BEIN SPORTS 3 FHD
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=506550&extension=ts&play_token=7Ru5AARpwF
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=250663&extension=ts&play_token=iMTpbhzlZZ
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="Français ",FR | CANAL+ FOOT FHD
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=1002837&extension=ts&play_token=OcVK1y8VpX
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=256123&extension=ts&play_token=KzxZKLxVr0
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=1002841&extension=ts&play_token=a8HcHIHaPx
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=256124&extension=ts&play_token=5SUo6krIc5
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=1421486&extension=ts&play_token=C96DXPdXMJ
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=151081&extension=ts&play_token=efs8CYcI29
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=1421487&extension=ts&play_token=rOhBPtMLXy
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=151082&extension=ts&play_token=CMw1M5ruPy
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 3 HD
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:4F:40:F4&stream=1421488&extension=ts&play_token=JS0vt02Rq2
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=151083&extension=ts&play_token=Ui3Hr7Vl6m
 #EXTINF:-1 tvg-id="beIN SPORTS MAX 5.fr" tvg-logo="https://i.ibb.co/s9yfNbx/beinmax5.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS MAX 5 🇫🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sEeP0mQk6I+h5keO411/CA","k":"9QRCQtjSJMrkCH/Y72VAIw"},{"kty":"oct","kid":"InUSnyhWdxReNOuL4kmuSg","k":"dQVcYFHWUMUpYnseYm9TCg"},{"kty":"oct","kid":"LrcsuNUlcZzdo+H1zEOzQg","k":"4Hl+IoZXVIcgUgFd2ikF9w"},{"kty":"oct","kid":"CtLb067+IHA08kBQ68mM0Q","k":"CxIf52nQsbRaOmu4xA40BQ"}]}
