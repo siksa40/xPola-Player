@@ -76,17 +76,17 @@ http://176.119.29.54/00df2c2c-c740-41c4-b1ae-d7b57469bccc.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 9 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="BEIN SPORT",beIN SPORTS 9 SD
 http://176.119.29.54/31dc1067-8fa1-4189-bfc2-b0550f8c477b.m3u8
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640309104961.png" ,ALWAN 1
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1859098&extension=ts&play_token=Pzy7kgJzHe
+http://stalker.klma2023.net:80/play/live.php?mac=00:1A:79:68:7A:2D&stream=1630675&extension=ts&play_token=IAqWldxOu8
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640311747621.png" ,ALWAN 2
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1859097&extension=ts&play_token=RYa5KPezCR
+http://stalker.klma2023.net:80/play/live.php?mac=00:1A:79:68:7A:2D&stream=1630676&extension=ts&play_token=OSfOiFidEc
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640314461031.png" ,ALWAN 3
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1859096&extension=ts&play_token=nyR75oZUVs
+http://stalker.klma2023.net:80/play/live.php?mac=00:1A:79:68:7A:2D&stream=1630677&extension=ts&play_token=NnyVt4trde
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640316876931.png" ,ALWAN 4
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1859095&extension=ts&play_token=aV7KlHvoJx
+http://stalker.klma2023.net:80/play/live.php?mac=00:1A:79:68:7A:2D&stream=1630678&extension=ts&play_token=mCG6M3vouo
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640318756891.png" ,ALWAN 5
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1859094&extension=ts&play_token=i5p9echQhG
+http://stalker.klma2023.net:80/play/live.php?mac=00:1A:79:68:7A:2D&stream=1630679&extension=ts&play_token=V1Gyv3hFg6
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640320453981.png" ,ALWAN 6
-http://98773-tahoe.oot-mx.me:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1859093&extension=ts&play_token=pZbzX6dU
+http://stalker.klma2023.net:80/play/live.php?mac=00:1A:79:68:7A:2D&stream=1630680&extension=ts&play_token=J1XZWp4n2s
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 FHD
 https://wo.cma.footballii.ir/hls2/b1.m3u8
 #EXTINF:-1 tvg-id="beinsports2.ar" tvg-name="Bein Sports 1" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 1
@@ -125,38 +125,80 @@ http://user.scalecdn.co:8080/live/19995634/79960700/607903.m3u8
 http://user.scalecdn.co:8080/live/19995634/79960700/659444.m3u8
 #EXTINF:-1 tvg-id="beinsportsextra2.ar" tvg-name="Bein Sports Xtra 2" tvg-logo="https://prod-media.beinsports.com/image/051928341be67dcba03f0e04104d9047.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس إكسترا 2
 http://user.scalecdn.co:8080/live/19995634/79960700/659443.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.128.png?ver=12-01-2025"Algeria - ",  بي إن سبورتس 1
-http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/105276
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.128.png?ver=12-01-2025"Algeria - ",  بي إن سبورتس 1
-http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1662310
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.128.png?ver=12-01-2025"Algeria - ",  بي إن سبورتس 1
-http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/22989
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 2
-http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/105275
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 2
-http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1662309
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 2
-http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1620485
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 3
-http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1508203
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 3
-http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1662308
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 3
-http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1620484
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 4
-http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1508202
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 4
-http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1620483
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 5
-http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1620482
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 6
-http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1620481
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/a3ce63a7a8521c37a513db67129855a8.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 7
-http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1620480
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 8
-http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1620479
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE3" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.128.png?ver=12-01-2025"Algeria - ", بي إن سبورتس 9
-http://magic-tv.live:2095/NXSpskTMGZ/q7YmlQeACt/1620478
+#EXTINF:-1 tvg-name="beIN SPORTS 1 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67338.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 4K  (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 4K  (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196157.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 2 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 2 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67339.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 2 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 2 4K (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196158.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 3 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 3 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67340.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 3 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 3 4K (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196159.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 4 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 4 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67341.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 4 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 4 4K (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196160.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 5 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 5 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67342.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 5 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 5 4K (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196161.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 6 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 6 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67343.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 6 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 6 4K (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196162.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 7 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 7 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67344.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 7 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 7 4K (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196163.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 8  4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 8  4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67345.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 8 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 8 4K (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196164.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 9 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 9 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67346.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 9 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 9 4K (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196165.m3u8
+#EXTINF:-1 tvg-name="beIN EXTRA 3 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-3-qa.png" group-title="BEIN HEVC & FHD",beIN EXTRA 3 4K (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67347.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 FHD (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138135.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 FHD (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196167.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 2 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 2 FHD (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138136.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 2 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 2 FHD (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196168.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 3 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 3 FHD (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138137.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 3 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 3 FHD (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196169.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 4 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 4 FHD (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138138.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 4 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 4 FHD (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196170.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 5 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 5 FHD (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138139.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 5 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 5 FHD (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196171.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 6 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 6 FHD (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138140.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 6 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 6 FHD (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196172.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 7 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 7 FHD (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138141.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 7 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 7 FHD (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196173.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 8 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 8 FHD (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138142.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 8 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 8 FHD (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196174.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 9 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 9 FHD (S1)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138143.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 9 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 9 FHD (S2)
+http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196175.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 FHD
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=146116&extension=ts&play_token=6znkzCQyO0
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5080.png" group-title="Sports",AR | BEIN SPORTS 2 FHD
@@ -168,11 +210,15 @@ http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=256123&exten
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT 360" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="Français ",FR | CANAL+ SPORT 360
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=256124&extension=ts&play_token=5SUo6krIc5
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=151081&extension=ts&play_token=efs8CYcI29
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=151081&extension=ts&play_token=uFOQOKLUya
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
-http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=151082&extension=ts&play_token=CMw1M5ruPy
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=151082&extension=ts&play_token=InK4WM7DZR
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 3 HD
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=151083&extension=ts&play_token=Ui3Hr7Vl6m
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 4 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=151084&extension=ts&play_token=MtZhatgR3V
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 5 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=151085&extension=ts&play_token=NrfRTNTF1c
 #EXTINF:-1 tvg-id="beIN SPORTS MAX 5.fr" tvg-logo="https://i.ibb.co/s9yfNbx/beinmax5.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS MAX 5 🇫🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sEeP0mQk6I+h5keO411/CA","k":"9QRCQtjSJMrkCH/Y72VAIw"},{"kty":"oct","kid":"InUSnyhWdxReNOuL4kmuSg","k":"dQVcYFHWUMUpYnseYm9TCg"},{"kty":"oct","kid":"LrcsuNUlcZzdo+H1zEOzQg","k":"4Hl+IoZXVIcgUgFd2ikF9w"},{"kty":"oct","kid":"CtLb067+IHA08kBQ68mM0Q","k":"CxIf52nQsbRaOmu4xA40BQ"}]}
