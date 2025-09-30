@@ -1,16 +1,17 @@
-#EXTM3U
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://i.ibb.co/1XzfTtD/daznxbein1.png"", Bein Sports 1
+
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-connect-malaysia.png"", Bein Sports 2
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8 
+https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-connect-malaysia.png"", Bein Sports 3
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e 
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd 
+https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png", STC SPORTS 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b
-https://uselector.cdn.intigral-ott.net/JAW1/JAW1.isml/manifest.mpd
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png", STC SPORTS 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74
-https://uselector.cdn.intigral-ott.net/STC/STC.isml/manifest.mpd
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
+https://fastly-live.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://shahid.mbc.net/mediaObject/6bbe53d4-5d66-44c0-846d-a5635c67a13c?height=auto&width=144&croppingPoint=&version=1&type=avif", MBC
 #EXTVLCOPT:http-drm-scheme=clearkey
 #EXTVLCOPT:http-drm-license=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a  
@@ -129,80 +130,6 @@ http://user.scalecdn.co:8080/live/19995634/79960700/607903.m3u8
 http://user.scalecdn.co:8080/live/19995634/79960700/659444.m3u8
 #EXTINF:-1 tvg-id="beinsportsextra2.ar" tvg-name="Bein Sports Xtra 2" tvg-logo="https://prod-media.beinsports.com/image/051928341be67dcba03f0e04104d9047.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس إكسترا 2
 http://user.scalecdn.co:8080/live/19995634/79960700/659443.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 1 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 4K (S1)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67338.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 1 4K  (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 4K  (S2)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196157.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 2 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 2 4K (S1)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67339.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 2 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 2 4K (S2)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196158.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 3 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 3 4K (S1)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67340.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 3 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 3 4K (S2)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196159.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 4 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 4 4K (S1)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67341.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 4 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 4 4K (S2)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196160.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 5 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 5 4K (S1)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67342.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 5 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 5 4K (S2)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196161.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 6 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 6 4K (S1)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67343.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 6 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 6 4K (S2)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196162.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 7 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 7 4K (S1)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67344.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 7 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 7 4K (S2)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196163.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 8  4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 8  4K (S1)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67345.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 8 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 8 4K (S2)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196164.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 9 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 9 4K (S1)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67346.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 9 4K (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 9 4K (S2)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196165.m3u8
-#EXTINF:-1 tvg-name="beIN EXTRA 3 4K (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-3-qa.png" group-title="BEIN HEVC & FHD",beIN EXTRA 3 4K (S1)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/67347.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 1 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 FHD (S1)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138135.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 1 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BEIN HEVC & FHD",beIN SPORTS 1 FHD (S2)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196167.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 2 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 2 FHD (S1)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138136.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 2 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 2 FHD (S2)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196168.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 3 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 3 FHD (S1)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138137.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 3 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 3 FHD (S2)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196169.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 4 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 4 FHD (S1)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138138.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 4 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 4 FHD (S2)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196170.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 5 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 5 FHD (S1)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138139.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 5 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 5 FHD (S2)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196171.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 6 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 6 FHD (S1)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138140.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 6 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 6 FHD (S2)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196172.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 7 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 7 FHD (S1)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138141.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 7 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 7 FHD (S2)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196173.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 8 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 8 FHD (S1)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138142.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 8 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 8 FHD (S2)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196174.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 9 FHD (S1)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 9 FHD (S1)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/138143.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 9 FHD (S2)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BEIN HEVC & FHD",beIN SPORTS 9 FHD (S2)
-http://ibo.lynxiptv.com/live/109379695638/LxuDqR34La/196175.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 FHD
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:AB:0D:24&stream=146116&extension=ts&play_token=6znkzCQyO0
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5080.png" group-title="Sports",AR | BEIN SPORTS 2 FHD
@@ -248,15 +175,15 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yh0KU6YG+P/rAo9rJHe6ow","k":"OIphdZ3jYt/K3vchuTbWmg"},{"kty":"oct","kid":"Fdq88eq8hxeEL+tl9xUhBw","k":"c4D2F5XK6+wmsHE7zipOPQ"},{"kty":"oct","kid":"+cKiW7q8jTgE30ZBgGnvBw","k":"J8pFeiu5dRpcHrFYR0NGoA"},{"kty":"oct","kid":"xBuLKVwIMH3cHjoi6pEncg","k":"2SX+aD7ZHlg3qqTlFHrYhQ"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 #EXTINF:-1 tvg-id="FajerTV1.ps" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="General",Fajer TV 1
-http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=153539&extension=ts
 #EXTINF:-1 tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" group-title="General",Fajer TV 2
-http://platform.topuphost.com:8577/live/alfajr2.stream/playlist.m3u8
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=153540&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 3" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="Arabes",PS | Al Fajer 3
-http://platform.topuphost.com:8577/live/alfajr3.stream/playlist.m3u8
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=153541&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 4" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="Arabes",PS | Al Fajer 4
-http://platform.topuphost.com:8577/live/alfajr4.stream/playlist.m3u8
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=153542&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 5" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="Arabes",PS | Al Fajer 5
-http://platform.topuphost.com:8577/live/alfajr5.stream/playlist.m3u8
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=153543&extension=ts
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="General",Ajyal TV
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="General",Ajyal TV
@@ -348,6 +275,10 @@ https://jmp2.uk/sam-FRBB4900002D4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ES | M+ LA LIGÁ HD" tvg-logo="https://go4.pw/EUROPE/SPAIN/laliga.png", LA LIGÁ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="ES | M+ LA LIGÁ HD" tvg-logo="https://go4.pw/EUROPE/SPAIN/laliga.png", LA LIGÁ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 #EXTINF:-1 tvg-id="Матч! 🇷🇺" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/130.jpg", Match! Premier 🇷🇺
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -384,10 +315,10 @@ https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://fastly-live.cdn.intigral-ott.net/JAW1/JAW1.isml/manifest.mpd
-#EXTINF:-1 group-title="SHOQ" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Peacock
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://cbcsport.info/wp-content/uploads/2025/06/cbc_logo2-removebg-preview-300x275.png", CBC Sport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=937f2af157c2bcc8631364d7bbb58198:a2d8a370b13c2e57aed02254b584ca91
+https://a205aivottlinear-a.akamaihd.net/IAD/lhr-nitro/clients/dash/enc/trhqmmepww/out/v1/9c4354f576964d18b98a944d31b8dbf0/cenc.mpd
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png", TNT Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
