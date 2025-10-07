@@ -39,13 +39,15 @@ http://user.scalecdn.co:8080/live/19995634/79960700/659436.m3u8
 #EXTINF:-1 tvg-id="beinsports.en2" tvg-name="Bein Sports English 2" tvg-logo="https://prod-media.beinsports.com/image/4cd31d31e16ac873f5f421d5880e88d6.128.png?ver=12-01-2025" group-title="Algeria -", EN 2 بي إن سبورتس
 http://user.scalecdn.co:8080/live/19995634/79960700/659437.m3u8
 #EXTINF:-1 tvg-id="beinsports.fr1" tvg-name="Bein Sports France 1" tvg-logo="https://prod-media.beinsports.com/image/e2c2ff9c7fb57db574e461fbe467d84e.128.png?ver=12-01-2025" group-title="Algeria -", FR بي إن سبورتس 1
-http://user.scalecdn.co:8080/live/19995634/79960700/607902.m3u8
+http://user.scalecdn.co:8080/live/19995634/79960700/659439.m3u8
 #EXTINF:-1 tvg-id="beinsports.fr2" tvg-name="Bein Sports France 2" tvg-logo="https://prod-media.beinsports.com/image/501e3f8a108d7ab9335ceecd363d113d.128.png?ver=12-01-2025" group-title="Algeria -", FR 2 بي إن سبورتس
 http://user.scalecdn.co:8080/live/19995634/79960700/607903.m3u8
 #EXTINF:-1 tvg-id="beinsportsextra1.ar" tvg-name="Bein Sports Xtra 1" tvg-logo="https://prod-media.beinsports.com/image/4cd31d31e16ac873f5f421d5880e88d6.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس إكسترا 1
 http://user.scalecdn.co:8080/live/19995634/79960700/659444.m3u8
 #EXTINF:-1 tvg-id="beinsportsextra2.ar" tvg-name="Bein Sports Xtra 2" tvg-logo="https://prod-media.beinsports.com/image/051928341be67dcba03f0e04104d9047.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس إكسترا 2
 http://user.scalecdn.co:8080/live/19995634/79960700/659443.m3u8
+#EXTINF:-1 tvg-id="beinsportsextra2.ar" tvg-name="Bein Sports Xtra 3" tvg-logo="https://prod-media.beinsports.com/image/051928341be67dcba03f0e04104d9047.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس إكسترا 3
+http://user.scalecdn.co:8080/live/19995634/79960700/659444.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebrSefMXRxiQ0ztfPXsFefodA11EAH_ChEQ&s" group-title="Arabes",PS | Al Fajer 2
 http://44321.online:2086/live/172555148248/6740ab8668b6d/254355.ts
 #EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebrSefMXRxiQ0ztfPXsFefodA11EAH_ChEQ&s" group-title="Arabes",PS | Al Fajer 3
