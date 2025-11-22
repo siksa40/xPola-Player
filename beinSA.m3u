@@ -1,16 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="BeIN 1 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)01.jpg" group-title="BeIN HEVC",BeIN 1 HEVC
+https://mejarserver.site/Alwan-Sport-1-HD/video.m3u8
+#EXTINF:-1 tvg-name="BeIN 1 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)01.jpg" group-title="BeIN HEVC",BeIN 1 HEVC
 https://mejarserver.site/cast-b1/video.m3u8
 #EXTINF:-1 tvg-name="BeIN 1 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)01.jpg" group-title="BeIN HEVC",BeIN 1 HEVC
 https://mejarserver.site/ftv1-720p-castx/video.m3u8
 #EXTINF:-1 tvg-name="BeIN 2 HEVC " tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)02.jpg" group-title="BeIN HEVC",BeIN 2 HEVC
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33886.m3u8
+https://mejarserver.site/Alwan-Sport-2-HD/video.m3u8
+#EXTINF:-1 tvg-name="BeIN 2 HEVC " tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)02.jpg" group-title="BeIN HEVC",BeIN 2 HEVC
+https://mejarserver.site/cast-2/video.m3u8
 #EXTINF:-1 tvg-name="BeIN 3 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)03.jpg" group-title="BeIN HEVC",BeIN 3 HEVC
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33887.m3u8
 #EXTINF:-1 tvg-name="BeIN 4 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)04.jpg" group-title="BeIN HEVC",BeIN 4 HEVC
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33888.m3u8
 #EXTINF:-1 tvg-name="BeIN 5 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)05.jpg" group-title="BeIN HEVC",BeIN 5 HEVC
-http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33889.m3u8
+https://mejarserver.site/G5-480p/video.m3u8
 #EXTINF:-1 tvg-name="BeIN 6 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)06.jpg" group-title="BeIN HEVC",BeIN 6 HEVC
 http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/33890.m3u8
 #EXTINF:-1 tvg-name="BeIN 7 HEVC" tvg-logo="http://45.155.226.158/pic/bein/beIN(HQ)07.jpg" group-title="BeIN HEVC",BeIN 7 HEVC
@@ -64,5 +68,6 @@ http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=1859095&
 http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=1859094&extension=ts&play_token=RzgDFqiWBq
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640320453981.png" ,ALWAN 6
 http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=1859093&extension=ts&play_token=DUOnz8wyig
+
 
 
