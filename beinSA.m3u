@@ -68,6 +68,18 @@ http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=1859095&
 http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=1859094&extension=ts&play_token=RzgDFqiWBq
 #EXTINF:-1 group-title="ALWAN" tvg-logo="https://up6.cc//2025//05//174640320453981.png" ,ALWAN 6
 http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=1859093&extension=ts&play_token=DUOnz8wyig
+#EXTINF:-1 tvg-name="SERIA A 1" group-title="Sport",SERIA A 1
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/63840.m3u8
+#EXTINF:-1 tvg-name="SERIA A 2" group-title="Sport",SERIA A 2
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/63841.m3u8
+#EXTINF:-1 tvg-name="SERIA A 3" group-title="Sport",SERIA A 3
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/63842.m3u8
+#EXTINF:-1 tvg-name="Thmanyah 1" group-title="Sport",Thmanyah 1
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/63844.m3u8
+#EXTINF:-1 tvg-name="Thmanyah 2" group-title="Sport",Thmanyah 2
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61585.m3u8
+#EXTINF:-1 tvg-name="Thmanyah 3" group-title="Sport",Thmanyah 3
+http://adminapk.in:80/live/hpxyybonnL/MgXRqDxDLl/61586.m3u8
 
 
 
