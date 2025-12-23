@@ -23,7 +23,7 @@ https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium102
 #EXTINF:-1 tvg-id="sportklub3.rs" tvg-name="SPORT KLUB 3 SR FHD" tvg-logo="https://images.g-med.xyz:8443/images/Logo/sport/sportklub.png",SPORT KLUB 3
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium105
 #EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/4312.png", SUPER SPORT 1
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=33531&extension=ts&play_token=WEwYvRlhyQ
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/MjOArMy8Iwz0wt1ngC9DioI_EzkI0ZU4ZZAo-PQkSqLZV8IdY9bEfJZclkEGxXORaIlXVEJS7VoBa0oRdSS33A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/4312.png", SUPER SPORT 1
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=156708&extension=ts&play_token=PUpfz7MQCW
 #EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 2 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/4313.png", SUPER SPORT 2
