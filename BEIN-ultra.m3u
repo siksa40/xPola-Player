@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="beIN Sports Max 1 HD" group-title="BEINSPORT",beIN Sports Max 1 HD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/93947.ts
+http://bo.ib3mix.com:8080/live/3495473155546933/6093092521652580/32478.ts
 #EXTINF:-1 tvg-name="beIN Sports Max 1 FHD" group-title="BEINSPORT",beIN Sports Max 1 FHD
 http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/93948.ts
 #EXTINF:-1 tvg-name="beIN Sports Max 1 4K" group-title="BEINSPORT",beIN Sports Max 1 4K
