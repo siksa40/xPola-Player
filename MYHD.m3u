@@ -1,15 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="BeIN Sports MENA 1" tvg-name="BEIN SPORTS 1 HD local" tvg-logo="http://f.pure-redirect.com/arabic/beinsports1ar.png" group-title="BOUQUET BEIN SPORTS AR",BEIN SPORTS 1 HD local
+#EXTINF:-1 tvg-name="beIN SPORTS 1 H.265 FHD" tvg-logo="http://tayaara.store/live/be/1.jpg" group-title="beIN SPORTS H.265 FHD",beIN SPORTS 1 H.265 FHD
 https://iptv.mustafatv.xyz/live/1995/1995/1.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS 2 HD local" tvg-logo="http://f.pure-redirect.com/nilesat/1_0_19_1452_34_800_DCA0000_0_0_0.png" group-title="BOUQUET BEIN SPORTS AR",BEIN SPORTS 2 HD local
+#EXTINF:-1 tvg-name="beIN SPORTS 2 H.265 FHD" tvg-logo="http://tayaara.store/live/be/2.jpg" group-title="beIN SPORTS H.265 FHD",beIN SPORTS 2 H.265 FHD
 https://iptv.mustafatv.xyz/live/1995/1995/2.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD local " tvg-logo="http://f.pure-redirect.com/arabic/beinsports3ar.png" group-title="BOUQUET BEIN SPORTS AR",BEIN SPORTS 3 HD local
+#EXTINF:-1 tvg-name="beIN SPORTS 3 H.265 FHD" tvg-logo="http://tayaara.store/live/be/3.jpg" group-title="beIN SPORTS H.265 FHD",beIN SPORTS 3 H.265 FHD
 https://iptv.mustafatv.xyz/live/1995/1995/3.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS 4 HD local" tvg-logo="http://f.pure-redirect.com/arabic/beinsports4ar.png" group-title="BOUQUET BEIN SPORTS AR",BEIN SPORTS 4 HD local
+#EXTINF:-1 tvg-name="beIN SPORTS 4 H.265 FHD" tvg-logo="http://tayaara.store/live/be/4.jpg" group-title="beIN SPORTS H.265 FHD",beIN SPORTS 4 H.265 FHD
 https://iptv.mustafatv.xyz/live/1995/1995/4.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS 5 HD local" tvg-logo="http://f.pure-redirect.com/arabic/beinsports5ar.png" group-title="BOUQUET BEIN SPORTS AR",BEIN SPORTS 5 HD local
+#EXTINF:-1 tvg-name="beIN SPORTS 5 H.265 FHD" tvg-logo="http://tayaara.store/live/be/5.jpg" group-title="beIN SPORTS H.265 FHD",beIN SPORTS 5 H.265 FHD
 https://iptv.mustafatv.xyz/live/1995/1995/5.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS 6 HD local" tvg-logo="http://f.pure-redirect.com/arabic/beinsports6ar.png " group-title="BOUQUET BEIN SPORTS AR",BEIN SPORTS 6 HD local
+#EXTINF:-1 tvg-name="beIN SPORTS 6 H.265 FHD" tvg-logo="http://tayaara.store/live/be/6.jpg" group-title="beIN SPORTS H.265 FHD",beIN SPORTS 6 H.265 FHD
 https://iptv.mustafatv.xyz/live/1995/1995/6.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS 7 HD local  " tvg-logo="http://f.pure-redirect.com/arabic/beinsports7ar.png" group-title="BOUQUET BEIN SPORTS AR",BEIN SPORTS 7 HD local
+#EXTINF:-1 tvg-name="beIN SPORTS 7 H.265 FHD" tvg-logo="http://tayaara.store/live/be/7.jpg" group-title="beIN SPORTS H.265 FHD",beIN SPORTS 7 H.265 FHD
 https://iptv.mustafatv.xyz/live/1995/1995/7.ts
+#EXTINF:-1 tvg-name="beIN SPORTS 8 H.265 FHD" tvg-logo="http://tayaara.store/live/be/8.jpg" group-title="beIN SPORTS H.265 FHD",beIN SPORTS 8 H.265 FHD
+https://iptv.mustafatv.xyz/live/1995/1995/8.ts
+#EXTINF:-1 tvg-name="beIN SPORTS 9 H.265 FHD" tvg-logo="http://tayaara.store/live/be/9.jpg" group-title="beIN SPORTS H.265 FHD",beIN SPORTS 9 H.265 FHD
+https://iptv.mustafatv.xyz/live/1995/1995/9.ts
