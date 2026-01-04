@@ -1,8 +1,8 @@
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORm3u8 1
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORm 1
 http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77885.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORm3u8 2
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2401.png" group-title="Français ",FR | BEIN SPORm 2
 http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77883.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2402.png" group-title="Français ",FR | BEIN SPORm3u8 2
+#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORm3u8 2" tvg-logo="http://148.251.133.153:8181/logo/chn/2402.png" group-title="Français ",FR | BEIN SPORm 2
 http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/77899.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 1" tvg-logo="http://148.251.133.153:8181/logo/chn/2474.png" group-title="Français ",FR | RMC SPORT 1
 http://d7441a93.akadatel.com/iptv/NSEXWXAF56T6M4HP8WGLWQWK/2545/index.m3u8
