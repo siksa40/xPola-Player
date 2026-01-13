@@ -1,6 +1,44 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="BEIN SPORTS MAX 1 FHD MS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1
 https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/jpg_FLY3NdH72LrTKw_OmImQ5YCOi8g-HDs5ydMQTtKUYxBOCt3WUl0_bCwrM-DbUU03oQo1564d-250hW2EMQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-name="Dz | Programme National" tvg-logo="http://148.251.133.153:8181/logo/chn/6530.png" group-title="Algérie",Dz | Programme National
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/61945.ts
+#EXTINF:-1 tvg-name="Dz | Canal Algerie TV2" tvg-logo="http://148.251.133.153:8181/logo/chn/6529.png" group-title="Algérie",Dz | Canal Algerie TV2
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/1713.ts
+#EXTINF:-1 tvg-name="Dz | Algerie TV3" tvg-logo="http://148.251.133.153:8181/logo/chn/6531.png" group-title="Algérie",Dz | Algerie TV3
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/1714.ts
+#EXTINF:-1 tvg-name="Dz | Algerie Tamazight TV4" tvg-logo="http://148.251.133.153:8181/logo/chn/6543.png" group-title="Algérie",Dz | Algerie Tamazight TV4
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/1715.ts
+#EXTINF:-1 tvg-name="Dz | Algeria Coran TV5" tvg-logo="http://148.251.133.153:8181/logo/chn/6544.png" group-title="Algérie",Dz | Algeria Coran TV5
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/1716.ts
+#EXTINF:-1 tvg-name="Dz | Algerie Chababia TV6" tvg-logo="http://148.251.133.153:8181/logo/chn/6545.png" group-title="Algérie",Dz | Algerie Chababia TV6
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/82137.ts
+#EXTINF:-1 tvg-name="Dz | Algerie Elmaarifa TV7" tvg-logo="http://148.251.133.153:8181/logo/chn/6546.png" group-title="Algérie",Dz | Algerie Elmaarifa TV7
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/10515.ts
+#EXTINF:-1 tvg-name="Dz | Algerie Edhakira TV8" tvg-logo="http://148.251.133.153:8181/logo/chn/6547.png" group-title="Algérie",Dz | Algerie Edhakira TV8
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/66680.ts
+#EXTINF:-1 tvg-name="Dz | El Heddaf TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6596.png" group-title="Algérie",Dz | El Heddaf TV
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/1730.ts
+#EXTINF:-1 tvg-name="Dz | Echorouk TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6532.png" group-title="Algérie",Dz | Echorouk TV
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/1717.ts
+#EXTINF:-1 tvg-name="Dz | Echorouk News" tvg-logo="http://148.251.133.153:8181/logo/chn/6533.png" group-title="Algérie",Dz | Echorouk News
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/1718.ts
+#EXTINF:-1 tvg-name="Dz | Ennahar TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6541.png" group-title="Algérie",Dz | Ennahar TV
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/1719.ts
+#EXTINF:-1 tvg-name="Dz | Al Hayat TV Algerie" tvg-logo="http://148.251.133.153:8181/logo/chn/6550.png" group-title="Algérie",Dz | Al Hayat TV Algerie
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/1728.ts
+#EXTINF:-1 tvg-name="Dz | El Bilad TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6536.png" group-title="Algérie",Dz | El Bilad TV
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/1723.ts
+#EXTINF:-1 tvg-name="Dz | Watania TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6555.png" group-title="Algérie",Dz | Watania TV
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/66685.ts
+#EXTINF:-1 tvg-name="Dz | Salam TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6558.png" group-title="Algérie",Dz | Salam TV
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/66684.ts
+#EXTINF:-1 tvg-name="Dz | El Fadjr TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6554.png" group-title="Algérie",Dz | El Fadjr TV
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/1727.ts
+#EXTINF:-1 tvg-name="Dz | Samira TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6534.png" group-title="Algérie",Dz | Samira TV
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/1724.ts
+#EXTINF:-1 tvg-name="Dz | Zahra TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6559.png" group-title="Algérie",Dz | Zahra TV
+http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/66681.ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 1 HD" tvg-logo="http://tayaara.store:80/images/marvel/1716985163331.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 1 HD
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/MjOArMy8Iwz0wt1ngC9DioI_EzkI0ZU4ZZAo-PQkSqLZV8IdY9bEfJZclkEGxXORaIlXVEJS7VoBa0oRdSS33A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8
 #EXTINF:-1 tvg-name="AL-FAJER TV 1 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1739356304191.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 1 FHD
