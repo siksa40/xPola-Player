@@ -187,3 +187,125 @@ http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120803.ts
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/77527.ts
 #EXTINF:-1 tvg-name="AR: StarzPlay SPORTS 2 HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f2%2f16%2fad-sports-premium-1.png" group-title="ARABIC SPORTS",AR: StarzPlay SPORTS 2 HD
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/77528.ts
+#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="|FR| BEIN SPORTS 1 FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/9913.png" group-title="FRANCE SPORTS",|FR| BEIN SPORTS 1 FHD
+http://ottsansat.org:88/02028397098883/6335414088/126935
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="|FR| BEIN SPORTS 2 FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/9914.png" group-title="FRANCE SPORTS",|FR| BEIN SPORTS 2 FHD
+http://ottsansat.org:88/02028397098883/6335414088/126936
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="|FR| BEIN SPORTS 3 FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/9915.png" group-title="FRANCE SPORTS",|FR| BEIN SPORTS 3 FHD
+http://ottsansat.org:88/02028397098883/6335414088/126937
+#EXTINF:-1 tvg-ID="beINSPORTSMAX4.fr" tvg-name="|FR| BEIN MAX 4 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_4.png" group-title="FRANCE SPORTS",|FR| BEIN MAX 4 FHD
+http://ottsansat.org:88/02028397098883/6335414088/126938
+#EXTINF:-1 tvg-ID="beINSPORTSMAX5.fr" tvg-name="|FR| BEIN MAX 5 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_5.png" group-title="FRANCE SPORTS",|FR| BEIN MAX 5 FHD
+http://ottsansat.org:88/02028397098883/6335414088/126939
+#EXTINF:-1 tvg-ID="beINSPORTSMAX6.fr" tvg-name="|FR| BEIN MAX 6 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_6.png" group-title="FRANCE SPORTS",|FR| BEIN MAX 6 FHD
+http://ottsansat.org:88/02028397098883/6335414088/126940
+#EXTINF:-1 tvg-ID="beINSPORTSMAX7.fr" tvg-name="|FR| BEIN MAX 7 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_7.png" group-title="FRANCE SPORTS",|FR| BEIN MAX 7 FHD
+http://ottsansat.org:88/02028397098883/6335414088/126941
+#EXTINF:-1 tvg-ID="beINSPORTSMAX8.fr" tvg-name="|FR| BEIN MAX 8 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_8.png" group-title="FRANCE SPORTS",|FR| BEIN MAX 8 FHD
+http://ottsansat.org:88/02028397098883/6335414088/126942
+#EXTINF:-1 tvg-ID="beINSPORTSMAX9.fr" tvg-name="|FR| BEIN MAX 9 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_9.png" group-title="FRANCE SPORTS",|FR| BEIN MAX 9 FHD
+http://ottsansat.org:88/02028397098883/6335414088/126943
+#EXTINF:-1 tvg-ID="beINSPORTSMAX10.fr" tvg-name="|FR| BEIN MAX 10 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_10.png" group-title="FRANCE SPORTS",|FR| BEIN MAX 10 FHD
+http://ottsansat.org:88/02028397098883/6335414088/126944
+#EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL+ FOOT FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+FOOT.png" group-title="FRANCE MY CANAL",|FR| CANAL+ FOOT FHD
+http://ottsansat.org:88/02028397098883/6335414088/126832
+#EXTINF:-1 tvg-ID="canalplussport360.fr" tvg-name="|FR| CANAL+ 360 FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+SPORT360.png" group-title="FRANCE MY CANAL",|FR| CANAL+ 360 FHD
+http://ottsansat.org:88/02028397098883/6335414088/126834
+#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="|FR| CANAL+ SPORT FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+SPORT.png" group-title="FRANCE MY CANAL",|FR| CANAL+ SPORT FHD
+http://ottsansat.org:88/02028397098883/6335414088/126831
+#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="|FR| CANAL+ FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL_PLUS.png" group-title="FRANCE MY CANAL",|FR| CANAL+ FHD
+http://ottsansat.org:88/02028397098883/6335414088/126810
+#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="|FR| CANAL+ SPORT FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+SPORT.png" group-title="FRANCE MY CANAL",|FR| CANAL+ SPORT FHD
+http://ottsansat.org:88/02028397098883/6335414088/126831
+#EXTINF:-1 tvg-ID="canalpluskids.fr" tvg-name="|FR| CANAL+ KIDS FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+kids.png" group-title="FRANCE MY CANAL",|FR| CANAL+ KIDS FHD
+http://ottsansat.org:88/02028397098883/6335414088/126815
+#EXTINF:-1 tvg-ID="canalplusgrandecran.fr" tvg-name="|FR| CANAL+ GRAND ECRAN 4K" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+GRAND_ECRAN.png" group-title="FRANCE MY CANAL",|FR| CANAL+ GRAND ECRAN 4K
+http://ottsansat.org:88/02028397098883/6335414088/224456
+#EXTINF:-1 tvg-ID="CinePlusPremier.be" tvg-name="|FR| CINE+ PREMIER HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2456_440_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+ PREMIER HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127235
+#EXTINF:-1 tvg-ID="CinePlusFrisson.fr" tvg-name="|FR| CINE+ FRISSON HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2267_438_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+ FRISSON HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127236
+#EXTINF:-1 tvg-ID="CinePlusEmotion.fr" tvg-name="|FR| CINE+ EMOTION HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245B_440_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+ EMOTION HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127237
+#EXTINF:-1 tvg-ID="cineplusamiz.fr" tvg-name="|FR| CINE+ FAMIZ HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2268_438_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+ FAMIZ HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127238
+#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="|FR| CINE+ CLUB HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B9_43E_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+ CLUB HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127239
+#EXTINF:-1 tvg-ID="CinePlusClassic.fr" tvg-name="|FR| CINE+  CLASSIC HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2269_438_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+  CLASSIC HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127240
+#EXTINF:-1 tvg-ID="WarnerTV.fr" tvg-name="|FR| WARNER TV HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196A_44E_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| WARNER TV HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127246
+#EXTINF:-1 tvg-ID="NovelasTV.fr" tvg-name="|FR| NOVELAS TV HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE.CINEMA/NOVELAS_TV.png" group-title="FRANCE CINEMA",|FR| NOVELAS TV HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127247
+#EXTINF:-1 tvg-ID="polarplus.fr" tvg-name="|FR| POLAR+ HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE.CINEMA/POLAR+.png" group-title="FRANCE CINEMA",|FR| POLAR+ HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127248
+#EXTINF:-1 tvg-ID="CrimeDistrict.fr" tvg-name="|FR| CRIME DISTRICT HEVC" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_D7_4EE8_55F_DDE0000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CRIME DISTRICT HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127249
+#EXTINF:-1 tvg-ID="ParamountChannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CE_444_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| PARAMOUNT CHANNEL HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127250
+#EXTINF:-1 tvg-ID="ParamountChannelDecale.fr" tvg-name="|FR| PARAMOUNT DECALE HEVC" group-title="FRANCE CINEMA",|FR| PARAMOUNT DECALE HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127251
+#EXTINF:-1 tvg-ID="Action.fr" tvg-name="|FR| ACTION HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4286_446_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| ACTION HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127252
+#EXTINF:-1 tvg-ID="tcm.fr" tvg-name="|FR| TCM CINEMA HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26AE_43E_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| TCM CINEMA HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127253
+#EXTINF:-1 tvg-ID="cineplusocs.fr" tvg-name="|FR| CINE+ OCS HD 4ᴋ" group-title="FRANCE CINEMA",|FR| CINE+ OCS HD 4ᴋ
+http://ottsansat.org:88/02028397098883/6335414088/861322
+#EXTINF:-1 tvg-ID="CinePlusClub.fr" tvg-name="|FR| CINE+ FESTIVAL HD 4ᴋ" group-title="FRANCE CINEMA",|FR| CINE+ FESTIVAL HD 4ᴋ
+http://ottsansat.org:88/02028397098883/6335414088/861323
+#EXTINF:-1 tvg-name="|FR| NETFLIX THRILLER" group-title="FRANCE CINEMA",|FR| NETFLIX THRILLER
+http://ottsansat.org:88/02028397098883/6335414088/861327
+#EXTINF:-1 tvg-name="|FR| NETFLIX SCI-FI" group-title="FRANCE CINEMA",|FR| NETFLIX SCI-FI
+http://ottsansat.org:88/02028397098883/6335414088/861328
+#EXTINF:-1 tvg-name="|FR| NETFLIX FANTASY" group-title="FRANCE CINEMA",|FR| NETFLIX FANTASY
+http://ottsansat.org:88/02028397098883/6335414088/861329
+#EXTINF:-1 tvg-name="|FR| NETFLIX ACTION" group-title="FRANCE CINEMA",|FR| NETFLIX ACTION
+http://ottsansat.org:88/02028397098883/6335414088/861330
+#EXTINF:-1 tvg-name="|FR| NETFLIX ADVENTURE" group-title="FRANCE CINEMA",|FR| NETFLIX ADVENTURE
+http://ottsansat.org:88/02028397098883/6335414088/861331
+#EXTINF:-1 tvg-name="|FR| NETFLIX ROMANCE" group-title="FRANCE CINEMA",|FR| NETFLIX ROMANCE
+http://ottsansat.org:88/02028397098883/6335414088/861332
+#EXTINF:-1 tvg-name="|FR| NETFLIX DRAMA" group-title="FRANCE CINEMA",|FR| NETFLIX DRAMA
+http://ottsansat.org:88/02028397098883/6335414088/861333
+#EXTINF:-1 tvg-name="|FR| NETFLIX COMEDY" group-title="FRANCE CINEMA",|FR| NETFLIX COMEDY
+http://ottsansat.org:88/02028397098883/6335414088/861334
+#EXTINF:-1 tvg-name="|FR| NETFLIX HORROR" group-title="FRANCE CINEMA",|FR| NETFLIX HORROR
+http://ottsansat.org:88/02028397098883/6335414088/861335
+#EXTINF:-1 tvg-name="|FR| NETFLIX DOCUMENTARY" group-title="FRANCE CINEMA",|FR| NETFLIX DOCUMENTARY
+http://ottsansat.org:88/02028397098883/6335414088/861336
+#EXTINF:-1 tvg-name="|FR| NETFLIX SPORTS" group-title="FRANCE CINEMA",|FR| NETFLIX SPORTS
+http://ottsansat.org:88/02028397098883/6335414088/861337
+#EXTINF:-1 tvg-name="|FR| NETFLIX KIDS" group-title="FRANCE CINEMA",|FR| NETFLIX KIDS
+http://ottsansat.org:88/02028397098883/6335414088/861338
+#EXTINF:-1 tvg-name="|FR| AVENGERS" group-title="FRANCE CINEMA",|FR| AVENGERS
+http://ottsansat.org:88/02028397098883/6335414088/861416
+#EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="|FR| USHUAIA HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/USHUAIA_TV.png" group-title="FRANCE DECOUVERTE",|FR| USHUAIA HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127072
+#EXTINF:-1 tvg-ID="animaux.fr" tvg-name="|FR| ANIMAUX HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/ANIMAUX.png" group-title="FRANCE DECOUVERTE",|FR| ANIMAUX HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127073
+#EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="|FR| CHASSE&PECHE HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/CHASSE_ET_PECHE.png" group-title="FRANCE DECOUVERTE",|FR| CHASSE&PECHE HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127074
+#EXTINF:-1 tvg-ID="seasons.fr" tvg-name="|FR| SEASONS HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/SEASONS.png" group-title="FRANCE DECOUVERTE",|FR| SEASONS HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127069
+#EXTINF:-1 tvg-ID="histoire.fr" tvg-name="|FR| HISTOIRE HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/HISTOIRE_TV.png" group-title="FRANCE DECOUVERTE",|FR| HISTOIRE HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127067
+#EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="|FR| TOUTE L HISTOIRE HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/Toute_L_Histoire.png" group-title="FRANCE DECOUVERTE",|FR| TOUTE L HISTOIRE HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127068
+#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="|FR| DISCOVERY HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/Discovery_HD.png" group-title="FRANCE DECOUVERTE",|FR| DISCOVERY HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127061
+#EXTINF:-1 tvg-ID="discoveryinvestigation.fr" tvg-name="|FR| DISCOVERY ID HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/ID_HD.png" group-title="FRANCE DECOUVERTE",|FR| DISCOVERY ID HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127064
+#EXTINF:-1 tvg-ID="discoveryinvestigation.fr" tvg-name="|FR| DISCOVERY INVESTIGATION HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/INVESTIGATION_DISCOVERY_HD.png" group-title="FRANCE DECOUVERTE",|FR| DISCOVERY INVESTIGATION HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127065
+#EXTINF:-1 tvg-ID="trek.fr" tvg-name="|FR| TREK HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/TREK.png" group-title="FRANCE DECOUVERTE",|FR| TREK HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127066
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+ HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/PLANETE+.png" group-title="FRANCE DECOUVERTE",|FR| PLANETE+ HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127056
+#EXTINF:-1 tvg-ID="action.fr" tvg-name="|FR| PLANETE A&E HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/PLANETE+A_end_E.png" group-title="FRANCE DECOUVERTE",|FR| PLANETE A&E HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127057
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+ CI HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/PLANETE+CI.png" group-title="FRANCE DECOUVERTE",|FR| PLANETE+ CI HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127058
+#EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="|FR| NAT GEO HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/NATIONAL_GEO.png" group-title="FRANCE DECOUVERTE",|FR| NAT GEO HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127059
+#EXTINF:-1 tvg-ID="NatGeoWild.fr" tvg-name="|FR| NAT GEO WILD HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/NATIONAL_GEOGRAPHIC_WILD.png" group-title="FRANCE DECOUVERTE",|FR| NAT GEO WILD HEVC
+http://ottsansat.org:88/02028397098883/6335414088/127060
