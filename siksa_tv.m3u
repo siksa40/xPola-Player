@@ -419,18 +419,12 @@ http://soloip.co:80/live/AlaaHussein/Hayat2025/12517.m3u8
 http://soloip.co:80/live/AlaaHussein/Hayat2025/12500.m3u8
 #EXTINF:-1 tvg-name="BeIN Series 2" tvg-logo="http://87.cie-eg.com/images/b8cd858c6bc6d7827df214e52d359516.png" group-title="Premier",BeIN Series 2
 http://soloip.co:80/live/AlaaHussein/Hayat2025/1784.m3u8
-#EXTINF:-1 tvg-name="E EnterTaimment HD" tvg-logo="http://87.cie-eg.com:80/images/0104cf8e4f143aeb231025bc8e36ed26.png" group-title="Premier",E EnterTaimment HD
-http://soloip.co:80/live/AlaaHussein/Hayat2025/60071.m3u8
 #EXTINF:-1 tvg-name="BeIN Fatafeat" tvg-logo="http://87.cie-eg.com:80/images/d97cc0614ef76b2557c6e4d0e028336d.png" group-title="Premier",BeIN Fatafeat
 http://soloip.co:80/live/AlaaHussein/Hayat2025/3180.m3u8
 #EXTINF:-1 tvg-name="Mezze" tvg-logo="http://87.cie-eg.com:80/images/7134173fbfed2e48985b94dc2619bfaf.png" group-title="Premier",Mezze
 http://soloip.co:80/live/AlaaHussein/Hayat2025/12508.m3u8
-#EXTINF:-1 tvg-name="Moonbug Kids" tvg-logo="http://87.cie-eg.com:80/images/c3bae5f0d4c672949bccaffc99157c18.png" group-title="Premier",Moonbug Kids
-http://soloip.co:80/live/AlaaHussein/Hayat2025/54338.m3u8
 #EXTINF:-1 tvg-name="Nat Geo HD" tvg-logo="http://87.cie-eg.com:80/images/88f8f9a57cb3faec9b9427fbc3ec1eeb.png" group-title="Premier",Nat Geo HD
 http://soloip.co:80/live/AlaaHussein/Hayat2025/1491.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="http://87.cie-eg.com:80/images/7c6ce5623c04899dfa224ba83c5fede9.png" group-title="Premier",Nat Geo Wild
-http://soloip.co:80/live/AlaaHussein/Hayat2025/54337.m3u8
 #EXTINF:-1 tvg-name="Nat Geo Wild HD" tvg-logo="http://87.cie-eg.com:80/images/7c6ce5623c04899dfa224ba83c5fede9.png" group-title="Premier",Nat Geo Wild HD
 http://soloip.co:80/live/AlaaHussein/Hayat2025/281.m3u8
 #EXTINF:-1 tvg-name="Discovery HD" tvg-logo="http://87.cie-eg.com:80/images/f3a8dd7b8ae8964743183c02e7e9f9f8.png" group-title="Premier",Discovery HD
@@ -443,7 +437,5 @@ http://soloip.co:80/live/AlaaHussein/Hayat2025/60069.m3u8
 http://soloip.co:80/live/AlaaHussein/Hayat2025/60073.m3u8
 #EXTINF:-1 tvg-name="History 2" tvg-logo="http://87.cie-eg.com:80/images/e6a208d48e46a2371fba169648ee4539.png" group-title="Premier",History 2
 http://soloip.co:80/live/AlaaHussein/Hayat2025/12526.m3u8
-#EXTINF:-1 tvg-name="Planet Earth HD" group-title="Premier",Planet Earth HD
+#EXTINF:-1 tvg-name="Planet Earth HD" tvg-logo="https://calama.bbcstudios.com//api/assets/33ca4da5-e512-41ee-ae7e-9801c035a5c8" group-title=",Planet Earth HD
 http://soloip.co:80/live/AlaaHussein/Hayat2025/60064.m3u8
-#EXTINF:-1 tvg-name="Nature Time" group-title="Premier",Nature Time
-http://soloip.co:80/live/AlaaHussein/Hayat2025/60054.m3u8
