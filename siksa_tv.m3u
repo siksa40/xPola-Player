@@ -18,7 +18,7 @@ http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/10515.ts
 #EXTINF:-1 tvg-name="Dz | Algerie Edhakira TV8" tvg-logo="http://148.251.133.153:8181/logo/chn/6547.png" group-title="Algérie",Dz | Algerie Edhakira TV8
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/66680.ts
 #EXTINF:-1 tvg-name="Dz | El Heddaf TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6596.png" group-title="Algérie",Dz | El Heddaf TV
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/1730.ts
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/221422.ts
 #EXTINF:-1 tvg-name="Dz | Echorouk TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6532.png" group-title="Algérie",Dz | Echorouk TV
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/1717.ts
 #EXTINF:-1 tvg-name="Dz | Echorouk News" tvg-logo="http://148.251.133.153:8181/logo/chn/6533.png" group-title="Algérie",Dz | Echorouk News
@@ -26,17 +26,17 @@ http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/1718.ts
 #EXTINF:-1 tvg-name="Dz | Ennahar TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6541.png" group-title="Algérie",Dz | Ennahar TV
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/1719.ts
 #EXTINF:-1 tvg-name="Dz | Al Hayat TV Algerie" tvg-logo="http://148.251.133.153:8181/logo/chn/6550.png" group-title="Algérie",Dz | Al Hayat TV Algerie
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/1728.ts
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/221427.ts
 #EXTINF:-1 tvg-name="Dz | El Bilad TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6536.png" group-title="Algérie",Dz | El Bilad TV
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/1723.ts
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/221423.ts
 #EXTINF:-1 tvg-name="Dz | Watania TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6555.png" group-title="Algérie",Dz | Watania TV
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/66685.ts
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/221416.ts
 #EXTINF:-1 tvg-name="Dz | Salam TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6558.png" group-title="Algérie",Dz | Salam TV
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/66684.ts
 #EXTINF:-1 tvg-name="Dz | El Fadjr TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6554.png" group-title="Algérie",Dz | El Fadjr TV
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/1727.ts
 #EXTINF:-1 tvg-name="Dz | Samira TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6534.png" group-title="Algérie",Dz | Samira TV
-http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/1724.ts
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/221421.ts
 #EXTINF:-1 tvg-name="Dz | Zahra TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6559.png" group-title="Algérie",Dz | Zahra TV
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/66681.ts
 #EXTINF:-1 tvg-name="AL-FAJER TV 1 HD" tvg-logo="http://tayaara.store:80/images/marvel/1716985163331.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 1 HD
@@ -125,60 +125,42 @@ http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5354.ts
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5366.ts
 #EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-name="beIN SP⚽RTS ʰᵉᵛᶜ 9" tvg-logo="https://i.ibb.co/Z6H4Lw1M/bein-sports-1.png" group-title="BEIN SPORTS",beIN SP⚽RTS ʰᵉᵛᶜ 9
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/5367.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222912.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://www14.0zz0.com/2022/01/27/22/454939537.png" group-title="BEIN FHD",BEIN SPORTS 1 HD GHD
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/222912.ts
+#EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://www14.0zz0.com/2022/01/27/22/818970998.png" group-title="BEIN FHD",BEIN SPORTS 2 HD GHD
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/222913.ts
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://www14.0zz0.com/2022/01/27/22/798340876.png" group-title="BEIN FHD",BEIN SPORTS 3 HD GHD
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/222914.ts
+#EXTINF:-1 tvg-id="BeIN Sports 4" tvg-name="BEIN SPORTS 4 HD GHD" tvg-logo="https://www14.0zz0.com/2022/01/27/22/188068553.png" group-title="BEIN FHD",BEIN SPORTS 4 HD GHD
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/222915.ts
+#EXTINF:-1 tvg-id="BeIN Sports 5" tvg-name="BEIN SPORTS 5 HD GHD" tvg-logo="https://www6.0zz0.com/2022/01/27/22/181309184.png" group-title="BEIN FHD",BEIN SPORTS 5 HD GHD
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/222916.ts
+#EXTINF:-1 tvg-id="BeIN Sports 6" tvg-name="BEIN SPORTS 6 HD GHD" tvg-logo="https://www6.0zz0.com/2022/01/27/22/452839047.png" group-title="BEIN FHD",BEIN SPORTS 6 HD GHD
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/222917.ts
+#EXTINF:-1 tvg-name="BEIN SPORTS 7 HD GHD " tvg-logo="https://www14.0zz0.com/2022/01/27/22/819528568.png" group-title="BEIN FHD",BEIN SPORTS 7 HD GHD
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/222918.ts
+#EXTINF:-1 tvg-id="BeIN Sports 8" tvg-name="BEIN SPORTS 8 HD GHD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN FHD",BEIN SPORTS 8 HD GHD
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/222919.ts
+#EXTINF:-1 tvg-id="BeIN Sports 9" tvg-name="BEIN SPORTS 9 HD GHD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="BEIN FHD",BEIN SPORTS 9 HD GHD
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/222920.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="beIN SPORTS 4K",beIN SPORTS 1 4K
 http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661030.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="beIN SPORTS HD",beIN SPORTS 2 HD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222913.m3u8
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="beIN SPORTS 4K",beIN SPORTS 2 4K
 http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661031.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="beIN SPORTS HD",beIN SPORTS 3 HD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222914.m3u8
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs34k.png" group-title="beIN SPORTS 4K",beIN SPORTS 3 4K
 http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661032.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="beIN SPORTS HD",beIN SPORTS 4 HD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222915.m3u8
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs44k.png" group-title="beIN SPORTS 4K",beIN SPORTS 4 4K
 http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661033.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5hd.png" group-title="beIN SPORTS HD",beIN SPORTS 5 HD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222916.m3u8
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs54k.png" group-title="beIN SPORTS 4K",beIN SPORTS 5 4K
 http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661034.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6hd.png" group-title="beIN SPORTS HD",beIN SPORTS 6 HD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222917.m3u8
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs64k.png" group-title="beIN SPORTS 4K",beIN SPORTS 6 4K
 http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661035.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7hd.png" group-title="beIN SPORTS HD",beIN SPORTS 7 HD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222918.m3u8
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs74k.png" group-title="beIN SPORTS 4K",beIN SPORTS 7 4K
 http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661036.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8hd.png" group-title="beIN SPORTS HD",beIN SPORTS 8 HD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222919.m3u8
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs84k.png" group-title="beIN SPORTS 4K",beIN SPORTS 8 4K
 http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661037.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9hd.png" group-title="beIN SPORTS HD",beIN SPORTS 9 HD
-http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/852915.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs94k.png" group-title="beIN SPORTS 4K",beIN SPORTS 9 4K
 http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661038.ts
-#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 1 SD SS
-http://135.125.109.73:9000/beinsport1_.m3u8
-#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="|AR| BEIN SPORTS 2 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 2 SD SS
-http://135.125.109.73:9000/beinsport2_.m3u8
-#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="|AR| BEIN SPORTS 3 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 3 SD SS
-http://135.125.109.73:9000/beinsport3_.m3u8
-#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="|AR| BEIN SPORTS 4 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 4 SD SS
-http://135.125.109.73:9000/beinsport4_.m3u8
-#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="|AR| BEIN SPORTS 5 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_5.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 5 SD SS
-http://135.125.109.73:9000/beinsport5_.m3u8
-#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="|AR| BEIN SPORTS 6 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_6.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 6 SD SS
-http://135.125.109.73:9000/beinsport6_.m3u8
-#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="|AR| BEIN SPORTS 7 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_7.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 7 SD SS
-http://135.125.109.73:9000/beinsport7_.m3u8
-#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="|AR| BEIN SPORTS 8 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_8.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 8 SD SS
-http://135.125.109.73:9000/beinsport8_.m3u8
-#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="|AR| BEIN SPORTS 9 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_9.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 9 SD SS
-http://135.125.109.73:9000/beinsport9_.m3u8
 #EXTINF:-1 tvg-name="ALWAN SPORTS 1 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 1 FHD
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120808.ts
 #EXTINF:-1 tvg-name="ALWAN SPORTS 2 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 2 FHD
@@ -228,25 +210,25 @@ http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/77527.ts
 #EXTINF:-1 tvg-name="AR: StarzPlay SPORTS 2 HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f2%2f16%2fad-sports-premium-1.png" group-title="ARABIC SPORTS",AR: StarzPlay SPORTS 2 HD
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/77528.ts
 #EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="|FR| BEIN SPORTS 1 FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/9913.png" group-title="FRANCE SPORTS",|FR| BEIN SPORTS 1 FHD
-http://ottsansat.org:88/02028397098883/6335414088/126935
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/265450.ts
 #EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="|FR| BEIN SPORTS 2 FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/9914.png" group-title="FRANCE SPORTS",|FR| BEIN SPORTS 2 FHD
-http://ottsansat.org:88/02028397098883/6335414088/126936
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/265451.ts
 #EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="|FR| BEIN SPORTS 3 FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/9915.png" group-title="FRANCE SPORTS",|FR| BEIN SPORTS 3 FHD
-http://ottsansat.org:88/02028397098883/6335414088/126937
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/265452.ts
 #EXTINF:-1 tvg-ID="beINSPORTSMAX4.fr" tvg-name="|FR| BEIN MAX 4 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_4.png" group-title="FRANCE SPORTS",|FR| BEIN MAX 4 FHD
-http://ottsansat.org:88/02028397098883/6335414088/126938
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/265453.ts
 #EXTINF:-1 tvg-ID="beINSPORTSMAX5.fr" tvg-name="|FR| BEIN MAX 5 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_5.png" group-title="FRANCE SPORTS",|FR| BEIN MAX 5 FHD
-http://ottsansat.org:88/02028397098883/6335414088/126939
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/265454.ts
 #EXTINF:-1 tvg-ID="beINSPORTSMAX6.fr" tvg-name="|FR| BEIN MAX 6 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_6.png" group-title="FRANCE SPORTS",|FR| BEIN MAX 6 FHD
-http://ottsansat.org:88/02028397098883/6335414088/126940
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/265455.ts
 #EXTINF:-1 tvg-ID="beINSPORTSMAX7.fr" tvg-name="|FR| BEIN MAX 7 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_7.png" group-title="FRANCE SPORTS",|FR| BEIN MAX 7 FHD
-http://ottsansat.org:88/02028397098883/6335414088/126941
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/265456.ts
 #EXTINF:-1 tvg-ID="beINSPORTSMAX8.fr" tvg-name="|FR| BEIN MAX 8 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_8.png" group-title="FRANCE SPORTS",|FR| BEIN MAX 8 FHD
-http://ottsansat.org:88/02028397098883/6335414088/126942
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/265457.ts
 #EXTINF:-1 tvg-ID="beINSPORTSMAX9.fr" tvg-name="|FR| BEIN MAX 9 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_9.png" group-title="FRANCE SPORTS",|FR| BEIN MAX 9 FHD
-http://ottsansat.org:88/02028397098883/6335414088/126943
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/265458.ts
 #EXTINF:-1 tvg-ID="beINSPORTSMAX10.fr" tvg-name="|FR| BEIN MAX 10 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_10.png" group-title="FRANCE SPORTS",|FR| BEIN MAX 10 FHD
-http://ottsansat.org:88/02028397098883/6335414088/126944
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/265459.ts
 #EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL+ FOOT FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+FOOT.png" group-title="FRANCE MY CANAL",|FR| CANAL+ FOOT FHD
 http://ottsansat.org:88/02028397098883/6335414088/126832
 #EXTINF:-1 tvg-ID="canalplussport360.fr" tvg-name="|FR| CANAL+ 360 FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+SPORT360.png" group-title="FRANCE MY CANAL",|FR| CANAL+ 360 FHD
@@ -320,7 +302,7 @@ http://ottsansat.org:88/02028397098883/6335414088/861338
 #EXTINF:-1 tvg-name="|FR| AVENGERS" group-title="FRANCE CINEMA",|FR| AVENGERS
 http://ottsansat.org:88/02028397098883/6335414088/861416
 #EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="|FR| USHUAIA HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/USHUAIA_TV.png" group-title="FRANCE DECOUVERTE",|FR| USHUAIA HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127072
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/265420.ts
 #EXTINF:-1 tvg-ID="animaux.fr" tvg-name="|FR| ANIMAUX HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/ANIMAUX.png" group-title="FRANCE DECOUVERTE",|FR| ANIMAUX HEVC
 http://ottsansat.org:88/02028397098883/6335414088/127073
 #EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="|FR| CHASSE&PECHE HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/CHASSE_ET_PECHE.png" group-title="FRANCE DECOUVERTE",|FR| CHASSE&PECHE HEVC
