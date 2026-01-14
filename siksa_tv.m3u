@@ -144,22 +144,40 @@ http://u.goldeniptv.com:2052/live/rashad1/rashad1/222919.ts
 #EXTINF:-1 tvg-id="BeIN Sports 9" tvg-name="BEIN SPORTS 9 HD GHD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="BEIN FHD",BEIN SPORTS 9 HD GHD
 http://u.goldeniptv.com:2052/live/rashad1/rashad1/222920.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="beIN SPORTS 4K",beIN SPORTS 1 4K
-http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661030.ts
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/846576.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="beIN SPORTS 4K",beIN SPORTS 2 4K
-http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661031.ts
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/846575.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs34k.png" group-title="beIN SPORTS 4K",beIN SPORTS 3 4K
-http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661032.ts
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/846574.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs44k.png" group-title="beIN SPORTS 4K",beIN SPORTS 4 4K
-http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661033.ts
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/846573.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs54k.png" group-title="beIN SPORTS 4K",beIN SPORTS 5 4K
-http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661034.ts
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/846572.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs64k.png" group-title="beIN SPORTS 4K",beIN SPORTS 6 4K
-http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661035.ts
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/846571.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs74k.png" group-title="beIN SPORTS 4K",beIN SPORTS 7 4K
-http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661036.ts
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/846570.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs84k.png" group-title="beIN SPORTS 4K",beIN SPORTS 8 4K
-http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661037.ts
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/846569.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs94k.png" group-title="beIN SPORTS 4K",beIN SPORTS 9 4K
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/846568.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
+http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661030.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="beIN SPORTS HD",beIN SPORTS 2 HD
+http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661031.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="beIN SPORTS HD",beIN SPORTS 3 HD
+http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661032.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="beIN SPORTS HD",beIN SPORTS 4 HD
+http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661033.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5hd.png" group-title="beIN SPORTS HD",beIN SPORTS 5 HD
+http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661034.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6hd.png" group-title="beIN SPORTS HD",beIN SPORTS 6 HD
+http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661035.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7hd.png" group-title="beIN SPORTS HD",beIN SPORTS 7 HD
+http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661036.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8hd.png" group-title="beIN SPORTS HD",beIN SPORTS 8 HD
+http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661037.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9hd.png" group-title="beIN SPORTS HD",beIN SPORTS 9 HD
 http://sansatplus.net:88/live/88223/pAvmtsSlqtrxPA5/661038.ts
 #EXTINF:-1 tvg-name="ALWAN SPORTS 1 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 1 FHD
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/120808.ts
@@ -302,11 +320,11 @@ http://ottsansat.org:88/02028397098883/6335414088/861338
 #EXTINF:-1 tvg-name="|FR| AVENGERS" group-title="FRANCE CINEMA",|FR| AVENGERS
 http://ottsansat.org:88/02028397098883/6335414088/861416
 #EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="|FR| USHUAIA HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/USHUAIA_TV.png" group-title="FRANCE DECOUVERTE",|FR| USHUAIA HEVC
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/265420.ts
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/20624.ts
 #EXTINF:-1 tvg-ID="animaux.fr" tvg-name="|FR| ANIMAUX HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/ANIMAUX.png" group-title="FRANCE DECOUVERTE",|FR| ANIMAUX HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127073
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/20683.ts
 #EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="|FR| CHASSE&PECHE HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/CHASSE_ET_PECHE.png" group-title="FRANCE DECOUVERTE",|FR| CHASSE&PECHE HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127074
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/20679.ts
 #EXTINF:-1 tvg-ID="seasons.fr" tvg-name="|FR| SEASONS HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/SEASONS.png" group-title="FRANCE DECOUVERTE",|FR| SEASONS HEVC
 http://ottsansat.org:88/02028397098883/6335414088/127069
 #EXTINF:-1 tvg-ID="histoire.fr" tvg-name="|FR| HISTOIRE HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/HISTOIRE_TV.png" group-title="FRANCE DECOUVERTE",|FR| HISTOIRE HEVC
@@ -322,11 +340,11 @@ http://ottsansat.org:88/02028397098883/6335414088/127065
 #EXTINF:-1 tvg-ID="trek.fr" tvg-name="|FR| TREK HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/TREK.png" group-title="FRANCE DECOUVERTE",|FR| TREK HEVC
 http://ottsansat.org:88/02028397098883/6335414088/127066
 #EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+ HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/PLANETE+.png" group-title="FRANCE DECOUVERTE",|FR| PLANETE+ HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127056
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/20635.ts
 #EXTINF:-1 tvg-ID="action.fr" tvg-name="|FR| PLANETE A&E HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/PLANETE+A_end_E.png" group-title="FRANCE DECOUVERTE",|FR| PLANETE A&E HEVC
 http://ottsansat.org:88/02028397098883/6335414088/127057
 #EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+ CI HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/PLANETE+CI.png" group-title="FRANCE DECOUVERTE",|FR| PLANETE+ CI HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127058
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/20634.ts
 #EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="|FR| NAT GEO HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/NATIONAL_GEO.png" group-title="FRANCE DECOUVERTE",|FR| NAT GEO HEVC
 http://ottsansat.org:88/02028397098883/6335414088/127059
 #EXTINF:-1 tvg-ID="NatGeoWild.fr" tvg-name="|FR| NAT GEO WILD HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/NATIONAL_GEOGRAPHIC_WILD.png" group-title="FRANCE DECOUVERTE",|FR| NAT GEO WILD HEVC
