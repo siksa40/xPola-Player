@@ -272,17 +272,17 @@ http://ottsansat.org:88/02028397098883/6335414088/126815
 #EXTINF:-1 tvg-ID="canalplusgrandecran.fr" tvg-name="|FR| CANAL+ GRAND ECRAN 4K" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+GRAND_ECRAN.png" group-title="FRANCE MY CANAL",|FR| CANAL+ GRAND ECRAN 4K
 http://ottsansat.org:88/02028397098883/6335414088/224456
 #EXTINF:-1 tvg-ID="CinePlusPremier.be" tvg-name="|FR| CINE+ PREMIER HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2456_440_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+ PREMIER HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127235
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393335.ts
 #EXTINF:-1 tvg-ID="CinePlusFrisson.fr" tvg-name="|FR| CINE+ FRISSON HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2267_438_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+ FRISSON HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127236
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393337.ts
 #EXTINF:-1 tvg-ID="CinePlusEmotion.fr" tvg-name="|FR| CINE+ EMOTION HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245B_440_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+ EMOTION HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127237
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393342.ts
 #EXTINF:-1 tvg-ID="cineplusamiz.fr" tvg-name="|FR| CINE+ FAMIZ HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2268_438_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+ FAMIZ HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127238
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393340.ts
 #EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="|FR| CINE+ CLUB HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B9_43E_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+ CLUB HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127239
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393344.ts
 #EXTINF:-1 tvg-ID="CinePlusClassic.fr" tvg-name="|FR| CINE+  CLASSIC HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2269_438_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+  CLASSIC HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127240
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393347.ts
 #EXTINF:-1 tvg-ID="WarnerTV.fr" tvg-name="|FR| WARNER TV HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196A_44E_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| WARNER TV HEVC
 http://ottsansat.org:88/02028397098883/6335414088/127246
 #EXTINF:-1 tvg-ID="NovelasTV.fr" tvg-name="|FR| NOVELAS TV HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE.CINEMA/NOVELAS_TV.png" group-title="FRANCE CINEMA",|FR| NOVELAS TV HEVC
@@ -330,7 +330,7 @@ http://ottsansat.org:88/02028397098883/6335414088/861338
 #EXTINF:-1 tvg-name="|FR| AVENGERS" group-title="FRANCE CINEMA",|FR| AVENGERS
 http://ottsansat.org:88/02028397098883/6335414088/861416
 #EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="|FR| USHUAIA HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/USHUAIA_TV.png" group-title="FRANCE DECOUVERTE",|FR| USHUAIA HEVC
-http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/20624.ts
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393125.ts
 #EXTINF:-1 tvg-ID="animaux.fr" tvg-name="|FR| ANIMAUX HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/ANIMAUX.png" group-title="FRANCE DECOUVERTE",|FR| ANIMAUX HEVC
 http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/20683.ts
 #EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="|FR| CHASSE&PECHE HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/CHASSE_ET_PECHE.png" group-title="FRANCE DECOUVERTE",|FR| CHASSE&PECHE HEVC
@@ -342,11 +342,9 @@ http://ottsansat.org:88/02028397098883/6335414088/127067
 #EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="|FR| TOUTE L HISTOIRE HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/Toute_L_Histoire.png" group-title="FRANCE DECOUVERTE",|FR| TOUTE L HISTOIRE HEVC
 http://ottsansat.org:88/02028397098883/6335414088/127068
 #EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="|FR| DISCOVERY HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/Discovery_HD.png" group-title="FRANCE DECOUVERTE",|FR| DISCOVERY HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127061
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393326.ts
 #EXTINF:-1 tvg-ID="discoveryinvestigation.fr" tvg-name="|FR| DISCOVERY ID HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/ID_HD.png" group-title="FRANCE DECOUVERTE",|FR| DISCOVERY ID HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127064
-#EXTINF:-1 tvg-ID="discoveryinvestigation.fr" tvg-name="|FR| DISCOVERY INVESTIGATION HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/INVESTIGATION_DISCOVERY_HD.png" group-title="FRANCE DECOUVERTE",|FR| DISCOVERY INVESTIGATION HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127065
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393324.ts
 #EXTINF:-1 tvg-ID="trek.fr" tvg-name="|FR| TREK HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/TREK.png" group-title="FRANCE DECOUVERTE",|FR| TREK HEVC
 http://ottsansat.org:88/02028397098883/6335414088/127066
 #EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+ HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/PLANETE+.png" group-title="FRANCE DECOUVERTE",|FR| PLANETE+ HEVC
@@ -358,70 +356,70 @@ http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/20634.ts
 #EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="|FR| NAT GEO HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/NATIONAL_GEO.png" group-title="FRANCE DECOUVERTE",|FR| NAT GEO HEVC
 http://ottsansat.org:88/02028397098883/6335414088/127059
 #EXTINF:-1 tvg-ID="NatGeoWild.fr" tvg-name="|FR| NAT GEO WILD HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/NATIONAL_GEOGRAPHIC_WILD.png" group-title="FRANCE DECOUVERTE",|FR| NAT GEO WILD HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127060
-#EXTINF:-1 tvg-name="AL Yawm HD" tvg-logo="http://87.cie-eg.com:80/images/c461be1f8daa1e5194bbe058bf311b37.png" group-title="Premier",AL Yawm HD
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393247.ts
+#EXTINF:-1 tvg-name="AL Yawm HD" tvg-logo="http://87.cie-eg.com:80/images/c461be1f8daa1e5194bbe058bf311b37.png" group-title="OSN",AL Yawm HD
 http://soloip.co:80/live/AlaaHussein/Hayat2025/15188.m3u8
-#EXTINF:-1 tvg-name="Al Safwa HD" tvg-logo="http://87.cie-eg.com:80/images/7c5fc8889b6e3c8756abbd76353d68e7.png" group-title="Premier",Al Safwa HD
+#EXTINF:-1 tvg-name="Al Safwa HD" tvg-logo="http://87.cie-eg.com:80/images/7c5fc8889b6e3c8756abbd76353d68e7.png" group-title="OSN",Al Safwa HD
 http://soloip.co:80/live/AlaaHussein/Hayat2025/12521.m3u8
-#EXTINF:-1 tvg-name="Cinema 1 HD" tvg-logo="http://87.cie-eg.com:80/images/90d22badf1f3808247933d2037c3b335.png" group-title="Premier",Cinema 1 HD
+#EXTINF:-1 tvg-name="Cinema 1 HD" tvg-logo="http://87.cie-eg.com:80/images/90d22badf1f3808247933d2037c3b335.png" group-title="OSN",Cinema 1 HD
 http://soloip.co:80/live/AlaaHussein/Hayat2025/88.m3u8
-#EXTINF:-1 tvg-name="Cinema 2 HD" tvg-logo="http://87.cie-eg.com:80/images/89ffa304ab48c17fb7a5421a3e9c57a0.png" group-title="Premier",Cinema 2 HD
+#EXTINF:-1 tvg-name="Cinema 2 HD" tvg-logo="http://87.cie-eg.com:80/images/89ffa304ab48c17fb7a5421a3e9c57a0.png" group-title="OSN",Cinema 2 HD
 http://soloip.co:80/live/AlaaHussein/Hayat2025/43.m3u8
-#EXTINF:-1 tvg-name="Musalsalat HD" tvg-logo="http://87.cie-eg.com:80/images/145b18e0cb047d3fb5504472ebd1ffed.png" group-title="Premier",Musalsalat HD
+#EXTINF:-1 tvg-name="Musalsalat HD" tvg-logo="http://87.cie-eg.com:80/images/145b18e0cb047d3fb5504472ebd1ffed.png" group-title="OSN",Musalsalat HD
 http://soloip.co:80/live/AlaaHussein/Hayat2025/12525.m3u8
-#EXTINF:-1 tvg-name="Musalsalat 2" tvg-logo="http://87.cie-eg.com:80/images/47cf61adc363abd73299adab75ebbf3f.png" group-title="Premier",Musalsalat 2
+#EXTINF:-1 tvg-name="Musalsalat 2" tvg-logo="http://87.cie-eg.com:80/images/47cf61adc363abd73299adab75ebbf3f.png" group-title="OSN",Musalsalat 2
 http://soloip.co:80/live/AlaaHussein/Hayat2025/60070.m3u8
-#EXTINF:-1 tvg-name="Ya Hala HD" tvg-logo="http://87.cie-eg.com:80/images/4394247b18811d27b329e3190b491579.png" group-title="Premier",Ya Hala HD
+#EXTINF:-1 tvg-name="Ya Hala HD" tvg-logo="http://87.cie-eg.com:80/images/4394247b18811d27b329e3190b491579.png" group-title="OSN",Ya Hala HD
 http://soloip.co:80/live/AlaaHussein/Hayat2025/235.m3u8
-#EXTINF:-1 tvg-id="OSN YA HALA AL OULA ARB" tvg-name="Ya Hala Bel Araby" tvg-logo="http://87.cie-eg.com:80/images/42552192cea63208caf335e2cc9d0e71.png" group-title="Premier",Ya Hala Bel Araby
+#EXTINF:-1 tvg-id="OSN YA HALA AL OULA ARB" tvg-name="Ya Hala Bel Araby" tvg-logo="http://87.cie-eg.com:80/images/42552192cea63208caf335e2cc9d0e71.png" group-title="OSN",Ya Hala Bel Araby
 http://soloip.co:80/live/AlaaHussein/Hayat2025/60051.m3u8
-#EXTINF:-1 tvg-name="Ya Hala Aflam HD" tvg-logo="http://87.cie-eg.com:80/images/68b1ec5d58a3b1e187212b5008bc3def.png" group-title="Premier",Ya Hala Aflam HD
+#EXTINF:-1 tvg-name="Ya Hala Aflam HD" tvg-logo="http://87.cie-eg.com:80/images/68b1ec5d58a3b1e187212b5008bc3def.png" group-title="OSN",Ya Hala Aflam HD
 http://soloip.co:80/live/AlaaHussein/Hayat2025/12506.m3u8
-#EXTINF:-1 tvg-name="Movies Action HD" tvg-logo="http://87.cie-eg.com:80/images/99fb9fb13896d0b2e815229588e62149.png" group-title="Premier",Movies Action HD
+#EXTINF:-1 tvg-name="Movies Action HD" tvg-logo="http://87.cie-eg.com:80/images/99fb9fb13896d0b2e815229588e62149.png" group-title="OSN",Movies Action HD
 http://soloip.co:80/live/AlaaHussein/Hayat2025/1497.m3u8
-#EXTINF:-1 tvg-name="Movies Family HD" tvg-logo="http://87.cie-eg.com:80/images/31cbf19e1f25daa2da3b313743519037.png" group-title="Premier",Movies Family HD
+#EXTINF:-1 tvg-name="Movies Family HD" tvg-logo="http://87.cie-eg.com:80/images/31cbf19e1f25daa2da3b313743519037.png" group-title="OSN",Movies Family HD
 http://soloip.co:80/live/AlaaHussein/Hayat2025/60062.m3u8
-#EXTINF:-1 tvg-name="Movies Premiere HD" tvg-logo="http://87.cie-eg.com/images/1437687e7ca19be30b20a8e51851dc7a.png" group-title="Premier",Movies Premiere HD
+#EXTINF:-1 tvg-name="Movies Premiere HD" tvg-logo="http://87.cie-eg.com/images/1437687e7ca19be30b20a8e51851dc7a.png" group-title="OSN",Movies Premiere HD
 http://soloip.co:80/live/AlaaHussein/Hayat2025/25141.m3u8
-#EXTINF:-1 tvg-name="Movies Comedy HD" tvg-logo="http://87.cie-eg.com/images/202342a948c6ff1cff27612d79d1c20b.png" group-title="Premier",Movies Comedy HD
+#EXTINF:-1 tvg-name="Movies Comedy HD" tvg-logo="http://87.cie-eg.com/images/202342a948c6ff1cff27612d79d1c20b.png" group-title="OSN",Movies Comedy HD
 http://soloip.co:80/live/AlaaHussein/Hayat2025/1493.m3u8
-#EXTINF:-1 tvg-name="Movies Hollywood HD" tvg-logo="http://87.cie-eg.com:80/images/f290a09d70be7b26c1e0374732287106.png" group-title="Premier",Movies Hollywood HD
+#EXTINF:-1 tvg-name="Movies Hollywood HD" tvg-logo="http://87.cie-eg.com:80/images/f290a09d70be7b26c1e0374732287106.png" group-title="OSN",Movies Hollywood HD
 http://soloip.co:80/live/AlaaHussein/Hayat2025/1489.m3u8
-#EXTINF:-1 tvg-name="Movies Horror" tvg-logo="http://87.cie-eg.com:80/images/73ea7b120dd13d548d2e56262ebd6654.png" group-title="Premier",Movies Horror
+#EXTINF:-1 tvg-name="Movies Horror" tvg-logo="http://87.cie-eg.com:80/images/73ea7b120dd13d548d2e56262ebd6654.png" group-title="OSN",Movies Horror
 http://soloip.co:80/live/AlaaHussein/Hayat2025/54345.m3u8
-#EXTINF:-1 tvg-name="Movies Showcase" tvg-logo="http://87.cie-eg.com:80/images/4f02b57a1ffdb59283415d96b62994c1.png" group-title="Premier",Movies Showcase
+#EXTINF:-1 tvg-name="Movies Showcase" tvg-logo="http://87.cie-eg.com:80/images/4f02b57a1ffdb59283415d96b62994c1.png" group-title="OSN",Movies Showcase
 http://soloip.co:80/live/AlaaHussein/Hayat2025/1795.m3u8
-#EXTINF:-1 tvg-name="Movies Showcase Classics" tvg-logo="http://87.cie-eg.com:80/images/d4f3255a163ffc89a90dcfc1275787b4.png" group-title="Premier",Movies Showcase Classics
+#EXTINF:-1 tvg-name="Movies Showcase Classics" tvg-logo="http://87.cie-eg.com:80/images/d4f3255a163ffc89a90dcfc1275787b4.png" group-title="OSN",Movies Showcase Classics
 http://soloip.co:80/live/AlaaHussein/Hayat2025/1762.m3u8
-#EXTINF:-1 tvg-name="Movies Showcase Classics HD" tvg-logo="http://87.cie-eg.com:80/images/d4f3255a163ffc89a90dcfc1275787b4.png" group-title="Premier",Movies Showcase Classics HD
+#EXTINF:-1 tvg-name="Movies Showcase Classics HD" tvg-logo="http://87.cie-eg.com:80/images/d4f3255a163ffc89a90dcfc1275787b4.png" group-title="OSN",Movies Showcase Classics HD
 http://soloip.co:80/live/AlaaHussein/Hayat2025/54350.m3u8
-#EXTINF:-1 tvg-name="Osn One" tvg-logo="http://87.cie-eg.com:80/images/29a636a992fc29e1e96699c4883dda26.png" group-title="Premier",Osn One
+#EXTINF:-1 tvg-name="Osn One" tvg-logo="http://87.cie-eg.com:80/images/29a636a992fc29e1e96699c4883dda26.png" group-title="OSN",Osn One
 http://soloip.co:80/live/AlaaHussein/Hayat2025/1782.m3u8
-#EXTINF:-1 tvg-name="Osn Crime" tvg-logo="http://87.cie-eg.com:80/images/cf3f54420f518fe94531b0e03b4fe5f2.png" group-title="Premier",Osn Crime
+#EXTINF:-1 tvg-name="Osn Crime" tvg-logo="http://87.cie-eg.com:80/images/cf3f54420f518fe94531b0e03b4fe5f2.png" group-title="OSN",Osn Crime
 http://soloip.co:80/live/AlaaHussein/Hayat2025/21069.m3u8
-#EXTINF:-1 tvg-name="Osn Now" tvg-logo="http://87.cie-eg.com:80/images/cf91e20cd368c9e321eea7c7a5df5928.png" group-title="Premier",Osn Now
+#EXTINF:-1 tvg-name="Osn Now" tvg-logo="http://87.cie-eg.com:80/images/cf91e20cd368c9e321eea7c7a5df5928.png" group-title="OSN",Osn Now
 http://soloip.co:80/live/AlaaHussein/Hayat2025/267.m3u8
-#EXTINF:-1 tvg-name="TLC HD" tvg-logo="http://87.cie-eg.com:80/images/3367a1e7b2cf2ddda6dccf92a397ada9.png" group-title="Premier",TLC HD
+#EXTINF:-1 tvg-name="TLC HD" tvg-logo="http://87.cie-eg.com:80/images/3367a1e7b2cf2ddda6dccf92a397ada9.png" group-title="OSN",TLC HD
 http://soloip.co:80/live/AlaaHussein/Hayat2025/25144.m3u8
-#EXTINF:-1 tvg-name="Star Movies" tvg-logo="http://87.cie-eg.com:80/images/6bf07879df0b3053d079e0ed4dd8cd27.png" group-title="Premier",Star Movies
+#EXTINF:-1 tvg-name="Star Movies" tvg-logo="http://87.cie-eg.com:80/images/6bf07879df0b3053d079e0ed4dd8cd27.png" group-title="OSN",Star Movies
 http://soloip.co:80/live/AlaaHussein/Hayat2025/1796.m3u8
-#EXTINF:-1 tvg-name="Star Action" tvg-logo="http://87.cie-eg.com:80/images/f5c981c11d76faa6f95e9dfad16e3eb9.png" group-title="Premier",Star Action
+#EXTINF:-1 tvg-name="Star Action" tvg-logo="http://87.cie-eg.com:80/images/f5c981c11d76faa6f95e9dfad16e3eb9.png" group-title="OSN",Star Action
 http://soloip.co:80/live/AlaaHussein/Hayat2025/442.m3u8
-#EXTINF:-1 tvg-name="Star World" tvg-logo="http://87.cie-eg.com:80/images/27639220caf598afb7b90f5023aaf32d.png" group-title="Premier",Star World
+#EXTINF:-1 tvg-name="Star World" tvg-logo="http://87.cie-eg.com:80/images/27639220caf598afb7b90f5023aaf32d.png" group-title="OSN",Star World
 http://soloip.co:80/live/AlaaHussein/Hayat2025/54344.m3u8
-#EXTINF:-1 tvg-name="STC TV Cinema" tvg-logo="http://87.cie-eg.com:80/images/b1d69d7f6eceef8700a1dc70160ec0ff.png" group-title="Premier",STC TV Cinema
+#EXTINF:-1 tvg-name="STC TV Cinema" tvg-logo="http://87.cie-eg.com:80/images/b1d69d7f6eceef8700a1dc70160ec0ff.png" group-title="OSN",STC TV Cinema
 http://soloip.co:80/live/AlaaHussein/Hayat2025/1483.m3u8
-#EXTINF:-1 tvg-name="STC Drama" tvg-logo="http://87.cie-eg.com:80/images/b1d69d7f6eceef8700a1dc70160ec0ff.png" group-title="Premier",STC Drama
+#EXTINF:-1 tvg-name="STC Drama" tvg-logo="http://87.cie-eg.com:80/images/b1d69d7f6eceef8700a1dc70160ec0ff.png" group-title="OSN",STC Drama
 http://soloip.co:80/live/AlaaHussein/Hayat2025/60067.m3u8
-#EXTINF:-1 tvg-name="STC Family" tvg-logo="http://87.cie-eg.com:80/images/b1d69d7f6eceef8700a1dc70160ec0ff.png" group-title="Premier",STC Family
+#EXTINF:-1 tvg-name="STC Family" tvg-logo="http://87.cie-eg.com:80/images/b1d69d7f6eceef8700a1dc70160ec0ff.png" group-title="OSN",STC Family
 http://soloip.co:80/live/AlaaHussein/Hayat2025/1494.m3u8
-#EXTINF:-1 tvg-name="BeIN Movies Premiere" tvg-logo="http://87.cie-eg.com/images/baff16fb5a63b28b1a56d51ac11ff360.png" group-title="Premier",BeIN Movies Premiere
+#EXTINF:-1 tvg-name="BeIN Movies Premiere" tvg-logo="http://87.cie-eg.com/images/baff16fb5a63b28b1a56d51ac11ff360.png" group-title="OSN",BeIN Movies Premiere
 http://soloip.co:80/live/AlaaHussein/Hayat2025/246.m3u8
-#EXTINF:-1 tvg-name="BeIN Movies Action" tvg-logo="http://87.cie-eg.com/images/646cb29cc113d103982c068762446ac6.png" group-title="Premier",BeIN Movies Action
+#EXTINF:-1 tvg-name="BeIN Movies Action" tvg-logo="http://87.cie-eg.com/images/646cb29cc113d103982c068762446ac6.png" group-title="OSN",BeIN Movies Action
 http://soloip.co:80/live/AlaaHussein/Hayat2025/238.m3u8
-#EXTINF:-1 tvg-name="BeIN Movies Drama" tvg-logo="http://87.cie-eg.com/images/a874a4f2f5398964431d14f23d63ff93.png" group-title="Premier",BeIN Movies Drama
+#EXTINF:-1 tvg-name="BeIN Movies Drama" tvg-logo="http://87.cie-eg.com/images/a874a4f2f5398964431d14f23d63ff93.png" group-title="OSN",BeIN Movies Drama
 http://soloip.co:80/live/AlaaHussein/Hayat2025/262.m3u8
-#EXTINF:-1 tvg-name="BeIN Movies Family" tvg-logo="http://87.cie-eg.com/images/d0ab144b287bf3eebdbbcd8d03cb7d92.png" group-title="Premier",BeIN Movies Family
+#EXTINF:-1 tvg-name="BeIN Movies Family" tvg-logo="http://87.cie-eg.com/images/d0ab144b287bf3eebdbbcd8d03cb7d92.png" group-title="OSN",BeIN Movies Family
 http://soloip.co:80/live/AlaaHussein/Hayat2025/245.m3u8
 #EXTINF:-1 tvg-name="BeIN Drama" tvg-logo="http://87.cie-eg.com/images/687e9d9567bd1340b14ddd9a9b377780.png" group-title="Premier",BeIN Drama
 http://soloip.co:80/live/AlaaHussein/Hayat2025/12517.m3u8
