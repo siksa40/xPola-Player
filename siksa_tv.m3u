@@ -413,39 +413,39 @@ http://soloip.co:80/live/AlaaHussein/Hayat2025/1483.m3u8
 http://soloip.co:80/live/AlaaHussein/Hayat2025/60067.m3u8
 #EXTINF:-1 tvg-name="STC Family" tvg-logo="http://87.cie-eg.com:80/images/b1d69d7f6eceef8700a1dc70160ec0ff.png" group-title="OSN",STC Family
 http://soloip.co:80/live/AlaaHussein/Hayat2025/1494.m3u8
-#EXTINF:-1 tvg-name="BeIN Movies Premiere" tvg-logo="http://87.cie-eg.com/images/baff16fb5a63b28b1a56d51ac11ff360.png" group-title="OSN",BeIN Movies Premiere
+#EXTINF:-1 tvg-name="BeIN Movies Premiere" tvg-logo="http://87.cie-eg.com/images/baff16fb5a63b28b1a56d51ac11ff360.png" group-title="BeIN Movies",BeIN Movies Premiere
 http://soloip.co:80/live/AlaaHussein/Hayat2025/246.m3u8
-#EXTINF:-1 tvg-name="BeIN Movies Action" tvg-logo="http://87.cie-eg.com/images/646cb29cc113d103982c068762446ac6.png" group-title="OSN",BeIN Movies Action
+#EXTINF:-1 tvg-name="BeIN Movies Action" tvg-logo="http://87.cie-eg.com/images/646cb29cc113d103982c068762446ac6.png" group-title="BeIN Movies",BeIN Moviess Action
 http://soloip.co:80/live/AlaaHussein/Hayat2025/238.m3u8
-#EXTINF:-1 tvg-name="BeIN Movies Drama" tvg-logo="http://87.cie-eg.com/images/a874a4f2f5398964431d14f23d63ff93.png" group-title="OSN",BeIN Movies Drama
+#EXTINF:-1 tvg-name="BeIN Movies Drama" tvg-logo="http://87.cie-eg.com/images/a874a4f2f5398964431d14f23d63ff93.png" group-title="BeIN Movies",BeIN Movies Drama
 http://soloip.co:80/live/AlaaHussein/Hayat2025/262.m3u8
-#EXTINF:-1 tvg-name="BeIN Movies Family" tvg-logo="http://87.cie-eg.com/images/d0ab144b287bf3eebdbbcd8d03cb7d92.png" group-title="OSN",BeIN Movies Family
+#EXTINF:-1 tvg-name="BeIN Movies Family" tvg-logo="http://87.cie-eg.com/images/d0ab144b287bf3eebdbbcd8d03cb7d92.png" group-title="BeIN Movies",BeIN Movies Family
 http://soloip.co:80/live/AlaaHussein/Hayat2025/245.m3u8
-#EXTINF:-1 tvg-name="BeIN Drama" tvg-logo="http://87.cie-eg.com/images/687e9d9567bd1340b14ddd9a9b377780.png" group-title="Premier",BeIN Drama
+#EXTINF:-1 tvg-name="BeIN Drama" tvg-logo="http://87.cie-eg.com/images/687e9d9567bd1340b14ddd9a9b377780.png" group-title="BeIN Movies",BeIN Drama
 http://soloip.co:80/live/AlaaHussein/Hayat2025/12517.m3u8
-#EXTINF:-1 tvg-name="BeIN Series 1" tvg-logo="http://87.cie-eg.com/images/bdf3c56bc64df423d012f33974aed0c8.png" group-title="Premier",BeIN Series 1
+#EXTINF:-1 tvg-name="BeIN Series 1" tvg-logo="http://87.cie-eg.com/images/bdf3c56bc64df423d012f33974aed0c8.png" group-title="BeIN Movies",BeIN Series 1
 http://soloip.co:80/live/AlaaHussein/Hayat2025/12500.m3u8
-#EXTINF:-1 tvg-name="BeIN Series 2" tvg-logo="http://87.cie-eg.com/images/b8cd858c6bc6d7827df214e52d359516.png" group-title="Premier",BeIN Series 2
+#EXTINF:-1 tvg-name="BeIN Series 2" tvg-logo="http://87.cie-eg.com/images/b8cd858c6bc6d7827df214e52d359516.png" group-title="BeIN Movies",BeIN Series 2
 http://soloip.co:80/live/AlaaHussein/Hayat2025/1784.m3u8
-#EXTINF:-1 tvg-name="BeIN Fatafeat" tvg-logo="http://87.cie-eg.com:80/images/d97cc0614ef76b2557c6e4d0e028336d.png" group-title="Premier",BeIN Fatafeat
+#EXTINF:-1 tvg-name="BeIN Fatafeat" tvg-logo="http://87.cie-eg.com:80/images/d97cc0614ef76b2557c6e4d0e028336d.png" group-title="BeIN Movies",BeIN Fatafeat
 http://soloip.co:80/live/AlaaHussein/Hayat2025/3180.m3u8
-#EXTINF:-1 tvg-name="Mezze" tvg-logo="http://87.cie-eg.com:80/images/7134173fbfed2e48985b94dc2619bfaf.png" group-title="Premier",Mezze
+#EXTINF:-1 tvg-name="Mezze" tvg-logo="http://87.cie-eg.com:80/images/7134173fbfed2e48985b94dc2619bfaf.png" group-title="BeIN Movies",Mezze
 http://soloip.co:80/live/AlaaHussein/Hayat2025/12508.m3u8
-#EXTINF:-1 tvg-name="Nat Geo HD" tvg-logo="http://87.cie-eg.com:80/images/88f8f9a57cb3faec9b9427fbc3ec1eeb.png" group-title="Premier",Nat Geo HD
+#EXTINF:-1 tvg-name="Nat Geo HD" tvg-logo="http://87.cie-eg.com:80/images/88f8f9a57cb3faec9b9427fbc3ec1eeb.png" group-title="BeIN Movies",Nat Geo HD
 http://soloip.co:80/live/AlaaHussein/Hayat2025/1491.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Wild HD" tvg-logo="http://87.cie-eg.com:80/images/7c6ce5623c04899dfa224ba83c5fede9.png" group-title="Premier",Nat Geo Wild HD
+#EXTINF:-1 tvg-name="Nat Geo Wild HD" tvg-logo="http://87.cie-eg.com:80/images/7c6ce5623c04899dfa224ba83c5fede9.png" group-title="BeIN Movies",Nat Geo Wild HD
 http://soloip.co:80/live/AlaaHussein/Hayat2025/281.m3u8
-#EXTINF:-1 tvg-name="Discovery HD" tvg-logo="http://87.cie-eg.com:80/images/f3a8dd7b8ae8964743183c02e7e9f9f8.png" group-title="Premier",Discovery HD
+#EXTINF:-1 tvg-name="Discovery HD" tvg-logo="http://87.cie-eg.com:80/images/f3a8dd7b8ae8964743183c02e7e9f9f8.png" group-title="BeIN Movies",Discovery HD
 http://u.goldeniptv.com:2052/live/rashad1/rashad1/259828.ts
-#EXTINF:-1 tvg-name="Discovery ID HD" tvg-logo="http://87.cie-eg.com:80/images/b55ed9d1be2245dbc3c183cc6e1d4d1f.png" group-title="Premier",Discovery ID HD
+#EXTINF:-1 tvg-name="Discovery ID HD" tvg-logo="http://87.cie-eg.com:80/images/b55ed9d1be2245dbc3c183cc6e1d4d1f.png" group-title="BeIN Movies",Discovery ID HD
 http://soloip.co:80/live/AlaaHussein/Hayat2025/25158.m3u8
-#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="http://87.cie-eg.com:80/images/cd5451fbbc151dc5f8020fb1bbc9ef86.png" group-title="Premier",Animal Planet HD
+#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="http://87.cie-eg.com:80/images/cd5451fbbc151dc5f8020fb1bbc9ef86.png" group-title="BeIN Movies",Animal Planet HD
 http://soloip.co:80/live/AlaaHussein/Hayat2025/60069.m3u8
-#EXTINF:-1 tvg-name="History" tvg-logo="http://87.cie-eg.com:80/images/d6ecf663bc8305ea1a98c775daaf4c8f.png" group-title="Premier",History
+#EXTINF:-1 tvg-name="History" tvg-logo="http://87.cie-eg.com:80/images/d6ecf663bc8305ea1a98c775daaf4c8f.png" group-title="BeIN Movies",History
 http://soloip.co:80/live/AlaaHussein/Hayat2025/60073.m3u8
-#EXTINF:-1 tvg-name="History 2" tvg-logo="http://87.cie-eg.com:80/images/e6a208d48e46a2371fba169648ee4539.png" group-title="Premier",History 2
+#EXTINF:-1 tvg-name="History 2" tvg-logo="http://87.cie-eg.com:80/images/e6a208d48e46a2371fba169648ee4539.png" group-title="BeIN Movies",History 2
 http://soloip.co:80/live/AlaaHussein/Hayat2025/12526.m3u8
-#EXTINF:-1 tvg-name="Planet Earth HD" tvg-logo="https://calama.bbcstudios.com//api/assets/33ca4da5-e512-41ee-ae7e-9801c035a5c8" group-title="Premier",Planet Earth HD
+#EXTINF:-1 tvg-name="Planet Earth HD" tvg-logo="https://calama.bbcstudios.com//api/assets/33ca4da5-e512-41ee-ae7e-9801c035a5c8" group-title="BeIN Movies",Planet Earth HD
 http://soloip.co:80/live/AlaaHussein/Hayat2025/60064.m3u8
 #EXTINF:-1 tvg-id="",Rakuten TV Alerte Cobra
 https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8
