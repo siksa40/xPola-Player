@@ -50,7 +50,7 @@ https://3.3lok3.site:443/12345/12345/87
 #EXTINF:-1 tvg-name="AL-FAJER TV 4 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985192379.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 4 FHD
 https://3.3lok3.site:443/12345/12345/88
 #EXTINF:-1 tvg-name="AL-FAJER TV 5 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985203400.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 5 FHD
-https://3.3lok3.site:443/12345/12345/89
+https://htvmada.mada.ps:4443/raya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Ajyal TV" tvg-logo="http://tayaara.store:80/images/marvel/1716985203400.jpg" group-title="AL FAJER  CHANNELS",Ajyal TV
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 1 HD (50 FPS)
@@ -229,10 +229,16 @@ http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/77527.ts
 http://go.teaib.tv:8080/live/SuperIptv24/q9jLxX9hpq/77528.ts
 #EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="|FR| BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5114.png" group-title="|FR|BEIN SPORTS",|FR| BEIN SPORTS 1 FHD
 http://r665.io/live/PacoSico/sbTD8SJ/37291.ts
+#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="|FR| BEIN SPORTS 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/5114.png" group-title="|FR|BEIN SPORTS",|FR| BEIN SPORTS 1 HD
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393118.ts
 #EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="|FR| BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5115.png" group-title="|FR|BEIN SPORTS",|FR| BEIN SPORTS 2 FHD
 http://r665.io/live/PacoSico/sbTD8SJ/37185.ts
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="|FR| BEIN SPORTS 2 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/5115.png" group-title="|FR|BEIN SPORTS",|FR| BEIN SPORTS 2 HD
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393115.ts
 #EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="|FR| BEIN SPORTS 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5116.png" group-title="|FR|BEIN SPORTS",|FR| BEIN SPORTS 3 FHD
 http://r665.io/live/PacoSico/sbTD8SJ/12015.ts
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="|FR| BEIN SPORTS 3 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/5116.png" group-title="|FR|BEIN SPORTS",|FR| BEIN SPORTS 3 HD
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393112.ts
 #EXTINF:-1 tvg-ID="beINSPORTSMAX4.fr" tvg-name="|FR| BEIN MAX 4 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_4.png" group-title="|FR|BEIN SPORTS",|FR| BEIN MAX 4 FHD
 http://u.goldeniptv.com:2052/live/rashad1/rashad1/265453.ts
 #EXTINF:-1 tvg-ID="beINSPORTSMAX5.fr" tvg-name="|FR| BEIN MAX 5 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_5.png" group-title="|FR|BEIN SPORTS",|FR| BEIN MAX 5 FHD
@@ -249,10 +255,12 @@ http://u.goldeniptv.com:2052/live/rashad1/rashad1/265458.ts
 http://u.goldeniptv.com:2052/live/rashad1/rashad1/265459.ts
 #EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="|FR|CANAL SPORTS",|FR| CANAL+ FOOT FHD
 http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393370.ts
+#EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL+ FOOT HD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="|FR|CANAL SPORTS",|FR| CANAL+ FOOT HD
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/265017.ts
 #EXTINF:-1 tvg-ID="canalplussport360.fr" tvg-name="|FR| CANAL+ 360 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="|FR|CANAL SPORTS",|FR| CANAL+ 360 FHD
 http://ottsansat.org:88/02028397098883/6335414088/126834
-#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="|FR| CANAL+ SPORT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2076" group-title="|FR|CANAL SPORTS",|FR| CANAL+ SPORT FHD
-http://ottsansat.org:88/02028397098883/6335414088/126831
+#EXTINF:-1 tvg-ID="canalplussport360.fr" tvg-name="|FR| CANAL+ 360 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="|FR|CANAL SPORTS",|FR| CANAL+ 360 HD
+http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/265204.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-sport-1-afrique-1364.png" group-title="|FR|CANAL SPORTS",|AF| Canal+ Sport 1 HD
 http://r665.io/live/PacoSico/sbTD8SJ/61431.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-sport-2-africa-1496.png" group-title="|FR|CANAL SPORTS",|AF| Canal+ Sport 2 HD
@@ -328,7 +336,7 @@ http://ottsansat.org:88/02028397098883/6335414088/861338
 #EXTINF:-1 tvg-name="|FR| AVENGERS" group-title="FRANCE CINEMA",|FR| AVENGERS
 http://ottsansat.org:88/02028397098883/6335414088/861416
 #EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="|FR| USHUAIA HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/USHUAIA_TV.png" group-title="FRANCE DECOUVERTE",|FR| USHUAIA HEVC
-http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393125.ts
+http://filex.me:8080/live/drzain/002808/301949.ts
 #EXTINF:-1 tvg-ID="animaux.fr" tvg-name="|FR| ANIMAUX HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/ANIMAUX.png" group-title="FRANCE DECOUVERTE",|FR| ANIMAUX HEVC
 http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/20683.ts
 #EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="|FR| CHASSE&PECHE HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/CHASSE_ET_PECHE.png" group-title="FRANCE DECOUVERTE",|FR| CHASSE&PECHE HEVC
