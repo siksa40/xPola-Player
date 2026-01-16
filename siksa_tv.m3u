@@ -272,45 +272,53 @@ http://r665.io/live/PacoSico/sbTD8SJ/61434.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nsport-558.png" group-title="|FR|CANAL SPORTS",|FR| CANAL+ SPORT 5 HD
 http://r665.io/live/PacoSico/sbTD8SJ/61435.ts
 #EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="|FR| CANAL+ FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL_PLUS.png" group-title="FRANCE MY CANAL",|FR| CANAL+ FHD
-http://ottsansat.org:88/02028397098883/6335414088/126810
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/148474.ts
+#EXTINF:-1 tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/326682.ts
+#EXTINF:-1 tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/148475.ts
 #EXTINF:-1 tvg-ID="canalpluskids.fr" tvg-name="|FR| CANAL+ KIDS FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+kids.png" group-title="FRANCE MY CANAL",|FR| CANAL+ KIDS FHD
-http://ottsansat.org:88/02028397098883/6335414088/126815
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32774.ts
 #EXTINF:-1 tvg-ID="canalplusgrandecran.fr" tvg-name="|FR| CANAL+ GRAND ECRAN 4K" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+GRAND_ECRAN.png" group-title="FRANCE MY CANAL",|FR| CANAL+ GRAND ECRAN 4K
-http://ottsansat.org:88/02028397098883/6335414088/224456
-#EXTINF:-1 tvg-ID="CinePlusPremier.be" tvg-name="|FR| CINE+ PREMIER HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2456_440_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+ PREMIER HEVC
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/250640.ts
+#EXTINF:-1 tvg-ID="CinePlusPremier.be" tvg-name="|FR| CINE+ PREMIER HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2456_440_1_C00000_0_0_0.png" group-title="FRANCE MY CANAL",|FR| CINE+ PREMIER HEVC
 http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393335.ts
-#EXTINF:-1 tvg-ID="CinePlusFrisson.fr" tvg-name="|FR| CINE+ FRISSON HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2267_438_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+ FRISSON HEVC
-http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393337.ts
-#EXTINF:-1 tvg-ID="CinePlusEmotion.fr" tvg-name="|FR| CINE+ EMOTION HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245B_440_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+ EMOTION HEVC
-http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393342.ts
-#EXTINF:-1 tvg-ID="cineplusamiz.fr" tvg-name="|FR| CINE+ FAMIZ HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2268_438_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+ FAMIZ HEVC
-http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393340.ts
-#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="|FR| CINE+ CLUB HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B9_43E_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+ CLUB HEVC
+#EXTINF:-1 tvg-ID="CinePlusFrisson.fr" tvg-name="|FR| CINE+ FRISSON HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2267_438_1_C00000_0_0_0.png" group-title="FRANCE MY CANAL",|FR| CINE+ FRISSON HEVC
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/203425.ts
+#EXTINF:-1 tvg-ID="CinePlusEmotion.fr" tvg-name="|FR| CINE+ EMOTION HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245B_440_1_C00000_0_0_0.png" group-title="FRANCE MY CANAL",|FR| CINE+ EMOTION HEVC
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/203423.ts
+#EXTINF:-1 tvg-ID="cineplusamiz.fr" tvg-name="|FR| CINE+ FAMIZ HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2268_438_1_C00000_0_0_0.png" group-title="FRANCE MY CANAL",|FR| CINE+ FAMIZ HEVC
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/250678.ts
+#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="|FR| CINE+ CLUB HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B9_43E_1_C00000_0_0_0.png" group-title="FRANCE MY CANAL",|FR| CINE+ CLUB HEVC
 http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393344.ts
-#EXTINF:-1 tvg-ID="CinePlusClassic.fr" tvg-name="|FR| CINE+  CLASSIC HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2269_438_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CINE+  CLASSIC HEVC
-http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393347.ts
-#EXTINF:-1 tvg-ID="WarnerTV.fr" tvg-name="|FR| WARNER TV HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196A_44E_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| WARNER TV HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127246
-#EXTINF:-1 tvg-ID="NovelasTV.fr" tvg-name="|FR| NOVELAS TV HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE.CINEMA/NOVELAS_TV.png" group-title="FRANCE CINEMA",|FR| NOVELAS TV HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127247
-#EXTINF:-1 tvg-ID="polarplus.fr" tvg-name="|FR| POLAR+ HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE.CINEMA/POLAR+.png" group-title="FRANCE CINEMA",|FR| POLAR+ HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127248
-#EXTINF:-1 tvg-ID="CrimeDistrict.fr" tvg-name="|FR| CRIME DISTRICT HEVC" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_D7_4EE8_55F_DDE0000_0_0_0.png" group-title="FRANCE CINEMA",|FR| CRIME DISTRICT HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127249
-#EXTINF:-1 tvg-ID="ParamountChannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CE_444_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| PARAMOUNT CHANNEL HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127250
-#EXTINF:-1 tvg-ID="ParamountChannelDecale.fr" tvg-name="|FR| PARAMOUNT DECALE HEVC" group-title="FRANCE CINEMA",|FR| PARAMOUNT DECALE HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127251
-#EXTINF:-1 tvg-ID="Action.fr" tvg-name="|FR| ACTION HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4286_446_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| ACTION HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127252
-#EXTINF:-1 tvg-ID="tcm.fr" tvg-name="|FR| TCM CINEMA HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26AE_43E_1_C00000_0_0_0.png" group-title="FRANCE CINEMA",|FR| TCM CINEMA HEVC
-http://ottsansat.org:88/02028397098883/6335414088/127253
-#EXTINF:-1 tvg-ID="cineplusocs.fr" tvg-name="|FR| CINE+ OCS HD 4ᴋ" group-title="FRANCE CINEMA",|FR| CINE+ OCS HD 4ᴋ
-http://ottsansat.org:88/02028397098883/6335414088/861322
-#EXTINF:-1 tvg-ID="CinePlusClub.fr" tvg-name="|FR| CINE+ FESTIVAL HD 4ᴋ" group-title="FRANCE CINEMA",|FR| CINE+ FESTIVAL HD 4ᴋ
-http://ottsansat.org:88/02028397098883/6335414088/861323
+#EXTINF:-1 tvg-ID="CinePlusClassic.fr" tvg-name="|FR| CINE+  CLASSIC HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2269_438_1_C00000_0_0_0.png" group-title="FRANCE MY CANAL",|FR| CINE+  CLASSIC HEVC
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/250676.ts
+#EXTINF:-1 tvg-ID="CinePlusClub.fr" tvg-name="|FR| CINE+ FESTIVAL HD 4ᴋ" group-title="FRANCE MY CANAL",|FR| CINE+ FESTIVAL HD 4ᴋ
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/250677.ts
+#EXTINF:-1 tvg-name="FR | TF1 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français TNT ",FR | TF1 FHD
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32800.ts
+#EXTINF:-1 tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français TNT ",FR | TF1 SERIES-FILMS FHD
+http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/32800.ts
+#EXTINF:-1 tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français TNT ",FR | France 2 FHD
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32752.ts
+#EXTINF:-1 tvg-name="FR | France 3 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1497" group-title="Français ",FR | France 3 FHD
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32753.ts
+#EXTINF:-1 tvg-name="FR | France 4 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1498" group-title="Français TNT ",FR | France 4 FHD
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32754.ts
+#EXTINF:-1 tvg-name="FR | FRANCE 5" tvg-logo="http://148.251.133.153:8181/logo/chn/2363.png" group-title="Français TNT ",FR | FRANCE 5
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32755.ts
+#EXTINF:-1 tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français TNT ",FR | M6 FHD
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32756.ts
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR:6Ter.HD" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/6ter_fr.png" group-title="Français TNT",FR:6Ter.HD
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32758.ts
+#EXTINF:-1 tvg-name="FR | W9 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1501" group-title="Français TNT ",FR | W9 FHD
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32798.ts
+#EXTINF:-1 tvg-name="FR | TFX FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1508" group-title="Français TNT ",FR | TFX FHD
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32799.ts
+#EXTINF:-1 tvg-name="FR | TMC" tvg-logo="http://148.251.133.153:8181/logo/chn/2371.png" group-title="Français TNT ",FR | TMC
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32796.ts
 #EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="|FR| USHUAIA HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/USHUAIA_TV.png" group-title="FRANCE DECOUVERTE",|FR| USHUAIA HEVC
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=233&t=live&f=ts
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/148487.ts
 #EXTINF:-1 tvg-ID="animaux.fr" tvg-name="|FR| ANIMAUX HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/ANIMAUX.png" group-title="FRANCE DECOUVERTE",|FR| ANIMAUX HEVC
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=223&t=live&f=ts
 #EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="|FR| CHASSE&PECHE HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/CHASSE_ET_PECHE.png" group-title="FRANCE DECOUVERTE",|FR| CHASSE&PECHE HEVC
