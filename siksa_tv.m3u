@@ -309,32 +309,6 @@ http://ottsansat.org:88/02028397098883/6335414088/127253
 http://ottsansat.org:88/02028397098883/6335414088/861322
 #EXTINF:-1 tvg-ID="CinePlusClub.fr" tvg-name="|FR| CINE+ FESTIVAL HD 4ᴋ" group-title="FRANCE CINEMA",|FR| CINE+ FESTIVAL HD 4ᴋ
 http://ottsansat.org:88/02028397098883/6335414088/861323
-#EXTINF:-1 tvg-name="|FR| NETFLIX THRILLER" group-title="FRANCE CINEMA",|FR| NETFLIX THRILLER
-http://ottsansat.org:88/02028397098883/6335414088/861327
-#EXTINF:-1 tvg-name="|FR| NETFLIX SCI-FI" group-title="FRANCE CINEMA",|FR| NETFLIX SCI-FI
-http://ottsansat.org:88/02028397098883/6335414088/861328
-#EXTINF:-1 tvg-name="|FR| NETFLIX FANTASY" group-title="FRANCE CINEMA",|FR| NETFLIX FANTASY
-http://ottsansat.org:88/02028397098883/6335414088/861329
-#EXTINF:-1 tvg-name="|FR| NETFLIX ACTION" group-title="FRANCE CINEMA",|FR| NETFLIX ACTION
-http://ottsansat.org:88/02028397098883/6335414088/861330
-#EXTINF:-1 tvg-name="|FR| NETFLIX ADVENTURE" group-title="FRANCE CINEMA",|FR| NETFLIX ADVENTURE
-http://ottsansat.org:88/02028397098883/6335414088/861331
-#EXTINF:-1 tvg-name="|FR| NETFLIX ROMANCE" group-title="FRANCE CINEMA",|FR| NETFLIX ROMANCE
-http://ottsansat.org:88/02028397098883/6335414088/861332
-#EXTINF:-1 tvg-name="|FR| NETFLIX DRAMA" group-title="FRANCE CINEMA",|FR| NETFLIX DRAMA
-http://ottsansat.org:88/02028397098883/6335414088/861333
-#EXTINF:-1 tvg-name="|FR| NETFLIX COMEDY" group-title="FRANCE CINEMA",|FR| NETFLIX COMEDY
-http://ottsansat.org:88/02028397098883/6335414088/861334
-#EXTINF:-1 tvg-name="|FR| NETFLIX HORROR" group-title="FRANCE CINEMA",|FR| NETFLIX HORROR
-http://ottsansat.org:88/02028397098883/6335414088/861335
-#EXTINF:-1 tvg-name="|FR| NETFLIX DOCUMENTARY" group-title="FRANCE CINEMA",|FR| NETFLIX DOCUMENTARY
-http://ottsansat.org:88/02028397098883/6335414088/861336
-#EXTINF:-1 tvg-name="|FR| NETFLIX SPORTS" group-title="FRANCE CINEMA",|FR| NETFLIX SPORTS
-http://ottsansat.org:88/02028397098883/6335414088/861337
-#EXTINF:-1 tvg-name="|FR| NETFLIX KIDS" group-title="FRANCE CINEMA",|FR| NETFLIX KIDS
-http://ottsansat.org:88/02028397098883/6335414088/861338
-#EXTINF:-1 tvg-name="|FR| AVENGERS" group-title="FRANCE CINEMA",|FR| AVENGERS
-http://ottsansat.org:88/02028397098883/6335414088/861416
 #EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="|FR| USHUAIA HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/USHUAIA_TV.png" group-title="FRANCE DECOUVERTE",|FR| USHUAIA HEVC
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=233&t=live&f=ts
 #EXTINF:-1 tvg-ID="animaux.fr" tvg-name="|FR| ANIMAUX HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/ANIMAUX.png" group-title="FRANCE DECOUVERTE",|FR| ANIMAUX HEVC
@@ -483,8 +457,6 @@ https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="",Travelxp France (720p)
 https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",UniversCiné Le Meilleur du Cinéma (1080p)
-https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hls_data_rakutenAA-universcine-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="",Vevo Hip-Hop et RnB
 https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8
 #EXTINF:-1 tvg-id="VevoPop.us@SD",Vevo Pop
@@ -505,5 +477,3 @@ https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="",Zylo Into Crime (1080p)
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Zylo ScreamIN
-https://xpola.yoo7.com/h15-page/?id=YUhSMGNITTZMeTlrWlhZdFlTMXNhWFpsTG5CaGJuUm9aVzl1YzJsMFpTNXBieTl3YkdGNVpYSXVjR2h3ZkhCc1lYbGxjaTEwZVhCbFBXSnliM2R6WlhJPQ==?id=bS1-1
