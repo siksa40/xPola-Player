@@ -271,13 +271,13 @@ http://r665.io/live/PacoSico/sbTD8SJ/61433.ts
 http://r665.io/live/PacoSico/sbTD8SJ/61434.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nsport-558.png" group-title="|FR|CANAL SPORTS",|FR| CANAL+ SPORT 5 HD
 http://r665.io/live/PacoSico/sbTD8SJ/61435.ts
-#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="|FR| CANAL+ FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL_PLUS.png" group-title="FRANCE MY CANAL",|FR| CANAL+ FHD
+#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="|FR| CANAL+ FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL_PLUS.png" group-title="FRANCE MY CANAL",|FR| CANAL+ HEVC
 http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/148474.ts
-#EXTINF:-1 tvg-name="FR | CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE
+#EXTINF:-1 tvg-ID="canalboxoffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="Français ",FR | CANAL+ BOX OFFICE HEVC
 http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/326682.ts
-#EXTINF:-1 tvg-name="FR | CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA FHD
+#EXTINF:-1 tvg-ID="canalcinema.fr" tvg-name="|FR| CANAL+ CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="Français ",FR | CANAL+ CINEMA HEVC
 http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/148475.ts
-#EXTINF:-1 tvg-ID="canalpluskids.fr" tvg-name="|FR| CANAL+ KIDS FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+kids.png" group-title="FRANCE MY CANAL",|FR| CANAL+ KIDS FHD
+#EXTINF:-1 tvg-ID="canalpluskids.fr" tvg-name="|FR| CANAL+ KIDS FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+kids.png" group-title="FRANCE MY CANAL",|FR| CANAL+ KIDS HEVC
 http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32774.ts
 #EXTINF:-1 tvg-ID="canalplusgrandecran.fr" tvg-name="|FR| CANAL+ GRAND ECRAN 4K" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+GRAND_ECRAN.png" group-title="FRANCE MY CANAL",|FR| CANAL+ GRAND ECRAN 4K
 http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/250640.ts
@@ -293,19 +293,19 @@ http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/250678.ts
 http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393344.ts
 #EXTINF:-1 tvg-ID="CinePlusClassic.fr" tvg-name="|FR| CINE+  CLASSIC HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2269_438_1_C00000_0_0_0.png" group-title="FRANCE MY CANAL",|FR| CINE+  CLASSIC HEVC
 http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/250676.ts
-#EXTINF:-1 tvg-ID="CinePlusClub.fr" tvg-name="|FR| CINE+ FESTIVAL HD 4ᴋ" group-title="FRANCE MY CANAL",|FR| CINE+ FESTIVAL HD 4ᴋ
+#EXTINF:-1 tvg-ID="CinePlusClub.fr" tvg-name="|FR| CINE+ FESTIVAL HD 4ᴋ" group-title="FRANCE MY CANAL",|FR| CINE+ FESTIVAL HEVC
 http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/250677.ts
 #EXTINF:-1 tvg-name="FR | TF1 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français TNT ",FR | TF1 FHD
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32800.ts
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32750.ts
 #EXTINF:-1 tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français TNT ",FR | TF1 SERIES-FILMS FHD
-http://nour.homes/live/96420858012099948898/zcsn689sx4ubxtexz9cz/32800.ts
+http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32800.ts
 #EXTINF:-1 tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français TNT ",FR | France 2 FHD
 http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32752.ts
-#EXTINF:-1 tvg-name="FR | France 3 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1497" group-title="Français ",FR | France 3 FHD
+#EXTINF:-1 tvg-name="FR | France 3 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1497" group-title="Français TNT ",FR | France 3 FHD
 http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32753.ts
 #EXTINF:-1 tvg-name="FR | France 4 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1498" group-title="Français TNT ",FR | France 4 FHD
 http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32754.ts
-#EXTINF:-1 tvg-name="FR | FRANCE 5" tvg-logo="http://148.251.133.153:8181/logo/chn/2363.png" group-title="Français TNT ",FR | FRANCE 5
+#EXTINF:-1 tvg-name="FR | FRANCE 5" tvg-logo="http://148.251.133.153:8181/logo/chn/2363.png" group-title="Français TNT ",FR | FRANCE 5 FHD
 http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32755.ts
 #EXTINF:-1 tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français TNT ",FR | M6 FHD
 http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32756.ts
