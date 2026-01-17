@@ -53,6 +53,8 @@ http://u.goldeniptv.com:2052/live/Emile/11223344/136394.ts
 http://u.goldeniptv.com:2052/live/Emile/11223344/136393.ts
 #EXTINF:-1 tvg-name="Ajyal TV" tvg-logo="http://tayaara.store:80/images/marvel/1716985203400.jpg" group-title="AL FAJER  CHANNELS",Ajyal TV
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 tvg-name="Ajyal TV" tvg-logo="http://tayaara.store:80/images/marvel/1716985203400.jpg" group-title="AL FAJER  CHANNELS",Ajyal TV
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/xjPYCA9ycH4LeISCiXauCEdaV6LLtZ-L_fwIVJHZP50VFBrH1m0qSv9bL4tcRbyv2KYdhhufKc9c1mD4beph2g/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 1 HD (50 FPS)
 http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/140900.ts
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 1 FHD (50 FPS)
