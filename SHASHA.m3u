@@ -23,3 +23,7 @@ http://r665.io/live/EGESIPE/bzAsZNr/7056.ts
 http://r665.io/live/EGESIPE/bzAsZNr/2365.ts
 #EXTINF:-1 tvg-name="AR: StarzPlay SPORTS 2 HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f2%2f16%2fad-sports-premium-1.png" group-title="ARABIC SPORTS",AR: StarzPlay SPORTS 2 HD
 http://r665.io/live/EGESIPE/bzAsZNr/2366.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Abu Dhabi Sport PREMIUM 1 HD" tvg-logo="" group-title="Abu Dhabi Sport",AR: Abu Dhabi Sport PREMIUM 1 HD
+http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/54847.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Abu Dhabi Sport PREMIUM 2 HD" tvg-logo="" group-title="Abu Dhabi Sport",AR: Abu Dhabi Sport PREMIUM 2 HD
+http://vip.sibfungold.org:8080/live/hmx.oscam/FRtgBhh521/54848.m3u8
