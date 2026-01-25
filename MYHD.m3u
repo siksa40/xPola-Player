@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="4k_DIGITAL.qa" tvg-name="beIN SP⚽RTS ʰᵉᵛᶜ 1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/4k_DIGITAL_Mono.png" group-title="BEIN SPORTS",beIN SP⚽RTS 4k_DIGITAL
+http://sansatplus.net:88/live/FSTTEFPVHV/HFOHKETOGO/661030.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="beIN SPORTS 4K",beIN SPORTS 1 4K
 http://u.goldeniptv.com:2052/live/Emile/11223344/222934.ts
 #EXTINF:-1 tvg-name="beIN SPORTS 1 H.265 FHD" tvg-logo="http://tayaara.store/live/be/1.jpg" group-title="beIN SPORTS H.265 FHD",beIN SPORTS 1 H.265 FHD
