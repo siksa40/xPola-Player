@@ -33,5 +33,11 @@ http://u.goldeniptv.com:2052/live/Emile/11223344/221293.ts
 http://u.goldeniptv.com:2052/live/Emile/11223344/221300.ts
 #EXTINF:-1 tvg-name="MIX بالعربي" tvg-logo="https://shahid.mbc.net/mediaObject/06e1a853-795b-4b01-b1fd-baed5df7969c?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="MBC",Aflam
 shd-amg-fast.edgenextcdn.net/tx001/1080p-d/index.m3u8
+#EXTINF:-1 tvg-id="SBC.sa" tvg-logo="http://dagav.com/images/ar/raf.jpg" ,ROTANA_AFLAMPLUS
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+#EXTINF:-1 tvg-id="SBC.sa" tvg-logo="http://dagav.com/images/ar/raf.jpg" ,ROTANA_AFLAMPLUS
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+#EXTINF:-1 tvg-id="SBC.sa" tvg-logo="http://dagav.com/images/ar/m_i_x.jpg" ,MixTV
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 
 
