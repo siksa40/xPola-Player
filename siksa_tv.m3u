@@ -52,7 +52,7 @@ http://u.goldeniptv.com:2052/live/Emile/11223344/136393.ts
 #EXTINF:-1 tvg-name="Ajyal TV" tvg-logo="http://tayaara.store:80/images/marvel/1716985203400.jpg" group-title="AL FAJER  CHANNELS",Ajyal TV
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-name="Ajyal TV" tvg-logo="http://tayaara.store:80/images/marvel/1716985203400.jpg" group-title="AL FAJER  CHANNELS",Ajyal TV
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/xjPYCA9ycH4LeISCiXauCEdaV6LLtZ-L_fwIVJHZP50VFBrH1m0qSv9bL4tcRbyv2KYdhhufKc9c1mD4beph2g/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
+https://wahyu1ptv.pages.dev/AstroBein1.m3u8
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 1 HD (50 FPS)
 http://r665.io/live/PacoSico/sbTD8SJ/45704.ts
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 1 FHD (50 FPS)
@@ -268,13 +268,17 @@ http://ottsansat.org:88/02028397098883/6335414088/126834
 #EXTINF:-1 tvg-ID="canalplussport360.fr" tvg-name="|FR| CANAL+ 360 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="|FR|CANAL SPORTS",|FR| CANAL+ 360 HD
 http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/265204.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-sport-1-afrique-1364.png" group-title="|FR|CANAL SPORTS",|AF| Canal+ Sport 1 HD
-http://r665.io/live/PacoSico/sbTD8SJ/61431.ts
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/canalsport1.m3u8
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-sport-2-africa-1496.png" group-title="|FR|CANAL SPORTS",|AF| Canal+ Sport 2 HD
-http://r665.io/live/PacoSico/sbTD8SJ/61432.ts
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/canalsport2.m3u8
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-sport-3-africa-1497.png" group-title="|FR|CANAL SPORTS",|AF| Canal+ Sport 3 HD
-http://r665.io/live/PacoSico/sbTD8SJ/61433.ts
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/canalsport3.m3u8
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-sport-4-africa-1498.png" group-title="|FR|CANAL SPORTS",|AF| Canal+ Sport 4 HD
-http://r665.io/live/PacoSico/sbTD8SJ/61434.ts
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/canalsport4.m3u8
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nsport-558.png" group-title="|FR|CANAL SPORTS",|FR| CANAL+ SPORT 5 HD
 http://r665.io/live/PacoSico/sbTD8SJ/61435.ts
 #EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="|FR| CANAL+ FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL_PLUS.png" group-title="FRANCE MY CANAL",|FR| CANAL+ HEVC
