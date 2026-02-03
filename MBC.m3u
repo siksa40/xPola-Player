@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="MBC 1 HD.sa" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/rRwmJm8c/mbc-1.png" group-title="MBC",MBC 1
-https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
 #EXTINF:-1 tvg-id="MBC Drama HD.sa" tvg-name="MBC DRAMA" tvg-logo="https://i.ibb.co/WNTgbyQH/mbc-drama.png" group-title="MBC",MBC DRAMA
-https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
 #EXTINF:-1 tvg-id="MBC+ Drama HD.sa" tvg-name="MBC+ DRAMA" tvg-logo="https://i.ibb.co/ksc4ZS9j/mbc-plus-drama.png" group-title="MBC",MBC+ DRAMA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 tvg-name="MBC MASR DRAMA" tvg-logo="https://i.ibb.co/JWBzpr7B/mbc-maser-drama.png" group-title="MBC",MBC MASR DRAMA
-https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
 #EXTINF:-1 tvg-id="MBC MASR.sa" tvg-name="MBC MASR" tvg-logo="https://i.ibb.co/CKSVtS4H/mbc-maser.png" group-title="MBC",MBC MASR
 https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 tvg-id="MBC MASR 2.sa" tvg-name="MBC MASR 2" tvg-logo="https://i.ibb.co/HTNBsb3t/mbc-maser-2.png" group-title="MBC",MBC MASR 2
@@ -17,6 +17,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39c
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1 tvg-name="MBC 5" tvg-logo="https://i.ibb.co/KzSkvg6d/mbc-5.png" group-title="MBC",MBC 5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 tvg-name="MBC+ MOVIES" tvg-logo="https://i.ibb.co/YF99GqBG/MBC-MOVIES.png" group-title="MBC",MBC Aflam
+https://shd-amg-fast.edgenextcdn.net/tx001/1080p-d/index.m3u8
 #EXTINF:-1 tvg-name="MBC+ eLIFE" tvg-logo="https://i.ibb.co/cHnj7hW/mbc-elife.png" group-title="MBC",MBC+ eLIFE
 http://u.goldeniptv.com:2052/live/Emile/11223344/221329.ts
 #EXTINF:-1 tvg-id="MBC VARIETY.sa" tvg-name="MBC+ VARIETY" tvg-logo="https://i.ibb.co/W4yF85VT/mbc-variety.png" group-title="MBC",MBC+ VARIETY
