@@ -23,7 +23,7 @@ http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1358&t
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1374&t=live&f=ts
 #EXTINF:-1 tvg-name="|beIN| OutDoor HD" tvg-logo=""  OutDoor HD
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1379&t=live&f=ts
-#EXTINF:-1 tvg-name="EARTHX TV" tvg-logo="https://i.ibb.co/r2451mcz/Earth-X-Logo-Vert-300x202.png" group-title="DOCUMENTARY",EARTHX TV
+#EXTINF:-1 tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/HGTV.png",HGTV
 http://sansatplus.net:88/live/02047594027660/02047596581454/1054757.ts
 #EXTINF:-1 tvg-id="Discovery HD.sa" tvg-name="DISCOVERY" tvg-logo="https://i.ibb.co/xS14ysMD/DISCOVERY-CH.png" group-title="DOCUMENTARY",DISCOVERY
 http://sansatplus.net:88/live/02047594027660/02047596581454/1054768.ts
@@ -35,12 +35,11 @@ http://sansatplus.net:88/live/02047594027660/02047596581454/1054767.ts
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1384&t=live&f=ts
 #EXTINF:-1 tvg-id="Nat. Geographic.sa" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.ibb.co/JRyyWR1m/Nat-Geo.png" group-title="DOCUMENTARY",NATIONAL GEOGRAPHIC
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1385&t=live&f=ts
-#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://i.ibb.co/gb5LSLBh/HISTORY-CH.png" group-title="DOCUMENTARY",#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://i.ibb.co/gb5LSLBh/HISTORY-CH.png" group-title="DOCUMENTARY",HISTORY
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2614&t=live&f=ts
 #EXTINF:-1 tvg-id="Travel.sa" tvg-name="TRAVEL" tvg-logo="https://i.ibb.co/TxmZWsKq/travel-channel.png" group-title="DOCUMENTARY",TRAVEL
 http://u.goldeniptv.com:2052/live/Emile/11223344/255132.ts
 #EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://i.ibb.co/gb5LSLBh/HISTORY-CH.png" group-title="DOCUMENTARY",HISTORY
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2614&t=live&f=ts
+
 
 
 
