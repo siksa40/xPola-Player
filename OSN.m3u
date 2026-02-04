@@ -1,57 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="OSNYahala.ae" tvg-name="|AR| OSN YA HALA AOULA HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OYH.png" group-title="OSN & MY HD (Arabic)",|AR| OSN YA HALA AOULA HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/516.m3u8
-#EXTINF:-1 tvg-id="OSNYahalaCinema.ae" tvg-name="|AR| OSN YA HALA CINEMA HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OYC.png" group-title="OSN & MY HD (Arabic)",|AR| OSN YA HALA CINEMA HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/1207.m3u8
-#EXTINF:-1 tvg-name="|AR| OSN SERIES CHANNEL HD" tvg-logo="http://content.osn.com/logo/channel/cropped/SER.png" group-title="OSN & MY HD (Arabic)",|AR| OSN SERIES CHANNEL HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/7064.m3u8
-#EXTINF:-1 tvg-id="OSNYahala.ae" tvg-name="|AR| OSN YA HALA HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OYA.png" group-title="OSN & MY HD (Arabic)",|AR| OSN YA HALA HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/7054.m3u8
-#EXTINF:-1 tvg-name="|AR| OSN ALYOUM" tvg-logo="http://content.osn.com/logo/channel/cropped/YAW.png" group-title="OSN & MY HD (Arabic)",|AR| OSN ALYOUM
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/7082.m3u8
-#EXTINF:-1 tvg-id="OSNCinema.ae" tvg-name="|AR| OSN CINEMA 1" tvg-logo="http://content.osn.com/logo/channel/cropped/CM1.png" group-title="OSN & MY HD (Arabic)",|AR| OSN CINEMA 1
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/7081.m3u8
-#EXTINF:-1 tvg-name="|AR| OSN CINEMA 2" tvg-logo="http://content.osn.com/logo/channel/cropped/CM2.png" group-title="OSN & MY HD (Arabic)",|AR| OSN CINEMA 2
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/7080.m3u8
-#EXTINF:-1 tvg-id="OSNMoviesFirst.ae" tvg-name="|AR| OSN MOVIES FIRST HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OM1.png" group-title="OSN & MY HD (Arabic)",|AR| OSN MOVIES FIRST HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/7066.m3u8
-#EXTINF:-1 tvg-name="|AR| OSN MOVIES FIRST +2 HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OMX.png" group-title="OSN & MY HD (Arabic)",|AR| OSN MOVIES FIRST +2 HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/4368.m3u8
-#EXTINF:-1 tvg-id="OSNMoviesAction.ae" tvg-name="|AR| OSN MOVIES ACTION HD" tvg-logo="http://content.osn.com/logo/channel/cropped/AHD.png" group-title="OSN & MY HD (Arabic)",|AR| OSN MOVIES ACTION HD
+#EXTINF:-1 tvg-id="OSNtv Yahala.sa" tvg-name="OSN TV YAHALA" tvg-logo="https://i.ibb.co/VcWkM52L/OSN-YAHALA.png" group-title="OSN MEDIA",OSN TV YAHALA
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2584&t=live&f=ts
+#EXTINF:-1 tvg-id="OSNtv Yahala Bil Arabi.sa" tvg-name="OSN TV YAHALA BELARABY" tvg-logo="https://i.ibb.co/ZzswnVV3/OSN-YAHALA-BELARABI.png" group-title="OSN MEDIA",OSN TV YAHALA BELARABY
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2585&t=live&f=ts
+#EXTINF:-1 tvg-id="OSNtv Yahala Aflam.sa" tvg-name="OSN YAHALA AFLAM" tvg-logo="https://i.ibb.co/sd1jQFxS/OSN-YAHALA-AFLAM.png" group-title="OSN MEDIA",OSN YAHALA AFLAM
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2586&t=live&f=ts
+#EXTINF:-1 tvg-name="ALFA MUSALSALAT" tvg-logo="https://i.ibb.co/KjFLM4W1/MOSALSALAT.png" group-title="OSN MEDIA",ALFA MUSALSALAT
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2592&t=live&f=ts
+#EXTINF:-1 tvg-name="ALFA MUSALSALAT +2" tvg-logo="https://i.ibb.co/dhzfZDb/MOSALSALAT-2.png" group-title="OSN MEDIA",ALFA MUSALSALAT +2
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2591&t=live&f=ts
+#EXTINF:-1 tvg-name="ALFA CINEMA 1" tvg-logo="https://i.ibb.co/0yPyFB5W/CINEMA-1.png" group-title="OSN MEDIA",ALFA CINEMA 1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2589&t=live&f=ts
+#EXTINF:-1 tvg-name="ALFA CINEMA 2" tvg-logo="https://i.ibb.co/TM3X4ZP5/CINEMA-2.png" group-title="OSN MEDIA",ALFA CINEMA 2
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2590&t=live&f=ts
+#EXTINF:-1 tvg-name="ART AFLAM 1" tvg-logo="https://i.ibb.co/hF0Zy63K/ART-AFLAM-1.png" group-title="OSN MEDIA",ART AFLAM 1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2594&t=live&f=ts
+#EXTINF:-1 tvg-name="ART AFLAM 2" tvg-logo="https://i.ibb.co/sdD6wZM1/ART-AFLAM-2.png" group-title="OSN MEDIA",ART AFLAM 2
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2595&t=live&f=ts
+#EXTINF:-1 tvg-name="ART HEKAYAT" tvg-logo="https://i.ibb.co/hxdrwJvk/ART-HEKAYAT.png" group-title="OSN MEDIA",ART HEKAYAT
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2596&t=live&f=ts
+#EXTINF:-1 tvg-name="ART HEKAYAT 2" tvg-logo="https://i.ibb.co/C5qxWSrG/ART-HEKAYAT-2.png" group-title="OSN MEDIA",ART HEKAYAT 2
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2597&t=live&f=ts
+#EXTINF:-1 tvg-name="ALFA AL-SAFWA" tvg-logo="https://i.ibb.co/ycWvY7Gv/AL-SAFWA.png" group-title="OSN MEDIA",ALFA AL-SAFWA
+http://sansatplus.net:88/live/02047594027660/02047596581454/115319.ts
+#EXTINF:-1 tvg-name="ALFA AL-YOUM" tvg-logo="https://i.ibb.co/xqKLBqN9/AL-YOUM.png" group-title="OSN MEDIA",ALFA AL-YOUM
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2588&t=live&f=ts
+#EXTINF:-1 tvg-id="OSNtv Movies Action.sa" tvg-name="OSN TV MOVIES ACTION" tvg-logo="https://i.ibb.co/xt8qsVT0/OSN-ACTION.png" group-title="OSN MEDIA",OSN TV MOVIES ACTION
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2603&t=live&f=ts
-#EXTINF:-1 tvg-name="|AR| OSN MIX HD" group-title="OSN & MY HD (Arabic)",|AR| OSN MIX HD
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2618&t=live&f=ts
-#EXTINF:-1 tvg-id="OSNMovies.ae" tvg-name="|AR| OSN MOVIES HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OPR.png" group-title="OSN & MY HD (Arabic)",|AR| OSN MOVIES HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/4371.m3u8
-#EXTINF:-1 tvg-name="|AR| OSN SHOWCASE HD" group-title="OSN & MY HD (Arabic)",|AR| OSN SHOWCASE HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/7076.m3u8
-#EXTINF:-1 tvg-id="OSNMoviesComedy.ae" tvg-name="|AR| OSN COMEDY HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OMC.png" group-title="OSN & MY HD (Arabic)",|AR| OSN COMEDY HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/4370.m3u8
-#EXTINF:-1 tvg-name="|AR| OSN MOVIES HORROR HD" group-title="OSN & MY HD (Arabic)",|AR| OSN MOVIES HORROR HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/7067.m3u8
-#EXTINF:-1 tvg-name="|AR| OSN SERIES COMEDY HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OCO.png" group-title="OSN & MY HD (Arabic)",|AR| OSN SERIES COMEDY HD
+#EXTINF:-1 tvg-id="OSNtv Comedy.sa" tvg-name="OSN TV COMEDY" tvg-logo="https://i.ibb.co/tMXLWXkd/OSN-COMEDY.png" group-title="OSN MEDIA",OSN TV COMEDY
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2604&t=live&f=ts
-#EXTINF:-1 tvg-name="|AR| OSN E! HD" tvg-logo="http://content.osn.com/logo/channel/cropped/ETV.png" group-title="OSN & MY HD (Arabic)",|AR| OSN E! HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/7073.m3u8
-#EXTINF:-1 tvg-name="|AR| OSN LIVING HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OLH.png" group-title="OSN & MY HD (Arabic)",|AR| OSN LIVING HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/7070.m3u8
-#EXTINF:-1 tvg-name="|AR| OSN DISCOVERY CHANNEL HD" tvg-logo="http://content.osn.com/logo/channel/cropped/DSC.png" group-title="OSN & MY HD (Arabic)",|AR| OSN DISCOVERY CHANNEL HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/7077.m3u8
-#EXTINF:-1 tvg-name="|AR| OSN DISCOVERY ID HD" group-title="OSN & MY HD (Arabic)",|AR| OSN DISCOVERY ID HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/2252.m3u8
-#EXTINF:-1 tvg-name="|AR| OSN DISCOVERY IDX HD" group-title="OSN & MY HD (Arabic)",|AR| OSN DISCOVERY IDX HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/2253.m3u8
-#EXTINF:-1 tvg-name="|AR| OSN HISTORY CHANNEL HD" tvg-logo="http://content.osn.com/logo/channel/cropped/HIS.png" group-title="OSN & MY HD (Arabic)",|AR| OSN HISTORY CHANNEL HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/7069.m3u8
-#EXTINF:-1 tvg-name="|AR| OSN HISTORY 2 HD" group-title="OSN & MY HD (Arabic)",|AR| OSN HISTORY 2 HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/7061.m3u8
-#EXTINF:-1 tvg-name="|AR| OSN MEZZE HD" group-title="OSN & MY HD (Arabic)",|AR| OSN MEZZE HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/7079.m3u8
-#EXTINF:-1 tvg-name="|AR| OSN TLC HD" group-title="OSN & MY HD (Arabic)",|AR| OSN TLC HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/7062.m3u8
-#EXTINF:-1 tvg-id="Fatafeat.qa" tvg-name="|AR| OSN FATAFEAT HD" group-title="OSN & MY HD (Arabic)",|AR| OSN FATAFEAT HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/7057.m3u8
-#EXTINF:-1 tvg-id="TravelChannel.qa" tvg-name="|AR| OSN TRAVEL CHANNEL HD" group-title="OSN & MY HD (Arabic)",|AR| OSN TRAVEL CHANNEL HD
-http://r365mail.bz:80/live/NvD6rrAehZ/Louise2014/7078.m3u8
+#EXTINF:-1 tvg-id="OSNtv Movies Premiere.sa" tvg-name="OSN TV MOVIES PREMIERE" tvg-logo="https://i.ibb.co/nN4Z81mv/OSN-MOVIES-FIRST.png" group-title="OSN MEDIA",OSN TV MOVIES PREMIERE
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2608&t=live&f=ts
+#EXTINF:-1 tvg-id="OSNtv Movies Family.sa" tvg-name="OSN TV MOVIES FAMILY" tvg-logo="https://i.ibb.co/vCyq5FT6/OSN-FAMILY.png" group-title="OSN MEDIA",OSN TV MOVIES FAMILY
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2618&t=live&f=ts
+#EXTINF:-1 tvg-id="OSNtv Mezze.sa" tvg-name="OSN TV MEZZE" tvg-logo="https://i.ibb.co/Gf7z1w1m/OSN-MEZZE.png" group-title="OSN MEDIA",OSN TV MEZZE
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2622&t=live&f=ts
+#EXTINF:-1 tvg-id="OSNtv One.sa" tvg-name="OSN TV ONE" tvg-logo="https://i.ibb.co/MzpDp1r/OSN-ONE.png" group-title="OSN MEDIA",OSN TV ONE
+http://tv.startseven.tn:2052/live/boniface/11072013/265196.ts
+
+
+
+
 
 
