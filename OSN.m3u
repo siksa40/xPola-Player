@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", STC CIEMA
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/596686.m3u8
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", STC DRAMA
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/596684.m3u8
+#EXTINF:-1 group-title="Starz-play" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", STC FAMILY
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/596685.m3u8
 #EXTINF:-1 tvg-id="OSNtv Yahala.sa" tvg-name="OSN TV YAHALA" tvg-logo="https://i.ibb.co/VcWkM52L/OSN-YAHALA.png" group-title="OSN MEDIA",OSN TV YAHALA
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2584&t=live&f=ts
 #EXTINF:-1 tvg-id="OSNtv Yahala Bil Arabi.sa" tvg-name="OSN TV YAHALA BELARABY" tvg-logo="https://i.ibb.co/ZzswnVV3/OSN-YAHALA-BELARABI.png" group-title="OSN MEDIA",OSN TV YAHALA BELARABY
@@ -6,7 +12,7 @@ http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2585&t
 #EXTINF:-1 tvg-id="OSNtv Yahala Aflam.sa" tvg-name="OSN YAHALA AFLAM" tvg-logo="https://i.ibb.co/sd1jQFxS/OSN-YAHALA-AFLAM.png" group-title="OSN MEDIA",OSN YAHALA AFLAM
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2586&t=live&f=ts
 #EXTINF:-1 tvg-name="ALFA MUSALSALAT" tvg-logo="https://i.ibb.co/KjFLM4W1/MOSALSALAT.png" group-title="OSN MEDIA",ALFA MUSALSALAT
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2592&t=live&f=ts
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699967.m3u8
 #EXTINF:-1 tvg-name="ALFA MUSALSALAT +2" tvg-logo="https://i.ibb.co/dhzfZDb/MOSALSALAT-2.png" group-title="OSN MEDIA",ALFA MUSALSALAT +2
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2591&t=live&f=ts
 #EXTINF:-1 tvg-name="ALFA CINEMA 1" tvg-logo="https://i.ibb.co/0yPyFB5W/CINEMA-1.png" group-title="OSN MEDIA",ALFA CINEMA 1
@@ -24,7 +30,7 @@ http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2597&t
 #EXTINF:-1 tvg-name="ALFA AL-SAFWA" tvg-logo="https://i.ibb.co/ycWvY7Gv/AL-SAFWA.png" group-title="OSN MEDIA",ALFA AL-SAFWA
 http://sansatplus.net:88/live/02047594027660/02047596581454/115319.ts
 #EXTINF:-1 tvg-name="ALFA AL-YOUM" tvg-logo="https://i.ibb.co/xqKLBqN9/AL-YOUM.png" group-title="OSN MEDIA",ALFA AL-YOUM
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2588&t=live&f=ts
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699969.m3u8
 #EXTINF:-1 tvg-id="OSNtv Movies Action.sa" tvg-name="OSN TV MOVIES ACTION" tvg-logo="https://i.ibb.co/xt8qsVT0/OSN-ACTION.png" group-title="OSN MEDIA",OSN TV MOVIES ACTION
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2603&t=live&f=ts
 #EXTINF:-1 tvg-id="OSNtv Comedy.sa" tvg-name="OSN TV COMEDY" tvg-logo="https://i.ibb.co/tMXLWXkd/OSN-COMEDY.png" group-title="OSN MEDIA",OSN TV COMEDY
