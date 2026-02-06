@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", STC CIEMA
-http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/596686.m3u8
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/255352.ts
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", STC DRAMA
-http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/596684.m3u8
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/255797.ts
 #EXTINF:-1 group-title="Starz-play" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", STC FAMILY
-http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/596685.m3u8
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/255351.ts
 #EXTINF:-1 tvg-id="OSNtv Yahala.sa" tvg-name="OSN TV YAHALA" tvg-logo="https://i.ibb.co/VcWkM52L/OSN-YAHALA.png" group-title="OSN MEDIA",OSN TV YAHALA
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2584&t=live&f=ts
 #EXTINF:-1 tvg-id="OSNtv Yahala Bil Arabi.sa" tvg-name="OSN TV YAHALA BELARABY" tvg-logo="https://i.ibb.co/ZzswnVV3/OSN-YAHALA-BELARABI.png" group-title="OSN MEDIA",OSN TV YAHALA BELARABY
