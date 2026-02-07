@@ -1,170 +1,78 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Dz | Programme National" tvg-logo="http://148.251.133.153:8181/logo/chn/6530.png" group-title="Algérie",Dz | Programme National
-http://r665.io/live/PacoSico/sbTD8SJ/171.ts
-#EXTINF:-1 tvg-name="Dz | Canal Algerie TV2" tvg-logo="http://148.251.133.153:8181/logo/chn/6529.png" group-title="Algérie",Dz | Canal Algerie TV2
-http://r665.io/live/PacoSico/sbTD8SJ/2825.ts
-#EXTINF:-1 tvg-name="Dz | Algerie TV3" tvg-logo="http://148.251.133.153:8181/logo/chn/6531.png" group-title="Algérie",Dz | Algerie TV3
-http://r665.io/live/PacoSico/sbTD8SJ/1410.ts
-#EXTINF:-1 tvg-name="Dz | Algerie Tamazight TV4" tvg-logo="http://148.251.133.153:8181/logo/chn/6543.png" group-title="Algérie",Dz | Algerie Tamazight TV4
-http://r665.io/live/PacoSico/sbTD8SJ/226.ts
-#EXTINF:-1 tvg-name="Dz | Algeria Coran TV5" tvg-logo="http://148.251.133.153:8181/logo/chn/6544.png" group-title="Algérie",Dz | Algeria Coran TV5
-http://r665.io/live/PacoSico/sbTD8SJ/227.ts
-#EXTINF:-1 tvg-name="Dz | Algerie Chababia TV6" tvg-logo="http://148.251.133.153:8181/logo/chn/6545.png" group-title="Algérie",Dz | Algerie Chababia TV6
-http://r665.io/live/PacoSico/sbTD8SJ/229.ts
-#EXTINF:-1 tvg-name="Dz | Algerie Elmaarifa TV7" tvg-logo="http://148.251.133.153:8181/logo/chn/6546.png" group-title="Algérie",Dz | Algerie Elmaarifa TV7
-http://r665.io/live/PacoSico/sbTD8SJ/45716.ts
-#EXTINF:-1 tvg-name="Dz | Algerie Edhakira TV8" tvg-logo="http://148.251.133.153:8181/logo/chn/6547.png" group-title="Algérie",Dz | Algerie Edhakira TV8
-http://r665.io/live/PacoSico/sbTD8SJ/45717.ts
-#EXTINF:-1 tvg-name="Dz | ONE TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6547.png" group-title="Algérie",Dz | ONE TV
-http://r665.io/live/PacoSico/sbTD8SJ/22395.ts
-#EXTINF:-1 tvg-name="Dz | El Heddaf TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6596.png" group-title="Algérie",Dz | El Heddaf TV
-http://r665.io/live/PacoSico/sbTD8SJ/233.ts
-#EXTINF:-1 tvg-name="Dz | Echorouk TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6532.png" group-title="Algérie",Dz | Echorouk TV
-http://r665.io/live/PacoSico/sbTD8SJ/1559.ts
-#EXTINF:-1 tvg-name="Dz | Echorouk News" tvg-logo="http://148.251.133.153:8181/logo/chn/6533.png" group-title="Algérie",Dz | Echorouk News
-http://r665.io/live/PacoSico/sbTD8SJ/1560.ts
-#EXTINF:-1 tvg-name="Dz | Ennahar TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6541.png" group-title="Algérie",Dz | Ennahar TV
-http://r665.io/live/PacoSico/sbTD8SJ/172.ts
-#EXTINF:-1 tvg-name="Dz | Al Hayat TV Algerie" tvg-logo="http://148.251.133.153:8181/logo/chn/6550.png" group-title="Algérie",Dz | Al Hayat TV Algerie
-http://r665.io/live/PacoSico/sbTD8SJ/2260.ts
-#EXTINF:-1 tvg-name="Dz | El Bilad TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6536.png" group-title="Algérie",Dz | El Bilad TV
-http://r665.io/live/PacoSico/sbTD8SJ/231.ts
-#EXTINF:-1 tvg-name="Dz | Watania TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6555.png" group-title="Algérie",Dz | Watania TV
-http://r665.io/live/PacoSico/sbTD8SJ/42074.ts
-#EXTINF:-1 tvg-name="Dz | Salam TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6558.png" group-title="Algérie",Dz | Salam TV
-http://r665.io/live/PacoSico/sbTD8SJ/42041.ts
-#EXTINF:-1 tvg-name="Dz | El Fadjr TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6554.png" group-title="Algérie",Dz | El Fadjr TV
-http://r665.io/live/PacoSico/sbTD8SJ/236.ts
-#EXTINF:-1 tvg-name="Dz | Samira TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6534.png" group-title="Algérie",Dz | Samira TV
-http://r665.io/live/PacoSico/sbTD8SJ/22398.ts
-#EXTINF:-1 tvg-name="Dz | Zahra TV" tvg-logo="http://148.251.133.153:8181/logo/chn/6559.png" group-title="Algérie",Dz | Zahra TV
-http://r665.io/live/PacoSico/sbTD8SJ/41988.ts
-#EXTINF:-1 tvg-name="AL-FAJER TV 1 HD" tvg-logo="http://tayaara.store:80/images/marvel/1716985163331.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 1 HD
-http://u.goldeniptv.com:2052/live/Emile/11223344/136397.ts
-#EXTINF:-1 tvg-name="AL-FAJER TV 2 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985169172.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 2 FHD
-http://u.goldeniptv.com:2052/live/Emile/11223344/136396.ts
-#EXTINF:-1 tvg-name="AL-FAJER TV 3 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985180242.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 3 FHD
-http://u.goldeniptv.com:2052/live/Emile/11223344/136395.ts
-#EXTINF:-1 tvg-name="AL-FAJER TV 4 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985192379.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 4 FHD
-http://u.goldeniptv.com:2052/live/Emile/11223344/136394.ts
-#EXTINF:-1 tvg-name="AL-FAJER TV 5 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985203400.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 5 FHD
-http://u.goldeniptv.com:2052/live/Emile/11223344/136393.ts
-#EXTINF:-1 tvg-name="Ajyal TV" tvg-logo="http://tayaara.store:80/images/marvel/1716985203400.jpg" group-title="AL FAJER  CHANNELS",Ajyal TV
-http://htvmada.mada.ps:8888/ajyal/index.m3u8
-#EXTINF:-1 tvg-name="Ajyal TV" tvg-logo="http://tayaara.store:80/images/marvel/1716985203400.jpg" group-title="AL FAJER  CHANNELS",Ajyal TV
-https://wahyu1ptv.pages.dev/AstroBein1.m3u8
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 1 HD (50 FPS)
-http://r665.io/live/PacoSico/sbTD8SJ/45704.ts
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 1 FHD (50 FPS)
-http://r665.io/live/PacoSico/sbTD8SJ/112484.ts
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 2 HD (50 FPS)
-http://r665.io/live/PacoSico/sbTD8SJ/45707.ts
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 2 FHD (50 FPS)
-http://r665.io/live/PacoSico/sbTD8SJ/112423.ts
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="|AR| BEIN SPORTS 3 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 3 HD (50 FPS)
-http://r665.io/live/PacoSico/sbTD8SJ/10081.ts
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="|AR| BEIN SPORTS 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 3 FHD (50 FPS)
-http://r665.io/live/PacoSico/sbTD8SJ/112292.ts
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="|AR| BEIN SPORTS 4 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 4 HD (50 FPS)
-http://r665.io/live/PacoSico/sbTD8SJ/10080.ts
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="|AR| BEIN SPORTS 4 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 4 FHD (50 FPS)
-http://r665.io/live/PacoSico/sbTD8SJ/112471.ts
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="|AR| BEIN SPORTS 5 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 5 HD (50 FPS)
-http://r665.io/live/PacoSico/sbTD8SJ/10079.ts
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="|AR| BEIN SPORTS 5 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 5 FHD (50 FPS)
-http://r665.io/live/PacoSico/sbTD8SJ/112323.ts
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS 6 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 6 HD (50 FPS)
-http://r665.io/live/PacoSico/sbTD8SJ/10078.ts
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS 6 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 6 FHD (50 FPS)
-http://r665.io/live/PacoSico/sbTD8SJ/112148.ts
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 7 HD (50 FPS)
-http://r665.io/live/PacoSico/sbTD8SJ/10077.ts
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 7 FHD (50 FPS)
-http://r665.io:80/PacoSico/sbTD8SJ/112089
-#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="|AR| BEIN SPORTS 8 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 8 HD (50 FPS)
-http://r665.io/live/PacoSico/sbTD8SJ/10076.ts
-#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="|AR| BEIN SPORTS 8 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 8 FHD (50 FPS)
-http://r665.io:80/PacoSico/sbTD8SJ/45545
-#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="|AR| BEIN SPORTS 9 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 9 HD (50 FPS)
-http://r665.io/live/PacoSico/sbTD8SJ/10075.ts
-#EXTINF:-1 tvg-id="BeinSportsExtra1.qa" tvg-name="|AR| BEIN SPORTS XTRA 1 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 1 HD (50 FPS)
-http://r665.io:80/PacoSico/sbTD8SJ/42086
-#EXTINF:-1 tvg-id="BeinSportsExtra2.qa" tvg-name="|AR| BEIN SPORTS XTRA 2 HD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 2 HD (50 FPS)
-http://r665.io:80/PacoSico/sbTD8SJ/4418
-#EXTINF:-1 tvg-name="|AR| BEIN SPORTS XTRA 3 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 3 FHD (50 FPS)
-http://r665.io:80/PacoSico/sbTD8SJ/112160
-#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SP⚽RTS ʰᵉᵛᶜ 1" tvg-logo="https://i.ibb.co/Z6H4Lw1M/bein-sports-1.png" group-title="BEIN SPORTS",beIN SP⚽RTS ʰᵉᵛᶜ 1
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1269943.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name="beIN SP⚽RTS ʰᵉᵛᶜ 1" tvg-logo="https://i.ibb.co/Z6H4Lw1M/bein-sports-1.png" group-title="BEIN SPORTS",beIN SP⚽RTS ʰᵉᵛᶜ 1
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/3854.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SP⚽RTS ʰᵉᵛᶜ 2" tvg-logo="https://i.ibb.co/Z6H4Lw1M/bein-sports-1.png" group-title="BEIN SPORTS",beIN SP⚽RTS ʰᵉᵛᶜ 2
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1269944.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name="beIN SP⚽RTS ʰᵉᵛᶜ 2" tvg-logo="https://i.ibb.co/Z6H4Lw1M/bein-sports-1.png" group-title="BEIN SPORTS",beIN SP⚽RTS ʰᵉᵛᶜ 2
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/3853.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SP⚽RTS ʰᵉᵛᶜ 3" tvg-logo="https://i.ibb.co/Z6H4Lw1M/bein-sports-1.png" group-title="BEIN SPORTS",beIN SP⚽RTS ʰᵉᵛᶜ 3
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1269945.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name="beIN SP⚽RTS ʰᵉᵛᶜ 3" tvg-logo="https://i.ibb.co/Z6H4Lw1M/bein-sports-1.png" group-title="BEIN SPORTS",beIN SP⚽RTS ʰᵉᵛᶜ 3
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/3853.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="beIN SP⚽RTS ʰᵉᵛᶜ 4" tvg-logo="https://i.ibb.co/Z6H4Lw1M/bein-sports-1.png" group-title="BEIN SPORTS",beIN SP⚽RTS ʰᵉᵛᶜ 4
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1269946.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name="beIN SP⚽RTS ʰᵉᵛᶜ 4" tvg-logo="https://i.ibb.co/Z6H4Lw1M/bein-sports-1.png" group-title="BEIN SPORTS",beIN SP⚽RTS ʰᵉᵛᶜ 4
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/3850.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SP⚽RTS ʰᵉᵛᶜ 5" tvg-logo="https://i.ibb.co/Z6H4Lw1M/bein-sports-1.png" group-title="BEIN SPORTS",beIN SP⚽RTS ʰᵉᵛᶜ 5
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1269947.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name="beIN SP⚽RTS ʰᵉᵛᶜ 5" tvg-logo="https://i.ibb.co/Z6H4Lw1M/bein-sports-1.png" group-title="BEIN SPORTS",beIN SP⚽RTS ʰᵉᵛᶜ 5
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/3849.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-name="beIN SP⚽RTS ʰᵉᵛᶜ 6" tvg-logo="https://i.ibb.co/Z6H4Lw1M/bein-sports-1.png" group-title="BEIN SPORTS",beIN SP⚽RTS ʰᵉᵛᶜ 6
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1269948.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-name="beIN SP⚽RTS ʰᵉᵛᶜ 6" tvg-logo="https://i.ibb.co/Z6H4Lw1M/bein-sports-1.png" group-title="BEIN SPORTS",beIN SP⚽RTS ʰᵉᵛᶜ 6
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/3848.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-name="beIN SP⚽RTS ʰᵉᵛᶜ 7" tvg-logo="https://i.ibb.co/Z6H4Lw1M/bein-sports-1.png" group-title="BEIN SPORTS",beIN SP⚽RTS ʰᵉᵛᶜ 7
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1269949.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-name="beIN SP⚽RTS ʰᵉᵛᶜ 7" tvg-logo="https://i.ibb.co/Z6H4Lw1M/bein-sports-1.png" group-title="BEIN SPORTS",beIN SP⚽RTS ʰᵉᵛᶜ 7
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/3847.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-name="beIN SP⚽RTS ʰᵉᵛᶜ 8" tvg-logo="https://i.ibb.co/Z6H4Lw1M/bein-sports-1.png" group-title="BEIN SPORTS",beIN SP⚽RTS ʰᵉᵛᶜ 8
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/10361.ts
-#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-name="beIN SP⚽RTS ʰᵉᵛᶜ 9" tvg-logo="https://i.ibb.co/Z6H4Lw1M/bein-sports-1.png" group-title="BEIN SPORTS",beIN SP⚽RTS ʰᵉᵛᶜ 9
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/10362.ts
-#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://www14.0zz0.com/2022/01/27/22/454939537.png" group-title="BEIN FHD",BEIN SPORTS 1 HD GHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222912.ts
-#EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://www14.0zz0.com/2022/01/27/22/818970998.png" group-title="BEIN FHD",BEIN SPORTS 2 HD GHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222913.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://www14.0zz0.com/2022/01/27/22/798340876.png" group-title="BEIN FHD",BEIN SPORTS 3 HD GHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222914.ts
-#EXTINF:-1 tvg-id="BeIN Sports 4" tvg-name="BEIN SPORTS 4 HD GHD" tvg-logo="https://www14.0zz0.com/2022/01/27/22/188068553.png" group-title="BEIN FHD",BEIN SPORTS 4 HD GHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222915.ts
-#EXTINF:-1 tvg-id="BeIN Sports 5" tvg-name="BEIN SPORTS 5 HD GHD" tvg-logo="https://www6.0zz0.com/2022/01/27/22/181309184.png" group-title="BEIN FHD",BEIN SPORTS 5 HD GHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222916.ts
-#EXTINF:-1 tvg-id="BeIN Sports 6" tvg-name="BEIN SPORTS 6 HD GHD" tvg-logo="https://www6.0zz0.com/2022/01/27/22/452839047.png" group-title="BEIN FHD",BEIN SPORTS 6 HD GHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222917.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS 7 HD GHD " tvg-logo="https://www14.0zz0.com/2022/01/27/22/819528568.png" group-title="BEIN FHD",BEIN SPORTS 7 HD GHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222918.ts
-#EXTINF:-1 tvg-id="BeIN Sports 8" tvg-name="BEIN SPORTS 8 HD GHD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN FHD",BEIN SPORTS 8 HD GHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222919.ts
-#EXTINF:-1 tvg-id="BeIN Sports 9" tvg-name="BEIN SPORTS 9 HD GHD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="BEIN FHD",BEIN SPORTS 9 HD GHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/222920.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="beIN SPORTS 4K",beIN SPORTS 1 4K
-http://u.goldeniptv.com:2052/live/Emile/11223344/222934.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="beIN SPORTS 4K",beIN SPORTS 2 4K
-http://u.goldeniptv.com:2052/live/Emile/11223344/222935.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs34k.png" group-title="beIN SPORTS 4K",beIN SPORTS 3 4K
-http://u.goldeniptv.com:2052/live/Emile/11223344/222936.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs44k.png" group-title="beIN SPORTS 4K",beIN SPORTS 4 4K
-http://u.goldeniptv.com:2052/live/Emile/11223344/222937.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs54k.png" group-title="beIN SPORTS 4K",beIN SPORTS 5 4K
-http://u.goldeniptv.com:2052/live/Emile/11223344/222938.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs64k.png" group-title="beIN SPORTS 4K",beIN SPORTS 6 4K
-http://u.goldeniptv.com:2052/live/Emile/11223344/222939.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs74k.png" group-title="beIN SPORTS 4K",beIN SPORTS 7 4K
-http://u.goldeniptv.com:2052/live/Emile/11223344/222940.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs84k.png" group-title="beIN SPORTS 4K",beIN SPORTS 8 4K
-http://u.goldeniptv.com:2052/live/Emile/11223344/222941.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs94k.png" group-title="beIN SPORTS 4K",beIN SPORTS 9 4K
-http://u.goldeniptv.com:2052/live/Emile/11223344/222942.ts
+#EXTINF:-1 tvg-name="DZ| ALGERIA 1 EL OULA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" group-title="Algeria - الجزائر",DZ| ALGERIA 1 EL OULA FHD
+http://tv.startseven.tn:2052/live/942387695/970002931/36.m3u8
+#EXTINF:-1 tvg-name="DZ| ALGERIE 2 ALGERIE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" group-title="Algeria - الجزائر",DZ| ALGERIE 2 ALGERIE FHD
+http://tv.startseven.tn:2052/live/942387695/970002931/96.m3u8
+#EXTINF:-1 tvg-name="DZ| ALGERIE 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" group-title="Algeria - الجزائر",DZ| ALGERIE 3 FHD
+http://tv.startseven.tn:2052/live/942387695/970002931/98.m3u8
+#EXTINF:-1 tvg-name="DZ| ALGERIE 4 EL AMAZIGHIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" group-title="Algeria - الجزائر",DZ| ALGERIE 4 EL AMAZIGHIA HD
+http://tv.startseven.tn:2052/live/942387695/970002931/135.m3u8
+#EXTINF:-1 tvg-name="DZ| ALGERIE 5 TV CORAN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" group-title="Algeria - الجزائر",DZ| ALGERIE 5 TV CORAN HD
+http://tv.startseven.tn:2052/live/942387695/970002931/171.m3u8
+#EXTINF:-1 tvg-name="DZ| ALGERIE 6 EL JAZAIRIYA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" group-title="Algeria - الجزائر",DZ| ALGERIE 6 EL JAZAIRIYA FHD
+http://tv.startseven.tn:2052/live/942387695/970002931/467.m3u8
+#EXTINF:-1 tvg-name="DZ| TV7 EL MAARIFA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" group-title="Algeria - الجزائر",DZ| TV7 EL MAARIFA HD
+http://tv.startseven.tn:2052/live/942387695/970002931/468.m3u8
+#EXTINF:-1 tvg-name="DZ| EL HEDDAF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" group-title="Algeria - الجزائر",DZ| EL HEDDAF HD
+http://tv.startseven.tn:2052/live/942387695/970002931/483.m3u8
+#EXTINF:-1 tvg-name="DZ| SAMIRA TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" group-title="Algeria - الجزائر",DZ| SAMIRA TV FHD
+http://tv.startseven.tn:2052/live/942387695/970002931/487.m3u8
+#EXTINF:-1 tvg-name="DZ| ECHOROUK TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" group-title="Algeria - الجزائر",DZ| ECHOROUK TV FHD
+http://tv.startseven.tn:2052/live/942387695/970002931/472.m3u8
+#EXTINF:-1 tvg-name="DZ| ECHOROUK NEWS  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" group-title="Algeria - الجزائر",DZ| ECHOROUK NEWS  HD
+http://tv.startseven.tn:2052/live/942387695/970002931/479.m3u8
+#EXTINF:-1 tvg-name="DZ| EL BILAD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" group-title="Algeria - الجزائر",DZ| EL BILAD HD
+http://tv.startseven.tn:2052/live/942387695/970002931/490.m3u8
+#EXTINF:-1 tvg-name="DZ| ENNAHAR ALGERIE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" group-title="Algeria - الجزائر",DZ| ENNAHAR ALGERIE HD
+http://tv.startseven.tn:2052/live/942387695/970002931/481.m3u8
+#EXTINF:-1 tvg-name="DZ| EL HAYAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" group-title="Algeria - الجزائر",DZ| EL HAYAT HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/242.ts
+#EXTINF:-1 tvg-name="DZ| BAHIA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" group-title="Algeria - الجزائر",DZ| BAHIA TV HD
+http://tv.startseven.tn:2052/live/942387695/970002931/497.m3u8
+#EXTINF:-1 tvg-name="DZ| EL DJAZAIR N1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" group-title="Algeria - الجزائر",DZ| EL DJAZAIR N1 HD
+http://tv.startseven.tn:2052/live/942387695/970002931/469.m3u8
+#EXTINF:-1 tvg-name="DZ|  EL FADJR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" group-title="Algeria - الجزائر",DZ|  EL FADJR HD
+http://tv.startseven.tn:2052/live/942387695/970002931/493.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD G4k" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN 4k",BEIN 1
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=AHHbwNeU43&s=196511199971&id=1167&t=live&f=ts
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 2 HD G4k" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN 4k",BEIN 2
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=AHHbwNeU43&s=196511199971&id=1168&t=live&f=ts
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 3 HD G4k" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN 4k",BEIN 3
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=AHHbwNeU43&s=196511199971&id=1169&t=live&f=ts
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 4 HD G4k" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN 4k",BEIN 4
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=AHHbwNeU43&s=196511199971&id=1170&t=live&f=ts
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 5 HD G4k" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN 4k",BEIN 5
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=AHHbwNeU43&s=196511199971&id=1171&t=live&f=ts
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 6 HD G4k" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN 4k",BEIN 6
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=AHHbwNeU43&s=196511199971&id=1172&t=live&f=ts
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 7 HD G4k" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN 4k",BEIN 7
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=AHHbwNeU43&s=196511199971&id=1173&t=live&f=ts
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 8 HD G4k" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN 4k",BEIN 8
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=AHHbwNeU43&s=196511199971&id=3997&t=live&f=ts
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 9 HD G4k" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN 4k",BEIN 9
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=999&u=AHHbwNeU43&s=196511199971&id=4001&t=live&f=ts
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 1
+http://tv.startseven.tn:2052/live/boniface/11072013/5117.ts
+#EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 2
+http://tv.startseven.tn:2052/live/boniface/11072013/13081.ts
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 3
+http://tv.startseven.tn:2052/live/boniface/11072013/49370.ts
+#EXTINF:-1 tvg-id="BeIN Sports 4" tvg-name="BEIN SPORTS 4 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 4
+http://tv.startseven.tn:2052/live/boniface/11072013/20736.ts
+#EXTINF:-1 tvg-id="BeIN Sports 5" tvg-name="BEIN SPORTS 5 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 5
+http://tv.startseven.tn:2052/live/boniface/11072013/48222.ts
+#EXTINF:-1 tvg-id="BeIN Sports 6" tvg-name="BEIN SPORTS 6 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 6
+http://tv.startseven.tn:2052/live/boniface/11072013/48221.ts
+#EXTINF:-1 tvg-name="BEIN SPORTS 7 HD GHD " tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 7
+http://tv.startseven.tn:2052/live/boniface/11072013/48220.ts
+#EXTINF:-1 tvg-id="BeIN Sports 8 HD GHD" tvg-name="BEIN SPORTS 8 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BEIN 8
+http://tv.startseven.tn:2052/live/boniface/11072013/47361.ts
+#EXTINF:-1 tvg-id="BEIN SPORTS 9 HD GHD" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg" group-title="BEIN FHD",BBEIN 9
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/223018.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
 http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/510908.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="beIN SPORTS HD",beIN SPORTS 2 HD
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/510909.ts
+http://adminapk.in/live/hpxyybonnL/MgXRqDxDLl/33887.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="beIN SPORTS HD",beIN SPORTS 3 HD
 http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/510910.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="beIN SPORTS HD",beIN SPORTS 4 HD
@@ -179,300 +87,317 @@ http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/510914.ts
 http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/510915.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9hd.png" group-title="beIN SPORTS HD",beIN SPORTS 9 HD
 http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/510916.ts
-#EXTINF:-1 tvg-name="ALWAN SPORTS 1 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 1 FHD
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1641605.ts
-#EXTINF:-1 tvg-name="ALWAN SPORTS 1 HD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 1 HD
-https://3.3lok3.site:443/12345/12345/94
-#EXTINF:-1 tvg-name="ALWAN SPORTS 2 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 2 FHD
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1641606.ts
-#EXTINF:-1 tvg-name="ALWAN SPORTS 2 HD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 2 HD
-https://3.3lok3.site:443/12345/12345/95
-#EXTINF:-1 tvg-name="ALWAN SPORTS 3 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 3 FHD
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1641607.ts
-#EXTINF:-1 tvg-name="ALWAN SPORTS 3 HD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 3 HD
-https://3.3lok3.site:443/12345/12345/96
-#EXTINF:-1 tvg-name="ALWAN SPORTS 4 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 4 FHD
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1641608.ts
-#EXTINF:-1 tvg-name="ALWAN SPORTS 4 HD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 4 HD
-https://3.3lok3.site:443/12345/12345/97
-#EXTINF:-1 tvg-name="ALWAN SPORTS 5 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 5 FHD
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1641609.ts
-#EXTINF:-1 tvg-name="ALWAN SPORTS 5 HD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 5 HD
-https://3.3lok3.site:443/12345/12345/98
-#EXTINF:-1 tvg-name="ALWAN SPORTS 6 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 6 FHD
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1641610.ts
-#EXTINF:-1 tvg-name="ALWAN SPORTS 6 HD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 6 HD
-https://3.3lok3.site:443/12345/12345/99
-#EXTINF:-1 tvg-name="ALWAN SPORTS 6 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 6 FHD
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1641611.ts
-#EXTINF:-1 tvg-name="ALWAN SPORTS 6 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 6 FHD
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1641612.ts
-#EXTINF:-1 tvg-name="ALWAN SPORTS 6 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1759232316459.jpg" group-title="ALWAN SPORTS",ALWAN SPORTS 6 FHD
-http://eagle2024.xyz/live/staar_870012/MUK6qsGk/1641613.ts
-#EXTINF:-1 tvg-name="AR: SHASHA SPORT 1 HD" tvg-logo="https://eighty-eight.live/wp-content/uploads/shasha-01-W.png" group-title="ARABIC SPORTS",AR: SHASHA SPORT 1 HD
-http://r665.io/live/PacoSico/sbTD8SJ/112086.ts
-#EXTINF:-1 tvg-name="AR: SHASHA SPORT 2 HD" tvg-logo="https://eighty-eight.live/wp-content/uploads/shasha-02-W.png" group-title="ARABIC SPORTS",AR: SHASHA SPORT 2 HD
-http://r665.io/live/PacoSico/sbTD8SJ/112083.ts
-#EXTINF:-1 tvg-name="AR: SHASHA SPORT 3 HD" tvg-logo="https://eighty-eight.live/wp-content/uploads/shasha-03-W.png" group-title="ARABIC SPORTS",AR: SHASHA SPORT 3 HD
-http://r665.io/live/PacoSico/sbTD8SJ/183889.ts
-#EXTINF:-1 tvg-name="AR: Shahid Sport 1" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="ARABIC SPORTS",AR: Shahid Sport 1
-http://r665.io/live/PacoSico/sbTD8SJ/101038.ts
-#EXTINF:-1 tvg-name="AR: Shahid Sport 2" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="ARABIC SPORTS",AR: Shahid Sport 2
-hhttp://r665.io/live/PacoSico/sbTD8SJ/100848.ts
-#EXTINF:-1 tvg-name="AR: Shahid Sport 3" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="ARABIC SPORTS",AR: Shahid Sport 3
-http://r665.io/live/PacoSico/sbTD8SJ/13261.ts
-#EXTINF:-1 tvg-name="AR: Shahid Sport 4" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="ARABIC SPORTS",AR: Shahid Sport 4
-http://r665.io/live/PacoSico/sbTD8SJ/100866.ts
-#EXTINF:-1 tvg-name="AR: Thamanya 1 FHD" tvg-logo="https://images.seeklogo.com/logo-png/51/1/thmanyah-logo-png_seeklogo-518881.png" group-title="ARABIC SPORTS",AR: Thamanya 1 FHD
-http://r665.io/live/PacoSico/sbTD8SJ/112579.ts
-#EXTINF:-1 tvg-name="AR: Thamanya 2 FHD" tvg-logo="https://images.seeklogo.com/logo-png/51/1/thmanyah-logo-png_seeklogo-518881.png" group-title="ARABIC SPORTS",AR: Thamanya 2 FHD
-http://r665.io/live/PacoSico/sbTD8SJ/112382.ts
-#EXTINF:-1 tvg-name="AR: Thamanya 3 FHD" tvg-logo="https://images.seeklogo.com/logo-png/51/1/thmanyah-logo-png_seeklogo-518881.png" group-title="ARABIC SPORTS",AR: Thamanya 3 FHD
-http://r665.io/live/PacoSico/sbTD8SJ/7056.ts
-#EXTINF:-1 tvg-name="AR: StarzPlay SPORTS 1 HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f2%2f15%2fad-sports-premium-1.png" group-title="ARABIC SPORTS",AR: StarzPlay SPORTS 1 HD
-http://r665.io/live/PacoSico/sbTD8SJ/2365.ts
-#EXTINF:-1 tvg-name="AR: StarzPlay SPORTS 2 HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f2%2f16%2fad-sports-premium-1.png" group-title="ARABIC SPORTS",AR: StarzPlay SPORTS 2 HD
-http://r665.io/live/PacoSico/sbTD8SJ/2366.ts
-#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="|FR| BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5114.png" group-title="|FR|BEIN SPORTS",|FR| BEIN SPORTS 1 FHD
-http://r665.io/live/PacoSico/sbTD8SJ/37291.ts
-#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="|FR| BEIN SPORTS 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/5114.png" group-title="|FR|BEIN SPORTS",|FR| BEIN SPORTS 1 HD
-http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393118.ts
-#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="|FR| BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5115.png" group-title="|FR|BEIN SPORTS",|FR| BEIN SPORTS 2 FHD
-http://r665.io/live/PacoSico/sbTD8SJ/37185.ts
-#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="|FR| BEIN SPORTS 2 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/5115.png" group-title="|FR|BEIN SPORTS",|FR| BEIN SPORTS 2 HD
-http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393115.ts
-#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="|FR| BEIN SPORTS 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5116.png" group-title="|FR|BEIN SPORTS",|FR| BEIN SPORTS 3 FHD
-http://r665.io/live/PacoSico/sbTD8SJ/12015.ts
-#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="|FR| BEIN SPORTS 3 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/5116.png" group-title="|FR|BEIN SPORTS",|FR| BEIN SPORTS 3 HD
-http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393112.ts
-#EXTINF:-1 tvg-ID="beINSPORTSMAX4.fr" tvg-name="|FR| BEIN MAX 4 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_4.png" group-title="|FR|BEIN SPORTS",|FR| BEIN MAX 4 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/265453.ts
-#EXTINF:-1 tvg-ID="beINSPORTSMAX5.fr" tvg-name="|FR| BEIN MAX 5 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_5.png" group-title="|FR|BEIN SPORTS",|FR| BEIN MAX 5 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/265454.ts
-#EXTINF:-1 tvg-ID="beINSPORTSMAX6.fr" tvg-name="|FR| BEIN MAX 6 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_6.png" group-title="|FR|BEIN SPORTS",|FR| BEIN MAX 6 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/265455.ts
-#EXTINF:-1 tvg-ID="beINSPORTSMAX7.fr" tvg-name="|FR| BEIN MAX 7 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_7.png" group-title="|FR|BEIN SPORTS",|FR| BEIN MAX 7 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/265456.ts
-#EXTINF:-1 tvg-ID="beINSPORTSMAX8.fr" tvg-name="|FR| BEIN MAX 8 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_8.png" group-title="|FR|BEIN SPORTS",|FR| BEIN MAX 8 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/265457.ts
-#EXTINF:-1 tvg-ID="beINSPORTSMAX9.fr" tvg-name="|FR| BEIN MAX 9 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_9.png" group-title="|FR|BEIN SPORTS",|FR| BEIN MAX 9 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/265458.ts
-#EXTINF:-1 tvg-ID="beINSPORTSMAX10.fr" tvg-name="|FR| BEIN MAX 10 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/BEIN_SPORTS_MAX_10.png" group-title="|FR|BEIN SPORTS",|FR| BEIN MAX 10 FHD
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/265459.ts
-#EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL+ FOOT FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="|FR|CANAL SPORTS",|FR| CANAL+ FOOT FHD
-http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393370.ts
-#EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL+ FOOT HD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/2703" group-title="|FR|CANAL SPORTS",|FR| CANAL+ FOOT HD
-http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/265017.ts
-#EXTINF:-1 tvg-ID="canalplussport360.fr" tvg-name="|FR| CANAL+ 360 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="|FR|CANAL SPORTS",|FR| CANAL+ 360 FHD
-http://ottsansat.org:88/02028397098883/6335414088/126834
-#EXTINF:-1 tvg-ID="canalplussport360.fr" tvg-name="|FR| CANAL+ 360 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/2453.png" group-title="|FR|CANAL SPORTS",|FR| CANAL+ 360 HD
-http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/265204.ts
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-sport-1-afrique-1364.png" group-title="|FR|CANAL SPORTS",|AF| Canal+ Sport 1 HD
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/canalsport1.m3u8
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-sport-2-africa-1496.png" group-title="|FR|CANAL SPORTS",|AF| Canal+ Sport 2 HD
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/canalsport2.m3u8
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-sport-3-africa-1497.png" group-title="|FR|CANAL SPORTS",|AF| Canal+ Sport 3 HD
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/canalsport3.m3u8
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-sport-4-africa-1498.png" group-title="|FR|CANAL SPORTS",|AF| Canal+ Sport 4 HD
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/canalsport4.m3u8
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nsport-558.png" group-title="|FR|CANAL SPORTS",|FR| CANAL+ SPORT 5 HD
-http://r665.io/live/PacoSico/sbTD8SJ/61435.ts
-#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="|FR| CANAL+ FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL_PLUS.png" group-title="FRANCE MY CANAL",|FR| CANAL+ HEVC
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/148474.ts
-#EXTINF:-1 tvg-ID="canalplusboxoffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/4783.png" group-title="FRANCE MY CANAL",|FR| CANAL+ BOX OFFICE HEVC
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/326682.ts
-#EXTINF:-1 tvg-ID="canalpluscinma.fr" tvg-name="|FR| CINEMA FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1503" group-title="FRANCE MY CANAL",|FR| CANAL+ CINEMA HEVC
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/148475.ts
-#EXTINF:-1 tvg-ID="canalpluskids.fr" tvg-name="|FR| CANAL+ KIDS FHD" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+kids.png" group-title="FRANCE MY CANAL",|FR| CANAL+ KIDS HEVC
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32774.ts
-#EXTINF:-1 tvg-ID="canalplusgrandecran.fr" tvg-name="|FR| CANAL+ GRAND ECRAN 4K" tvg-logo="http://vodkom.com/MYFRANCE/CANAL+GRAND_ECRAN.png" group-title="FRANCE MY CANAL",|FR| CANAL+ GRAND ECRAN 4K
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/250640.ts
-#EXTINF:-1 tvg-ID="CinePlusPremier.be" tvg-name="|FR| CINE+ PREMIER HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2456_440_1_C00000_0_0_0.png" group-title="FRANCE MY CANAL",|FR| CINE+ PREMIER HEVC
-http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393335.ts
-#EXTINF:-1 tvg-ID="CinePlusFrisson.fr" tvg-name="|FR| CINE+ FRISSON HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2267_438_1_C00000_0_0_0.png" group-title="FRANCE MY CANAL",|FR| CINE+ FRISSON HEVC
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/203425.ts
-#EXTINF:-1 tvg-ID="CinePlusEmotion.fr" tvg-name="|FR| CINE+ EMOTION HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245B_440_1_C00000_0_0_0.png" group-title="FRANCE MY CANAL",|FR| CINE+ EMOTION HEVC
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/203423.ts
-#EXTINF:-1 tvg-ID="cineplusamiz.fr" tvg-name="|FR| CINE+ FAMIZ HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2268_438_1_C00000_0_0_0.png" group-title="FRANCE MY CANAL",|FR| CINE+ FAMIZ HEVC
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/250678.ts
-#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="|FR| CINE+ CLUB HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B9_43E_1_C00000_0_0_0.png" group-title="FRANCE MY CANAL",|FR| CINE+ CLUB HEVC
-http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393344.ts
-#EXTINF:-1 tvg-ID="CinePlusClassic.fr" tvg-name="|FR| CINE+  CLASSIC HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2269_438_1_C00000_0_0_0.png" group-title="FRANCE MY CANAL",|FR| CINE+  CLASSIC HEVC
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/250676.ts
-#EXTINF:-1 tvg-ID="CinePlusClub.fr" tvg-name="|FR| CINE+ FESTIVAL HD 4ᴋ" group-title="FRANCE MY CANAL",|FR| CINE+ FESTIVAL HEVC
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/250677.ts
-#EXTINF:-1 tvg-name="FR | TF1 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1495" group-title="Français TNT ",FR | TF1 FHD
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32750.ts
-#EXTINF:-1 tvg-name="FR | TF1 SERIES-FILMS FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1500" group-title="Français TNT ",FR | TF1 SERIES-FILMS FHD
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32800.ts
-#EXTINF:-1 tvg-name="FR | France 2 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1496" group-title="Français TNT ",FR | France 2 FHD
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32752.ts
-#EXTINF:-1 tvg-name="FR | France 3 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1497" group-title="Français TNT ",FR | France 3 FHD
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32753.ts
-#EXTINF:-1 tvg-name="FR | France 4 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1498" group-title="Français TNT ",FR | France 4 FHD
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32754.ts
-#EXTINF:-1 tvg-name="FR | FRANCE 5" tvg-logo="http://148.251.133.153:8181/logo/chn/2363.png" group-title="Français TNT ",FR | FRANCE 5 FHD
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32755.ts
-#EXTINF:-1 tvg-name="FR | M6 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1499" group-title="Français TNT ",FR | M6 FHD
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32756.ts
-#EXTINF:-1 tvg-name="FR | 6Ter FHD" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/6ter_fr.png" group-title="Français TNT ",FR | 6Ter FHD
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32758.ts
-#EXTINF:-1 tvg-name="FR | W9 FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1501" group-title="Français TNT ",FR | W9 FHD
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32798.ts
-#EXTINF:-1 tvg-name="FR | TFX FHD" tvg-logo="http://ip.magsat.tv:8801/logo/chn/1508" group-title="Français TNT ",FR | TFX FHD
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32799.ts
-#EXTINF:-1 tvg-name="FR | TMC" tvg-logo="http://148.251.133.153:8181/logo/chn/2371.png" group-title="Français TNT ",FR | TMC
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/32796.ts
-#EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="|FR| USHUAIA HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/USHUAIA_TV.png" group-title="FRANCE DECOUVERTE",|FR| USHUAIA HEVC
-http://eagle2024.xyz/live/ht6jbvlgqy/8s2t4imc85/148487.ts
-#EXTINF:-1 tvg-ID="animaux.fr" tvg-name="|FR| ANIMAUX HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/ANIMAUX.png" group-title="FRANCE DECOUVERTE",|FR| ANIMAUX HEVC
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=223&t=live&f=ts
-#EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="|FR| CHASSE&PECHE HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/CHASSE_ET_PECHE.png" group-title="FRANCE DECOUVERTE",|FR| CHASSE&PECHE HEVC
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=232&t=live&f=ts
-#EXTINF:-1 tvg-ID="seasons.fr" tvg-name="|FR| SEASONS HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/SEASONS.png" group-title="FRANCE DECOUVERTE",|FR| SEASONS HEVC
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=230&t=live&f=ts
-#EXTINF:-1 tvg-ID="histoire.fr" tvg-name="|FR| HISTOIRE HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/HISTOIRE_TV.png" group-title="FRANCE DECOUVERTE",|FR| HISTOIRE HEVC
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=224&t=live&f=ts
-#EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="|FR| TOUTE L HISTOIRE HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/Toute_L_Histoire.png" group-title="FRANCE DECOUVERTE",|FR| TOUTE L HISTOIRE HEVC
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=87374&t=live&f=ts
-#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="|FR| DISCOVERY HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/Discovery_HD.png" group-title="FRANCE DECOUVERTE",|FR| DISCOVERY HEVC
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=237&t=live&f=ts
-#EXTINF:-1 tvg-ID="discoveryinvestigation.fr" tvg-name="|FR| DISCOVERY ID HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/ID_HD.png" group-title="FRANCE DECOUVERTE",|FR| DISCOVERY ID HEVC
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=335&t=live&f=ts
-#EXTINF:-1 tvg-ID="trek.fr" tvg-name="|FR| TREK HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/TREK.png" group-title="FRANCE DECOUVERTE",|FR| TREK HEVC
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=228&t=live&f=ts
-#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+ HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/PLANETE+.png" group-title="FRANCE DECOUVERTE",|FR| PLANETE+ HEVC
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=234&t=live&f=ts
-#EXTINF:-1 tvg-ID="action.fr" tvg-name="|FR| PLANETE A&E HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/PLANETE+A_end_E.png" group-title="FRANCE DECOUVERTE",|FR| PLANETE A&E HEVC
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=235&t=live&f=ts
-#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+ CI HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/PLANETE+CI.png" group-title="FRANCE DECOUVERTE",|FR| PLANETE+ CI HEVC
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=236&t=live&f=ts
-#EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="|FR| NAT GEO HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/NATIONAL_GEO.png" group-title="FRANCE DECOUVERTE",|FR| NAT GEO HEVC
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=111&u=AHHbwNeU43&s=196511199971&id=240&t=live&f=ts
-#EXTINF:-1 tvg-ID="NatGeoWild.fr" tvg-name="|FR| NAT GEO WILD HEVC" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/NATIONAL_GEOGRAPHIC_WILD.png" group-title="FRANCE DECOUVERTE",|FR| NAT GEO WILD HEVC
-http://line.diaocean.xyz/live/SelmanMk25/97AC96C7/393247.ts
-#EXTINF:-1 group-title="OSN MEDIA" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", STC CIEMA
-http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/596686.m3u8
-#EXTINF:-1 group-title="OSN MEDIA" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", STC DRAMA
-http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/596684.m3u8
-#EXTINF:-1 group-title="OSN MEDIA" tvg-logo="https://economysaudiarabia.com/wp-content/uploads/sites/2/2023/09/IMG-20230905-WA0031.jpg", STC FAMILY
-http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/596685.m3u8
-#EXTINF:-1 tvg-id="OSNtv Yahala.sa" tvg-name="OSN TV YAHALA" tvg-logo="https://i.ibb.co/VcWkM52L/OSN-YAHALA.png" group-title="OSN MEDIA",OSN TV YAHALA
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2584&t=live&f=ts
-#EXTINF:-1 tvg-id="OSNtv Yahala Bil Arabi.sa" tvg-name="OSN TV YAHALA BELARABY" tvg-logo="https://i.ibb.co/ZzswnVV3/OSN-YAHALA-BELARABI.png" group-title="OSN MEDIA",OSN TV YAHALA BELARABY
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2585&t=live&f=ts
-#EXTINF:-1 tvg-id="OSNtv Yahala Aflam.sa" tvg-name="OSN YAHALA AFLAM" tvg-logo="https://i.ibb.co/sd1jQFxS/OSN-YAHALA-AFLAM.png" group-title="OSN MEDIA",OSN YAHALA AFLAM
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2586&t=live&f=ts
-#EXTINF:-1 tvg-name="ALFA MUSALSALAT" tvg-logo="https://i.ibb.co/KjFLM4W1/MOSALSALAT.png" group-title="OSN MEDIA",ALFA MUSALSALAT
-http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699967.m3u8
-#EXTINF:-1 tvg-name="ALFA MUSALSALAT +2" tvg-logo="https://i.ibb.co/dhzfZDb/MOSALSALAT-2.png" group-title="OSN MEDIA",ALFA MUSALSALAT +2
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2591&t=live&f=ts
-#EXTINF:-1 tvg-name="ALFA CINEMA 1" tvg-logo="https://i.ibb.co/0yPyFB5W/CINEMA-1.png" group-title="OSN MEDIA",ALFA CINEMA 1
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2589&t=live&f=ts
-#EXTINF:-1 tvg-name="ALFA CINEMA 2" tvg-logo="https://i.ibb.co/TM3X4ZP5/CINEMA-2.png" group-title="OSN MEDIA",ALFA CINEMA 2
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2590&t=live&f=ts
-#EXTINF:-1 tvg-name="ART AFLAM 1" tvg-logo="https://i.ibb.co/hF0Zy63K/ART-AFLAM-1.png" group-title="OSN MEDIA",ART AFLAM 1
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2594&t=live&f=ts
-#EXTINF:-1 tvg-name="ART AFLAM 2" tvg-logo="https://i.ibb.co/sdD6wZM1/ART-AFLAM-2.png" group-title="OSN MEDIA",ART AFLAM 2
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2595&t=live&f=ts
-#EXTINF:-1 tvg-name="ART HEKAYAT" tvg-logo="https://i.ibb.co/hxdrwJvk/ART-HEKAYAT.png" group-title="OSN MEDIA",ART HEKAYAT
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2596&t=live&f=ts
-#EXTINF:-1 tvg-name="ART HEKAYAT 2" tvg-logo="https://i.ibb.co/C5qxWSrG/ART-HEKAYAT-2.png" group-title="OSN MEDIA",ART HEKAYAT 2
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2597&t=live&f=ts
-#EXTINF:-1 tvg-name="ALFA AL-SAFWA" tvg-logo="https://i.ibb.co/ycWvY7Gv/AL-SAFWA.png" group-title="OSN MEDIA",ALFA AL-SAFWA
-http://sansatplus.net:88/live/02047594027660/02047596581454/115319.ts
-#EXTINF:-1 tvg-name="ALFA AL-YOUM" tvg-logo="https://i.ibb.co/xqKLBqN9/AL-YOUM.png" group-title="OSN MEDIA",ALFA AL-YOUM
-http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699969.m3u8
-#EXTINF:-1 tvg-id="OSNtv Movies Action.sa" tvg-name="OSN TV MOVIES ACTION" tvg-logo="https://i.ibb.co/xt8qsVT0/OSN-ACTION.png" group-title="OSN MEDIA",OSN TV MOVIES ACTION
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2603&t=live&f=ts
-#EXTINF:-1 tvg-id="OSNtv Comedy.sa" tvg-name="OSN TV COMEDY" tvg-logo="https://i.ibb.co/tMXLWXkd/OSN-COMEDY.png" group-title="OSN MEDIA",OSN TV COMEDY
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2604&t=live&f=ts
-#EXTINF:-1 tvg-id="OSNtv Movies Premiere.sa" tvg-name="OSN TV MOVIES PREMIERE" tvg-logo="https://i.ibb.co/nN4Z81mv/OSN-MOVIES-FIRST.png" group-title="OSN MEDIA",OSN TV MOVIES PREMIERE
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2608&t=live&f=ts
-#EXTINF:-1 tvg-id="OSNtv Movies Family.sa" tvg-name="OSN TV MOVIES FAMILY" tvg-logo="https://i.ibb.co/vCyq5FT6/OSN-FAMILY.png" group-title="OSN MEDIA",OSN TV MOVIES FAMILY
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2618&t=live&f=ts
-#EXTINF:-1 tvg-id="OSNtv Mezze.sa" tvg-name="OSN TV MEZZE" tvg-logo="https://i.ibb.co/Gf7z1w1m/OSN-MEZZE.png" group-title="OSN MEDIA",OSN TV MEZZE
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2622&t=live&f=ts
-#EXTINF:-1 tvg-id="OSNtv One.sa" tvg-name="OSN TV ONE" tvg-logo="https://i.ibb.co/MzpDp1r/OSN-ONE.png" group-title="OSN MEDIA",OSN TV ONE
-http://tv.startseven.tn:2052/live/boniface/11072013/265196.ts
-#EXTINF:-1 tvg-id="Drama Stacked nov 2024 200x200.qa" tvg-name="beIN DRAMA 1" tvg-logo="https://i.ibb.co/p62Vh42Z/bein-drama-1.png" group-title="BEIN MEDIA",beIN DRAMA 1
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1359&t=live&f=ts
-#EXTINF:-1 tvg-id="MOVIES1 PREMIERE DIGITAL.qa" tvg-name="beIN MOVIES 1 PREMIERE" tvg-logo="https://i.ibb.co/6zwfxRB/bein-movies-1.png" group-title="BEIN MEDIA",beIN MOVIES 1 PREMIERE
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="||FR|| BEIN SPORTS 1 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN SPORTS 1 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/450.m3u8
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="||FR|| BEIN SPORTS 2 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN SPORTS 2 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/451.m3u8
+#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="||FR|| BEIN SPORTS 3 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN SPORTS 3 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/453.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSMAX4.fr" tvg-name="||FR|| BEIN MAX 4 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 4 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1972.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSMAX5.fr" tvg-name="||FR|| BEIN MAX 5 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 5 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1974.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSMAX6.fr" tvg-name="||FR|| BEIN MAX 6 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 6 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1973.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSMAX7.fr" tvg-name="||FR|| BEIN MAX 7 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 7 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1975.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSMAX8.fr" tvg-name="||FR|| BEIN MAX 8 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 8 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1976.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSMAX9.fr" tvg-name="||FR|| BEIN MAX 9 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 9 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1977.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSMAX10.fr" tvg-name="||FR|| BEIN MAX 10 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 10 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/112.m3u8
+#EXTINF:-1 tvg-name="beIN MOVIES 4K 1" group-title="beIN MOVIES 4K",beIN MOVIES 4K 1
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1342&t=live&f=ts
-#EXTINF:-1 tvg-id="MOVIES2 ACTION DIGITAL.qa" tvg-name="beIN MOVIES 2 ACTION" tvg-logo="https://i.ibb.co/4nkKN5pj/bein-movies-2.png" group-title="BEIN MEDIA",beIN MOVIES 2 ACTION
+#EXTINF:-1 tvg-name="beIN MOVIES 4K 2" group-title="beIN MOVIES 4K",beIN MOVIES 4K 2
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1343&t=live&f=ts
-#EXTINF:-1 tvg-id="MOVIES3 DRAMA DIGITAL.qa" tvg-name="beIN MOVIES 3 DRAMA" tvg-logo="https://i.ibb.co/Myx819q3/bein-movies-3.png" group-title="BEIN MEDIA",beIN MOVIES 3 DRAMA
+#EXTINF:-1 tvg-name="beIN MOVIES 4K 3" group-title="beIN MOVIES 4K",beIN MOVIES 4K 3
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1344&t=live&f=ts
-#EXTINF:-1 tvg-id="MOVIES4 FAMILY DIGITAL.qa" tvg-name="beIN MOVIES 4 FAMILY" tvg-logo="https://i.ibb.co/HL7ZvHss/bein-movies-4.png" group-title="BEIN MEDIA",beIN MOVIES 4 FAMILY
+#EXTINF:-1 tvg-name="beIN MOVIES 4K 4" group-title="beIN MOVIES 4K",beIN MOVIES 4K 4
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1345&t=live&f=ts
-#EXTINF:-1 tvg-id="SERIES1 DIGITAL.qa" tvg-name="beIN SERIES 1" tvg-logo="https://i.ibb.co/1JtkKHP5/bein-series-1.png" group-title="BEIN MEDIA",beIN SERIES 1
+#EXTINF:-1 tvg-name="beIN SERIES 4K 1" group-title="beIN MOVIES 4K",beIN SERIES 4K 1
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1346&t=live&f=ts
-#EXTINF:-1 tvg-id="SERIES2 DIGITAL.qa" tvg-name="beIN SERIES 2" tvg-logo="https://i.ibb.co/B23byYZY/bein-series-2.png" group-title="BEIN MEDIA",beIN SERIES 2
+#EXTINF:-1 tvg-name="beIN SERIES 4K 2" group-title="beIN MOVIES 4K",beIN SERIES 4K 2
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1347&t=live&f=ts
-#EXTINF:-1 tvg-id="BBC EARTH.sa" tvg-name="BBC EARTH" tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/BBCEarth-new_200x200.png" group-title="BEIN MEDIA", BBC EARTH 
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1351&t=live&f=ts
-#EXTINF:-1 tvg-id="Fatafeat.sa" tvg-name="FATAFEAT" tvg-logo="https://i.ibb.co/VY54fWbY/fatafeat.png" group-title="BEIN MEDIA",FATAFEAT
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1352&t=live&f=ts
-#EXTINF:-1 tvg-id="GOURMET DIGITAL.qa" tvg-name="beIN GOURMET" tvg-logo="https://i.ibb.co/ZpBkQ6vv/bein-gourmet.png" group-title="BEIN MEDIA",beIN GOURMET
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1358&t=live&f=ts
-#EXTINF:-1 tvg-id="TCM.sa" tvg-name="TCM" tvg-logo="https://i.ibb.co/kgTKVKB1/TCM.png" group-title="BEIN MEDIA",TCM
+#EXTINF:-1 tvg-name="beIN DRAMA 4K" group-title="beIN MOVIES 4K",beIN DRAMA 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1359&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Star Movies 4K" group-title="beIN MOVIES 4K",beIN Star Movies 4K
+http://eagle2024.xyz/live/staar_870012/MUK6qsGk/137498.ts
+#EXTINF:-1 tvg-name="beIN Star Action 4K" group-title="beIN MOVIES 4K",beIN Star Action 4K
+http://maveniptv.net:80/live/aosman/0M@1115082222/258035.m3u8
+#EXTINF:-1 tvg-name="beIN TCM 4K" group-title="beIN MOVIES 4K",beIN TCM 4K
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1374&t=live&f=ts
-#EXTINF:-1 tvg-logo="",OutDoor HD
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1379&t=live&f=ts
-#EXTINF:-1 tvg-id="Discovery HD.sa" tvg-name="DISCOVERY" tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/HGTV.png" group-title="DOCUMENTARY",HGTV
-http://istar1.pro/live/1010101010/67d2e52bb5ab4.55246/598.ts
-#EXTINF:-1 tvg-id="Discovery HD.sa" tvg-name="DISCOVERY" tvg-logo="https://i.ibb.co/xS14ysMD/DISCOVERY-CH.png" group-title="DOCUMENTARY",DISCOVERY
-http://sansatplus.net:88/live/02047594027660/02047596581454/1054768.ts
-#EXTINF:-1 tvg-id="Discovery Family HD.sa" tvg-name="DISCOVERY FAMILY" tvg-logo="https://i.ibb.co/DDFSkR65/discovery-family.png" group-title="DOCUMENTARY",DISCOVERY FAMILY
-http://sansatplus.net:88/live/02047594027660/02047596581454/1054769.ts
-#EXTINF:-1 tvg-id="Animal Planet HD.sa" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/wbR71mJ/Animal-Planet.png" group-title="DOCUMENTARY",ANIMAL PLANET
-http://sansatplus.net:88/live/02047594027660/02047596581454/1054767.ts
-#EXTINF:-1 tvg-id="Nat. Geo. Wild HD.sa" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/4RdKq0Td/Nat-Geo-wild.png" group-title="DOCUMENTARY",NAT GEO WILD
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1384&t=live&f=ts
-#EXTINF:-1 tvg-id="Nat. Geographic.sa" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.ibb.co/JRyyWR1m/Nat-Geo.png" group-title="DOCUMENTARY",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-name="beIN BBC EARTH 4K" group-title="beIN MOVIES 4K",beIN BBC EARTH 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1381&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Travel 4K" group-title="beIN MOVIES 4K",beIN Travel 4K
+http://eagle2024.xyz/live/staar_870012/MUK6qsGk/14550.ts
+#EXTINF:-1 tvg-name="beIN Nat geo 4K" group-title="beIN MOVIES 4K",beIN Nat geo 4K
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1385&t=live&f=ts
-#EXTINF:-1 tvg-id="Travel.sa" tvg-name="TRAVEL" tvg-logo="https://i.ibb.co/TxmZWsKq/travel-channel.png" group-title="DOCUMENTARY",TRAVEL
-http://u.goldeniptv.com:2052/live/Emile/11223344/255132.ts
-#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://i.ibb.co/gb5LSLBh/HISTORY-CH.png" group-title="DOCUMENTARY",HISTORY
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2614&t=live&f=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4wTXZ0qi8xjWXrTWJKWkmfRFK7NlhsRHmgw&s" group-title="Starz-play",BEIN SPORTS 1 AU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqvht3Vvx9Gz1UNHKukYRaAoEyqhhCc1IHt2qkVAE-e3AKEiI8Tuncnvmj&s=10" group-title="Starz-play",BEIN SPORTS 2 AU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqsjcNy_IDohefZUIH1APnJwclfHByEcy6_w&s" group-title="Starz-play",BEIN SPORTS 3 AU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png", STC SPORTS 1
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
-https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://go4.pw/ARABE/AD_SPORTS_2_PREMIUM.png", STC SPORTS 2
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42
-https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://shahid.mbc.net/mediaObject/0da1c6ad-b49e-470d-b1b3-d2f1b0f7226d?height=auto&width=144&croppingPoint=&version=1&type=avif", MBC MASR 2
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=4da4fec209622c5da04762e8d2d2f1d7:4495168cf1a99038546b9d042dbe7c97
-https://fastly-live.cdn.intigral-ott.net/MBMS2/MBMS2.isml/manifest.mpd
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://shahid.mbc.net/mediaObject/27b098dd-07ae-4264-9ac2-47da7d720740?height=auto&width=288&croppingPoint=&version=1&type=webp", MBC IRAQ
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://shahid.mbc.net/mediaObject/ebd1455f-1669-4734-ba19-eb3140c1dba0?height=auto&width=144&croppingPoint=&version=1&type=avif", MBC ACTION
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=5567531458e9c2e93d22935c45fdef52:f2f613fb2132acd019d2a96bf1be15c1
-https://fastly-live.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd
-#EXTINF:-1 group-title="Starz-play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/RTBF_La_Une_logo_2004.png" , La_Une
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/669bb376/9069a322.isml/.mpd
+#EXTINF:-1 tvg-name="beIN Nat geo Wild 4K" group-title="beIN MOVIES 4K",beIN Nat geo Wild 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1384&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN FATAFEAT 4K" group-title="beIN MOVIES 4K",beIN FATAFEAT 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1352&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Gourmet 4K" group-title="beIN MOVIES 4K",beIN Gourmet 4K
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1358&t=live&f=ts
+#EXTINF:-1 tvg-name="OSN yahala" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN yahala
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699936.m3u8
+#EXTINF:-1 tvg-name="OSN yahala Bil Arabi" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN yahala Bil Arabi
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699937.m3u8
+#EXTINF:-1 tvg-name="OSN yahala Aflam" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN yahala Aflam
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699938.m3u8
+#EXTINF:-1 tvg-name="OSN MOVIES ACTION" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN MOVIES ACTION
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699939.m3u8
+#EXTINF:-1 tvg-name="OSN Musalsalat 1" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN Musalsalat 1
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699967.m3u8
+#EXTINF:-1 tvg-name="OSN Musalsalat 2" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN Musalsalat 2
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699968.m3u8
+#EXTINF:-1 tvg-name="OSN Alyawm" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN Alyawm
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/845.ts
+#EXTINF:-1 tvg-name="OSN cinema 1" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN cinema 1
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699970.m3u8
+#EXTINF:-1 tvg-name="OSN cinema 2" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN cinema 2
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699971.m3u8
+#EXTINF:-1 tvg-name="OSN FAN" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN FAN
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699972.m3u8
+#EXTINF:-1 tvg-name="OSN Safwah" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN Safwah
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699973.m3u8
+#EXTINF:-1 tvg-name="OSN MOVIES Premiere" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN MOVIES Premiere
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699940.m3u8
+#EXTINF:-1 tvg-name="OSN MOVIES Holloway" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN MOVIES Holloway
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699941.m3u8
+#EXTINF:-1 tvg-name="OSN Movies  FAMILY" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN Movies  FAMILY
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699942.m3u8
+#EXTINF:-1 tvg-name="OSN Movies Horror" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN Movies Horror
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699943.m3u8
+#EXTINF:-1 tvg-name="OSN COMDEY" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN COMDEY
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699944.m3u8
+#EXTINF:-1 tvg-name="OSN Crime" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN Crime
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699945.m3u8
+#EXTINF:-1 tvg-name="OSN Showcase" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN Showcase
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699946.m3u8
+#EXTINF:-1 tvg-name="OSN  Showcase Classics" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN  Showcase Classics
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699947.m3u8
+#EXTINF:-1 tvg-name="OSN One" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN One
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699948.m3u8
+#EXTINF:-1 tvg-name="OSN Mezze" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN Mezze
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699964.m3u8
+#EXTINF:-1 tvg-name="OSN Discovery HD" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN Discovery HD
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699960.m3u8
+#EXTINF:-1 tvg-name="OSN History" tvg-logo="https://assets.sharikatmubasher.com/news/21476022.png" group-title="OSN - او اس ان",OSN History
+http://googel.club:80/live/1010101010/67d2e52bb5ab4.55246/699962.m3u8
+#EXTINF:-1 tvg-id="CanalPlusLigue1.fr" tvg-name="||FR|| CANAL+ LIGUE 1 FHD" tvg-logo="http://obsfullhd.tv:25461/images/0adbb229a50d915353fd800669ab35ea.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ LIGUE 1 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/36583.m3u8
+#EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="||FR|| Canal+ BOX OFFICE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/C%2B_Box_Office.png" group-title="CANALSAT & Ciné+",||FR|| Canal+ BOX OFFICE FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/89850.m3u8
+#EXTINF:-1 tvg-name="||FR|| Canal+ TOP 14 FHD" group-title="CANALSAT & Ciné+",||FR|| Canal+ TOP 14 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/89855.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="||FR|| CANAL+ SPORT FHD+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/1920x1080/smart/creativemedia-image.canalplus.pro/content/0001/06/881ccf4c15aa34a29e3874cb6b26725b57d32f3e.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ SPORT FHD+
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/51157.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="||FR|| CANAL+ SPORT FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/1920x1080/smart/creativemedia-image.canalplus.pro/content/0001/06/881ccf4c15aa34a29e3874cb6b26725b57d32f3e.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ SPORT FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/460.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="||FR|| CANAL+ SPORT HD+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/1920x1080/smart/creativemedia-image.canalplus.pro/content/0001/06/881ccf4c15aa34a29e3874cb6b26725b57d32f3e.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ SPORT HD+
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/51158.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="||FR|| CANAL+ SPORT HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/1920x1080/smart/creativemedia-image.canalplus.pro/content/0001/06/881ccf4c15aa34a29e3874cb6b26725b57d32f3e.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ SPORT HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/19.m3u8
+#EXTINF:-1 tvg-id="CanalPlusFormula1.fr" tvg-name="||FR|| CANAL+ F1 HD" tvg-logo="http://obsfullhd.tv:25461/images/c48d4842e8d3d00349428cf7ed7763db.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ F1 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/66411.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ SPORT 360 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ SPORT 360 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/74039.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ SPORT 360 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ SPORT 360 HD+
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/74097.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ SPORT 360 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ SPORT 360 HEVC
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/74281.m3u8
+#EXTINF:-1 tvg-name="||FR|| Canal+ SPORT 360 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="CANALSAT & Ciné+",||FR|| Canal+ SPORT 360 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/89853.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ FOOT HD" tvg-logo="http://obsfullhd.tv:25461/images/d7eb44b1d18ee31c22d3cb9e23d49c9a.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ FOOT HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/74040.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ FOOT HD+" tvg-logo="http://obsfullhd.tv:25461/images/d7eb44b1d18ee31c22d3cb9e23d49c9a.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ FOOT HD+
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/74098.m3u8
+#EXTINF:-1 tvg-name="||FR|| Canal+ foot 4k" group-title="CANALSAT & Ciné+",||FR|| Canal+ foot 4k
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/89852.m3u8
+#EXTINF:-1 tvg-name="||FR|| Canal+ PREMIER LEAGUE FHD" group-title="CANALSAT & Ciné+",||FR|| Canal+ PREMIER LEAGUE FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/89854.m3u8
+#EXTINF:-1 tvg-name="||FR|| Canal+ GRAND ECRAN HD" group-title="CANALSAT & Ciné+",||FR|| Canal+ GRAND ECRAN HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/83556.m3u8
+#EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="||FR|| Canal+ BOX OFFICE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/C%2B_Box_Office.png" group-title="CANALSAT & Ciné+",||FR|| Canal+ BOX OFFICE HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/87218.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ AFRIQUE SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/240px-Canal%2B_Sport_%282013%29.svg.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ AFRIQUE SPORTS 1 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/66771.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="||FR|| CANAL+ AFRIQUE SPORTS 2 HD " tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/240px-Canal%2B_Sport_%282013%29.svg.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ AFRIQUE SPORTS 2 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/66279.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport2.af" tvg-name="||FR|| CANAL+ SPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/640px-Canal%2B_Sport_2_PL.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ SPORT 2 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/61623.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ AFRIQUE SPORTS  3 HD" tvg-logo="https://brandslogos.com/wp-content/uploads/images/canal-logo.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ AFRIQUE SPORTS  3 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/66773.m3u8
+#EXTINF:-1 tvg-id="Ligue1Plus.fr" tvg-name="||FR|| CANAL+ MOTO GP HD " tvg-logo="http://obsfullhd.tv:25461/images/38e649fc8bf24f2a28cd1b0cef1943f8.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ MOTO GP HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/66504.m3u8
+#EXTINF:-1 tvg-name="                    ▃ ▄ ▅ ▆ ▇⭐CANAL SAT⭐ █ ▇ ▆ ▅ ▄" group-title="CANALSAT & Ciné+",                    ▃ ▄ ▅ ▆ ▇⭐CANAL SAT⭐ █ ▇ ▆ ▅ ▄
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/2751.m3u8
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="||FR|| CANAL+ HD" tvg-logo="https://brandslogos.com/wp-content/uploads/images/canal-logo.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/17.m3u8
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="||FR|| CANAL+ HD+" tvg-logo="http://obsfullhd.tv:25461/images/43da9e28386b76fac7cace34e9239038.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ HD+
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/63589.m3u8
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="||FR|| CANAL+ FHD+" tvg-logo="https://brandslogos.com/wp-content/uploads/images/canal-logo.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ FHD+
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/11010.m3u8
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="||FR|| CANAL+ FHD" tvg-logo="https://brandslogos.com/wp-content/uploads/images/canal-logo.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/454.m3u8
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="||FR|| CANAL+ DECALE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/213X160/CHN43FB_257.PNG" group-title="CANALSAT & Ciné+",||FR|| CANAL+ DECALE HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/22.m3u8
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="||FR|| CANAL+ DECALE HD+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/213X160/CHN43FB_257.PNG" group-title="CANALSAT & Ciné+",||FR|| CANAL+ DECALE HD+
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/52291.m3u8
+#EXTINF:-1 tvg-id="NOVO19.fr" tvg-name="||FR|| CANAL+ DECALE FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/213X160/CHN43FB_257.PNG" group-title="CANALSAT & Ciné+",||FR|| CANAL+ DECALE FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/456.m3u8
+#EXTINF:-1 tvg-id="NOVO19.fr" tvg-name="||FR|| CANAL+ DECALE FHD+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/213X160/CHN43FB_257.PNG" group-title="CANALSAT & Ciné+",||FR|| CANAL+ DECALE FHD+
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/52290.m3u8
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="||FR|| CANAL+ DECALE SD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/213X160/CHN43FB_257.PNG" group-title="CANALSAT & Ciné+",||FR|| CANAL+ DECALE SD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/47291.m3u8
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="||FR|| CANAL+ CINEMA FHD" tvg-logo="https://e7.pngegg.com/pngimages/761/980/png-clipart-canal-cinema-france-television-channel-france-television-blue.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ CINEMA FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/457.m3u8
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="||FR|| CANAL+ CINEMA HD" tvg-logo="https://e7.pngegg.com/pngimages/761/980/png-clipart-canal-cinema-france-television-channel-france-television-blue.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ CINEMA HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/18.m3u8
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="||FR|| CANAL+ CINEMA SD" tvg-logo="https://e7.pngegg.com/pngimages/761/980/png-clipart-canal-cinema-france-television-channel-france-television-blue.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ CINEMA SD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/47250.m3u8
+#EXTINF:-1 tvg-id="CanalPlusKIDS.fr" tvg-name="||FR|| CANAL+ KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ KIDS HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/21.m3u8
+#EXTINF:-1 tvg-id="CanalPlusKIDS.fr" tvg-name="||FR|| CANAL+ KIDS HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ KIDS HD+
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/52293.m3u8
+#EXTINF:-1 tvg-id="CanalPlusKIDS.fr" tvg-name="||FR|| CANAL+ KIDS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ KIDS FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/458.m3u8
+#EXTINF:-1 tvg-id="CanalPlusKIDS.fr" tvg-name="||FR|| CANAL+ KIDS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ KIDS SD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/47251.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSeries.fr" tvg-name="||FR|| CANAL+ SERIES HD" tvg-logo="http://obsfullhd.tv:25461/images/e626e6c4300941a37e7cf8adf6aaa750.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ SERIES HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/20.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSeries.fr" tvg-name="||FR|| CANAL+ SERIE FHD" tvg-logo="http://obsfullhd.tv:25461/images/e626e6c4300941a37e7cf8adf6aaa750.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ SERIE FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/459.m3u8
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="||FR|| CINE+ PREMIER HD" tvg-logo="http://obsfullhd.tv:25461/images/7fbc3f8a90bf9af1796e14e8a013076a.png" group-title="CANALSAT & Ciné+",||FR|| CINE+ PREMIER HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/23.m3u8
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="||FR|| CINE+ PREMIER FHD" tvg-logo="http://obsfullhd.tv:25461/images/7fbc3f8a90bf9af1796e14e8a013076a.png" group-title="CANALSAT & Ciné+",||FR|| CINE+ PREMIER FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1994.m3u8
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="||FR|| CINE+ PREMIER HD+" tvg-logo="http://obsfullhd.tv:25461/images/7fbc3f8a90bf9af1796e14e8a013076a.png" group-title="CANALSAT & Ciné+",||FR|| CINE+ PREMIER HD+
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/52297.m3u8
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="||FR|| CINE+ PREMIER FHD+" tvg-logo="http://obsfullhd.tv:25461/images/7fbc3f8a90bf9af1796e14e8a013076a.png" group-title="CANALSAT & Ciné+",||FR|| CINE+ PREMIER FHD+
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/52296.m3u8
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="||FR|| CINE+ FRISSON HD" tvg-logo="http://obsfullhd.tv:25461/images/38f81e886c3c7c446b09d2bd82ed7474.png" group-title="CANALSAT & Ciné+",||FR|| CINE+ FRISSON HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/24.m3u8
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="||FR|| CINE+ FRISSON FHD" tvg-logo="http://obsfullhd.tv:25461/images/38f81e886c3c7c446b09d2bd82ed7474.png" group-title="CANALSAT & Ciné+",||FR|| CINE+ FRISSON FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1995.m3u8
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="||FR|| CINE+ EMOTION HD" tvg-logo="http://obsfullhd.tv:25461/images/1953bd99a8f69e377452e0338d1d0fb9.png" group-title="CANALSAT & Ciné+",||FR|| CINE+ EMOTION HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/25.m3u8
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="||FR|| CINE+ EMOTION HD+" tvg-logo="http://obsfullhd.tv:25461/images/1953bd99a8f69e377452e0338d1d0fb9.png" group-title="CANALSAT & Ciné+",||FR|| CINE+ EMOTION HD+
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/52295.m3u8
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="||FR|| CINE+ EMOTION FHD" tvg-logo="http://obsfullhd.tv:25461/images/1953bd99a8f69e377452e0338d1d0fb9.png" group-title="CANALSAT & Ciné+",||FR|| CINE+ EMOTION FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/464.m3u8
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="||FR|| CINE+ EMOTION FHD+" tvg-logo="http://obsfullhd.tv:25461/images/1953bd99a8f69e377452e0338d1d0fb9.png" group-title="CANALSAT & Ciné+",||FR|| CINE+ EMOTION FHD+
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/52294.m3u8
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="||FR|| CINE+ FAMIZ HD" tvg-logo="http://obsfullhd.tv:25461/images/30778b6d97d4ecd3dbf3bae926bf6a4c.png" group-title="CANALSAT & Ciné+",||FR|| CINE+ FAMIZ HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/26.m3u8
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="||FR|| CINE+ FAMIZ FHD" tvg-logo="http://obsfullhd.tv:25461/images/816b112c6105b3ebd537828a39af4818.png" group-title="CANALSAT & Ciné+",||FR|| CINE+ FAMIZ FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/463.m3u8
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="||FR|| CINE+ CLASSIC HD" tvg-logo="http://obsfullhd.tv:25461/images/8f25192373ae70f82a6d3f2f1e72def0.png" group-title="CANALSAT & Ciné+",||FR|| CINE+ CLASSIC HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/27.m3u8
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="||FR|| CINE+ CLASSIC FHD" tvg-logo="http://obsfullhd.tv:25461/images/8f25192373ae70f82a6d3f2f1e72def0.png" group-title="CANALSAT & Ciné+",||FR|| CINE+ CLASSIC FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/465.m3u8
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="||FR|| CINE+ CLUB FHD" tvg-logo="http://obsfullhd.tv:25461/images/1064ff350d9637550eca3a59a88e72f5.png" group-title="CANALSAT & Ciné+",||FR|| CINE+ CLUB FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/466.m3u8
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="||FR|| CINE+ CLUB HD" tvg-logo="http://obsfullhd.tv:25461/images/1064ff350d9637550eca3a59a88e72f5.png" group-title="CANALSAT & Ciné+",||FR|| CINE+ CLUB HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1996.m3u8
+#EXTINF:-1 tvg-name="                    ▃ ▄ ▅ ▆ ▇⭐CANAL PLAY & OCS⭐ █ ▇ ▆ ▅ ▄" group-title="CANALSAT & Ciné+",                    ▃ ▄ ▅ ▆ ▇⭐CANAL PLAY & OCS⭐ █ ▇ ▆ ▅ ▄
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/2757.m3u8
+#EXTINF:-1 tvg-id="CanalPlusLive1.fr" tvg-name="||FR|| CANAL+ LIVE 1 FHD" tvg-logo="https://win4k.xyz:443/images/7bc01b2a84c086faceffb0f95cf42438.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ LIVE 1 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/101533.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ LIVE 1 HD" tvg-logo="http://stream.mrxtx.one/logo/609576" group-title="CANALSAT & Ciné+",||FR|| CANAL+ LIVE 1 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/95447.m3u8
+#EXTINF:-1 tvg-id="CanalPlusLive2.fr" tvg-name="||FR|| CANAL+ LIVE 2 FHD" tvg-logo="http://obsfullhd.tv:25461/images/1bf700b0307a2bce032ce057848f00a2.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ LIVE 2 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/101534.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ LIVE 2 HD" tvg-logo="http://stream.mrxtx.one/logo/609577" group-title="CANALSAT & Ciné+",||FR|| CANAL+ LIVE 2 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/95448.m3u8
+#EXTINF:-1 tvg-id="CanalPlusLive3.fr" tvg-name="||FR|| CANAL+ LIVE 3 FHD" tvg-logo="http://obsfullhd.tv:25461/images/1bf700b0307a2bce032ce057848f00a2.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ LIVE 3 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/101535.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ LIVE 3 HD" tvg-logo="http://stream.mrxtx.one/logo/609578" group-title="CANALSAT & Ciné+",||FR|| CANAL+ LIVE 3 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/95449.m3u8
+#EXTINF:-1 tvg-id="CanalPlusLive4.fr" tvg-name="||FR|| CANAL+ LIVE 4 FHD" tvg-logo="http://obsfullhd.tv:25461/images/1bf700b0307a2bce032ce057848f00a2.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ LIVE 4 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/101536.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ LIVE 4 HD" tvg-logo="http://stream.mrxtx.one/logo/609579" group-title="CANALSAT & Ciné+",||FR|| CANAL+ LIVE 4 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/95450.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ LIVE 5 FHD" tvg-logo="http://obsfullhd.tv:25461/images/1bf700b0307a2bce032ce057848f00a2.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ LIVE 5 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/101537.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ LIVE 5 HD" tvg-logo="http://stream.mrxtx.one/logo/609580" group-title="CANALSAT & Ciné+",||FR|| CANAL+ LIVE 5 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/95451.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ LIVE 6 FHD" tvg-logo="http://obsfullhd.tv:25461/images/1bf700b0307a2bce032ce057848f00a2.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ LIVE 6 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/101538.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ LIVE 6 HD" tvg-logo="http://stream.mrxtx.one/logo/609581" group-title="CANALSAT & Ciné+",||FR|| CANAL+ LIVE 6 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/95452.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ LIVE 7 FHD" tvg-logo="http://obsfullhd.tv:25461/images/1bf700b0307a2bce032ce057848f00a2.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ LIVE 7 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/101539.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ LIVE 7 HD" tvg-logo="http://stream.mrxtx.one/logo/609582" group-title="CANALSAT & Ciné+",||FR|| CANAL+ LIVE 7 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/95453.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ LIVE 8 FHD" tvg-logo="http://obsfullhd.tv:25461/images/1bf700b0307a2bce032ce057848f00a2.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ LIVE 8 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/101540.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ LIVE 8 HD" tvg-logo="http://stream.mrxtx.one/logo/609583" group-title="CANALSAT & Ciné+",||FR|| CANAL+ LIVE 8 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/95454.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ LIVE 9 FHD" tvg-logo="http://obsfullhd.tv:25461/images/1bf700b0307a2bce032ce057848f00a2.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ LIVE 9 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/101541.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ LIVE 9 HD" tvg-logo="http://stream.mrxtx.one/logo/609584" group-title="CANALSAT & Ciné+",||FR|| CANAL+ LIVE 9 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/95455.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ LIVE 10 FHD" tvg-logo="http://obsfullhd.tv:25461/images/1bf700b0307a2bce032ce057848f00a2.png" group-title="CANALSAT & Ciné+",||FR|| CANAL+ LIVE 10 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/101542.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL+ LIVE 10 HD" tvg-logo="http://stream.mrxtx.one/logo/609585" group-title="CANALSAT & Ciné+",||FR|| CANAL+ LIVE 10 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/95456.m3u8
+#EXTINF:-1 tvg-name="||FR|| Canal+ Docs FHD" group-title="CANALSAT & Ciné+",||FR|| Canal+ Docs FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/101600.m3u8
+#EXTINF:-1 tvg-name="||FR|| Canal+ Docs HD" group-title="CANALSAT & Ciné+",||FR|| Canal+ Docs HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/101599.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL PLAY 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="CANALSAT & Ciné+",||FR|| CANAL PLAY 1 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1882.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL PLAY 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="CANALSAT & Ciné+",||FR|| CANAL PLAY 2 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1883.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL PLAY 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="CANALSAT & Ciné+",||FR|| CANAL PLAY 3 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1884.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL PLAY 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="CANALSAT & Ciné+",||FR|| CANAL PLAY 4 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1885.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL PLAY 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="CANALSAT & Ciné+",||FR|| CANAL PLAY 5 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1886.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL PLAY 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="CANALSAT & Ciné+",||FR|| CANAL PLAY 6 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1887.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL PLAY 7 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="CANALSAT & Ciné+",||FR|| CANAL PLAY 7 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1888.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL PLAY 8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="CANALSAT & Ciné+",||FR|| CANAL PLAY 8 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1889.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL PLAY 9 FHD" tvg-logo="http://obsfullhd.tv:25461/images/042f2671aa06ce37424b51f628534bcb.png" group-title="CANALSAT & Ciné+",||FR|| CANAL PLAY 9 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1890.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL PLAY 10 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="CANALSAT & Ciné+",||FR|| CANAL PLAY 10 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1891.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL PLAY 11 FHD" tvg-logo="http://obsfullhd.tv:25461/images/042f2671aa06ce37424b51f628534bcb.png" group-title="CANALSAT & Ciné+",||FR|| CANAL PLAY 11 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1892.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL PLAY 12 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="CANALSAT & Ciné+",||FR|| CANAL PLAY 12 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1893.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL PLAY 13 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="CANALSAT & Ciné+",||FR|| CANAL PLAY 13 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1894.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL PLAY 14 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="CANALSAT & Ciné+",||FR|| CANAL PLAY 14 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1895.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL PLAY 15 FHD" tvg-logo="http://obsfullhd.tv:25461/images/042f2671aa06ce37424b51f628534bcb.png" group-title="CANALSAT & Ciné+",||FR|| CANAL PLAY 15 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1896.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL PLAY 16 FHD" tvg-logo="http://obsfullhd.tv:25461/images/042f2671aa06ce37424b51f628534bcb.png" group-title="CANALSAT & Ciné+",||FR|| CANAL PLAY 16 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1897.m3u8
+#EXTINF:-1 tvg-name="||FR|| CANAL PLAY 18 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="CANALSAT & Ciné+",||FR|| CANAL PLAY 18 FHD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/1899.m3u8
+#EXTINF:-1 tvg-name="||FR|| Canalplay 1 HD" group-title="CANALSAT & Ciné+",||FR|| Canalplay 1 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/95437.m3u8
+#EXTINF:-1 tvg-name="||FR|| Canalplay 5 HD" group-title="CANALSAT & Ciné+",||FR|| Canalplay 5 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/95441.m3u8
+#EXTINF:-1 tvg-name="||FR|| Canalplay 6 HD" group-title="CANALSAT & Ciné+",||FR|| Canalplay 6 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/95442.m3u8
+#EXTINF:-1 tvg-name="||FR|| Canalplay 7 HD" group-title="CANALSAT & Ciné+",||FR|| Canalplay 7 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/95443.m3u8
+#EXTINF:-1 tvg-name="||FR|| Canalplay 9 HD" group-title="CANALSAT & Ciné+",||FR|| Canalplay 9 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/95445.m3u8
+#EXTINF:-1 tvg-name="||FR|| Canalplay 10 HD" group-title="CANALSAT & Ciné+",||FR|| Canalplay 10 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/95446.m3u8
+#EXTINF:-1 tvg-name="||FR|| Canalplay 2 HD" group-title="CANALSAT & Ciné+",||FR|| Canalplay 2 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/95438.m3u8
+#EXTINF:-1 tvg-name="||FR|| Canalplay 3 HD" group-title="CANALSAT & Ciné+",||FR|| Canalplay 3 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/95439.m3u8
+#EXTINF:-1 tvg-name="||FR|| Canalplay 4 HD" group-title="CANALSAT & Ciné+",||FR|| Canalplay 4 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/95440.m3u8
+#EXTINF:-1 tvg-name="||FR|| Canalplay 8 HD" group-title="CANALSAT & Ciné+",||FR|| Canalplay 8 HD
+http://goldiptvofficiel.tv:25461/live/vincent.barnachon.six1/WZbh3gPWCvC4/95444.m3u8
