@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="STC Sports 1" tvg-logo="http://tv.asc.vg/stc.sports1.stc.png" group-title="STC",STC Sports 1
+http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/419404
+#EXTINF:-1 tvg-name="STC Sports 2" tvg-logo="http://tv.asc.vg/stc.sports2.stc.png" group-title="STC",STC Sports 2
+http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/459708
+#EXTINF:-1 tvg-name="STC Cinema" tvg-logo="http://tv.asc.vg/stc.cinema.stc.png" group-title="STC",STC Cinema
+http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/419407
+#EXTINF:-1 tvg-name="STC Drama" tvg-logo="http://tv.asc.vg/stc.drama.stc.png" group-title="STC",STC Drama
+http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/419406
+#EXTINF:-1 tvg-name="STC Family" tvg-logo="http://tv.asc.vg/stc.family.stc.png" group-title="STC",STC Family
+http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/419405
+#EXTINF:-1 tvg-name="STC Action" tvg-logo="http://tv.asc.vg/stc.action.stc.png" group-title="STC",STC Action
+http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/419402
