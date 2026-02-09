@@ -1,44 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Drama Stacked nov 2024 200x200.qa" tvg-name="beIN DRAMA 1" tvg-logo="https://i.ibb.co/p62Vh42Z/bein-drama-1.png" group-title="BEIN MEDIA",beIN DRAMA 1
+#EXTINF:-1 tvg-name="Bein-Drama-1" tvg-logo="http://tv.asc.vg/drama1.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Drama-1
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1359&t=live&f=ts
-#EXTINF:-1 tvg-id="MOVIES1 PREMIERE DIGITAL.qa" tvg-name="beIN MOVIES 1 PREMIERE" tvg-logo="https://i.ibb.co/6zwfxRB/bein-movies-1.png" group-title="BEIN MEDIA",beIN MOVIES 1 PREMIERE
+#EXTINF:-1 tvg-name="Bein-Movies-1" tvg-logo="http://tv.asc.vg/movies1.premiere.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-1
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1342&t=live&f=ts
-#EXTINF:-1 tvg-id="MOVIES2 ACTION DIGITAL.qa" tvg-name="beIN MOVIES 2 ACTION" tvg-logo="https://i.ibb.co/4nkKN5pj/bein-movies-2.png" group-title="BEIN MEDIA",beIN MOVIES 2 ACTION
+#EXTINF:-1 tvg-name="Bein-Movies-2" tvg-logo="http://tv.asc.vg/movies2.action.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-2
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1343&t=live&f=ts
-#EXTINF:-1 tvg-id="MOVIES3 DRAMA DIGITAL.qa" tvg-name="beIN MOVIES 3 DRAMA" tvg-logo="https://i.ibb.co/Myx819q3/bein-movies-3.png" group-title="BEIN MEDIA",beIN MOVIES 3 DRAMA
+#EXTINF:-1 tvg-name="Bein-Movies-3" tvg-logo="http://tv.asc.vg/movies3.drama.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-3
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1344&t=live&f=ts
-#EXTINF:-1 tvg-id="MOVIES4 FAMILY DIGITAL.qa" tvg-name="beIN MOVIES 4 FAMILY" tvg-logo="https://i.ibb.co/HL7ZvHss/bein-movies-4.png" group-title="BEIN MEDIA",beIN MOVIES 4 FAMILY
+#EXTINF:-1 tvg-name="Bein-Movies-4" tvg-logo="http://tv.asc.vg/movies4.family.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-4
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1345&t=live&f=ts
 #EXTINF:-1 tvg-id="SERIES1 DIGITAL.qa" tvg-name="beIN SERIES 1" tvg-logo="https://i.ibb.co/1JtkKHP5/bein-series-1.png" group-title="BEIN MEDIA",beIN SERIES 1
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1346&t=live&f=ts
 #EXTINF:-1 tvg-id="SERIES2 DIGITAL.qa" tvg-name="beIN SERIES 2" tvg-logo="https://i.ibb.co/B23byYZY/bein-series-2.png" group-title="BEIN MEDIA",beIN SERIES 2
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1347&t=live&f=ts
-#EXTINF:-1 tvg-id="BBC EARTH.sa" tvg-name="BBC EARTH" tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/BBCEarth-new_200x200.png" group-title="BEIN MEDIA", BBC EARTH 
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1351&t=live&f=ts
-#EXTINF:-1 tvg-id="Fatafeat.sa" tvg-name="FATAFEAT" tvg-logo="https://i.ibb.co/VY54fWbY/fatafeat.png" group-title="BEIN MEDIA",FATAFEAT
+#EXTINF:-1 tvg-name="Bein-Fatafeat" tvg-logo="http://tv.asc.vg/fatafeat.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Fatafeat
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1352&t=live&f=ts
 #EXTINF:-1 tvg-id="GOURMET DIGITAL.qa" tvg-name="beIN GOURMET" tvg-logo="https://i.ibb.co/ZpBkQ6vv/bein-gourmet.png" group-title="BEIN MEDIA",beIN GOURMET
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1358&t=live&f=ts
 #EXTINF:-1 tvg-id="TCM.sa" tvg-name="TCM" tvg-logo="https://i.ibb.co/kgTKVKB1/TCM.png" group-title="BEIN MEDIA",TCM
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1374&t=live&f=ts
+#EXTINF:-1 tvg-name="Bein-BBC Earth" tvg-logo="http://tv.asc.vg/bbc.earth.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-BBC Earth
+http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1351&t=live&f=ts
 #EXTINF:-1 tvg-logo="",OutDoor HD
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1379&t=live&f=ts
-#EXTINF:-1 tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/HGTV.png",HGTV
+#EXTINF:-1 tvg-name="Bein-HGTV" tvg-logo="http://tv.asc.vg/hgtv.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-HGTV
 http://u.goldeniptv.com:2052/live/rashad1/rashad1/255903.ts
-#EXTINF:-1 tvg-id="Discovery HD.sa" tvg-name="DISCOVERY" tvg-logo="https://i.ibb.co/xS14ysMD/DISCOVERY-CH.png" group-title="DOCUMENTARY",DISCOVERY
+#EXTINF:-1 tvg-name="Bein-Discovery" tvg-logo="http://tv.asc.vg/discovery.channel.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Discovery
 http://sansatplus.net:88/live/02047594027660/02047596581454/1054768.ts
-#EXTINF:-1 tvg-id="Discovery Family HD.sa" tvg-name="DISCOVERY FAMILY" tvg-logo="https://i.ibb.co/DDFSkR65/discovery-family.png" group-title="DOCUMENTARY",DISCOVERY FAMILY
+#EXTINF:-1 tvg-name="Bein-Discovery Family" tvg-logo="http://tv.asc.vg/discovery.family.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Discovery Family
 http://tv.startseven.tn:2052/live/boniface/11072013/265176.ts
-#EXTINF:-1 tvg-id="Animal Planet HD.sa" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/wbR71mJ/Animal-Planet.png" group-title="DOCUMENTARY",ANIMAL PLANET
+#EXTINF:-1 tvg-name="Bein-Animal Planet" tvg-logo="http://tv.asc.vg/animal.planet.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Animal Planet
 http://tv.startseven.tn:2052/live/boniface/11072013/265166.ts
-#EXTINF:-1 tvg-id="Nat. Geo. Wild HD.sa" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/4RdKq0Td/Nat-Geo-wild.png" group-title="DOCUMENTARY",NAT GEO WILD
+#EXTINF:-1 tvg-name="Bein-Nat Geo Wild" tvg-logo="http://tv.asc.vg/nat.geo.wild.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Nat Geo Wild
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1384&t=live&f=ts
-#EXTINF:-1 tvg-id="Nat. Geographic.sa" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.ibb.co/JRyyWR1m/Nat-Geo.png" group-title="DOCUMENTARY",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-name="Bein-Nat Geo" tvg-logo="http://tv.asc.vg/nat.geo.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Nat Geo
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1385&t=live&f=ts
-#EXTINF:-1 tvg-id="Travel.sa" tvg-name="TRAVEL" tvg-logo="https://i.ibb.co/TxmZWsKq/travel-channel.png" group-title="DOCUMENTARY",TRAVEL
+#EXTINF:-1 tvg-name="Bein-travel" tvg-logo="http://tv.asc.vg/travel.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-travel
 http://u.goldeniptv.com:2052/live/rashad1/rashad1/255819.ts
 #EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://i.ibb.co/gb5LSLBh/HISTORY-CH.png" group-title="DOCUMENTARY",HISTORY
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=2614&t=live&f=ts
+
 
 
 
