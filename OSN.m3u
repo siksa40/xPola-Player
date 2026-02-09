@@ -19,8 +19,16 @@ http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/161939
 http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/161938
 #EXTINF:-1 tvg-name="OSN Alfa Alyoum HD" tvg-logo="http://tv.asc.vg/alfa.alyawm.osn.png" group-title="OSN ⭐ FHD",OSN Alfa Alyoum HD
 http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/161937
-#EXTINF:-1 tvg-name="OSN Alfa Music Now HD" tvg-logo="http://tv.asc.vg/alfa.music.now.osn.png" group-title="OSN ⭐ FHD",OSN Alfa Music Now HD
-http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/161932
+#EXTINF:-1 tvg-name="ART Aflam 1 FHD" tvg-logo="http://tv.asc.vg/art.aflam.1.art.png" group-title="ART ⭐",ART Aflam 1 FHD
+http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/238849
+#EXTINF:-1 tvg-name="ART Aflam 2 FHD" tvg-logo="http://tv.asc.vg/art.aflam.2.art.png" group-title="ART ⭐",ART Aflam 2 FHD
+http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/238847
+#EXTINF:-1 tvg-name="ART Hekayat 1 FHD" tvg-logo="http://tv.asc.vg/art.hekayat.1.art.png" group-title="ART ⭐",ART Hekayat 1 FHD
+http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/238845
+#EXTINF:-1 tvg-name="ART Hekayat 2 FHD" tvg-logo="http://tv.asc.vg/art.hekayat.2.art.png" group-title="ART ⭐",ART Hekayat 2 FHD
+http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/238843
+#EXTINF:-1 tvg-name="ART Cinema FHD" tvg-logo="http://tv.asc.vg/art.cinema.art.png" group-title="ART ⭐",ART Cinema FHD
+http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/238841
 #EXTINF:-1 tvg-name="OSN Crime HD" tvg-logo="http://tv.asc.vg/osn.crime.osn.png" group-title="OSN ⭐ FHD",OSN Crime HD
 http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/161957
 #EXTINF:-1 tvg-name="OSN Comedy HD" tvg-logo="http://tv.asc.vg/osn.comedy.osn.png" group-title="OSN ⭐ FHD",OSN Comedy HD
@@ -33,10 +41,6 @@ http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/161955
 http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/161954
 #EXTINF:-1 tvg-name="OSN Showcase HD" tvg-logo="http://tv.asc.vg/osn.showcase.osn.png" group-title="OSN ⭐ FHD",OSN Showcase HD
 http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/161949
-#EXTINF:-1 tvg-name="OSN Star Movies HD" tvg-logo="http://tv.asc.vg/star.movies.osn.png" group-title="OSN ⭐ FHD",OSN Star Movies HD
-http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/161947
-#EXTINF:-1 tvg-name="OSN Movies Family HD" tvg-logo="http://tv.asc.vg/osn.movies.family.osn.png" group-title="OSN ⭐ FHD",OSN Movies Family HD
-http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/161952
 #EXTINF:-1 tvg-name="OSN TLC HD" tvg-logo="http://tv.asc.vg/tlc.osn.png" group-title="OSN ⭐ FHD",OSN TLC HD
 http://nasaiptv.com:2095/sarahsultan/sarahsultanca159/161945
 #EXTINF:-1 tvg-name="OSN E! HD" tvg-logo="http://tv.asc.vg/e.entertainment.osn.png" group-title="OSN ⭐ FHD",OSN E! HD
