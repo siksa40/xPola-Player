@@ -8,7 +8,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f
 #EXTINF:-1 tvg-name="MBC MASR DRAMA" tvg-logo="https://i.ibb.co/JWBzpr7B/mbc-maser-drama.png" group-title="MBC",MBC MASR DRAMA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
 #EXTINF:-1 tvg-id="MBC MASR.sa" tvg-name="MBC MASR" tvg-logo="https://i.ibb.co/CKSVtS4H/mbc-maser.png" group-title="MBC",MBC MASR
-https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+http://revenpro.cc/live/EC-rjm31/tTTZP6xEwq/889.ts
 #EXTINF:-1 tvg-id="MBC MASR 2.sa" tvg-name="MBC MASR 2" tvg-logo="https://i.ibb.co/HTNBsb3t/mbc-maser-2.png" group-title="MBC",MBC MASR 2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 tvg-name="MBC IRAQ" tvg-logo="https://i.ibb.co/4qHDJDR/mbc-iraq.png" group-title="MBC",MBC IRAQ
