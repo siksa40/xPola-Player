@@ -1,18 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:6
-#EXT-X-START:TIME-OFFSET=0.01
-
-#EXT-X-STREAM-INF:BANDWIDTH=290400,RESOLUTION=320x180
-https://www.hilal1.sbs/api/MN2.php?action=stream&url=https%3A%2F%2Fwww.hilal1.sbs%2Fx1%2F1_0.json%3Ftoken%3D0842ba3b484f0fb354009a0d4f694fd80aac88db0c0818425b3b8cc6fd2dcb01%26expires%3D1771075942
-
-#EXT-X-STREAM-INF:BANDWIDTH=466400,RESOLUTION=640x360
-https://www.hilal1.sbs/api/MN2.php?action=stream&url=https%3A%2F%2Fwww.hilal1.sbs%2Fx1%2F1_1.json%3Ftoken%3D0aeed64e820e1439bc9afe56e44dd519716c7d3051e646c3bceaa838b7dc8993%26expires%3D1771075942
-
-#EXT-X-STREAM-INF:BANDWIDTH=598400,RESOLUTION=854x480
-https://www.hilal1.sbs/api/MN2.php?action=stream&url=https%3A%2F%2Fwww.hilal1.sbs%2Fx1%2F1_2.json%3Ftoken%3D1104b325770eda8f37e3d5d21e989a0e9a778fe0383d841178eab36248fd6dfa%26expires%3D1771075942
-
-#EXT-X-STREAM-INF:BANDWIDTH=862400,RESOLUTION=1280x720
-https://www.hilal1.sbs/api/MN2.php?action=stream&url=https%3A%2F%2Fwww.hilal1.sbs%2Fx1%2F1_3.json%3Ftoken%3D7eb8004674623d7be46f059e8a451a58e0477916293c7b4b26c6d6062091432c%26expires%3D1771075942
-
-#EXT-X-STREAM-INF:BANDWIDTH=1258400,RESOLUTION=1920x1078
-https://www.hilal1.sbs/api/MN2.php?action=stream&url=https%3A%2F%2Fwww.hilal1.sbs%2Fx1%2F1_4.json%3Ftoken%3Dccffbda84815927868bce82c31281c7e5f1186d32b16410460e7bdf9085f31b1%26expires%3D1771075942
+#EXTINF:-1,Bein Sport 1
+https://www.hilal1.sbs/api/MN2.php?action=stream&url=https%3A%2F%2Fwww.hilal1.sbs%2Fx1%2F1_3.json%3Ftoken%3D7eb8004674623d7be46f059e8a451a58e0477916293c7b4b26c6d6062091432c%26expires%3D1771075942|userAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36|referer=https://www.hilal1.sbs/
