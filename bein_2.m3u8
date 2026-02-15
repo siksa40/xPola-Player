@@ -1,0 +1,18 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+# جودة منخفضة - Low Quality
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
+https://mbc.xtreamiptv.xyz/play/798828
+
+# جودة متوسطة - SD Quality
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=854x480
+https://mbc.xtreamiptv.xyz/play/985188
+
+# جودة عالية - HD Quality
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+https://mbc.xtreamiptv.xyz/play/242255
+
+# جودة فائقة - Full HD Quality
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+https://mbc.xtreamiptv.xyz/play/242242
