@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HULU/HULU.png" group-title="AR HULU",AR HULU ADVENTURE HDby GAMERDZ1517
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672267&extension=m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HULU/HULU.png" group-title="AR HULU",AR HULU COMEDY HDby GAMERDZ1517
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672266&extension=m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HULU/HULU.png" group-title="AR HULU",AR HULU CRIME HDby GAMERDZ1517
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672265&extension=m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HULU/HULU.png" group-title="AR HULU",AR HULU MYSTERY HDby GAMERDZ1517
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672264&extension=m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HULU/HULU.png" group-title="AR HULU",AR HULU SCI-FI HDby GAMERDZ1517
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672263&extension=m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HULU/HULU.png" group-title="AR HULU",AR HULU FANTASY HDby GAMERDZ1517
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672262&extension=m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HULU/HULU.png" group-title="AR HULU",AR HULU FRENCH HDby GAMERDZ1517
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672261&extension=m3u8
