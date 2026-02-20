@@ -1,42 +1,43 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bein-Drama-1" tvg-logo="http://tv.asc.vg/drama1.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Drama-1
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/319678
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862847&extension=ts&play_token=7RKIeikjJ3
 #EXTINF:-1 tvg-name="Bein-Movies-1" tvg-logo="http://tv.asc.vg/movies1.premiere.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-1
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/319672
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862853&extension=ts&play_token=Ll8NNhFz8H
 #EXTINF:-1 tvg-name="Bein-Movies-2" tvg-logo="http://tv.asc.vg/movies2.action.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-2
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/319673
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862852&extension=ts&play_token=XG7UoH4ag6
 #EXTINF:-1 tvg-name="Bein-Movies-3" tvg-logo="http://tv.asc.vg/movies3.drama.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-3
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/319673
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862851&extension=ts&play_token=TXYeT4Iz1Y
 #EXTINF:-1 tvg-name="Bein-Movies-4" tvg-logo="http://tv.asc.vg/movies4.family.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-4
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/319675
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862850&extension=ts&play_token=pnsmnQUuvu
 #EXTINF:-1 tvg-name="beIN.SERIES 1" tvg-logo="http://tv.asc.vg/series1.bein.png" group-title="BeIN ⭐ Entertainment (265)",beIN.SERIES 1
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/319676
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862849&extension=ts&play_token=Li0fIAJcT2
 #EXTINF:-1 tvg-name="beIN.SERIES 2" tvg-logo="http://tv.asc.vg/series2.bein.png" group-title="BeIN ⭐ Entertainment (265)",beIN.SERIES 2
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/319677
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862848&extension=ts&play_token=2olk55TEyg
 #EXTINF:-1 tvg-name="Bein-Fatafeat" tvg-logo="http://tv.asc.vg/fatafeat.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Fatafeat
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/319684
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862844&extension=ts&play_token=sFBn0MuHY9
 #EXTINF:-1 tvg-id="GOURMET DIGITAL.qa" tvg-name="beIN GOURMET" tvg-logo="https://i.ibb.co/ZpBkQ6vv/bein-gourmet.png" group-title="BEIN MEDIA",beIN GOURMET
-http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1358&t=live&f=ts
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862845&extension=ts&play_token=Dasl38ZRDj
 #EXTINF:-1 tvg-id="TCM.sa" tvg-name="TCM" tvg-logo="https://i.ibb.co/kgTKVKB1/TCM.png" group-title="BEIN MEDIA",TCM
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1374&t=live&f=ts
 #EXTINF:-1 tvg-name="Bein-BBC Earth" tvg-logo="http://tv.asc.vg/bbc.earth.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-BBC Earth
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/319682
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862837&extension=ts&play_token=9KwePUP0m3
 #EXTINF:-1 tvg-logo="",OutDoor HD
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1379&t=live&f=ts
 #EXTINF:-1 tvg-name="Bein-HGTV" tvg-logo="http://tv.asc.vg/hgtv.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-HGTV
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/434324
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862832&extension=ts&play_token=H2FMTKyBZz
 #EXTINF:-1 tvg-name="Bein-Discovery" tvg-logo="http://tv.asc.vg/discovery.channel.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Discovery
 http://sansatplus.net:88/live/ZoKDraevPvfDaGj/papVD0TJ7FGjPag/1054768.ts
 #EXTINF:-1 tvg-name="Bein-Discovery Family" tvg-logo="http://tv.asc.vg/discovery.family.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Discovery Family
 http://mbrok.xyz:8080/1865973036882453/3250438317687417/434329
 #EXTINF:-1 tvg-name="Bein-Animal Planet" tvg-logo="http://tv.asc.vg/animal.planet.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Animal Planet
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/434327
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862835&extension=ts&play_token=3DuQ20Y0SR
 #EXTINF:-1 tvg-name="Bein-Nat Geo Wild" tvg-logo="http://tv.asc.vg/nat.geo.wild.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Nat Geo Wild
-http://mbrok.xyz:8080/1865973036882453/3250438317687417/434330
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862833&extension=ts&play_token=lmgQzXdGKX
 #EXTINF:-1 tvg-name="Bein-Nat Geo" tvg-logo="http://tv.asc.vg/nat.geo.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Nat Geo
 http://mbrok.xyz:8080/1865973036882453/3250438317687417/319701
 #EXTINF:-1 tvg-name="Bein-travel" tvg-logo="http://tv.asc.vg/travel.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-travel
-http://u.goldeniptv.com:2052/live/rashad1/rashad1/255819.ts
+http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862836&extension=ts&play_token=LfDEhRBa95
+
 
 
 
