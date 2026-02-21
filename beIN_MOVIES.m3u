@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bein-Drama-1" tvg-logo="http://tv.asc.vg/drama1.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Drama-1
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862847&extension=ts&play_token=7RKIeikjJ3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=368997&extension=ts&play_token=Ot3sNN6Nej
 #EXTINF:-1 tvg-name="Bein-Movies-1" tvg-logo="http://tv.asc.vg/movies1.premiere.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-1
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862853&extension=ts&play_token=Ll8NNhFz8H
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=369003&extension=ts&play_token=4Hq39tOmf7
 #EXTINF:-1 tvg-name="Bein-Movies-2" tvg-logo="http://tv.asc.vg/movies2.action.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-2
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862852&extension=ts&play_token=XG7UoH4ag6
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=369002&extension=ts&play_token=q1Se8fBIWl
 #EXTINF:-1 tvg-name="Bein-Movies-3" tvg-logo="http://tv.asc.vg/movies3.drama.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-3
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862851&extension=ts&play_token=TXYeT4Iz1Y
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=369001&extension=ts&play_token=nvPk0oWQ4v
 #EXTINF:-1 tvg-name="Bein-Movies-4" tvg-logo="http://tv.asc.vg/movies4.family.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-4
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862850&extension=ts&play_token=pnsmnQUuvu
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=369000&extension=ts&play_token=oC8cUyv61S
 #EXTINF:-1 tvg-name="beIN.SERIES 1" tvg-logo="http://tv.asc.vg/series1.bein.png" group-title="BeIN ⭐ Entertainment (265)",beIN.SERIES 1
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862849&extension=ts&play_token=Li0fIAJcT2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=368999&extension=ts&play_token=6GH6Of1lEu
 #EXTINF:-1 tvg-name="beIN.SERIES 2" tvg-logo="http://tv.asc.vg/series2.bein.png" group-title="BeIN ⭐ Entertainment (265)",beIN.SERIES 2
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862848&extension=ts&play_token=2olk55TEyg
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=368998&extension=ts&play_token=tyP9jllk1V
 #EXTINF:-1 tvg-name="Bein-Fatafeat" tvg-logo="http://tv.asc.vg/fatafeat.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Fatafeat
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862844&extension=ts&play_token=sFBn0MuHY9
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=368995&extension=ts&play_token=X4E1wjifI1
 #EXTINF:-1 tvg-id="GOURMET DIGITAL.qa" tvg-name="beIN GOURMET" tvg-logo="https://i.ibb.co/ZpBkQ6vv/bein-gourmet.png" group-title="BEIN MEDIA",beIN GOURMET
-http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862845&extension=ts&play_token=Dasl38ZRDj
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=368996&extension=ts&play_token=f2IYlq6e8h
 #EXTINF:-1 tvg-id="TCM.sa" tvg-name="TCM" tvg-logo="https://i.ibb.co/kgTKVKB1/TCM.png" group-title="BEIN MEDIA",TCM
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1374&t=live&f=ts
 #EXTINF:-1 tvg-name="Bein-BBC Earth" tvg-logo="http://tv.asc.vg/bbc.earth.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-BBC Earth
@@ -37,6 +37,7 @@ http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862833&exte
 http://mbrok.xyz:8080/1865973036882453/3250438317687417/319701
 #EXTINF:-1 tvg-name="Bein-travel" tvg-logo="http://tv.asc.vg/travel.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-travel
 http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862836&extension=ts&play_token=LfDEhRBa95
+
 
 
 
