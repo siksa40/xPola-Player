@@ -1,30 +1,30 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bein-Drama-1" tvg-logo="http://tv.asc.vg/drama1.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Drama-1
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158923.m3u8
+http://u-on.co:2095/live/6660bH9019/090726UnvrS/6654.ts
 #EXTINF:-1 tvg-name="Bein-Movies-1" tvg-logo="http://tv.asc.vg/movies1.premiere.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-1
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158917.m3u8
+http://u-on.co:2095/live/6660bH9019/090726UnvrS/868.ts
 #EXTINF:-1 tvg-name="Bein-Movies-2" tvg-logo="http://tv.asc.vg/movies2.action.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-2
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158918.m3u8
+http://u-on.co:2095/live/6660bH9019/090726UnvrS/1998.ts
 #EXTINF:-1 tvg-name="Bein-Movies-3" tvg-logo="http://tv.asc.vg/movies3.drama.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-3
 http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158919.m3u8
 #EXTINF:-1 tvg-name="Bein-Movies-4" tvg-logo="http://tv.asc.vg/movies4.family.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-4
 http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158920.m3u8
 #EXTINF:-1 tvg-name="beIN.SERIES 1" tvg-logo="http://tv.asc.vg/series1.bein.png" group-title="BeIN ⭐ Entertainment (265)",beIN.SERIES 1
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158921.m3u8
+http://u-on.co:2095/live/6660bH9019/090726UnvrS/3043.ts
 #EXTINF:-1 tvg-name="beIN.SERIES 2" tvg-logo="http://tv.asc.vg/series2.bein.png" group-title="BeIN ⭐ Entertainment (265)",beIN.SERIES 2
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158922.m3u8
+http://u-on.co:2095/live/6660bH9019/090726UnvrS/6995.ts
 #EXTINF:-1 tvg-name="Bein-Fatafeat" tvg-logo="http://tv.asc.vg/fatafeat.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Fatafeat
 http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158926.m3u8
 #EXTINF:-1 tvg-id="GOURMET DIGITAL.qa" tvg-name="beIN GOURMET" tvg-logo="https://i.ibb.co/ZpBkQ6vv/bein-gourmet.png" group-title="BEIN MEDIA",beIN GOURMET
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158944.m3u8
+http://u-on.co:2095/live/6660bH9019/090726UnvrS/3666.ts
 #EXTINF:-1 tvg-id="TCM.sa" tvg-name="TCM" tvg-logo="https://i.ibb.co/kgTKVKB1/TCM.png" group-title="BEIN MEDIA",TCM
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1374&t=live&f=ts
 #EXTINF:-1 tvg-name="Bein-BBC Earth" tvg-logo="http://tv.asc.vg/bbc.earth.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-BBC Earth
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158933.m3u8
+http://u-on.co:2095/live/6660bH9019/090726UnvrS/19748.ts
 #EXTINF:-1 tvg-logo="",OutDoor HD
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1379&t=live&f=ts
 #EXTINF:-1 tvg-name="Bein-HGTV" tvg-logo="http://tv.asc.vg/hgtv.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-HGTV
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158924.m3u8
+http://u-on.co:2095/live/6660bH9019/090726UnvrS/3447.ts
 #EXTINF:-1 tvg-name="Bein-Discovery" tvg-logo="http://tv.asc.vg/discovery.channel.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Discovery
 http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158943.m3u8
 #EXTINF:-1 tvg-name="Bein-Discovery Family" tvg-logo="http://tv.asc.vg/discovery.family.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Discovery Family
@@ -36,7 +36,8 @@ http://dm.lion-ott.com:80/play/live.php?mac=00:1B:79:F9:35:6B&stream=862833&exte
 #EXTINF:-1 tvg-name="Bein-Nat Geo" tvg-logo="http://tv.asc.vg/nat.geo.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Nat Geo
 http://mbrok.xyz:8080/1865973036882453/3250438317687417/319701
 #EXTINF:-1 tvg-name="Bein-travel" tvg-logo="http://tv.asc.vg/travel.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-travel
-http://sansatplus.net:88/live/Rn0rEb0NdreADGQ/oOsvYsg2pHjBOhT/1054758.m3u8
+http://u-on.co:2095/live/6660bH9019/090726UnvrS/3045.ts
+
 
 
 
