@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png" group-title="AR HBO",AR HBO ARABIC HDby GAMERDZ1517
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672134&extension=m3u8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672134&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png" group-title="AR HBO",AR HBO ASIAN HDby GAMERDZ1517
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672133&extension=m3u8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672133&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png" group-title="AR HBO",AR HBO BOLLYWOOD HDby GAMERDZ1517
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672132&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png" group-title="AR HBO",AR HBO TOP TEN HDby GAMERDZ1517
