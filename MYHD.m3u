@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="beIN SPORTS 4K",beIN SPORTS 1 4K
-http://tv.startseven.tn:2052/live/ramalheteSMV/yct7J39y4m/5117.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="beIN SPORTS 4K",beIN SPORTS 2 4K
-http://tv.startseven.tn:2052/live/ramalheteSMV/yct7J39y4m/13081.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs34k.png" group-title="beIN SPORTS 4K",beIN SPORTS 3 4K
-http://tv.startseven.tn:2052/live/ramalheteSMV/yct7J39y4m/49370.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs44k.png" group-title="beIN SPORTS 4K",beIN SPORTS 4 4K
-http://tv.startseven.tn:2052/live/ramalheteSMV/yct7J39y4m/20736.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs54k.png" group-title="beIN SPORTS 4K",beIN SPORTS 5 4K
-http://tv.startseven.tn:2052/live/ramalheteSMV/yct7J39y4m/48222.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs64k.png" group-title="beIN SPORTS 4K",beIN SPORTS 6 4K
-http://tv.startseven.tn:2052/live/ramalheteSMV/yct7J39y4m/48221.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs74k.png" group-title="beIN SPORTS 4K",beIN SPORTS 7 4K
-http://tv.startseven.tn:2052/live/ramalheteSMV/yct7J39y4m/48220.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs84k.png" group-title="beIN SPORTS 4K",beIN SPORTS 8 4K
-http://tv.startseven.tn:2052/live/ramalheteSMV/yct7J39y4m/42045.ts
-#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs94k.png" group-title="beIN SPORTS 4K",beIN SPORTS 9 4K
-http://tv.startseven.tn:2052/live/ramalheteSMV/yct7J39y4m/42046.ts
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
+http://lion20.top:8080/66755443288/19020904781193/318197
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="beIN SPORTS HD",beIN SPORTS 2 HD
+http://lion20.top:8080/66755443288/19020904781193/318198
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="beIN SPORTS HD",beIN SPORTS 3 HD
+http://lion20.top:8080/66755443288/19020904781193/318199
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="beIN SPORTS HD",beIN SPORTS 4 HD
+http://lion20.top:8080/66755443288/19020904781193/440580
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5hd.png" group-title="beIN SPORTS HD",beIN SPORTS 5 HD
+http://lion20.top:8080/66755443288/19020904781193/318201
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6hd.png" group-title="beIN SPORTS HD",beIN SPORTS 6 HD
+http://lion20.top:8080/66755443288/19020904781193/318202
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7hd.png" group-title="beIN SPORTS HD",beIN SPORTS 7 HD
+http://lion20.top:8080/66755443288/19020904781193/318203
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8hd.png" group-title="beIN SPORTS HD",beIN SPORTS 8 HD
+http://lion20.top:8080/66755443288/19020904781193/318204
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9hd.png" group-title="beIN SPORTS HD",beIN SPORTS 9 HD
+http://lion20.top:8080/66755443288/19020904781193/318205
