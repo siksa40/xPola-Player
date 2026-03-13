@@ -1,26 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bein-Drama-1" tvg-logo="http://tv.asc.vg/drama1.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Drama-1
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158923.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/12366.ts
 #EXTINF:-1 tvg-name="Bein-Movies-1" tvg-logo="http://tv.asc.vg/movies1.premiere.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-1
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158917.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/10148.ts
 #EXTINF:-1 tvg-name="Bein-Movies-2" tvg-logo="http://tv.asc.vg/movies2.action.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-2
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158918.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/10150.ts
 #EXTINF:-1 tvg-name="Bein-Movies-3" tvg-logo="http://tv.asc.vg/movies3.drama.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-3
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158919.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/10151.ts
 #EXTINF:-1 tvg-name="Bein-Movies-4" tvg-logo="http://tv.asc.vg/movies4.family.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-4
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158920.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/25476.ts
 #EXTINF:-1 tvg-name="beIN.SERIES 1" tvg-logo="http://tv.asc.vg/series1.bein.png" group-title="BeIN ⭐ Entertainment (265)",beIN.SERIES 1
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158921.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/10152.ts
 #EXTINF:-1 tvg-name="beIN.SERIES 2" tvg-logo="http://tv.asc.vg/series2.bein.png" group-title="BeIN ⭐ Entertainment (265)",beIN.SERIES 2
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158922.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/10153.ts
 #EXTINF:-1 tvg-name="Bein-Fatafeat" tvg-logo="http://tv.asc.vg/fatafeat.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Fatafeat
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158926.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/96063.ts
 #EXTINF:-1 tvg-id="GOURMET DIGITAL.qa" tvg-name="beIN GOURMET" tvg-logo="https://i.ibb.co/ZpBkQ6vv/bein-gourmet.png" group-title="BEIN MEDIA",beIN GOURMET
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158944.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/10155.ts
 #EXTINF:-1 tvg-id="TCM.sa" tvg-name="TCM" tvg-logo="https://i.ibb.co/kgTKVKB1/TCM.png" group-title="BEIN MEDIA",TCM
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1374&t=live&f=ts
 #EXTINF:-1 tvg-name="Bein-BBC Earth" tvg-logo="http://tv.asc.vg/bbc.earth.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-BBC Earth
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158933.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/96066.ts
 #EXTINF:-1 tvg-logo="",OutDoor HD
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1379&t=live&f=ts
 #EXTINF:-1 tvg-name="Bein-HGTV" tvg-logo="http://tv.asc.vg/hgtv.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-HGTV
@@ -34,7 +34,7 @@ http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158932.ts
 #EXTINF:-1 tvg-name="Bein-Nat Geo Wild" tvg-logo="http://tv.asc.vg/nat.geo.wild.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Nat Geo Wild
 http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158929.ts
 #EXTINF:-1 tvg-name="Bein-Nat Geo" tvg-logo="http://tv.asc.vg/nat.geo.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Nat Geo
-http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158928.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/96055.ts
 #EXTINF:-1 tvg-name="Bein-travel" tvg-logo="http://tv.asc.vg/travel.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-travel
 http://pro.netmos.ovh:7355/live/PR2979850206918/7770470406308/158925.ts
 
