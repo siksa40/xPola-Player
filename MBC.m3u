@@ -102,12 +102,6 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Aghani_Aghani/DASH/Aghani_Aghan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ac5dcebd8f5482b969431eb58febeba:0546bde183eb34366fa83b22fef26524
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="قنوات ترفيهية",MBC 1 HD
-https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=535b41e50f71d5dcdd7b61685500980f:864e981865940ef26cde333a1a8be344
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-logo="https://i.imgur.com/38oTa3Z.png" group-title="قنوات ترفيهية",MBC 2 HD
 https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_2HD/DASH/MBC_2HD.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="قنوات ترفيهية",MBC 3 HD
