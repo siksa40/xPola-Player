@@ -1,307 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Egypt: AL-Oula" group-title="EGYPT",Egypt: AL-Oula
-http://s1.iptv-chal.net:2052/diatou931/diatou139/12699
-#EXTINF:-1 tvg-name="Egypt: Althanya" group-title="EGYPT",Egypt: Althanya
-http://s1.iptv-chal.net:2052/diatou931/diatou139/12698
-#EXTINF:-1 tvg-name="Egypt: Althanya Almasreya HD*" group-title="EGYPT",Egypt: Althanya Almasreya HD*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/6223
-#EXTINF:-1 tvg-name="Egypt: ALoula Almasreya" group-title="EGYPT",Egypt: ALoula Almasreya
-http://s1.iptv-chal.net:2052/diatou931/diatou139/12494
-#EXTINF:-1 tvg-name="Egypt: Althanya Almasreya" group-title="EGYPT",Egypt: Althanya Almasreya
-http://s1.iptv-chal.net:2052/diatou931/diatou139/12489
-#EXTINF:-1 tvg-name="Egypt: AlMasryia" group-title="EGYPT",Egypt: AlMasryia
-http://s1.iptv-chal.net:2052/diatou931/diatou139/110
-#EXTINF:-1 tvg-name="Egypt: AL-masriya" group-title="EGYPT",Egypt: AL-masriya
-http://s1.iptv-chal.net:2052/diatou931/diatou139/12694
-#EXTINF:-1 tvg-name="Egypt: Alhayat.Muslsalat" group-title="EGYPT",Egypt: Alhayat.Muslsalat
-http://s1.iptv-chal.net:2052/diatou931/diatou139/6026
-#EXTINF:-1 tvg-name="Egypt:  Scare TV" group-title="EGYPT",Egypt:  Scare TV
-http://s1.iptv-chal.net:2052/diatou931/diatou139/12503
-#EXTINF:-1 tvg-name="Egypt: El Mehwar TV USA" group-title="EGYPT",Egypt: El Mehwar TV USA
-http://s1.iptv-chal.net:2052/diatou931/diatou139/5396
-#EXTINF:-1 tvg-name="Egypt: ON-E HD" group-title="EGYPT",Egypt: ON-E HD
-http://s1.iptv-chal.net:2052/diatou931/diatou139/15159
-#EXTINF:-1 tvg-name="Egypt:Top Zaman" group-title="EGYPT",Egypt:Top Zaman
-http://s1.iptv-chal.net:2052/diatou931/diatou139/12524
-#EXTINF:-1 tvg-name="Egypt:  ONE HD" group-title="EGYPT",Egypt:  ONE HD
-http://s1.iptv-chal.net:2052/diatou931/diatou139/6213
-#EXTINF:-1 tvg-name="Eg: AL Askandria" group-title="EGYPT",Eg: AL Askandria
-http://s1.iptv-chal.net:2052/diatou931/diatou139/15160
-#EXTINF:-1 tvg-name="Egypt: TEN" group-title="EGYPT",Egypt: TEN
-http://s1.iptv-chal.net:2052/diatou931/diatou139/6201
-#EXTINF:-1 tvg-name="Egypt:  Egypt TV 3 AlQahera" group-title="EGYPT",Egypt:  Egypt TV 3 AlQahera
-http://s1.iptv-chal.net:2052/diatou931/diatou139/13070
-#EXTINF:-1 tvg-name="Egypt: MASPERO" group-title="EGYPT",Egypt: MASPERO
-http://s1.iptv-chal.net:2052/diatou931/diatou139/13071
-#EXTINF:-1 tvg-name="Egypt: NILE-NEWS" group-title="EGYPT",Egypt: NILE-NEWS
-http://s1.iptv-chal.net:2052/diatou931/diatou139/168
-#EXTINF:-1 tvg-name="Egypt: Nile-Life" group-title="EGYPT",Egypt: Nile-Life
-http://s1.iptv-chal.net:2052/diatou931/diatou139/169
-#EXTINF:-1 tvg-name="Egypt: Nile Life HD*" group-title="EGYPT",Egypt: Nile Life HD*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/12644
-#EXTINF:-1 tvg-name="Egypt: Nile Family" group-title="EGYPT",Egypt: Nile Family
-http://s1.iptv-chal.net:2052/diatou931/diatou139/8681
-#EXTINF:-1 tvg-name="Egypt: NILE-FAMILY HD*" group-title="EGYPT",Egypt: NILE-FAMILY HD*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/12645
-#EXTINF:-1 tvg-name="Egypt: Nile-Culture" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4dT4f_pCzsRRa09UA8WecU6mRenEK6H07Nqy2ipN1zvbUJMKjkg" group-title="EGYPT",Egypt: Nile-Culture
-http://s1.iptv-chal.net:2052/diatou931/diatou139/7398
-#EXTINF:-1 tvg-name="Egypt: Nile-Sport" group-title="EGYPT",Egypt: Nile-Sport
-http://s1.iptv-chal.net:2052/diatou931/diatou139/165
-#EXTINF:-1 tvg-name="Egypt: Nile-TV HD*" group-title="EGYPT",Egypt: Nile-TV HD*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/13080
-#EXTINF:-1 tvg-name="Egypt: Nile-Sport HD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_aUIcS62WYZvIqCoBe-GExM0yk2K7k93x9M-TW3IuOgDGQRbjJA" group-title="EGYPT",Egypt: Nile-Sport HD*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/13050
-#EXTINF:-1 tvg-name="Egypt: Watan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4dT4f_pCzsRRa09UA8WecU6mRenEK6H07Nqy2ipN1zvbUJMKjkg" group-title="EGYPT",Egypt: Watan
-http://s1.iptv-chal.net:2052/diatou931/diatou139/13048
-#EXTINF:-1 tvg-name="Egypt: Nile-News HD*" group-title="EGYPT",Egypt: Nile-News HD*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/13046
-#EXTINF:-1 tvg-name="Egypt: NILE TV HD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4o4SLBCdNQi15fGz5pFxcNK-W4Z2E1n5ZTrDcrP2iD5U7d9Tq_Q" group-title="EGYPT",Egypt: NILE TV HD*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/9540
-#EXTINF:-1 tvg-name="Egypt: DMC HD" group-title="EGYPT",Egypt: DMC HD
-http://s1.iptv-chal.net:2052/diatou931/diatou139/6199
-#EXTINF:-1 tvg-name="Egypt: ALhayat EGYPT" group-title="EGYPT",Egypt: ALhayat EGYPT
-http://s1.iptv-chal.net:2052/diatou931/diatou139/164
-#EXTINF:-1 tvg-name="Egypt: Al Hayat HD" group-title="EGYPT",Egypt: Al Hayat HD
-http://s1.iptv-chal.net:2052/diatou931/diatou139/6224
-#EXTINF:-1 tvg-name="Egypt: El Mahroosa TV" group-title="EGYPT",Egypt: El Mahroosa TV
-http://s1.iptv-chal.net:2052/diatou931/diatou139/332
-#EXTINF:-1 tvg-name="Egypt: ALhayat  EGYPT HD" group-title="EGYPT",Egypt: ALhayat  EGYPT HD
-http://s1.iptv-chal.net:2052/diatou931/diatou139/13029
-#EXTINF:-1 tvg-name="Egypt: Alhayat Muslsalat HD*" group-title="EGYPT",Egypt: Alhayat Muslsalat HD*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/6204
-#EXTINF:-1 tvg-name="Egypt: Cbc" group-title="EGYPT",Egypt: Cbc
-http://s1.iptv-chal.net:2052/diatou931/diatou139/162
-#EXTINF:-1 tvg-name="Egypt: Cbc-Extra" group-title="EGYPT",Egypt: Cbc-Extra
-http://s1.iptv-chal.net:2052/diatou931/diatou139/6220
-#EXTINF:-1 tvg-name="Egypt: Cbc-Sofra" group-title="EGYPT",Egypt: Cbc-Sofra
-http://s1.iptv-chal.net:2052/diatou931/diatou139/5367
-#EXTINF:-1 tvg-name="Egypt: CBC EGYPT HD" group-title="EGYPT",Egypt: CBC EGYPT HD
-http://s1.iptv-chal.net:2052/diatou931/diatou139/13032
-#EXTINF:-1 tvg-name="Egypt: CBC-Sofra HD*" group-title="EGYPT",Egypt: CBC-Sofra HD*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/13035
-#EXTINF:-1 tvg-name="Egypt: CBC-eXtra-News HD*" group-title="EGYPT",Egypt: CBC-eXtra-News HD*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/13034
-#EXTINF:-1 tvg-name="Egypt: Maspero-Zaman HD*" group-title="EGYPT",Egypt: Maspero-Zaman HD*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/15158
-#EXTINF:-1 tvg-name="Egypt: Sada-ElBalad" group-title="EGYPT",Egypt: Sada-ElBalad
-http://s1.iptv-chal.net:2052/diatou931/diatou139/13065
-#EXTINF:-1 tvg-name="Egypt: Sada-El-Balad2" group-title="EGYPT",Egypt: Sada-El-Balad2
-http://s1.iptv-chal.net:2052/diatou931/diatou139/13068
-#EXTINF:-1 tvg-name="Egypt: Egypt TV 4 AlKanal" group-title="EGYPT",Egypt: Egypt TV 4 AlKanal
-http://s1.iptv-chal.net:2052/diatou931/diatou139/8722
-#EXTINF:-1 tvg-name="Eg: Sada Elbalad Drama" group-title="EGYPT",Eg: Sada Elbalad Drama
-http://s1.iptv-chal.net:2052/diatou931/diatou139/12549
-#EXTINF:-1 tvg-name="Egypt: ALnahar" group-title="EGYPT",Egypt: ALnahar
-http://s1.iptv-chal.net:2052/diatou931/diatou139/12685
-#EXTINF:-1 tvg-ID="Panorama Drama ARB" tvg-name="Eg: PNC Drama" group-title="EGYPT",Eg: PNC Drama
-http://s1.iptv-chal.net:2052/diatou931/diatou139/6208
-#EXTINF:-1 tvg-name="Eg: Egypt TV 7 ALSa3eed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrjOt3EcLhfuxUq8kw3QnjJMMIw7YuPziq8EJFzSV9wK8AU9FY" group-title="EGYPT",Eg: Egypt TV 7 ALSa3eed
-http://s1.iptv-chal.net:2052/diatou931/diatou139/6205
-#EXTINF:-1 tvg-name="Eg: PNC Food" group-title="EGYPT",Eg: PNC Food
-http://s1.iptv-chal.net:2052/diatou931/diatou139/11131
-#EXTINF:-1 tvg-name="Eg: Panorama FM" group-title="EGYPT",Eg: Panorama FM
-http://s1.iptv-chal.net:2052/diatou931/diatou139/12486
-#EXTINF:-1 tvg-name="Egypt: ALHAYAT1" group-title="EGYPT",Egypt: ALHAYAT1
-http://s1.iptv-chal.net:2052/diatou931/diatou139/10447
-#EXTINF:-1 tvg-ID="Brazzers TV Adult" tvg-name="Eg: Alshoub" group-title="EGYPT",Eg: Alshoub
-http://s1.iptv-chal.net:2052/diatou931/diatou139/6207
-#EXTINF:-1 tvg-name="Eg: Al Sa3ayda Drama" group-title="EGYPT",Eg: Al Sa3ayda Drama
-http://s1.iptv-chal.net:2052/diatou931/diatou139/12502
-#EXTINF:-1 tvg-name="Eg: AL Kanal" group-title="EGYPT",Eg: AL Kanal
-http://s1.iptv-chal.net:2052/diatou931/diatou139/155
-#EXTINF:-1 tvg-name="Eg: El Mehwar TV EGY" group-title="EGYPT",Eg: El Mehwar TV EGY
-http://s1.iptv-chal.net:2052/diatou931/diatou139/13051
-#EXTINF:-1 tvg-name="Eg: Al Sharq Discovery" group-title="EGYPT",Eg: Al Sharq Discovery
-http://s1.iptv-chal.net:2052/diatou931/diatou139/13052
-#EXTINF:-1 tvg-name="Eg: Al Sharq Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrjOt3EcLhfuxUq8kw3QnjJMMIw7YuPziq8EJFzSV9wK8AU9FY" group-title="EGYPT",Eg: Al Sharq Documentary
-http://s1.iptv-chal.net:2052/diatou931/diatou139/13054
-#EXTINF:-1 tvg-name="Eg: AL Saied" group-title="EGYPT",Eg: AL Saied
-http://s1.iptv-chal.net:2052/diatou931/diatou139/6206
-#EXTINF:-1 tvg-name="Eg: Al Kahera" group-title="EGYPT",Eg: Al Kahera
-http://s1.iptv-chal.net:2052/diatou931/diatou139/12577
-#EXTINF:-1 tvg-name="Egypt:  Al Sharq News" group-title="EGYPT",Egypt:  Al Sharq News
-http://s1.iptv-chal.net:2052/diatou931/diatou139/12683
-#EXTINF:-1 tvg-name="Eg: Al Kahera Wal Nas 2" group-title="EGYPT",Eg: Al Kahera Wal Nas 2
-http://s1.iptv-chal.net:2052/diatou931/diatou139/12600
-#EXTINF:-1 tvg-name="Eg: SADAELBALAD2" group-title="EGYPT",Eg: SADAELBALAD2
-http://s1.iptv-chal.net:2052/diatou931/diatou139/142
-#EXTINF:-1 tvg-name="Eg: Sada ElBalad 1" group-title="EGYPT",Eg: Sada ElBalad 1
-http://s1.iptv-chal.net:2052/diatou931/diatou139/112
-#EXTINF:-1 tvg-name="Eg: AL Shams TV" group-title="EGYPT",Eg: AL Shams TV
-http://s1.iptv-chal.net:2052/diatou931/diatou139/121
-#EXTINF:-1 tvg-name="Egypt: Top Drama" group-title="EGYPT",Egypt: Top Drama
-http://s1.iptv-chal.net:2052/diatou931/diatou139/12506
-#EXTINF:-1 tvg-name="Egypt:  TeN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2jXKKbcEJ3uBfMPI1T7FC0DX6B49SBfBQBlWhfoLftmtbbG9n" group-title="EGYPT",Egypt:  TeN TV
-http://s1.iptv-chal.net:2052/diatou931/diatou139/8661
-#EXTINF:-1 tvg-name="Egypt: Oscar TV" group-title="EGYPT",Egypt: Oscar TV
-http://s1.iptv-chal.net:2052/diatou931/diatou139/9926
-#EXTINF:-1 tvg-name="Egypt: OSCAR TV" group-title="EGYPT",Egypt: OSCAR TV
-http://s1.iptv-chal.net:2052/diatou931/diatou139/7640
-#EXTINF:-1 tvg-name="Eg: Egypt TV 8 Teba" group-title="EGYPT",Eg: Egypt TV 8 Teba
-http://s1.iptv-chal.net:2052/diatou931/diatou139/8712
-#EXTINF:-1 tvg-name="Eg: Mix HolLLYWOOD AR" group-title="EGYPT",Eg: Mix HolLLYWOOD AR
-http://s1.iptv-chal.net:2052/diatou931/diatou139/8666
-#EXTINF:-1 tvg-name="[EG] Al Ahly TV" group-title="EGYPT",[EG] Al Ahly TV
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266796
-#EXTINF:-1 tvg-name="[EG] Al Hayah" group-title="EGYPT",[EG] Al Hayah
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266797
-#EXTINF:-1 tvg-name="[EG] Al Hayah (BK)" group-title="EGYPT",[EG] Al Hayah (BK)
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266798
-#EXTINF:-1 tvg-name="[EG] Al Masriyah Sat" group-title="EGYPT",[EG] Al Masriyah Sat
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266800
-#EXTINF:-1 tvg-name="[EG] AL Nahar Noor" group-title="EGYPT",[EG] AL Nahar Noor
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266801
-#EXTINF:-1 tvg-name="[EG] Al Qahera News" group-title="EGYPT",[EG] Al Qahera News
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266802
-#EXTINF:-1 tvg-name="[EG] Al Seha wa Al Ghezaa" group-title="EGYPT",[EG] Al Seha wa Al Ghezaa
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266804
-#EXTINF:-1 tvg-name="[EG] Al Seha wa Aljamal" group-title="EGYPT",[EG] Al Seha wa Aljamal
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266805
-#EXTINF:-1 tvg-name="[EG] Al Shams" group-title="EGYPT",[EG] Al Shams
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266806
-#EXTINF:-1 tvg-name="[EG] Al Teb Alnabawi" group-title="EGYPT",[EG] Al Teb Alnabawi
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266807
-#EXTINF:-1 tvg-name="[EG] Al Wathaeqya" group-title="EGYPT",[EG] Al Wathaeqya
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266808
-#EXTINF:-1 tvg-name="[EG] Al Zamalek TV" group-title="EGYPT",[EG] Al Zamalek TV
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266809
-#EXTINF:-1 tvg-name="[EG] Alhadath Alyoum" group-title="EGYPT",[EG] Alhadath Alyoum
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266810
-#EXTINF:-1 tvg-name="[EG] Alkahera Walnas 1" group-title="EGYPT",[EG] Alkahera Walnas 1
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266811
-#EXTINF:-1 tvg-name="[EG] Alkahera Walnas 2" group-title="EGYPT",[EG] Alkahera Walnas 2
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266812
-#EXTINF:-1 tvg-name="[EG] AlNahar" group-title="EGYPT",[EG] AlNahar
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266813
-#EXTINF:-1 tvg-name="[EG] AlNahar *" group-title="EGYPT",[EG] AlNahar *
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266814
-#EXTINF:-1 tvg-name="[EG] AlNahar Drama *" group-title="EGYPT",[EG] AlNahar Drama *
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266816
-#EXTINF:-1 tvg-name="[EG] Alshoub" group-title="EGYPT",[EG] Alshoub
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266817
-#EXTINF:-1 tvg-name="[EG] Banouta" group-title="EGYPT",[EG] Banouta
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266818
-#EXTINF:-1 tvg-name="[EG] Music El Moled" group-title="EGYPT",[EG] Music El Moled
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266819
-#EXTINF:-1 tvg-name="[EG] Music Free TV" group-title="EGYPT",[EG] Music Free TV
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266820
-#EXTINF:-1 tvg-name="[EG] CBC Drama (BK)" group-title="EGYPT",[EG] CBC Drama (BK)
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266822
-#EXTINF:-1 tvg-name="[EG] CBC Extra Live" group-title="EGYPT",[EG] CBC Extra Live
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266823
-#EXTINF:-1 tvg-name="[EG] CBC Extra News" group-title="EGYPT",[EG] CBC Extra News
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266824
-#EXTINF:-1 tvg-name="[EG] CBC Sofra" group-title="EGYPT",[EG] CBC Sofra
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266825
-#EXTINF:-1 tvg-name="[EG] Cima" group-title="EGYPT",[EG] Cima
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266826
-#EXTINF:-1 tvg-name="[EG] DMC" group-title="EGYPT",[EG] DMC
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266827
-#EXTINF:-1 tvg-name="[EG] DMC (BK)" group-title="EGYPT",[EG] DMC (BK)
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266828
-#EXTINF:-1 tvg-name="[EG] Dolly Music" group-title="EGYPT",[EG] Dolly Music
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266830
-#EXTINF:-1 tvg-name="[EG] Dominique" group-title="EGYPT",[EG] Dominique
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266831
-#EXTINF:-1 tvg-name="[EG] Egypt TV 0 Main" group-title="EGYPT",[EG] Egypt TV 0 Main
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266834
-#EXTINF:-1 tvg-name="[EG] Egypt TV 1 Aloula" group-title="EGYPT",[EG] Egypt TV 1 Aloula
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266835
-#EXTINF:-1 tvg-name="[EG] Egypt TV 2 Althanya" group-title="EGYPT",[EG] Egypt TV 2 Althanya
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266836
-#EXTINF:-1 tvg-name="[EG] Egypt TV 3 AlQahera" group-title="EGYPT",[EG] Egypt TV 3 AlQahera
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266837
-#EXTINF:-1 tvg-name="[EG] Egypt TV 4 AlKanal" group-title="EGYPT",[EG] Egypt TV 4 AlKanal
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266838
-#EXTINF:-1 tvg-name="[EG] Egypt TV 5 ALaskandria" group-title="EGYPT",[EG] Egypt TV 5 ALaskandria
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266839
-#EXTINF:-1 tvg-name="[EG] Egypt TV 6 AlDelta" group-title="EGYPT",[EG] Egypt TV 6 AlDelta
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266840
-#EXTINF:-1 tvg-name="[EG] Egypt TV 7 ALSa3eed" group-title="EGYPT",[EG] Egypt TV 7 ALSa3eed
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266841
-#EXTINF:-1 tvg-name="[EG] Egypt TV 8 Teba" group-title="EGYPT",[EG] Egypt TV 8 Teba
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266842
-#EXTINF:-1 tvg-name="[EG] El Mahroosa TV" group-title="EGYPT",[EG] El Mahroosa TV
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266843
-#EXTINF:-1 tvg-name="[EG] El Mehwar TV EGY" group-title="EGYPT",[EG] El Mehwar TV EGY
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266844
-#EXTINF:-1 tvg-name="[EG] El Mehwar TV USA" group-title="EGYPT",[EG] El Mehwar TV USA
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266845
-#EXTINF:-1 tvg-name="[EG] El Sharq TV 1080P" group-title="EGYPT",[EG] El Sharq TV 1080P
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266846
-#EXTINF:-1 tvg-name="[EG] El Sharq TV 560P" group-title="EGYPT",[EG] El Sharq TV 560P
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266847
-#EXTINF:-1 tvg-name="[EG] Music Gem Arabia" group-title="EGYPT",[EG] Music Gem Arabia
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266848
-#EXTINF:-1 tvg-name="[EG] Hala London" group-title="EGYPT",[EG] Hala London
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266849
-#EXTINF:-1 tvg-name="[EG] Madrasatna 1" group-title="EGYPT",[EG] Madrasatna 1
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266850
-#EXTINF:-1 tvg-name="[EG] Madrasatna 2" group-title="EGYPT",[EG] Madrasatna 2
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266851
-#EXTINF:-1 tvg-name="[EG] Masr Alzera3eya" group-title="EGYPT",[EG] Masr Alzera3eya
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266853
-#EXTINF:-1 tvg-name="[EG] Masr Elbalad" group-title="EGYPT",[EG] Masr Elbalad
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266854
-#EXTINF:-1 tvg-name="[EG] Mawal" group-title="EGYPT",[EG] Mawal
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266855
-#EXTINF:-1 tvg-name="[EG] Mekamleen" group-title="EGYPT",[EG] Mekamleen
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266856
-#EXTINF:-1 tvg-name="[EG] Mix One" group-title="EGYPT",[EG] Mix One
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266861
-#EXTINF:-1 tvg-name="[EG] Nile Culture" group-title="EGYPT",[EG] Nile Culture
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266873
-#EXTINF:-1 tvg-name="[EG] Nile Family" group-title="EGYPT",[EG] Nile Family
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266875
-#EXTINF:-1 tvg-name="[EG] Nile Family (BK)" group-title="EGYPT",[EG] Nile Family (BK)
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266876
-#EXTINF:-1 tvg-name="[EG] Nile Life" group-title="EGYPT",[EG] Nile Life
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266877
-#EXTINF:-1 tvg-name="[EG] Nile News" group-title="EGYPT",[EG] Nile News
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266878
-#EXTINF:-1 tvg-name="[EG] Nile Sport" group-title="EGYPT",[EG] Nile Sport
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266879
-#EXTINF:-1 tvg-name="[EG] Nile TV International" group-title="EGYPT",[EG] Nile TV International
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266880
-#EXTINF:-1 tvg-name="[EG] ON Ent" group-title="EGYPT",[EG] ON Ent
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266882
-#EXTINF:-1 tvg-name="[EG] ON Ent HD" group-title="EGYPT",[EG] ON Ent HD
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266883
-#EXTINF:-1 tvg-name="[EG] ON Sport 1" group-title="EGYPT",[EG] ON Sport 1
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266884
-#EXTINF:-1 tvg-name="[EG] ON Sport 1 (BK)" group-title="EGYPT",[EG] ON Sport 1 (BK)
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266885
-#EXTINF:-1 tvg-name="[EG] ON Sport 1 (BKK)" group-title="EGYPT",[EG] ON Sport 1 (BKK)
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266886
-#EXTINF:-1 tvg-name="[EG] ON Sport 2 (BK)" group-title="EGYPT",[EG] ON Sport 2 (BK)
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266887
-#EXTINF:-1 tvg-name="[EG] On Sport 2 *" group-title="EGYPT",[EG] On Sport 2 *
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266888
-#EXTINF:-1 tvg-name="[EG] Oscar TV" group-title="EGYPT",[EG] Oscar TV
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266889
-#EXTINF:-1 tvg-name="[EG] Panorama FM" group-title="EGYPT",[EG] Panorama FM
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266893
-#EXTINF:-1 tvg-name="[EG] Panorama Food" group-title="EGYPT",[EG] Panorama Food
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266894
-#EXTINF:-1 tvg-name="[EG] Panorama Yom" group-title="EGYPT",[EG] Panorama Yom
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266895
-#EXTINF:-1 tvg-name="[EG] Sada Elbalad 1" group-title="EGYPT",[EG] Sada Elbalad 1
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266896
-#EXTINF:-1 tvg-name="[EG] Sada Elbalad 2" group-title="EGYPT",[EG] Sada Elbalad 2
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266897
-#EXTINF:-1 tvg-name="[EG] Sada Elbalad Drama (BK)" group-title="EGYPT",[EG] Sada Elbalad Drama (BK)
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266899
-#EXTINF:-1 tvg-name="[EG] Scare TV" group-title="EGYPT",[EG] Scare TV
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266900
-#EXTINF:-1 tvg-name="[EG] Music Mazzika" group-title="MUSIC",[EG] Music Mazzika
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266867
-#EXTINF:-1 tvg-name="[EG] Watan" group-title="EGYPT",[EG] Watan
-http://s1.iptv-chal.net:2052/diatou931/diatou139/266906
-#EXTINF:-1 tvg-name="Eg: MEKAMELEEN TV" group-title="EGYPT",Eg: MEKAMELEEN TV
-http://s1.iptv-chal.net:2052/diatou931/diatou139/12528
-#EXTINF:-1 tvg-name="Eg: Al Delta" group-title="EGYPT",Eg: Al Delta
-http://s1.iptv-chal.net:2052/diatou931/diatou139/12527
-#EXTINF:-1 tvg-name="Eg: ELMOLED" group-title="EGYPT",Eg: ELMOLED
-http://s1.iptv-chal.net:2052/diatou931/diatou139/12501
-#EXTINF:-1 tvg-name="Eg: Al Sabah" group-title="EGYPT",Eg: Al Sabah
-http://s1.iptv-chal.net:2052/diatou931/diatou139/10123
+#EXTINF:-1 tvg-id="AlGhadTV.eg@SD" tvg-logo="https://i.imgur.com/ga6NXb9.png" group-title=" PRIME TV | Egypt",Al Ghad TV (1080p)
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+#EXTINF:-1 tvg-id="AlMasriyah.eg@SD" tvg-logo="https://i.ibb.co/Kx7wmXCQ/almasriya.png" group-title=" PRIME TV | Egypt",Al Masriyah [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
+#EXTINF:-1 tvg-id="ATVSat.us@SD" tvg-logo="https://i.imgur.com/pwM5txv.png" group-title=" PRIME TV | Egypt",ATVSat (1080p) [Not 24/7]
+https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CBC.eg@SD" tvg-logo="https://i.imgur.com/8apNaLP.png" group-title=" PRIME TV | Egypt",CBC (576p)
+https://flu.systemnet.tv/CBC/index.m3u8
+#EXTINF:-1 tvg-id="CBCDrama.eg@SD" tvg-logo="https://i.imgur.com/I8YdakH.png" group-title=" PRIME TV | Egypt",CBC Drama (576p)
+https://flu.systemnet.tv/CBCDrama/index.m3u8
+#EXTINF:-1 tvg-id="CBCSofra.eg@SD" tvg-logo="https://i.imgur.com/YAdk2WR.png" group-title=" PRIME TV | Egypt",CBC Sofra (576p)
+https://flu.systemnet.tv/CBCSofra/index.m3u8
+#EXTINF:-1 tvg-id="CopticTV.eg@SD" tvg-logo="https://www.ctvchannel.tv/images/CTV-logo-white.png" group-title=" PRIME TV | Egypt",Coptic TV (720p) [Not 24/7]
+https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ElRadio9090FM.eg@SD" tvg-logo="https://www.9090.fm/images/logo.png" group-title=" PRIME TV | Egypt",El Radio 9090 FM (480p)
+https://9090video.mobtada.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ElbesharaGTV.us@SD" tvg-logo="https://i.imgur.com/b0Wx7pE.png" group-title=" PRIME TV | Egypt",Elbeshara GTV (1080p) [Not 24/7]
+http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HudaTV.eg@SD" tvg-logo="https://i.imgur.com/1UUjU26.png" group-title=" PRIME TV | Egypt",Huda TV (720p) [Not 24/7]
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+#EXTINF:-1 tvg-id="KoogiTV.eg@SD" tvg-logo="https://i.imgur.com/zojMTP9.png" group-title=" PRIME TV | Egypt",Koogi TV (1080p)
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC1Egypt.eg@HD" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title=" PRIME TV | Egypt",MBC 1 Egypt (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr.eg@SD" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title=" PRIME TV | Egypt",MBC Masr (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr2.eg@SD" tvg-logo="https://i.imgur.com/KHo7Gtn.png" group-title=" PRIME TV | Egypt",MBC Masr 2 (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasrDrama.sa@SD" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title=" PRIME TV | Egypt",MBC Masr Drama (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
+#EXTINF:-1 tvg-id="MekameleenTV.tr@SD" tvg-logo="https://i.imgur.com/q7iVchl.png" group-title=" PRIME TV | Egypt",Mekameleen TV (1080p)
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
