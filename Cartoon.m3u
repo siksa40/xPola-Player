@@ -1,0 +1,31 @@
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5523b4311f30fd4b037048814c7b7f86:e513e2a245ec88511bb778355f54b891
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/karameesh.png" group-title="قنوات ترفيهية",Karameesh
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Karameesh/DASH/Karameesh.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=160226ae0237bf9e47042be468cff4fa:d4cce02866b7107d8afbe988871f77ac
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="majidtv.ae" tvg-shift="3" tvg-name="MAJID TV" tvg-logo="https://i.imgur.com/jDqyTP1.png" group-title="قنوات ترفيهية",MAJID TV
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Majid_Kids_TV_HD/DASH/Majid_Kids_TV_HD.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rd8LOkZ.png" group-title="قنوات ترفيهية",Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18f735985ada8c2183621c4316150095:5bbb37067a13fa42433314b9a89f889b
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf30YSH.png" group-title="قنوات ترفيهية",Cartoon Network Arabic
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Cartoon_Network_Arabic/DASH/Cartoon_Network_Arabic.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=467593479a6b93c17647397533d9961c:979edadc64f49083258c5ada90fee37e
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ILcyErX.png" group-title="قنوات ترفيهية",Cartoon Network HD
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Cartoon_Network_HD/DASH/Cartoon_Network_HD.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fd339bc3fc2f0ba0d16ad8be18fe4b6:28be6b28d3c7727f6d9fd9e69e3124c3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-shift="3" tvg-logo="https://i.imgur.com/Zfd0vnn.png" group-title="قنوات ترفيهية",Boomerang HD
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Boomerang_HD/DASH/Boomerang_HD.mpd
