@@ -1,17 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png" group-title="AR HBO",AR HBO ARABIC HDby GAMERDZ1517
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672134&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png" group-title="AR HBO",AR HBO ASIAN HDby GAMERDZ1517
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672133&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png" group-title="AR HBO",AR HBO BOLLYWOOD HDby GAMERDZ1517
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672132&extension=m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png" group-title="AR HBO",AR HBO TOP TEN HDby GAMERDZ1517
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672140&extension=m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png" group-title="AR HBO",AR HBO NOW MOVIES HDby GAMERDZ1517
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672139&extension=m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png" group-title="AR HBO",AR HBO ACTION HDby GAMERDZ1517
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672138&extension=m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png" group-title="AR HBO",AR HBO CRIME HDby GAMERDZ1517
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672136&extension=m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png" group-title="AR HBO",AR HBO MAX HDby GAMERDZ1517
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:34:62:66&stream=672135&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### AMAZON PRIME #####" tvg-logo="" group-title="AR| AMAZON PRIME",##### AMAZON PRIME #####
+http://line.linehunt.org:80/fc75ace654/979f15af9706/1275544
+#EXTINF:-1 tvg-id="" tvg-name="AR| AMAZON ACTION" tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="AR| AMAZON PRIME",AR| AMAZON ACTION
+http://line.linehunt.org:80/fc75ace654/979f15af9706/1275543
+#EXTINF:-1 tvg-id="" tvg-name="AR| AMAZON CRIME" tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="AR| AMAZON PRIME",AR| AMAZON CRIME
+http://line.linehunt.org:80/fc75ace654/979f15af9706/1275542
+#EXTINF:-1 tvg-id="" tvg-name="AR| AMAZON MYSTERY" tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="AR| AMAZON PRIME",AR| AMAZON MYSTERY
+http://line.linehunt.org:80/fc75ace654/979f15af9706/1275541
+#EXTINF:-1 tvg-id="" tvg-name="AR| AMAZON DRAMA" tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="AR| AMAZON PRIME",AR| AMAZON DRAMA
+http://line.linehunt.org:80/fc75ace654/979f15af9706/1275540
+#EXTINF:-1 tvg-id="" tvg-name="AR| AMAZON COMEDY" tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="AR| AMAZON PRIME",AR| AMAZON COMEDY
+http://line.linehunt.org:80/fc75ace654/979f15af9706/1275539
+#EXTINF:-1 tvg-id="" tvg-name="AR| AMAZON WAR" tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="AR| AMAZON PRIME",AR| AMAZON WAR
+http://line.linehunt.org:80/fc75ace654/979f15af9706/1275538
+#EXTINF:-1 tvg-id="" tvg-name="AR| AMAZON FAMILY" tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="AR| AMAZON PRIME",AR| AMAZON FAMILY
+http://line.linehunt.org:80/fc75ace654/979f15af9706/1275537
+#EXTINF:-1 tvg-id="" tvg-name="AR| AMAZON MIXTA" tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="AR| AMAZON PRIME",AR| AMAZON MIXTA
+http://line.linehunt.org:80/fc75ace654/979f15af9706/1275536
+#EXTINF:-1 tvg-id="" tvg-name="AR| AMAZON DIRECTO" tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="AR| AMAZON PRIME",AR| AMAZON DIRECTO
+http://line.linehunt.org:80/fc75ace654/979f15af9706/1275535
+#EXTINF:-1 tvg-id="" tvg-name="AR| AMAZON DOCUMENTARY" tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="AR| AMAZON PRIME",AR| AMAZON DOCUMENTARY
+http://line.linehunt.org:80/fc75ace654/979f15af9706/1275533
+#EXTINF:-1 tvg-id="" tvg-name="AR| AMAZON ARABI +" tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="AR| AMAZON PRIME",AR| AMAZON ARABI +
+http://line.linehunt.org:80/fc75ace654/979f15af9706/1275532
+#EXTINF:-1 tvg-id="" tvg-name="AR| AMAZON ARABI +2" tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="AR| AMAZON PRIME",AR| AMAZON ARABI +2
+http://line.linehunt.org:80/fc75ace654/979f15af9706/1275531
+#EXTINF:-1 tvg-id="" tvg-name="AR| AMAZON COMIC" tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="AR| AMAZON PRIME",AR| AMAZON COMIC
+http://line.linehunt.org:80/fc75ace654/979f15af9706/1275530
+#EXTINF:-1 tvg-id="" tvg-name="AR| AMAZON KIDS" tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="AR| AMAZON PRIME",AR| AMAZON KIDS
+http://line.linehunt.org:80/fc75ace654/979f15af9706/1275529
