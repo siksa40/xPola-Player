@@ -9,10 +9,6 @@ https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
 https://ev-fast-mpd.starzplayarabia.com/live/eds/CNBC_Arabiya_HD/DASH/CNBC_Arabiya_HD.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4080954e835e8d3d1b6af8151b1c6314:8a6d2f9de5a561f4e1be424aae428c25
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7G6NDk2.png" group-title="قنوات اخبارية",CNBC Arabiya HD
-https://ev-fast-mpd.starzplayarabia.com/live/eds/CNBC_Arabiya_HD/DASH/CNBC_Arabiya_HD.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a270c7f0fd6e5ee098055abc9ec62a9a:407011418bdf2dab790342eae19a55db
 #EXTINF:-1 tvg-logo="https://www.alhurra.com/themes/custom/voa/images/sites_logos/logo_Al_Hurra.png" group-title="قنوات اخبارية",Al Hurra HD
 https://ev-fast-mpd.starzplayarabia.com/live/eds/AlHurra_HD/DASH/AlHurra_HD.mpd
@@ -41,6 +37,10 @@ https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1586c18d11ce5b62266c3fe26884f544:24a1077fbb42787b8ad6588284e06a62
 https://ev-fast-mpd.starzplayarabia.com/live/eds/Asharq_News/DASH/Asharq_News.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.alaraby.com/themes/custom/arabytv/logo.svg" ,العربي 1
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="AlAraby2.ma" tvg-logo="https://www.alaraby.com/themes/custom/arabytv/images/logos/LOgo-ATV-CH2nd.svg" ,العربي 2
+https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="قنوات اخبارية",RT Arabic  
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 
