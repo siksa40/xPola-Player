@@ -7,11 +7,6 @@ https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4080954e835e8d3d1b6af8151b1c6314:8a6d2f9de5a561f4e1be424aae428c25
 https://ev-fast-mpd.starzplayarabia.com/live/eds/CNBC_Arabiya_HD/DASH/CNBC_Arabiya_HD.mpd
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a270c7f0fd6e5ee098055abc9ec62a9a:407011418bdf2dab790342eae19a55db
-#EXTINF:-1 tvg-logo="https://www.alhurra.com/themes/custom/voa/images/sites_logos/logo_Al_Hurra.png" group-title="قنوات اخبارية",Al Hurra HD
-https://ev-fast-mpd.starzplayarabia.com/live/eds/AlHurra_HD/DASH/AlHurra_HD.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="قنوات اخبارية",Sky News Arabia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -24,6 +19,9 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Sky_News_Arabia_HD/DASH/Sky_New
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-shift="3" tvg-logo="https://i.imgur.com/AFpgwa2.png" group-title="قنوات اخبارية",BBC Arabic HD
 https://ev-fast-mpd.starzplayarabia.com/live/eds/BBC_Arabic/DASH/BBC_Arabic.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c681c45b227f2a517bd948c76b2449ad:f7e107b4c44622b077ce2218348382ef
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c681c45b227f2a517bd948c76b2449ad:f7e107b4c44622b077ce2218348382ef
