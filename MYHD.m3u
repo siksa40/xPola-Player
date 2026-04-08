@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=114053&extension=ts
+http://xytve.com:8080/live/44366034539938/21003228523322/375061.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="beIN SPORTS HD",beIN SPORTS 2 HD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=114052&extension=ts
+http://xytve.com:8080/live/44366034539938/21003228523322/375060.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="beIN SPORTS HD",beIN SPORTS 3 HD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=114050&extension=ts
+http://xytve.com:8080/live/44366034539938/21003228523322/375059.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="beIN SPORTS HD",beIN SPORTS 4 HD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=114049&extension=ts
+http://xytve.com:8080/live/44366034539938/21003228523322/375058.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5hd.png" group-title="beIN SPORTS HD",beIN SPORTS 5 HD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=114048&extension=ts
+http://xytve.com:8080/live/44366034539938/21003228523322/375057.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6hd.png" group-title="beIN SPORTS HD",beIN SPORTS 6 HD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=114047&extension=ts
+http://xytve.com:8080/live/44366034539938/21003228523322/375052.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7hd.png" group-title="beIN SPORTS HD",beIN SPORTS 7 HD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=114046&extension=ts
+http://xytve.com:8080/live/44366034539938/21003228523322/375051.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8hd.png" group-title="beIN SPORTS HD",beIN SPORTS 8 HD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=114045&extension=ts
+http://xytve.com:8080/live/44366034539938/21003228523322/375050.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9hd.png" group-title="beIN SPORTS HD",beIN SPORTS 9 HD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=114044&extension=ts
+http://xytve.com:8080/live/44366034539938/21003228523322/375049.ts
