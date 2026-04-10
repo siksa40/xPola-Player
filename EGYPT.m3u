@@ -6,81 +6,63 @@ https://flu.systemnet.tv/CBCDrama/index.m3u8
 #EXTINF:-1 tvg-id="CBCSofra.eg@SD" tvg-logo="https://i.imgur.com/YAdk2WR.png" group-title=" PRIME TV | Egypt",CBC Sofra (576p)
 https://flu.systemnet.tv/CBCSofra/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EG: CIMA" tvg-logo="http://pro.netmos.ovh:6051/img/cima.png" group-title="EGYPTE",EG: CIMA
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/2322
+http://pha.tv:8080/live/brxzuxram/h98600/1213.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: AL OULA EGYPT" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/EG/EG.Aloula1TV.png" group-title="EGYPTE",EG: AL OULA EGYPT
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/698
+http://pha.tv:8080/live/brxzuxram/h98600/25444.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: Al Masriya" tvg-logo="http://pro.netmos.ovh:6051/img/Al_Masriyah_Logo.png" group-title="EGYPTE",EG: Al Masriya
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/669
+http://pha.tv:8080/live/brxzuxram/h98600/835.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: AL NAHAR ONE" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/EG/EG.AL.NAHAR.png" group-title="EGYPTE",EG: AL NAHAR ONE
-http://77.137.40.221:8000/play/a051
+http://pha.tv:8080/live/brxzuxram/h98600/833.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: AL NAHAR DRAMA" tvg-logo="http://pro.netmos.ovh:6051/img/nahar.drama.png" group-title="EGYPTE",EG: AL NAHAR DRAMA
-http://77.137.40.221:8000/play/a052
-#EXTINF:-1 tvg-id="" tvg-name="EG: TEN TV" tvg-logo="http://pro.netmos.ovh:6051/img/ten.arabe.png" group-title="EGYPTE",EG: TEN TV
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/779
+http://pha.tv:8080/live/brxzuxram/h98600/834.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: SADA DRAMA" tvg-logo="http://pro.netmos.ovh:6051/img/sadad.drama.png" group-title="EGYPTE",EG: SADA DRAMA
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/783
+http://pha.tv:8080/live/brxzuxram/h98600/806.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: SADA AL BALAD 2" tvg-logo="http://pro.netmos.ovh:6051/img/sada-albalad2.png" group-title="EGYPTE",EG: SADA AL BALAD 2
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/784
+http://pha.tv:8080/live/brxzuxram/h98600/808.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: AL THANYA" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/EG/EG.althanya.png" group-title="EGYPTE",EG: AL THANYA
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/795
+http://pha.tv:8080/live/brxzuxram/h98600/805.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: Maspero Zaman" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/EG/EG.MAspero.png" group-title="EGYPTE",EG: Maspero Zaman
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/810
+http://pha.tv:8080/live/brxzuxram/h98600/621.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: Al KAHERA WAL NAS 2" tvg-logo="http://pro.netmos.ovh:6051/img/kahera.wanass2.png" group-title="EGYPTE",EG: Al KAHERA WAL NAS 2
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/811
+http://pha.tv:8080/live/brxzuxram/h98600/836.ts
 #EXTINF:-1 tvg-id="alkaherawalnas.eg" tvg-name="EG: AL KAHERA WAL NAS" tvg-logo="http://pro.netmos.ovh:6051/img/al.kahera.waness.png" group-title="EGYPTE",EG: AL KAHERA WAL NAS
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/812
+http://pha.tv:8080/live/brxzuxram/h98600/837.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: ON DRAMA" tvg-logo="http://pro.netmos.ovh:6051/img/on_tv_eg_drama.png" group-title="EGYPTE",EG: ON DRAMA
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/813
+http://pha.tv:8080/live/brxzuxram/h98600/839.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: CAIRO DRAMA" tvg-logo="http://pro.netmos.ovh:6051/img/cairodrama.png" group-title="EGYPTE",EG: CAIRO DRAMA
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/818
-#EXTINF:-1 tvg-id="" tvg-name="EG: AL AHLY TV" tvg-logo="http://pro.netmos.ovh:6051/img/Al_Ahly.png" group-title="EGYPTE",EG: AL AHLY TV
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/822
+http://pha.tv:8080/live/brxzuxram/h98600/822.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: AL HAYAT MUSALSALAT" tvg-logo="http://pro.netmos.ovh:6051/img/hayat.mousalsalat.png" group-title="EGYPTE",EG: AL HAYAT MUSALSALAT
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/823
+http://pha.tv:8080/live/brxzuxram/h98600/291782.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: AL HAYAT 2" tvg-logo="http://pro.netmos.ovh:6051/img/alhayat2arab.png" group-title="EGYPTE",EG: AL HAYAT 2
-http://goiptv.co:8080/live/rklocal071234/3V9bC7tason/2017.ts
+http://pha.tv:8080/live/brxzuxram/h98600/830.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: AL HAYAT" tvg-logo="http://pro.netmos.ovh:6051/img/hayat1.png" group-title="EGYPTE",EG: AL HAYAT
-http://goiptv.co:8080/live/rklocal071234/3V9bC7tason/2023.ts
+http://pha.tv:8080/live/brxzuxram/h98600/146324.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: PANORAMA FILM" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/EG/EG.panoramafilm.png" group-title="EGYPTE",EG: PANORAMA FILM
-http://77.137.40.221:8000/play/a037
+http://pha.tv:8080/live/brxzuxram/h98600/1221.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: Panorama Drama 2" tvg-logo="http://pro.netmos.ovh:6051/img/panorama_drama_2.png" group-title="EGYPTE",EG: Panorama Drama 2
-http://77.137.40.221:8000/play/a036
+http://pha.tv:8080/live/brxzuxram/h98600/1220.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: PANORAMA DRAMA 1" tvg-logo="http://pro.netmos.ovh:6051/img/panorama_drama.png" group-title="EGYPTE",EG: PANORAMA DRAMA 1
-http://77.137.40.221:8000/play/a035
+http://pha.tv:8080/live/brxzuxram/h98600/1219.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: DMC DRAMA" tvg-logo="http://pro.netmos.ovh:6051/img/dmc.drama.png" group-title="EGYPTE",EG: DMC DRAMA
-http://goiptv.co:8080/live/rklocal071234/3V9bC7tason/2020.ts
+http://pha.tv:8080/live/brxzuxram/h98600/1215.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: DMC HD" tvg-logo="http://pro.netmos.ovh:6051/img/dmc.png" group-title="EGYPTE",EG: DMC HD
-http://goiptv.co:8080/live/rklocal071234/3V9bC7tason/2724.ts
+http://pha.tv:8080/live/brxzuxram/h98600/146322.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: ON E" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/EG/EG.ON_logo.png" group-title="EGYPTE",EG: ON E
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/3445
+http://pha.tv:8080/live/brxzuxram/h98600/840.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: SADA El BALAD" tvg-logo="http://pro.netmos.ovh:6051/img/sada-albalad.png" group-title="EGYPTE",EG: SADA El BALAD
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/9840
-#EXTINF:-1 tvg-id="" tvg-name="EG: A Cima 1" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/OSN/osn.cima1.png" group-title="EGYPTE",EG: A Cima 1
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/12791
-#EXTINF:-1 tvg-id="" tvg-name="EG: Alhayat Tv" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/EG/EG.kanet.al.yahat.png" group-title="EGYPTE",EG: Alhayat Tv
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/39853
-#EXTINF:-1 tvg-id="" tvg-name="EG: Al Hayat drama" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/EG/eg.alhayah.drama.png" group-title="EGYPTE",EG: Al Hayat drama
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/41587
-#EXTINF:-1 tvg-id="" tvg-name="EG: ZEE AFLAM" tvg-logo="http://pro.netmos.ovh:6051/img/zee_aflam.png" group-title="EGYPTE",EG: ZEE AFLAM
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/3129
-#EXTINF:-1 tvg-id="" tvg-name="EG: ZEE ALWAN" tvg-logo="http://pro.netmos.ovh:6051/img/zee-alwan-01.png" group-title="EGYPTE",EG: ZEE ALWAN
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/3130
-#EXTINF:-1 tvg-id="niletv.eg" tvg-name="EG: NILE TV" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/EG/EG.Niletv.png" group-title="EGYPTE",EG: NILE TV
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/836
-#EXTINF:-1 tvg-id="nilesport.eg" tvg-name="EG: NILE SPORT" tvg-logo="http://pro.netmos.ovh:6051/img/nilesport.png" group-title="EGYPTE",EG: NILE SPORT
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/837
+http://pha.tv:8080/live/brxzuxram/h98600/808.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: NILE NEWS" tvg-logo="http://pro.netmos.ovh:6051/img/nilenews.png" group-title="EGYPTE",EG: NILE NEWS
-http://77.137.40.221:8000/play/a03l
+http://pha.tv:8080/live/brxzuxram/h98600/811.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: NILE LIFE" tvg-logo="http://pro.netmos.ovh:6051/img/nilelife.png" group-title="EGYPTE",EG: NILE LIFE
-http://77.137.40.221:8000/play/a03n
+http://pha.tv:8080/live/brxzuxram/h98600/812.ts
 #EXTINF:-1 tvg-id="nilefamily.eg" tvg-name="EG: NILE FAMILY" tvg-logo="http://pro.netmos.ovh:6051/img/nilefamily.png" group-title="EGYPTE",EG: NILE FAMILY
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/840
+http://pha.tv:8080/live/brxzuxram/h98600/813.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: NILE DRAMA" tvg-logo="http://pro.netmos.ovh:6051/img/nile_drama_eg.png" group-title="EGYPTE",EG: NILE DRAMA
-http://77.137.40.221:8000/play/a03o
+http://pha.tv:8080/live/brxzuxram/h98600/814.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: NILE CULTURE" tvg-logo="http://pro.netmos.ovh:6051/img/nileculture.png" group-title="EGYPTE",EG: NILE CULTURE
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/842
+http://pha.tv:8080/live/brxzuxram/h98600/815.ts
 #EXTINF:-1 tvg-id="nilecomedy.eg" tvg-name="EG: NILE COMEDY" tvg-logo="http://pro.netmos.ovh:6051/img/nile_comedy_eg.png" group-title="EGYPTE",EG: NILE COMEDY
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/843
+http://pha.tv:8080/live/brxzuxram/h98600/820.ts
 #EXTINF:-1 tvg-id="nilecinema.eg" tvg-name="EG: NILE.CINEMA" tvg-logo="http://pro.netmos.ovh:6051/img/nile_cinema_eg.png" group-title="EGYPTE",EG: NILE.CINEMA
-http://pro.prince4k.com:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/844
+http://pha.tv:8080/live/brxzuxram/h98600/817.ts
 
