@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1  tvg-logo="https://al24news.dz/wp-content/uploads/2021/11/logo-FENNEC-blanc133.svg",AL24NEWS قناة الجزائر الدّولية
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/288px-Aljazeera.svg.png" group-title="قنوات اخبارية",Al jazeera HD
 https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXFkYFj.png" group-title="قنوات اخبارية",Alarabiya
@@ -39,7 +41,5 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Asharq_News/DASH/Asharq_News.mp
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="AlAraby2.ma" tvg-logo="https://www.alaraby.com/themes/custom/arabytv/images/logos/LOgo-ATV-CH2nd.svg" ,العربي 2
 https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="قنوات اخبارية",RT Arabic  
-https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 
 
