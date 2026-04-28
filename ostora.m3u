@@ -1,20 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bein Sport HD 1" tvg-logo="http://tv.asc.vg/bein1.bein.png" group-title="BeIN Sporm3u8 ⚽ VIP",Bein Sport HD 1
 http://baskhd2.ddns.net:1935/live/stvsport/chunklist.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" BEIN FHD",BEIN SPORTS 1 🇶🇦
+http://77.137.40.221:8000/play/a01e
+#EXTINF:-1 tvg-name="Bein Sport HD 1" tvg-logo="http://tv.asc.vg/bein1.bein.png" group-title="BeIN Sporm3u8 ⚽ VIP",Bein Sport HD 1
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28262.ts
+#EXTINF:-1 tvg-name="BEIN Sports 1 1080P" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png" group-title="AR | BEIN SPORT 4K (SS)",BEIN Sports 1 1080P
+http://h42.reelpush.online/live/918454578001/index.m3u8
 #EXTINF:-1 tvg-name="Bein Sport HD 2" tvg-logo="http://tv.asc.vg/bein2.bein.png" group-title="BeIN Sporm3u8 ⚽ VIP",Bein Sport HD 2
-http://xlion.net:8080/live/747645/lion123123/318198.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/78798.ts
 #EXTINF:-1 tvg-name="Bein Sport HD 3" tvg-logo="http://tv.asc.vg/bein3.bein.png" group-title="BeIN Sporm3u8 ⚽ VIP",Bein Sport HD 3
-http://xlion.net:8080/live/747645/lion123123/318199.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/78799.ts
 #EXTINF:-1 tvg-name="Bein Sport HD 4" tvg-logo="http://tv.asc.vg/bein4.bein.png" group-title="BeIN Sporm3u8 ⚽ VIP",Bein Sport HD 4
-http://xlion.net:8080/live/747645/lion123123/391097.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/78800.ts
 #EXTINF:-1 tvg-name="Bein Sport HD 5" tvg-logo="http://tv.asc.vg/bein5.bein.png" group-title="BeIN Sporm3u8 ⚽ VIP",Bein Sport HD 5
-http://xlion.net:8080/live/747645/lion123123/318201.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/78801.ts
 #EXTINF:-1 tvg-name="Bein Sport HD 6" tvg-logo="http://tv.asc.vg/bein6.bein.png" group-title="BeIN Sporm3u8 ⚽ VIP",Bein Sport HD 6
-http://xlion.net:8080/live/747645/lion123123/318202.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/78802.ts
 #EXTINF:-1 tvg-name="Bein Sport HD 7" tvg-logo="http://tv.asc.vg/bein7.bein.png" group-title="BeIN Sporm3u8 ⚽ VIP",Bein Sport HD 7
-http://xlion.net:8080/live/747645/lion123123/318203.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/78803.ts
 #EXTINF:-1 tvg-name="Bein Sport HD 8" tvg-logo="http://tv.asc.vg/bein8.bein.png" group-title="BeIN Sporm3u8 ⚽ VIP",Bein Sport HD 8
-http://xlion.net:8080/live/747645/lion123123/391101.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/78804.ts
 #EXTINF:-1 tvg-name="beIN SPORT 09 FHD" tvg-logo="https://k.top4top.io/p_33396anvq1.png" group-title="AR | BEIN SPORT FHD (A)",beIN SPORT 09 FHD
-http://xlion.net:8080/live/747645/lion123123/391102.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/78805.ts
 
