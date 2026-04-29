@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bein Sport HD 1" tvg-logo="http://tv.asc.vg/bein1.bein.png" group-title="BeIN Sporm3u8 ⚽ VIP",Bein Sport HD 1
-http://baskhd2.ddns.net:1935/live/stvsport/chunklist.m3u8
+http://afcocafot.com:8080/bn14k/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" BEIN FHD",BEIN SPORTS 1 🇶🇦
-http://77.137.40.221:8000/play/a01e
+http://veveo.vip:80/play/live.php?mac=00:1A:79:94:F3:88&stream=13614&extension=ts&play_token=26LlUK1l31
 #EXTINF:-1 tvg-name="Bein Sport HD 1" tvg-logo="http://tv.asc.vg/bein1.bein.png" group-title="BeIN Sporm3u8 ⚽ VIP",Bein Sport HD 1
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28262.ts
 #EXTINF:-1 tvg-name="BEIN Sports 1 1080P" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png" group-title="AR | BEIN SPORT 4K (SS)",BEIN Sports 1 1080P
