@@ -5,22 +5,24 @@ http://afcocafot.com:8080/bn14k/tracks-v1a1/mono.m3u8
 http://veveo.vip:80/play/live.php?mac=00:1A:79:94:F3:88&stream=13614&extension=ts&play_token=26LlUK1l31
 #EXTINF:-1 tvg-name="Bein Sport HD 1" tvg-logo="http://tv.asc.vg/bein1.bein.png" group-title="BeIN Sporm3u8 ⚽ VIP",Bein Sport HD 1
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28262.ts
-#EXTINF:-1 tvg-name="BEIN Sports 1 1080P" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png" group-title="AR | BEIN SPORT 4K (SS)",BEIN Sports 1 1080P
-http://h42.reelpush.online/live/918454578001/index.m3u8
-#EXTINF:-1 tvg-name="Bein Sport HD 2" tvg-logo="http://tv.asc.vg/bein2.bein.png" group-title="BeIN Sporm3u8 ⚽ VIP",Bein Sport HD 2
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/78798.ts
-#EXTINF:-1 tvg-name="Bein Sport HD 3" tvg-logo="http://tv.asc.vg/bein3.bein.png" group-title="BeIN Sporm3u8 ⚽ VIP",Bein Sport HD 3
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/78799.ts
-#EXTINF:-1 tvg-name="Bein Sport HD 4" tvg-logo="http://tv.asc.vg/bein4.bein.png" group-title="BeIN Sporm3u8 ⚽ VIP",Bein Sport HD 4
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/78800.ts
-#EXTINF:-1 tvg-name="Bein Sport HD 5" tvg-logo="http://tv.asc.vg/bein5.bein.png" group-title="BeIN Sporm3u8 ⚽ VIP",Bein Sport HD 5
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/78801.ts
-#EXTINF:-1 tvg-name="Bein Sport HD 6" tvg-logo="http://tv.asc.vg/bein6.bein.png" group-title="BeIN Sporm3u8 ⚽ VIP",Bein Sport HD 6
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/78802.ts
-#EXTINF:-1 tvg-name="Bein Sport HD 7" tvg-logo="http://tv.asc.vg/bein7.bein.png" group-title="BeIN Sporm3u8 ⚽ VIP",Bein Sport HD 7
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/78803.ts
-#EXTINF:-1 tvg-name="Bein Sport HD 8" tvg-logo="http://tv.asc.vg/bein8.bein.png" group-title="BeIN Sporm3u8 ⚽ VIP",Bein Sport HD 8
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/78804.ts
-#EXTINF:-1 tvg-name="beIN SPORT 09 FHD" tvg-logo="https://k.top4top.io/p_33396anvq1.png" group-title="AR | BEIN SPORT FHD (A)",beIN SPORT 09 FHD
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/78805.ts
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_EN.bein" tvg-name="AR | beIN SPORTS 1FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 1FHD
+http://starshare.one/live/eduproaus11/gripping9information/652310.ts
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR | beIN SPORTS 2FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 2FHD
+http://starshare.one/live/eduproaus11/gripping9information/652312.ts
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR | beIN SPORTS 3FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 3FHD
+http://starshare.one/live/eduproaus11/gripping9information/652313.ts
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR | beIN SPORTS 4FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 4FHD
+http://starshare.one/live/eduproaus11/gripping9information/652313.ts
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR | beIN SPORTS 5HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 5HD
+http://starshare.one/live/eduproaus11/gripping9information/652314.ts
+#EXTINF:-1 tvg-id="beIN_SPORTS66_DIGITAL_Mono-01_EN.bein" tvg-name="AR | beIN SPORTS 6HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 6HD
+http://starshare.one/live/eduproaus11/gripping9information/652314.ts
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR | beIN SPORTS 6FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 6FHD
+http://starshare.one/live/eduproaus11/gripping9information/652315.ts
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR | beIN SPORTS 7FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 7FHD
+http://starshare.one/live/eduproaus11/gripping9information/652316.ts
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR | beIN SPORTS 8FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 8FHD
+http://starshare.one/live/eduproaus11/gripping9information/652317.ts
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR | beIN SPORTS 9FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 9FHD
+http://starshare.one/live/eduproaus11/gripping9information/652318.ts
 
