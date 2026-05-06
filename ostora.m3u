@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_EN.bein" tvg-name="AR | beIN SPORTS 1FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 1FHD
 http://tv.startseven.tn:2052/live/havezSMV/876YH876T/5117.ts
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_EN.bein" tvg-name="AR | beIN SPORTS 1FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 1FHD
+http://instv.top:80/942984057964814/1593574628/577
 #EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR | beIN SPORTS 2FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 2FHD
 http://tv.startseven.tn:2052/live/havezSMV/876YH876T/13081.ts
 #EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR | beIN SPORTS 3FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 3FHD
