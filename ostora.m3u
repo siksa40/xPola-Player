@@ -1,22 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_EN.bein" tvg-name="AR | beIN SPORTS 1FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 1FHD
-http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94959.ts
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_EN.bein" tvg-name="AR | beIN SPORTS 1FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 1FHD
-http://instv.top:80/942984057964814/1593574628/577
+http://bossposs.xyz:8080/live/254217135819/207042479466/318197.ts
 #EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR | beIN SPORTS 2FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 2FHD
-http://tv.startseven.tn:2052/live/havezSMV/876YH876T/13081.ts
+http://bossposs.xyz:8080/live/254217135819/207042479466/318198.ts
 #EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR | beIN SPORTS 3FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 3FHD
-http://tv.startseven.tn:2052/live/havezSMV/876YH876T/49370.ts
+http://bossposs.xyz:8080/live/254217135819/207042479466/318199.ts
 #EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR | beIN SPORTS 4FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 4FHD
-http://tv.startseven.tn:2052/live/havezSMV/876YH876T/20736.ts
+http://bossposs.xyz:8080/live/254217135819/207042479466/440580.ts
 #EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR | beIN SPORTS 5HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 5HD
-http://tv.startseven.tn:2052/live/havezSMV/876YH876T/48222.ts
+http://bossposs.xyz:8080/live/254217135819/207042479466/318201.ts
 #EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR | beIN SPORTS 6FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 6FHD
-http://tv.startseven.tn:2052/live/havezSMV/876YH876T/48221.ts
+http://bossposs.xyz:8080/live/254217135819/207042479466/318202.ts
 #EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR | beIN SPORTS 7FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 7FHD
-http://tv.startseven.tn:2052/live/havezSMV/876YH876T/48220.ts
+http://bossposs.xyz:8080/live/254217135819/207042479466/318203.ts
 #EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR | beIN SPORTS 8FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 8FHD
-http://tv.startseven.tn:2052/live/havezSMV/876YH876T/6172.ts
+http://bossposs.xyz:8080/live/254217135819/207042479466/318204.ts
 #EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR | beIN SPORTS 9FHD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 9FHD
-http://tv.startseven.tn:2052/live/havezSMV/876YH876T/6173.ts
+http://bossposs.xyz:8080/live/254217135819/207042479466/318205.ts
 
