@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bein-Drama-1" tvg-logo="http://tv.asc.vg/drama1.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Drama-1
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3528.ts
-#EXTINF:-1 tvg-name="Bein-Movies-1" tvg-logo="http://tv.asc.vg/movies1.premiere.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-1
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6890.ts
-#EXTINF:-1 tvg-name="Bein-Drama-1" tvg-logo="http://tv.asc.vg/drama1.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Drama-1
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6886.ts
+#EXTINF:-1 tvg-name="Bein-Movies-1" tvg-logo="http://tv.asc.vg/movies1.premiere.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-1
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3528.ts
 #EXTINF:-1 tvg-name="Bein-Movies-1" tvg-logo="http://tv.asc.vg/movies1.premiere.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-1
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6890.ts
 #EXTINF:-1 tvg-name="Bein-Movies-2" tvg-logo="http://tv.asc.vg/movies2.action.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-2
