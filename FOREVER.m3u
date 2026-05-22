@@ -1,34 +1,30 @@
-#EXTINF:-1 tvg-id=tod tvg-name="tod " tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png" group-title="BEIN HEVC & FHD",
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/93960.ts
-#EXTINF:-1 tvg-id=tod tvg-name="tod " tvg-logo="https://cdn.pixabay.com/photo/2015/12/18/09/45/the-number-of-1098384_640.png" group-title="BEIN HEVC & FHD",
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/93961.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5079.png" group-title="Sports",AR | BEIN SPORTS 1 FHD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/93964.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5080.png" group-title="Sports",AR | BEIN SPORTS 2 FHD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/93965.ts
-#EXTINF:-1 tvg-id="beinsports2.ar" tvg-name="Bein Sports 2" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 2
-http://user.scalecdn.co:8080/live/19995634/79960700/659428.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5081.png" group-title="Sports",AR | BEIN SPORTS 3 FHD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/93968.ts
-#EXTINF:-1 tvg-id="beinsports3.ar" tvg-name="Bein Sports 3" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 3
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/93969.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 4 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5082.png" group-title="Sports",AR | BEIN SPORTS 4 FHD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/93972.ts
-#EXTINF:-1 tvg-id="beinsports4.ar" tvg-name="Bein Sports 4" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 4
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/93973.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 5 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5083.png" group-title="Sports",AR | BEIN SPORTS 5 FHD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/93976.ts
-#EXTINF:-1 tvg-id="beinsports5.ar" tvg-name="Bein Sports 5" tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 5
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/93977.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 6 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5084.png" group-title="Sports",AR | BEIN SPORTS 6 FHD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/93980.ts
-#EXTINF:-1 tvg-id="beinsports6.ar" tvg-name="Bein Sports 6" tvg-logo="https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 6
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/93981.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 7 FHD" tvg-logo="http://148.251.133.153:8181/logo/chn/5085.png" group-title="Sports",AR | BEIN SPORTS 7 FHD
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/93984.ts
-#EXTINF:-1 tvg-id="beinsports7.ar" tvg-name="Bein Sports 7" tvg-logo="https://prod-media.beinsports.com/image/a3ce63a7a8521c37a513db67129855a8.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 7
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/93985.ts
-#EXTINF:-1 tvg-id="beinsports8.ar" tvg-name="Bein Sports 8" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 8
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/93988.ts
-#EXTINF:-1 tvg-id="beinsports9.ar" tvg-name="Bein Sports 9" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.128.png?ver=12-01-2025" group-title="Algeria -", بي إن سبورتس 9
-http://api.runso.me:8080/live/PCNORSCERCFV/555711507510/93992.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" , BEIN SPORTS 1 FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3404.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" , BEIN SPORTS 1 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5095.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png", BEIN SPORTS 2 FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3405.ts
+#EXTINF:-1 tvg-id="beinsports2.ar" tvg-name="Bein Sports 2" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png?ver=12-01-2025", BEIN SPORTS 2 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5096.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 3 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" , BEIN SPORTS 3 FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3406.ts
+#EXTINF:-1 tvg-id="beinsports3.ar" tvg-name="Bein Sports 3" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" , BEIN SPORTS 3 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5097.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 4 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" , BEIN SPORTS 4 FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3407.ts
+#EXTINF:-1 tvg-id="beinsports4.ar" tvg-name="Bein Sports 4" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" , BEIN SPORTS 4 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5098.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 5 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png", BEIN SPORTS 5 FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2458.ts
+#EXTINF:-1 tvg-id="beinsports5.ar" tvg-name="Bein Sports 5" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png", BEIN SPORTS 5 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5099.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 6 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono-d-1.png",BEIN SPORTS 6 FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3408.ts
+#EXTINF:-1 tvg-id="beinsports6.ar" tvg-name="Bein Sports 6" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono-d-1.png" , BEIN SPORTS 6 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5100.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 7 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png", BEIN SPORTS 7 FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3409.ts
+#EXTINF:-1 tvg-id="beinsports7.ar" tvg-name="Bein Sports 7" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",BEIN SPORTS 7 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5101.ts
+#EXTINF:-1 tvg-id="beinsports8.ar" tvg-name="Bein Sports 8" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" , BEIN SPORTS 8 FHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3410.ts
