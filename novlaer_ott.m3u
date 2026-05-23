@@ -35,6 +35,9 @@ https://raw.githubusercontent.com/raid35/channel-links/main/gremani.m3u
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://k.top4top.io/p_3741dyr051.jpg",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/News.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="فلسطين" tvg-logo="https://images.seeklogo.com/logo-png/21/2/pray-for-palestine-logo-png_seeklogo-210796.png",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/palestine.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://www.novaler.com/build/images/products/multibox-pro.jpg",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/novaler-bein.m3u
 
