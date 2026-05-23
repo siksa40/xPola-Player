@@ -16,10 +16,14 @@ http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6880.ts
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6560.ts
 #EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="CANAL+ FOOT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalfoot.png" group-title="CANA SPORT FR",CANAL+ FOOT FHD
 http://95.216.115.170:3021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/3706
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="CANAL+ FOOT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalfoot.png" group-title="CANA SPORT FR",CANAL+ FOOT FHD
+http://81637.org:2052/live/mohsentv1/mabrouk/292.ts
+#EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="CANAL+ SPORT360 FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport360.png" group-title="CANA SPORT FR",CANAL+ SPORT360 FHD
+http://81637.org:2052/live/mohsentv1/mabrouk/293.ts
 #EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="CANAL+ SPORT360 FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport360.png" group-title="CANA SPORT FR",CANAL+ SPORT360 FHD
 http://95.216.115.170:3021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2453
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport.png" group-title="CANA SPORT FR",CANAL+ SPORT FHD
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/168.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/291.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="CANA SPORT FR",|FR| CANAL+ SPORT 1 HD
 http://ktkguru.com/live/06DD463C8236519/f2ypvVoSFB/194767.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="CANA SPORT FR",|FR| CANAL+ SPORT 2 HD
@@ -59,7 +63,7 @@ http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6881.ts
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1.png" group-title="TNT",TF1 HD
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4919.ts
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1series.png" group-title="TNT",TF1 SERIES FILMS HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/5067.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/357.ts
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tmc1.png" group-title="TNT",TMC HD
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2371.ts
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tfx.png" group-title="TNT",TFX HD
@@ -85,7 +89,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="CANAL+ DOCS HD " tvg-logo="http://aptvpix.net/pubs/2022/canaldocs.png" group-title="DOCS",CANAL+ DOCS HD
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2513.ts
 #EXTINF:-1 tvg-id="animaux.fr" tvg-name="ANIMAUX HD" tvg-logo="http://aptvpix.net/picons/NEW2022/animaux.png" group-title="DOCS",ANIMAUX HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2414.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/376.ts
 #EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="USHUAÏA TV HD" tvg-logo="http://aptvpix.net/picons/NEW2022/ushuaia1.png" group-title="DOCS",USHUAÏA TV HD
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2419.ts
 #EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="CHASSE & PECHE HD" tvg-logo="http://aptvpix.net/picons/NEW2022/chasse.png" group-title="DOCS",CHASSE & PECHE HD
@@ -93,7 +97,7 @@ http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2493.ts
 #EXTINF:-1 tvg-id="ScienceEtVieTV.fr" tvg-name="SCIENCE & VIE TV HD" tvg-logo="http://aptvpix.net/picons/NEW2022/scienceandvie.png" group-title="DOCS",SCIENCE & VIE TV HD
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2422.ts
 #EXTINF:-1 tvg-id="seasons.fr" tvg-name="SEASONS HD" tvg-logo="http://aptvpix.net/picons/NEW2022/seasons.png" group-title="DOCS",SEASONS HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2424.ts
+http://81637.org:2052/live/mohsentv1/mabrouk/389.ts
 #EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="DISCOVERY HD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-SPAIN/DISCOVERYCHANNEL.png" group-title="DOCS",DISCOVERY HD
 http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2410.ts
 #EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/id.png" group-title="DOCS",DISCOVERY INVESTIGATION HD
