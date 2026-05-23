@@ -14,4 +14,10 @@ http://akar13.xyz:8080/live/N2252734512/580502154198/460873.ts
 http://pro.netmos.ovh:7355/live/31546503486949622/U09ZEDdu@6X!PeD/235522.ts
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/a1cb608a30fc2883eed0831dcf25f260.png?ver=03-06-2025",beIN SPORTS MAX 6
 http://akar13.xyz:8080/live/N2252734512/580502154198/460876.ts
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1.png" group-title="TNT",TF1 HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4919.ts
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tmc1.png" group-title="TNT",TMC HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2371.ts
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tfx.png" group-title="TNT",TFX HD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2367.ts
 
