@@ -16,7 +16,7 @@ http://95.216.115.170:3021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4726.ts
 #EXTINF:-1 tvg-id="alsafwa.sa" tvg-name="AR+ | a SAFWA" tvg-logo="http://aptvpix.net/pubs/2022/alphasafwa.png" group-title="ARABIC+",AR+ | a SAFWA
 http://95.216.115.170:3021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4744.ts
 #EXTINF:-1 tvg-id="alyawm.sa" tvg-name="AR+ | a ALYAWM " tvg-logo="http://aptvpix.net/pubs/2022/alphayawm.png" group-title="ARABIC+",AR+ | a ALYAWM
-http://95.216.115.170:3021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4745.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368970&extension=ts
 #EXTINF:-1 tvg-id="artaflam1.sa" tvg-name="AR+ | ART AFLAM 1" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ARTAFLAM1.png" group-title="ARABIC+",AR+ | ART AFLAM 1
 http://95.216.115.170:3021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4746.ts
 #EXTINF:-1 tvg-id="OSN Art Aflam 2" tvg-name="AR+ | ART AFLAM 2" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ARTAFLAM2.png" group-title="ARABIC+",AR+ | ART AFLAM 2
@@ -32,7 +32,7 @@ http://xxip.me:8080/live/98:06:3c:75:c0:72/443367897666trytfg/313349.ts
 #EXTINF:-1 tvg-id="osncomedyae" tvg-name="AR+ | OSN MOVIES COMEDY " tvg-logo="https://content.osn.com/logo/channel/cropped/OMC.png" group-title="ARABIC+",AR+ | OSN MOVIES COMEDY
 http://95.216.115.170:3021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4752.ts
 #EXTINF:-1 tvg-id="osnsactionen.ae" tvg-name="AR+ | OSN MOVIES ACTION" tvg-logo="https://content.osn.com/logo/channel/cropped/AHD.png" group-title="ARABIC+",AR+ | OSN MOVIES ACTION
-http://95.216.115.170:3021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4764.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368965&extension=ts
 #EXTINF:-1 tvg-id="osnmoviesen.ae" tvg-name="AR+ | OSN MOVIES HOLLYWOOD " tvg-logo="https://content.osn.com/logo/channel/cropped/OPR.png" group-title="ARABIC+",AR+ | OSN MOVIES HOLLYWOOD
 http://95.216.115.170:3021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4719.ts
 #EXTINF:-1 tvg-id="osnmoviesremiereen.ae" tvg-name="AR+ | OSN MOVIES PREMIERE " tvg-logo="https://content.osn.com/logo/channel/cropped/OM1.png" group-title="ARABIC+",AR+ | OSN MOVIES PREMIERE
