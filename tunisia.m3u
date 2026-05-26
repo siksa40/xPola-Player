@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="TN:ALFITNA" tvg-logo="http://im.challenge.tn/tunisie/fitna.jpg" group-title="TUNISIE*",TN:ALFITNA
 http://s1.iptv-chal.net:2052/live/t5fus4VRzdAW/RsHeAhYzC9sn/6.ts
 #EXTINF:-1 tvg-name="TN:WATANIA1*" tvg-logo="http://im.challenge.tn/tunisie/watania1.png" group-title="TUNISIE*",TN:WATANIA1*
-http://s1.iptv-chal.net:2052/live/t5fus4VRzdAW/RsHeAhYzC9sn/2.ts
+http://veveo.vip:80/play/live.php?mac=00:1A:79:BA:74:E7&stream=22722&extension=ts&play_token=qc2RxbQkoL
 #EXTINF:-1 tvg-name="TN:WATANIA2*" tvg-logo="http://im.challenge.tn/tunisie/watania2.png" group-title="TUNISIE*",TN:WATANIA2*
 http://s1.iptv-chal.net:2052/live/t5fus4VRzdAW/RsHeAhYzC9sn/3.ts
 #EXTINF:-1 tvg-name="TN:NESSMA.JDIDA*" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/nessam10.jpg" group-title="TUNISIE*",TN:NESSMA.JDIDA*
