@@ -46,7 +46,7 @@ http://81637.org:2052/live/fateh91240/999888777/19972.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | SÉRIE CLUB HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2489.png" group-title="Français ",FR | SÉRIE CLUB HD
 http://81637.org:2052/live/fateh91240/999888777/20030.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | PARAMOUNT DECALE HD" tvg-logo="http://116.202.165.211:2021/logo/chn/6881.png" group-title="Français ",FR | PARAMOUNT DECALE HD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936892&extension=ts
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1.png" group-title="FRANCE HD",TF1 HD
 http://81637.org:2052/live/fateh91240/999888777/20071.ts
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1series.png" group-title="FRANCE HD",TF1 SERIES FILMS HD
