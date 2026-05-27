@@ -24,7 +24,9 @@ http://81637.org:2052/live/fateh91240/999888777/264300.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 5 HD
 http://81637.org:2052/live/fateh91240/999888777/264301.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
-http://81637.org:2052/live/fateh91240/999888777/19784.ts
+https://jmp2.uk/stvp-FR200016Y5
+#EXTINF:-1 tvg-id="MotorvisionPlus.de@SD",Motorvision.tv (French)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA" tvg-logo="http://116.202.165.211:2021/logo/chn/2387.png" group-title="Français ",FR | CANAL+ CINEMA
 http://81637.org:2052/live/fateh91240/999888777/57.ts
 #EXTINF:-1 tvg-id="canalpluskids.fr" tvg-name="CANAL+ KIDS HD " tvg-logo="http://aptvpix.net/pubs/2022/canalkids.png" group-title="FRANCE HD",CANAL+ KIDS HD
@@ -47,6 +49,10 @@ http://81637.org:2052/live/fateh91240/999888777/19972.ts
 http://81637.org:2052/live/fateh91240/999888777/20030.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | PARAMOUNT DECALE HD" tvg-logo="http://116.202.165.211:2021/logo/chn/6881.png" group-title="Français ",FR | PARAMOUNT DECALE HD
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
+#EXTINF:-1 tvg-id="T18.fr@HD",T18 (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+#EXTINF:-1 group-title="Selection Sport",Paris Premiere HD (FHD)
+http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1.png" group-title="FRANCE HD",TF1 HD
 http://81637.org:2052/live/fateh91240/999888777/20071.ts
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1series.png" group-title="FRANCE HD",TF1 SERIES FILMS HD
@@ -69,6 +75,28 @@ http://81637.org:2052/live/fateh91240/999888777/20069.ts
 http://81637.org:2052/live/fateh91240/999888777/324.ts
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/w9.png" group-title="FRANCE HD",W9 HD
 http://81637.org:2052/live/fateh91240/999888777/5090.ts
+#EXTINF:-1 tvg-id="",Motus La Chaîne (1080p)
+https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="",Le Meilleur d'Arthur (1080p)
+https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="",Le Meilleur de la TV Realite (1080p)
+https://amg02393-awpg-amg02393c4-rakuten-uk-3886.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="",Les Anges (1080p)
+https://amg02393-awpg-amg02393c5-rakuten-uk-2463.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="",Les Z'Amours (1080p)
+https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-name="FR | TREK" tvg-logo="http://148.251.133.153:8181/logo/chn/2421.png" group-title="Français ",FR | TREK
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77733.ts
+#EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="https://b.top4top.io/p_3746aag7y1.png" group-title="Français ",FR | travelxp
+https://travelxp-travelxp-4-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Français ",FR | naturetimeemea
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgfr/playlist.m3u8
+#EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="https://www.globalfreetv.com/logo.png" group-title="Français ",FR | myzenfr
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenfr-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="",Homicide la chaîne du fait divers (1080p)
+https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="",Les Secrets de Nos Régions (1080p)
+https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="CANAL+ DOCS HD " tvg-logo="http://aptvpix.net/pubs/2022/canaldocs.png" group-title="FRANCE HD",CANAL+ DOCS HD
 http://81637.org:2052/live/fateh91240/999888777/82638.ts
 #EXTINF:-1 tvg-id="animaux.fr" tvg-name="ANIMAUX HD" tvg-logo="http://aptvpix.net/picons/NEW2022/animaux.png" group-title="FRANCE HD",ANIMAUX HD
