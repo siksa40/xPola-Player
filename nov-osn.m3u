@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="osnyahalaaloulaen.ae" tvg-name="AR+ | OSN YA HALA BIL ARABY " tvg-logo="https://content.osn.com/logo/channel/cropped/OYA.png" group-title="ARABIC+",AR+ | OSN YA HALA BIL ARABY
-http://81637.org:2052/live/fateh91240/999888777/265229.ts
+http://81637.org:2052/live/ns6FV7KXJeBv/XrsQ4JXrAmR7/265229.ts
 #EXTINF:-1 tvg-id="osnyahalaae" tvg-name="AR+ | OSN Ya HALA " tvg-logo="https://content.osn.com/logo/channel/cropped/OYH.png" group-title="ARABIC+",AR+ | OSN Ya HALA
-http://akar13.xyz:8080/live/1457983443440351/2513640789622561/313386.ts
+http://akar13.xyz:8080/live/N2252734512/580502154198/313386.ts
 #EXTINF:-1 tvg-id="osnyahalacinimaae" tvg-name="AR+ | OSN YA HALA AFLAM " tvg-logo="https://content.osn.com/logo/channel/cropped/OYC.png" group-title="ARABIC+",AR+ | OSN YA HALA AFLAM
-http://akar13.xyz:8080/live/1457983443440351/2513640789622561/313384.ts
+http://akar13.xyz:8080/live/N2252734512/580502154198/313384.ts
 #EXTINF:-1 tvg-id="OSN Alfa Cinema 1 HD" tvg-name="AR+ | a CINEMA 1" tvg-logo="http://aptvpix.net/pubs/2022/alphacinema1.png" group-title="ARABIC+",AR+ | a CINEMA 1
-http://81637.org:2052/live/fateh91240/999888777/265156.ts
+http://81637.org:2052/live/ns6FV7KXJeBv/XrsQ4JXrAmR7/265156.ts
 #EXTINF:-1 tvg-id="alarabiya.sa" tvg-name="AR+ | a CINEMA 2" tvg-logo="http://aptvpix.net/pubs/2022/alphacinema2.png" group-title="ARABIC+",AR+ | a CINEMA 2
-http://akar13.xyz:8080/live/1457983443440351/2513640789622561/313391.ts
+http://akar13.xyz:8080/live/N2252734512/580502154198/313391.ts
 #EXTINF:-1 tvg-id="OSN Alfa Musalsalat 1 HD" tvg-name="AR+ | a MUSALSALAT " tvg-logo="http://aptvpix.net/pubs/2022/alphas.png" group-title="ARABIC+",AR+ | a MUSALSALAT
-http://akar13.xyz:8080/live/1457983443440351/2513640789622561/313392.ts
+http://akar13.xyz:8080/live/N2252734512/580502154198/313392.ts
 #EXTINF:-1 tvg-id="OSN Alfa Musalsalat 2 HDx" tvg-name="AR+ | a MUSALSALAT +2" tvg-logo="http://aptvpix.net/pubs/2022/alphas2.png" group-title="ARABIC+",AR+ | a MUSALSALAT +2
-http://akar13.xyz:8080/live/1457983443440351/2513640789622561/313393.ts
+http://akar13.xyz:8080/live/N2252734512/580502154198/313393.ts
 #EXTINF:-1 tvg-id="alsafwa.sa" tvg-name="AR+ | a SAFWA" tvg-logo="http://aptvpix.net/pubs/2022/alphasafwa.png" group-title="ARABIC+",AR+ | a SAFWA
-http://akar13.xyz:8080/live/1457983443440351/2513640789622561/313387.ts
+http://akar13.xyz:8080/live/N2252734512/580502154198/313387.ts
 #EXTINF:-1 tvg-id="alyawm.sa" tvg-name="AR+ | a ALYAWM " tvg-logo="http://aptvpix.net/pubs/2022/alphayawm.png" group-title="ARABIC+",AR+ | a ALYAWM
-http://akar13.xyz:8080/live/1457983443440351/2513640789622561/313389.ts
+http://akar13.xyz:8080/live/N2252734512/580502154198/313389.ts
 #EXTINF:-1 tvg-id="artaflam1.sa" tvg-name="AR+ | ART AFLAM 1" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ARTAFLAM1.png" group-title="ARABIC+",AR+ | ART AFLAM 1
 http://vipapyenhmw.top:8080/live/VIP01881758874935836/b8b40c183edb/6465.ts
 #EXTINF:-1 tvg-id="OSN Art Aflam 2" tvg-name="AR+ | ART AFLAM 2" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ARTAFLAM2.png" group-title="ARABIC+",AR+ | ART AFLAM 2
@@ -24,42 +24,42 @@ http://vipapyenhmw.top:8080/live/VIP01881758874935836/b8b40c183edb/6466.ts
 #EXTINF:-1 tvg-id="hekayat.sa" tvg-name="AR+ | ART HEKAYET 1" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ARTHEKAYAT.png" group-title="ARABIC+",AR+ | ART HEKAYET 1
 http://vipapyenhmw.top:8080/live/VIP01881758874935836/b8b40c183edb/6468.ts
 #EXTINF:-1 tvg-id="hekayat2.sa" tvg-name="AR+ | ART HEKAYET 2" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ARTHEKAYET2.png" group-title="ARABIC+",AR+ | ART HEKAYET 2
-http://81637.org:2052/live/fateh91240/999888777/118.ts
+http://81637.org:2052/live/ns6FV7KXJeBv/XrsQ4JXrAmR7/118.ts
 #EXTINF:-1 tvg-id="artcinema.sa" tvg-name="AR+ | ART CINEMA" tvg-logo="http://aptvpix.net/picons/NEW2020/NEW_OSN/ARTCINEMA.png" group-title="ARABIC+",AR+ | ART CINEMA
 http://vipapyenhmw.top:8080/live/VIP01881758874935836/b8b40c183edb/6467.ts
 #EXTINF:-1 tvg-id="abudhabi.ae" tvg-name="AR+ | OSN CRIME" tvg-logo="https://content.osn.com/logo/channel/cropped/OBG.png" group-title="ARABIC+",AR+ | OSN CRIME
 http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/94410.ts
 #EXTINF:-1 tvg-id="osncomedyae" tvg-name="AR+ | OSN MOVIES COMEDY " tvg-logo="https://content.osn.com/logo/channel/cropped/OMC.png" group-title="ARABIC+",AR+ | OSN MOVIES COMEDY
-http://akar13.xyz:8080/live/1457983443440351/2513640789622561/313345.ts
+http://akar13.xyz:8080/live/N2252734512/580502154198/313345.ts
 #EXTINF:-1 tvg-id="osnsactionen.ae" tvg-name="AR+ | OSN MOVIES ACTION" tvg-logo="https://content.osn.com/logo/channel/cropped/AHD.png" group-title="ARABIC+",AR+ | OSN MOVIES ACTION
 http://vipapyenhmw.top:8080/live/VIP01881758874935836/b8b40c183edb/6471.ts
 #EXTINF:-1 tvg-id="osnmoviesen.ae" tvg-name="AR+ | OSN MOVIES HOLLYWOOD " tvg-logo="https://content.osn.com/logo/channel/cropped/OPR.png" group-title="ARABIC+",AR+ | OSN MOVIES HOLLYWOOD
-http://akar13.xyz:8080/live/1457983443440351/2513640789622561/313367.ts
+http://akar13.xyz:8080/live/N2252734512/580502154198/313367.ts
 #EXTINF:-1 tvg-id="osnmoviesremiereen.ae" tvg-name="AR+ | OSN MOVIES PREMIERE " tvg-logo="https://content.osn.com/logo/channel/cropped/OM1.png" group-title="ARABIC+",AR+ | OSN MOVIES PREMIERE
-http://akar13.xyz:8080/live/1457983443440351/2513640789622561/313369.ts
+http://akar13.xyz:8080/live/N2252734512/580502154198/313369.ts
 #EXTINF:-1 tvg-id="osnshowcaseae" tvg-name="AR+ | OSN SHOWCASE " tvg-logo="http://aptvpix.net/pubs/2022/osnshowcase.png" group-title="ARABIC+",AR+ | OSN SHOWCASE
 http://vipapyenhmw.top:8080/live/VIP01881758874935836/b8b40c183edb/6449.ts
 #EXTINF:-1 tvg-id="OSN W HD_en" tvg-name="AR+ | OSN SHOWCASE CLASSICS " tvg-logo="https://content.osn.com/logo/channel/cropped/OST.png" group-title="ARABIC+",AR+ | OSN SHOWCASE CLASSICS
-http://81637.org:2052/live/fateh91240/999888777/265217.ts
+http://81637.org:2052/live/ns6FV7KXJeBv/XrsQ4JXrAmR7/265217.ts
 #EXTINF:-1 tvg-id="fx.qa" tvg-name="AR+ | OSN ONE" tvg-logo="https://content.osn.com/logo/channel/cropped/OTO.png" group-title="ARABIC+",AR+ | OSN ONE
-http://akar13.xyz:8080/live/1457983443440351/2513640789622561/313363.ts
+http://akar13.xyz:8080/live/N2252734512/580502154198/313363.ts
 #EXTINF:-1 tvg-id="osnmoviesfamilyae" tvg-name="AR+ | OSN MOVIES FAMILY " tvg-logo="https://content.osn.com/logo/channel/cropped/OFM.png" group-title="ARABIC+",AR+ | OSN MOVIES FAMILY
-http://akar13.xyz:8080/live/1457983443440351/2513640789622561/313357.ts
+http://akar13.xyz:8080/live/N2252734512/580502154198/313357.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR+ | OSN PopUp CHANNEL" tvg-logo="" group-title="ARABIC+",AR+ | OSN PopUp CHANNEL
-http://81637.org:2052/live/fateh91240/999888777/265216.ts
+http://81637.org:2052/live/fateh91240/XrsQ4JXrAmR7/265216.ts
 #EXTINF:-1 tvg-id="history.sa" tvg-name="AR+ | History" tvg-logo="" group-title="ARABIC+",AR+ | History
-http://akar13.xyz:8080/live/1457983443440351/2513640789622561/313361.ts
+http://akar13.xyz:8080/live/N2252734512/580502154198/313361.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR+ | HISTORY2" tvg-logo="" group-title="ARABIC+",AR+ | HISTORY2
-http://akar13.xyz:8080/live/1457983443440351/2513640789622561/313360.ts
+http://akar13.xyz:8080/live/1457983443440351/580502154198/313360.ts
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR+ | DISCOVERY " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-SPAIN/DISCOVERYCHANNEL.png" group-title="ARABIC+",AR+ | DISCOVERY
 http://vipapyenhmw.top:8080/live/VIP01881758874935836/b8b40c183edb/6474.ts
 #EXTINF:-1 tvg-id="discoveryscience.sa" tvg-name="AR+ | ID" tvg-logo="" group-title="ARABIC+",AR+ | ID
-http://81637.org:2052/live/fateh91240/999888777/265178.ts
+http://81637.org:2052/live/ns6FV7KXJeBv/XrsQ4JXrAmR7/265178.ts
 #EXTINF:-1 tvg-id="bbcearthenglishar.qa" tvg-name="AR+ | ANIMAL PLANET " tvg-logo="" group-title="ARABIC+",AR+ | ANIMAL PLANET
-http://81637.org:2052/live/fateh91240/999888777/265166.ts
+http://81637.org:2052/live/ns6FV7KXJeBv/XrsQ4JXrAmR7/265166.ts
 #EXTINF:-1 tvg-id="osnmezzeae" tvg-name="AR+ | Mezze" tvg-logo="" group-title="ARABIC+",AR+ | Mezze
 http://vipapyenhmw.top:8080/live/VIP01881758874935836/b8b40c183edb/6462.ts
 #EXTINF:-1 tvg-id="natgeo.qa" tvg-name="AR+ | NAT GEO" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-SPAIN/NATGEO.png" group-title="ARABIC+",AR+ | NAT GEO
-http://akar13.xyz:8080/live/1457983443440351/2513640789622561/313371.ts
+http://akar13.xyz:8080/live/N2252734512/580502154198/313371.ts
 #EXTINF:-1 tvg-id="natgeowildhd.qa" tvg-name="AR+ | NAT GEO WILD " tvg-logo="" group-title="ARABIC+",AR+ | NAT GEO WILD
 http://vipapyenhmw.top:8080/live/VIP01881758874935836/b8b40c183edb/6498.ts
