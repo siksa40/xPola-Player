@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="osnyahalaaloulaen.ae" tvg-name="AR+ | OSN YA HALA BIL ARABY " tvg-logo="https://content.osn.com/logo/channel/cropped/OYA.png" group-title="ARABIC+",AR+ | OSN YA HALA BIL ARABY
-http://81637.org:2052/live/ns6FV7KXJeBv/XrsQ4JXrAmR7/265229.ts
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/342394.ts
 #EXTINF:-1 tvg-id="osnyahalaae" tvg-name="AR+ | OSN Ya HALA " tvg-logo="https://content.osn.com/logo/channel/cropped/OYH.png" group-title="ARABIC+",AR+ | OSN Ya HALA
-http://akar13.xyz:8080/live/N2252734512/580502154198/313386.ts
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/342395.ts
 #EXTINF:-1 tvg-id="osnyahalacinimaae" tvg-name="AR+ | OSN YA HALA AFLAM " tvg-logo="https://content.osn.com/logo/channel/cropped/OYC.png" group-title="ARABIC+",AR+ | OSN YA HALA AFLAM
 http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/342422.ts
 #EXTINF:-1 tvg-id="OSN Alfa Cinema 1 HD" tvg-name="AR+ | a CINEMA 1" tvg-logo="http://aptvpix.net/pubs/2022/alphacinema1.png" group-title="ARABIC+",AR+ | a CINEMA 1
@@ -58,7 +58,7 @@ http://81637.org:2052/live/ns6FV7KXJeBv/XrsQ4JXrAmR7/265178.ts
 #EXTINF:-1 tvg-id="bbcearthenglishar.qa" tvg-name="AR+ | ANIMAL PLANET " tvg-logo="" group-title="ARABIC+",AR+ | ANIMAL PLANET
 http://81637.org:2052/live/ns6FV7KXJeBv/XrsQ4JXrAmR7/265166.ts
 #EXTINF:-1 tvg-id="osnmezzeae" tvg-name="AR+ | Mezze" tvg-logo="" group-title="ARABIC+",AR+ | Mezze
-http://vipapyenhmw.top:8080/live/VIP01881758874935836/b8b40c183edb/6462.ts
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/342393.ts
 #EXTINF:-1 tvg-id="natgeo.qa" tvg-name="AR+ | NAT GEO" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-SPAIN/NATGEO.png" group-title="ARABIC+",AR+ | NAT GEO
 http://akar13.xyz:8080/live/N2252734512/580502154198/313371.ts
 #EXTINF:-1 tvg-id="natgeowildhd.qa" tvg-name="AR+ | NAT GEO WILD " tvg-logo="" group-title="ARABIC+",AR+ | NAT GEO WILD
