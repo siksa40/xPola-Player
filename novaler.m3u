@@ -1,10 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 1 HD
 http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/15466.ts
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 1 HD
+https://deviantart.lovetier.bz/BEINSPORT1FR/index.m3u8?token=QkVJTlNQT1JUMUZSfG5vX2NoZWNrX2lwfDE3ODAzMjQ5MTI=.7489ba7dfec82b53f68ddea892237a6cf2c2e982495a4ea11cdd2d9f374ae8c5
 #EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 2 HD
 http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/27000.ts
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 2 HD
+https://deviantart.lovetier.bz/BEINSPORT2FR/index.m3u8?token=QkVJTlNQT1JUMkZSfG5vX2NoZWNrX2lwfDE3ODAzMjUwMjM=.234081238dc273ba8262ed5e54b12eefaf6a35617532e45ebdbf4a0cb9036eae
 #EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="FR | BEIN SPORT 3 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 3 HD
 http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/4208.ts
+#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="FR | BEIN SPORT 3 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 3 HD
+https://deviantart.lovetier.bz/BEINSPORT3FR/index.m3u8?token=QkVJTlNQT1JUM0ZSfG5vX2NoZWNrX2lwfDE3ODAzMjUxNDA=.853b72c30d1f595f72f7769d1162ace178f4475c999a2df7a41286ad184e7da0
 #EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+ 4K UHD" tvg-logo="http://aptvpix.net/picons/NEW2022/canalplus.png" group-title="FRANCE HD",CANAL+ 4K UHD
 http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/50.ts
 #EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="CANAL+ FOOT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalfoot.png" group-title="SPORT FR",CANAL+ FOOT FHD
