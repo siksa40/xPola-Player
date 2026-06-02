@@ -44,6 +44,9 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/novaler-bein.m3u
 https://raw.githubusercontent.com/raid35/channel-links/main/foot.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png", 
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/bein8k.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png", 
 https://raw.githubusercontent.com/raid35/channel-links/main/8K.m3u
 
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="ALWAN" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN",
