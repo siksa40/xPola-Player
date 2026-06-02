@@ -1,69 +1,141 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="|AR| BEIN SPORTS MAX 1 HD (50 FPS) (CAN 2025)" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.png?ver=03-06-2025" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS MAX 1 HD (50 FPS) (CAN 2025)
-http://r665.io:80/live/NvD6rrAehZ/Louise2014/112603.m3u8
-#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="|AR| BEIN SPORTS MAX 1 FHD (50 FPS) (CAN 2025)" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.png?ver=03-06-2025" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS MAX 1 FHD (50 FPS) (CAN 2025)
-http://r665.io:80/live/NvD6rrAehZ/Louise2014/112604.m3u8
-#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="|AR| BEIN SPORTS MAX 2 HD (50 FPS)(CAN 2025)" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS MAX 2 HD (50 FPS)(CAN 2025)
-http://r665.io:80/live/NvD6rrAehZ/Louise2014/112570.m3u8
-#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="|AR| BEIN SPORTS MAX 2 FHD (50 FPS) (CAN 2025)" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS MAX 2 FHD (50 FPS) (CAN 2025)
-http://r665.io:80/live/NvD6rrAehZ/Louise2014/112573.m3u8
-#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="|AR| BEIN SPORTS MAX 1 HD (50 FPS) (CAN 2025)" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.png?ver=03-06-2025" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS MAX 1 HD (50 FPS) (CAN 2025)
-http://r665.io:80/live/madescas/pxJWcTK/112603.m3u8
-#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="|AR| BEIN SPORTS MAX 1 FHD (50 FPS) (CAN 2025)" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.png?ver=03-06-2025" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS MAX 1 FHD (50 FPS) (CAN 2025)
-http://r665.io:80/live/madescas/pxJWcTK/112604.m3u8
-#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="|AR| BEIN SPORTS MAX 2 HD (50 FPS)(CAN 2025)" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS MAX 2 HD (50 FPS)(CAN 2025)
-http://r665.io:80/live/madescas/pxJWcTK/112570.m3u8
-#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="|AR| BEIN SPORTS MAX 2 FHD (50 FPS) (CAN 2025)" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS MAX 2 FHD (50 FPS) (CAN 2025)
-http://r665.io:80/live/madescas/pxJWcTK/112573.m3u8
-#EXTINF:-1 tvg-id="beINSportsMax4.qa" tvg-name="|AR| BEIN SPORTS MAX 4 HD (50 FPS) (CAN 2025)" tvg-logo="https://prod-media.beinsports.com/image/5878a7ab84fb43402106c575658472fa.png?ver=03-06-2025" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS MAX 4 HD (50 FPS) (CAN 2025)
-http://r665.io:80/live/madescas/pxJWcTK/112435.m3u8
-#EXTINF:-1 tvg-id="beINSportsMax4.qa" tvg-name="|AR| BEIN SPORTS MAX 4 FHD (50 FPS) (CAN 2025)" tvg-logo="https://prod-media.beinsports.com/image/5878a7ab84fb43402106c575658472fa.png?ver=03-06-2025" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS MAX 4 FHD (50 FPS) (CAN 2025)
-http://r665.io:80/live/madescas/pxJWcTK/112401.m3u8
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 HD (50 FPS)" tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 1 HD (50 FPS)
-http://r665.io:80/live/madescas/pxJWcTK/89259.m3u8
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="http://91.208.162.66/bsnew/bs1fhd.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 1 FHD (50 FPS)
-http://r665.io:80/live/madescas/pxJWcTK/112484.m3u8
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 HD (50 FPS)" tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 2 HD (50 FPS)
-http://r665.io:80/live/madescas/pxJWcTK/89263.m3u8
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 FHD (50 FPS)" tvg-logo="http://91.208.162.66/bsnew/bs2fhd.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 2 FHD (50 FPS)
-http://r665.io:80/live/madescas/pxJWcTK/112423.m3u8
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="|AR| BEIN SPORTS 3 HD (50 FPS)" tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 3 HD (50 FPS)
-http://r665.io:80/live/madescas/pxJWcTK/89265.m3u8
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="|AR| BEIN SPORTS 3 FHD (50 FPS)" tvg-logo="http://91.208.162.66/bsnew/bs3fhd.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 3 FHD (50 FPS)
-http://r665.io:80/live/madescas/pxJWcTK/112292.m3u8
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="|AR| BEIN SPORTS 4 HD (50 FPS)" tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 4 HD (50 FPS)
-http://r665.io:80/live/madescas/pxJWcTK/89264.m3u8
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="|AR| BEIN SPORTS 4 FHD (50 FPS)" tvg-logo="http://91.208.162.66/bsnew/bs4fhd.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 4 FHD (50 FPS)
-http://r665.io:80/live/madescas/pxJWcTK/112471.m3u8
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="|AR| BEIN SPORTS 5 HD (50 FPS)" tvg-logo="http://91.208.162.66/bsnew/bs5hd.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 5 HD (50 FPS)
-http://r665.io:80/live/madescas/pxJWcTK/112157.m3u8
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="|AR| BEIN SPORTS 5 FHD (50 FPS)" tvg-logo="http://91.208.162.66/bsnew/bs5fhd.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 5 FHD (50 FPS)
-http://r665.io:80/live/madescas/pxJWcTK/112323.m3u8
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS 6 HD (50 FPS)" tvg-logo="http://91.208.162.66/bsnew/bs6hd.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 6 HD (50 FPS)
-http://r665.io:80/live/madescas/pxJWcTK/112158.m3u8
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="|AR| BEIN SPORTS 6 FHD (50 FPS)" tvg-logo="http://91.208.162.66/bsnew/bs6fhd.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 6 FHD (50 FPS)
-http://r665.io:80/live/madescas/pxJWcTK/112148.m3u8
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 HD (50 FPS)" tvg-logo="http://91.208.162.66/bsnew/bs7hd.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 7 HD (50 FPS)
-http://r665.io:80/live/madescas/pxJWcTK/112159.m3u8
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="|AR| BEIN SPORTS 7 FHD (50 FPS)" tvg-logo="http://91.208.162.66/bsnew/bs7fhd.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 7 FHD (50 FPS)
-http://r665.io:80/live/madescas/pxJWcTK/112089.m3u8
-#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="|AR| BEIN SPORTS 8 HD (50 FPS)" tvg-logo="http://91.208.162.66/bsnew/bs8hd.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 8 HD (50 FPS)
-http://r665.io:80/live/madescas/pxJWcTK/112154.m3u8
-#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="|AR| BEIN SPORTS 8 FHD (50 FPS)" tvg-logo="http://91.208.162.66/bsnew/bs8fhd.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 8 FHD (50 FPS)
-http://r665.io:80/live/madescas/pxJWcTK/45545.m3u8
-#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="|AR| BEIN SPORTS 9 HD (50 FPS)" tvg-logo="http://91.208.162.66/bsnew/bs9hd.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 9 HD (50 FPS)
-http://r665.io:80/live/madescas/pxJWcTK/112156.m3u8
-#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="|AR| BEIN SPORTS 9 FHD (50 FPS)" tvg-logo="http://91.208.162.66/bsnew/bs9fhd.png" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS 9 FHD (50 FPS)
-http://r665.io:80/live/madescas/pxJWcTK/22393.m3u8
-#EXTINF:-1 tvg-id="BeinSportsExtra1.qa" tvg-name="|AR| BEIN SPORTS XTRA 1 HD (50 FPS)" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.png?ver=03-06-2025" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 1 HD (50 FPS)
-http://r665.io:80/live/madescas/pxJWcTK/42086.m3u8
-#EXTINF:-1 tvg-id="BeinSportsExtra2.qa" tvg-name="|AR| BEIN SPORTS XTRA 2 HD (50 FPS)" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 2 HD (50 FPS)
-http://r665.io:80/live/madescas/pxJWcTK/4418.m3u8
-#EXTINF:-1 tvg-name="|AR| BEIN SPORTS XTRA 3 FHD (50 FPS)" tvg-logo="https://prod-media.beinsports.com/image/dc1913d422398c25c5f0b81cab94cc87.png?ver=03-06-2025" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 3 FHD (50 FPS)
-http://r665.io:80/live/madescas/pxJWcTK/112160.m3u8
-#EXTINF:-1 tvg-name="|AR| BEIN SPORTS XTRA 4 FHD" tvg-logo="https://prod-media.beinsports.com/image/ca886eb9edb61a42256192745c72cd79.png?ver=03-06-2025" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 4 FHD
-http://r665.io:80/live/madescas/pxJWcTK/112302.m3u8
-#EXTINF:-1 tvg-name="|AR| BEIN SPORTS XTRA 5 FHD" tvg-logo="https://prod-media.beinsports.com/image/a1cb608a30fc2883eed0831dcf25f260.png?ver=03-06-2025" group-title="BEIN CONNECT ARABE ( LIVE ONLY )",|AR| BEIN SPORTS XTRA 5 FHD
-http://r665.io:80/live/madescas/pxJWcTK/112582.m3u8
-
-
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 1 HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49505.ts
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 2 HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49506.ts
+#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="FR | BEIN SPORT 3 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 3 HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49507.ts
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+ 4K UHD" tvg-logo="http://aptvpix.net/picons/NEW2022/canalplus.png" group-title="FRANCE HD",CANAL+ 4K UHD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49402.ts
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="CANAL+ FOOT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalfoot.png" group-title="SPORT FR",CANAL+ FOOT FHD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/80346.ts
+#EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="CANAL+ SPORT360 FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport360.png" group-title="SPORT FR",CANAL+ SPORT360 FHD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/80347.ts
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport.png" group-title="SPORT FR",CANAL+ SPORT FHD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/44200.ts
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
+http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/264297.ts
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
+http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/264298.ts
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 3 HD
+http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/264299.ts
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 4 HD
+http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/264300.ts
+#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 5 HD
+http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/264301.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
+https://jmp2.uk/stvp-FR200016Y5
+#EXTINF:-1 tvg-id="MotorvisionPlus.de@SD",Motorvision.tv (French)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA" tvg-logo="http://116.202.165.211:2021/logo/chn/2387.png" group-title="Français ",FR | CANAL+ CINEMA
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49403.ts
+#EXTINF:-1 tvg-id="canalpluskids.fr" tvg-name="CANAL+ KIDS HD " tvg-logo="http://aptvpix.net/pubs/2022/canalkids.png" group-title="FRANCE HD",CANAL+ KIDS HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49404.ts
+#EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/VgFbZDF.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/147426.ts
+#EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="CANAL+ GRAND ECRAN HD" tvg-logo="http://aptvpix.net/pubs/2022/canalgrandecran.png" group-title="FRANCE HD",CANAL+ GRAND ECRAN HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/154879.ts
+#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="CINE+ CLASSIC  HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/cineclassic.png" group-title="FRANCE HD",CINE+ CLASSIC  HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49412.ts
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="CINE+ EMOTION HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/cineemotion.png" group-title="FRANCE HD",CINE+ EMOTION HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49409.ts
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="CINE+ FAMILY HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/cinefamily.png" group-title="FRANCE HD",CINE+ FAMILY HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49414.ts
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="CINE+ FRISSON HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/cinedrisson.png" group-title="FRANCE HD",CINE+ FRISSON HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49410.ts
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="CINE+ FESTIVAL HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/cinefestival.png" group-title="FRANCE HD",CINE+ FESTIVAL HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49413.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | SÉRIE CLUB HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2489.png" group-title="Français ",FR | SÉRIE CLUB HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49444.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | PARAMOUNT DECALE HD" tvg-logo="http://116.202.165.211:2021/logo/chn/6881.png" group-title="Français ",FR | PARAMOUNT DECALE HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/154882.ts
+#EXTINF:-1 tvg-id="T18.fr@HD",T18 (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+#EXTINF:-1 group-title="Selection Sport",Paris Premiere HD (FHD)
+http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1.png" group-title="FRANCE HD",TF1 HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/14646.ts
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1series.png" group-title="FRANCE HD",TF1 SERIES FILMS HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/6742.ts
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tmc1.png" group-title="FRANCE HD",TMC HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/6740.ts
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tfx.png" group-title="FRANCE HD",TFX HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/6735.ts
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 HD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-FRANCEHD/FRANCE2.png" group-title="FRANCE HD",FRANCE 2 HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/6725.ts
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/france3.png" group-title="FRANCE HD",FRANCE 3 HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/6726.ts
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/france4.png" group-title="FRANCE HD",FRANCE 4 HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/6727.ts
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/france5.png" group-title="FRANCE HD",FRANCE 5 HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/6728.ts
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="http://aptvpix.net/pubs/december2020/2-27-2021/m6hd.png" group-title="FRANCE HD",M6 HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/6730.ts
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER HD" tvg-logo="http://aptvpix.net/picons/NEW2022/6ter.png" group-title="FRANCE HD",6TER HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/6734.ts
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/w9.png" group-title="FRANCE HD",W9 HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/6733.ts
+#EXTINF:-1 tvg-id="",Motus La Chaîne (1080p)
+https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="",Le Meilleur d'Arthur (1080p)
+https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="",Le Meilleur de la TV Realite (1080p)
+https://amg02393-awpg-amg02393c4-rakuten-uk-3886.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="",Les Anges (1080p)
+https://amg02393-awpg-amg02393c5-rakuten-uk-2463.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="",Les Z'Amours (1080p)
+https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-name="FR | TREK" tvg-logo="http://148.251.133.153:8181/logo/chn/2421.png" group-title="Français ",FR | TREK
+http://api.runso.me:8080/live/PCAPI1SM4IR6/61713611/77733.ts
+#EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="https://b.top4top.io/p_3746aag7y1.png" group-title="Français ",FR | travelxp
+https://travelxp-travelxp-4-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Français ",FR | naturetimeemea
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgfr/playlist.m3u8
+#EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="https://www.globalfreetv.com/logo.png" group-title="Français ",FR | myzenfr
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenfr-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="",Homicide la chaîne du fait divers (1080p)
+https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="",Les Secrets de Nos Régions (1080p)
+https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="CANAL+ DOCS HD " tvg-logo="http://aptvpix.net/pubs/2022/canaldocs.png" group-title="FRANCE HD",CANAL+ DOCS HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/154878.ts
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="ANIMAUX HD" tvg-logo="http://aptvpix.net/picons/NEW2022/animaux.png" group-title="FRANCE HD",ANIMAUX HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49200.ts
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="USHUAÏA TV HD" tvg-logo="http://aptvpix.net/picons/NEW2022/ushuaia1.png" group-title="FRANCE HD",USHUAÏA TV HD
+http://s1eed.store/live/9499781389/7742676539/404964.ts
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="CHASSE & PECHE HD" tvg-logo="http://aptvpix.net/picons/NEW2022/chasse.png" group-title="FRANCE HD",CHASSE & PECHE HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49211.ts
+#EXTINF:-1 tvg-id="ScienceEtVieTV.fr" tvg-name="SCIENCE & VIE TV HD" tvg-logo="http://aptvpix.net/picons/NEW2022/scienceandvie.png" group-title="FRANCE HD",SCIENCE & VIE TV HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49209.ts
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="SEASONS HD" tvg-logo="http://aptvpix.net/picons/NEW2022/seasons.png" group-title="FRANCE HD",SEASONS HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49214.ts
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="DISCOVERY HD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-SPAIN/DISCOVERYCHANNEL.png" group-title="FRANCE HD",DISCOVERY HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49197.ts
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/id.png" group-title="FRANCE HD",DISCOVERY INVESTIGATION HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49229.ts
+#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="NAT GEO WILD HD" tvg-logo="http://aptvpix.net/picons/NEW2022/nationalwild.png" group-title="FRANCE HD",NAT GEO WILD HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49199.ts
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="NAT GEO HD" tvg-logo="http://aptvpix.net/picons/NEW2022/national.png" group-title="FRANCE HD",NAT GEO HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49198.ts
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="PLANETE+ HD" tvg-logo="http://aptvpix.net/picons/NEW2022/planeteplus.png" group-title="FRANCE HD",PLANETE+ HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49201.ts
+#EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="PLANETE+ AVENTURE HD" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/planeteaventure.png" group-title="FRANCE HD",PLANETE+ AVENTURE HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49202.ts
+#EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="PLANETE+ CRIME HD" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/planetecrime.png" group-title="FRANCE HD",PLANETE+ CRIME HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49203.ts
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="HISTOIRE TV HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/histoiretv.png" group-title="FRANCE HD",HISTOIRE TV HD
+http://megastar06.xyz/live/687159048179/6813835cb731f.30173/49204.ts
+#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 4
+http://81637.org:2052/live/mohsentv1/mabrouk/336.ts
+#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 5
+http://81637.org:2052/live/mohsentv1/mabrouk/337.ts
+#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 6
+http://81637.org:2052/live/mohsentv1/mabrouk/338.ts
+#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 7" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 7
+http://81637.org:2052/live/mohsentv1/mabrouk/339.ts
+#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 8" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 8
+http://81637.org:2052/live/mohsentv1/mabrouk/340.ts
+#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 9" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 9
+http://81637.org:2052/live/mohsentv1/mabrouk/341.ts
+#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 10" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 10
+http://81637.org:2052/live/mohsentv1/mabrouk/342.ts
