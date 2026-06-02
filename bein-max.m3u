@@ -1,23 +1,26 @@
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1.png" group-title="TNT",TF1 HD
+http://megastar06.xyz:80/live/687159048179/6813835cb731f.30173/14646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TF1 FULHD" tvg-logo="" group-title="FRANCE TNT",TF1 FULHD
+http://megastar06.xyz:80/live/687159048179/6813835cb731f.30173/132465.m3u8
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="M6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/M6_2009.svg/1280px-M6_2009.svg.png" group-title="FRANCE TNT",M6 HD
+http://megastar06.xyz:80/live/687159048179/6813835cb731f.30173/6730.m3u8
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tmc1.png" group-title="TNT",TMC HD
+http://megastar06.xyz:80/live/687159048179/6813835cb731f.30173/6740.m3u8
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tfx.png" group-title="TNT",TFX HD
+http://megastar06.xyz:80/live/687159048179/6813835cb731f.30173/6735.m3u8
+#EXTINF:-1 tvg-id="w9.fr" tvg-name="W9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_W9_2018.svg/1200px-Logo_W9_2018.svg.png" group-title="FRANCE TNT",W9 HD
+http://megastar06.xyz:80/live/687159048179/6813835cb731f.30173/6733.m3u8
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="BEINSPORT 1 FR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" group-title="FRANCE SPORT",BEINSPORT 1 FR
+http://megastar06.xyz:80/live/687159048179/6813835cb731f.30173/49505.m3u8
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="BEINSPORT 2 FR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png" group-title="FRANCE SPORT",BEINSPORT 2 FR
+http://megastar06.xyz:80/live/687159048179/6813835cb731f.30173/49506.m3u8
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="BEINSPORT 3 FR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="FRANCE SPORT",BEINSPORT 3 FR
+http://megastar06.xyz:80/live/687159048179/6813835cb731f.30173/49507.m3u8
+#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.png?ver=03-06-2025" ,beIN SPORTS MAX 1
+http://megastar06.xyz:80/live/687159048179/6813835cb731f.30173/176320.m3u8
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.png?ver=03-06-2025" ,beIN SPORTS MAX 1
 http://pro.netmos.ovh:7355/live/31546503486949622/U09ZEDdu@6X!PeD/235529.ts
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.png?ver=03-06-2025" ,beIN SPORTS MAX 1
-http://akar13.xyz:8080/live/N2252734512/580502154198/460861.ts
+#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025",beIN SPORTS MAX 2
+http://megastar06.xyz:80/live/687159048179/6813835cb731f.30173/176321.m3u8
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025",beIN SPORTS MAX 2
 http://pro.netmos.ovh:7355/live/31546503486949622/U09ZEDdu@6X!PeD/235524.ts
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025",beIN SPORTS MAX 2
-http://akar13.xyz:8080/live/N2252734512/580502154198/460864.ts
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/ca886eb9edb61a42256192745c72cd79.png?ver=03-06-2025",beIN SPORTS MAX 5
-http://pro.netmos.ovh:7355/live/31546503486949622/U09ZEDdu@6X!PeD/235521.ts
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/ca886eb9edb61a42256192745c72cd79.png?ver=03-06-2025",beIN SPORTS MAX 5
-http://akar13.xyz:8080/live/N2252734512/580502154198/460873.ts
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/a1cb608a30fc2883eed0831dcf25f260.png?ver=03-06-2025",beIN SPORTS MAX 6
-http://pro.netmos.ovh:7355/live/31546503486949622/U09ZEDdu@6X!PeD/235522.ts
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/a1cb608a30fc2883eed0831dcf25f260.png?ver=03-06-2025",beIN SPORTS MAX 6
-http://akar13.xyz:8080/live/N2252734512/580502154198/460876.ts
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1.png" group-title="TNT",TF1 HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/4919.ts
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tmc1.png" group-title="TNT",TMC HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2371.ts
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tfx.png" group-title="TNT",TFX HD
-http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2367.ts
-
