@@ -1,30 +1,30 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bein-Drama-1" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/Drama_Stacked_nov_2024_200x200.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Drama-1
-http://pro.netmos.ovh:7355/live/31519314699440397/U09ZEDdu@6X!PeD/158923.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/12366.ts
 #EXTINF:-1 tvg-name="Bein-Movies-1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/BoxOffice1_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",BoxOffice_1
-http://pro.netmos.ovh:7355/live/31519314699440397/U09ZEDdu@6X!PeD/158955.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/183105.ts
 #EXTINF:-1 tvg-name="Bein-Movies-1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/BoxOffice2_DIGITAL_Mono.png.png" group-title="BeIN ⭐ Entertainment (FHD)",BoxOffice_2
-http://pro.netmos.ovh:7355/live/31519314699440397/U09ZEDdu@6X!PeD/158956.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/61099.ts
 #EXTINF:-1 tvg-name="Bein-Movies-1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-1
-http://pro.netmos.ovh:7355/live/31519314699440397/U09ZEDdu@6X!PeD/158917.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/10148.ts
 #EXTINF:-1 tvg-name="Bein-Movies-2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-2
-http://pro.netmos.ovh:7355/live/31519314699440397/U09ZEDdu@6X!PeD/158918.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/10150.ts
 #EXTINF:-1 tvg-name="Bein-Movies-3" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-3
-http://pro.netmos.ovh:7355/live/31519314699440397/U09ZEDdu@6X!PeD/158919.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/10151.ts
 #EXTINF:-1 tvg-name="Bein-Movies-4" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-4
-http://pro.netmos.ovh:7355/live/31519314699440397/U09ZEDdu@6X!PeD/158920.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/25476.ts
 #EXTINF:-1 tvg-name="beIN.SERIES 1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/SERIES1_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (265)",beIN.SERIES 1
-http://pro.netmos.ovh:7355/live/31519314699440397/U09ZEDdu@6X!PeD/158921.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/10152.ts
 #EXTINF:-1 tvg-name="beIN.SERIES 2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/SERIES2_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (265)",beIN.SERIES 2
-http://pro.netmos.ovh:7355/live/31519314699440397/U09ZEDdu@6X!PeD/158922.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/10153.ts
 #EXTINF:-1 tvg-name="Bein-Fatafeat" tvg-logo="http://tv.asc.vg/fatafeat.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Fatafeat
-http://pro.netmos.ovh:7355/live/31519314699440397/U09ZEDdu@6X!PeD/158926.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/96063.ts
 #EXTINF:-1 tvg-id="GOURMET DIGITAL.qa" tvg-name="beIN GOURMET" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/GOURMET_DIGITAL_Mono.png" group-title="BEIN MEDIA",beIN GOURMET
 http://pro.netmos.ovh:7355/live/31519314699440397/U09ZEDdu@6X!PeD/158944.ts
 #EXTINF:-1 tvg-id="TCM.sa" tvg-name="TCM" tvg-logo="https://i.ibb.co/kgTKVKB1/TCM.png" group-title="BEIN MEDIA",TCM
 http://8857.dgpls.net:2082/live/D0D0033DE4B8/v8574qz4n6/3241.ts
 #EXTINF:-1 tvg-name="Bein-BBC Earth" tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/BBCEarth-new_200x200.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-BBC Earth
-http://pro.netmos.ovh:7355/live/31519314699440397/U09ZEDdu@6X!PeD/96066.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/96066.ts
 #EXTINF:-1 tvg-logo="",OutDoor HD
 http://mu8.s9u8p7s6t5a4r.me/s/no.php?z=998&u=AHHbwNeU43&s=196511199971&id=1379&t=live&f=ts
 #EXTINF:-1 tvg-name="Bein-HGTV" tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/HGTV.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-HGTV
@@ -38,6 +38,6 @@ http://pro.netmos.ovh:7355/live/31519314699440397/U09ZEDdu@6X!PeD/158932.ts
 #EXTINF:-1 tvg-name="Bein-Nat Geo Wild" tvg-logo="http://tv.asc.vg/nat.geo.wild.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Nat Geo Wild
 http://pro.netmos.ovh:7355/live/31519314699440397/U09ZEDdu@6X!PeD/158929.ts
 #EXTINF:-1 tvg-name="Bein-Nat Geo" tvg-logo="http://tv.asc.vg/nat.geo.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Nat Geo
-http://pro.netmos.ovh:7355/live/31519314699440397/U09ZEDdu@6X!PeD/158928.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/96055.ts
 #EXTINF:-1 tvg-name="Bein-travel" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/0003_TCI_colour-Blue_UK2016.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-travel
 http://pro.netmos.ovh:7355/live/31519314699440397/U09ZEDdu@6X!PeD/158925.ts
