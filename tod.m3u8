@@ -1,37 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://evolut.tv/logo/AR/tod.png" ,tod 1
-http://tv-2026.info/live/jms7p1bu37ph8qwx/7fptfye869zg2y7a/270383.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://evolut.tv/logo/AR/tod.png" ,tod 2
-http://tv-2026.info/live/jms7p1bu37ph8qwx/7fptfye869zg2y7a/270384.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://evolut.tv/logo/AR/tod.png" ,tod 3
-http://tv-2026.info/live/jms7p1bu37ph8qwx/7fptfye869zg2y7a/270385.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://evolut.tv/logo/AR/tod.png" ,tod 4
-http://tv-2026.info/live/jms7p1bu37ph8qwx/7fptfye869zg2y7a/270386.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://evolut.tv/logo/AR/tod.png" ,tod 5
-http://tv-2026.info/live/jms7p1bu37ph8qwx/7fptfye869zg2y7a/270387.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://evolut.tv/logo/AR/tod.png" ,tod 6
-http://tv-2026.info/live/jms7p1bu37ph8qwx/7fptfye869zg2y7a/270388.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://evolut.tv/logo/AR/tod.png" ,tod 7
-http://tv-2026.info/live/jms7p1bu37ph8qwx/7fptfye869zg2y7a/270389.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://evolut.tv/logo/AR/tod.png" ,tod 8
-http://tv-2026.info/live/jms7p1bu37ph8qwx/7fptfye869zg2y7a/270390.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://evolut.tv/logo/AR/tod.png" ,tod 9
-http://tv-2026.info/live/jms7p1bu37ph8qwx/7fptfye869zg2y7a/270391.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://evolut.tv/logo/AR/tod.png" ,tod 10
-http://tv-2026.info/live/jms7p1bu37ph8qwx/7fptfye869zg2y7a/270754.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://evolut.tv/logo/AR/tod.png" ,tod 11
-http://tv-2026.info/live/jms7p1bu37ph8qwx/7fptfye869zg2y7a/270755.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://evolut.tv/logo/AR/tod.png" ,tod 12
-http://tv-2026.info/live/jms7p1bu37ph8qwx/7fptfye869zg2y7a/270756.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://evolut.tv/logo/AR/tod.png" ,tod 13
-http://tv-2026.info/live/jms7p1bu37ph8qwx/7fptfye869zg2y7a/274306.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://evolut.tv/logo/AR/tod.png" ,tod 14
-http://tv-2026.info/live/jms7p1bu37ph8qwx/7fptfye869zg2y7a/274307.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://evolut.tv/logo/AR/tod.png" ,tod 15
-http://tv-2026.info/live/jms7p1bu37ph8qwx/7fptfye869zg2y7a/274308.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://evolut.tv/logo/AR/tod.png" ,tod 16
-http://tv-2026.info/live/jms7p1bu37ph8qwx/7fptfye869zg2y7a/274309.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://evolut.tv/logo/AR/tod.png" ,tod 17
-http://tv-2026.info/live/jms7p1bu37ph8qwx/7fptfye869zg2y7a/274311.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://evolut.tv/logo/AR/tod.png" ,tod 18
-http://tv-2026.info/live/jms7p1bu37ph8qwx/7fptfye869zg2y7a/274310.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png" ,tod 1
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=2081913&extension=ts&play_token=mdHgzRt0eu
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png" ,tod 2
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=2081912&extension=ts&play_token=VsnGGohZaS
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png" ,tod 3
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=2081911&extension=ts&play_token=CYpYrC7kCD
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png" ,tod 4
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=2081910&extension=ts&play_token=7HecMRBzgP
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png" ,tod 5
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=2081909&extension=ts&play_token=tsEzAoohgv
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png" ,tod 6
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=2081908&extension=ts&play_token=xfgqRXLBvi
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png" ,tod 7
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=2081907&extension=ts&play_token=rMOgYHvLJW
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png" ,tod 8
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=2081906&extension=ts&play_token=f6UNthDW5A
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png" ,tod 9
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=2081905&extension=ts&play_token=R1HI8rMggG
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png" ,tod 10
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=2081904&extension=ts&play_token=Cr48rfiAX4
+
