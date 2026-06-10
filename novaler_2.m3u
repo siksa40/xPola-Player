@@ -1,50 +1,50 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 1 HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/57554.ts
-#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 2 HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8299.ts
-#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="FR | BEIN SPORT 3 HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 3 HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8300.ts
-#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+ 4K UHD" tvg-logo="http://aptvpix.net/picons/NEW2022/canalplus.png" group-title="FRANCE HD",CANAL+ 4K UHD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8000.ts
-#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="CANAL+ FOOT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalfoot.png" group-title="SPORT FR",CANAL+ FOOT FHD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8111.ts
-#EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="CANAL+ SPORT360 FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport360.png" group-title="SPORT FR",CANAL+ SPORT360 FHD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/25959.ts
-#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport.png" group-title="SPORT FR",CANAL+ SPORT FHD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8008.ts
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981173" group-title="SPORT FR",FR | BEIN SPORT 1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506552&extension=ts
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981183" group-title="SPORT FR",FR | BEIN SPORT 2 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506551&extension=ts
+#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="FR | BEIN SPORT 3 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981545" group-title="SPORT FR",FR | BEIN SPORT 3 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506550&extension=ts
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+ 4K UHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40052/canal-ouah/CHN43FN/CHN43FN_301_29082023" group-title="FRANCE HD",CANAL+ 4K UHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506635&extension=ts
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="CANAL+ FOOT FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40208/canal-ouah/CHN43FN/CHN43FN_19_29082023" group-title="SPORT FR",CANAL+ FOOT FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=1002837&extension=ts
+#EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="CANAL+ SPORT360 FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/83/canal-ouah/CHN43FN/CHN43FN_83_29082023" group-title="SPORT FR",CANAL+ SPORT360 FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=1002841&extension=ts
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40075/canal-ouah/CHN43FN/CHN43FN_177_29082023" group-title="SPORT FR",CANAL+ SPORT FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506557&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/52231.ts
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:7E:40:65&stream=355923&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
-http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/264298.ts
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:7E:40:65&stream=355924&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 3 HD
-http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/264299.ts
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:7E:40:65&stream=355925&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 4 HD
-http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/264300.ts
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:7E:40:65&stream=355926&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 5 HD
-http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/264301.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:7E:40:65&stream=355927&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44863403" group-title="Français ",FR | L'EQUIPE 21
 https://jmp2.uk/stvp-FR200016Y5
 #EXTINF:-1 tvg-id="MotorvisionPlus.de@SD",Motorvision.tv (French)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA" tvg-logo="http://116.202.165.211:2021/logo/chn/2387.png" group-title="Français ",FR | CANAL+ CINEMA
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8001.ts
-#EXTINF:-1 tvg-id="canalpluskids.fr" tvg-name="CANAL+ KIDS HD " tvg-logo="http://aptvpix.net/pubs/2022/canalkids.png" group-title="FRANCE HD",CANAL+ KIDS HD
-http://81637.org:2052/live/JelaudeVPL/JH9DHccvWR/53.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40011/canal-ouah/CHN43FN/CHN43FN_198_29082023" group-title="Français ",FR | CANAL+ CINEMA
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506612&extension=ts
+#EXTINF:-1 tvg-id="canalpluskids.fr" tvg-name="CANAL+ KIDS HD " tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40183/canal-ouah/CHN43FN/CHN43FN_259_29082023" group-title="FRANCE HD",CANAL+ KIDS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506611&extension=ts
 #EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/VgFbZDF.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/58335.ts
-#EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="CANAL+ GRAND ECRAN HD" tvg-logo="http://aptvpix.net/pubs/2022/canalgrandecran.png" group-title="FRANCE HD",CANAL+ GRAND ECRAN HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/58334.ts
-#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="CINE+ CLASSIC  HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/cineclassic.png" group-title="FRANCE HD",CINE+ CLASSIC  HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8009.ts
-#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="CINE+ EMOTION HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/cineemotion.png" group-title="FRANCE HD",CINE+ EMOTION HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8011.ts
-#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="CINE+ FAMILY HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/cinefamily.png" group-title="FRANCE HD",CINE+ FAMILY HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8012.ts
-#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="CINE+ FRISSON HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/cinedrisson.png" group-title="FRANCE HD",CINE+ FRISSON HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8013.ts
-#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="CINE+ FESTIVAL HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/cinefestival.png" group-title="FRANCE HD",CINE+ FESTIVAL HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/58346.ts
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=876361&extension=ts
+#EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="CANAL+ GRAND ECRAN HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/900/canal-ouah/CHN43FN/CHN43FN_900_29082023" group-title="FRANCE HD",CANAL+ GRAND ECRAN HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=863794&extension=ts
+#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="CINE+ CLASSIC  HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/531/canal-ouah/CHN43FN/CHN43FN_531_20240703-2TQN" group-title="FRANCE HD",CINE+ CLASSIC  HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506602&extension=ts
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="CINE+ EMOTION HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/396/canal-ouah/CHN43FN/CHN43FN_396_20240703-ziX9" group-title="FRANCE HD",CINE+ EMOTION HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506604&extension=ts
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="CINE+ FAMILY HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/533/canal-ouah/CHN43FN/CHN43FN_533_20240703-hEX8" group-title="FRANCE HD",CINE+ FAMILY HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506605&extension=ts
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="CINE+ FRISSON HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/398/canal-ouah/CHN43FN/CHN43FN_398_20240703--MGY" group-title="FRANCE HD",CINE+ FRISSON HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506606&extension=ts
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="CINE+ FESTIVAL HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/532/canal-ouah/CHN43FN/CHN43FN_532_20240703-kAx_" group-title="FRANCE HD",CINE+ FESTIVAL HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=1581693&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | SÉRIE CLUB HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2489.png" group-title="Français ",FR | SÉRIE CLUB HD
 http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/20030.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | PARAMOUNT DECALE HD" tvg-logo="http://116.202.165.211:2021/logo/chn/6881.png" group-title="Français ",FR | PARAMOUNT DECALE HD
@@ -53,28 +53,30 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTINF:-1 group-title="Selection Sport",Paris Premiere HD (FHD)
 http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1.png" group-title="FRANCE HD",TF1 HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8187.ts
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1series.png" group-title="FRANCE HD",TF1 SERIES FILMS HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8188.ts
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tmc1.png" group-title="FRANCE HD",TMC HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8191.ts
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tfx.png" group-title="FRANCE HD",TFX HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8189.ts
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 HD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-FRANCEHD/FRANCE2.png" group-title="FRANCE HD",FRANCE 2 HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8113.ts
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/france3.png" group-title="FRANCE HD",FRANCE 3 HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8114.ts
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/france4.png" group-title="FRANCE HD",FRANCE 4 HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8115.ts
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/france5.png" group-title="FRANCE HD",FRANCE 5 HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8116.ts
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="http://aptvpix.net/pubs/december2020/2-27-2021/m6hd.png" group-title="FRANCE HD",M6 HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/57479.ts
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER HD" tvg-logo="http://aptvpix.net/picons/NEW2022/6ter.png" group-title="FRANCE HD",6TER HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8076.ts
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/w9.png" group-title="FRANCE HD",W9 HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8205.ts
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66746746" group-title="FRANCE HD",TF1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=526153&extension=ts
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/526/canal-ouah/CHN43FN/CHN43FN_526_20251024--y7o" group-title="FRANCE HD",TF1 SERIES FILMS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=526143&extension=ts
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66747568" group-title="FRANCE HD",TMC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506628&extension=ts
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66747551" group-title="FRANCE HD",TFX HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=526142&extension=ts
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67032119" group-title="FRANCE HD",FRANCE 2 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=526152&extension=ts
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67033022" group-title="FRANCE HD",FRANCE 3 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=526151&extension=ts
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67033024" group-title="FRANCE HD",FRANCE 4 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=526150&extension=ts
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67033026" group-title="FRANCE HD",FRANCE 5 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=526149&extension=ts
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/313/canal-ouah/CHN43FN/CHN43FN_M6_20220415" group-title="FRANCE HD",M6 4k
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=526148&extension=ts
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/313/canal-ouah/CHN43FN/CHN43FN_M6_20220415" group-title="FRANCE HD",M6 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506633&extension=ts
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/521/canal-ouah/CHN43FN/CHN43FN_6TER_20220415" group-title="FRANCE HD",6TER HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=526144&extension=ts
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/296/canal-ouah/CHN43FN/CHN43FN_W9_20220415" group-title="FRANCE HD",W9 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=526146&extension=ts
 #EXTINF:-1 tvg-id="",Motus La Chaîne (1080p)
 https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="",Le Meilleur d'Arthur (1080p)
@@ -98,44 +100,44 @@ https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-f
 #EXTINF:-1 tvg-id="",Les Secrets de Nos Régions (1080p)
 https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="CANAL+ DOCS HD " tvg-logo="http://aptvpix.net/pubs/2022/canaldocs.png" group-title="FRANCE HD",CANAL+ DOCS HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/58336.ts
-#EXTINF:-1 tvg-id="animaux.fr" tvg-name="ANIMAUX HD" tvg-logo="http://aptvpix.net/picons/NEW2022/animaux.png" group-title="FRANCE HD",ANIMAUX HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8081.ts
-#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="USHUAÏA TV HD" tvg-logo="http://aptvpix.net/picons/NEW2022/ushuaia1.png" group-title="FRANCE HD",USHUAÏA TV HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8203.ts
-#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="CHASSE & PECHE HD" tvg-logo="http://aptvpix.net/picons/NEW2022/chasse.png" group-title="FRANCE HD",CHASSE & PECHE HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8100.ts
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=830357&extension=ts
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="ANIMAUX HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/54239442" group-title="FRANCE HD",ANIMAUX HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506523&extension=ts
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="USHUAÏA TV HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/142/canal-ouah/CHN43FN/CHN43FN_142_20211018" group-title="FRANCE HD",USHUAÏA TV HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506527&extension=ts
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="CHASSE & PECHE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44978855" group-title="FRANCE HD",CHASSE & PECHE HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506521&extension=ts
 #EXTINF:-1 tvg-id="ScienceEtVieTV.fr" tvg-name="SCIENCE & VIE TV HD" tvg-logo="http://aptvpix.net/picons/NEW2022/scienceandvie.png" group-title="FRANCE HD",SCIENCE & VIE TV HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8177.ts
-#EXTINF:-1 tvg-id="seasons.fr" tvg-name="SEASONS HD" tvg-logo="http://aptvpix.net/picons/NEW2022/seasons.png" group-title="FRANCE HD",SEASONS HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8178.ts
-#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="DISCOVERY HD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-SPAIN/DISCOVERYCHANNEL.png" group-title="FRANCE HD",DISCOVERY HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8017.ts
-#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/id.png" group-title="FRANCE HD",DISCOVERY INVESTIGATION HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8019.ts
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506524&extension=ts
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="SEASONS HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/577/canal-ouah/CHN43FN/CHN43FN_577_20231128-rzna" group-title="FRANCE HD",SEASONS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506522&extension=ts
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="DISCOVERY HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/174/canal-ouah/CHN43FN/CHN43FN_174_20240611-RzWh" group-title="FRANCE HD",DISCOVERY HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506519&extension=ts
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1098/canal-ouah/CHN43FN/CHN43FN_1098_20240611-gw0t" group-title="FRANCE HD",DISCOVERY INVESTIGATION HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506517&extension=ts
 #EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="NAT GEO WILD HD" tvg-logo="http://aptvpix.net/picons/NEW2022/nationalwild.png" group-title="FRANCE HD",NAT GEO WILD HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/58394.ts
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506528&extension=ts
 #EXTINF:-1 tvg-id="natgeo.fr" tvg-name="NAT GEO HD" tvg-logo="http://aptvpix.net/picons/NEW2022/national.png" group-title="FRANCE HD",NAT GEO HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/58395.ts
-#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="PLANETE+ HD" tvg-logo="http://aptvpix.net/picons/NEW2022/planeteplus.png" group-title="FRANCE HD",PLANETE+ HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8165.ts
-#EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="PLANETE+ AVENTURE HD" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/planeteaventure.png" group-title="FRANCE HD",PLANETE+ AVENTURE HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8166.ts
-#EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="PLANETE+ CRIME HD" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/planetecrime.png" group-title="FRANCE HD",PLANETE+ CRIME HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8167.ts
-#EXTINF:-1 tvg-id="histoire.fr" tvg-name="HISTOIRE TV HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/histoiretv.png" group-title="FRANCE HD",HISTOIRE TV HD
-http://neosfpoo.top:8080/live/ODAIRCABO77/SAL-CV2026/8123.ts
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506529&extension=ts
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="PLANETE+ HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/4492627" group-title="FRANCE HD",PLANETE+ HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506535&extension=ts
+#EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="PLANETE+ AVENTURE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/588/canal-ouah/CHN43FN/CHN43FN_588_120122" group-title="FRANCE HD",PLANETE+ AVENTURE HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506534&extension=ts
+#EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="PLANETE+ CRIME HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/587/canal-ouah/CHN43FN/CHN43FN_587_120122" group-title="FRANCE HD",PLANETE+ CRIME HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506533&extension=ts
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="HISTOIRE TV HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/550/canal-ouah/CHN43FN/CHN43FN_550_20211018" group-title="FRANCE HD",HISTOIRE TV HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506526&extension=ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 4
-http://81637.org:2052/live/mohsentv1/mabrouk/336.ts
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506653&extension=ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 5
-http://81637.org:2052/live/mohsentv1/mabrouk/337.ts
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506654&extension=ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 6
-http://81637.org:2052/live/mohsentv1/mabrouk/338.ts
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506655&extension=ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 7" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 7
-http://81637.org:2052/live/mohsentv1/mabrouk/339.ts
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506656&extension=ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 8" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 8
-http://81637.org:2052/live/mohsentv1/mabrouk/340.ts
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506657&extension=ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 9" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 9
-http://81637.org:2052/live/mohsentv1/mabrouk/341.ts
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506658&extension=ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 10" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 10
-http://81637.org:2052/live/mohsentv1/mabrouk/342.ts
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=506652&extension=ts
