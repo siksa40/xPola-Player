@@ -9,13 +9,13 @@ http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=925303&extension
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=925296&extension=ts&play_token=qnKeEIPP11
 #EXTINF:-1 tvg-id="alarabiya.sa" tvg-name="AR+ | a CINEMA 2" tvg-logo="http://aptvpix.net/pubs/2022/alphacinema2.png" group-title="ARABIC+",AR+ | a CINEMA 2
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=925295&extension=ts&play_token=BOms0EsoXk
-#EXTINF:-1 tvg-id="OSN Alfa Musalsalat 1 HD" tvg-name="AR+ | a MUSALSALAT " tvg-logo="http://aptvpix.net/pubs/2022/alphas.png" group-title="ARABIC+",AR+ | a MUSALSALAT
+#EXTINF:-1 tvg-id="OSN Alfa Musalsalat 1 HD" tvg-name="AR+ | a MUSALSALAT " tvg-logo="https://content.osn.com/logo/channel/cropped/SER.png" group-title="ARABIC+",AR+ | a MUSALSALAT
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=933601&extension=ts&play_token=St5jEr5ur5
-#EXTINF:-1 tvg-id="OSN Alfa Musalsalat 2 HDx" tvg-name="AR+ | a MUSALSALAT +2" tvg-logo="http://aptvpix.net/pubs/2022/alphas2.png" group-title="ARABIC+",AR+ | a MUSALSALAT +2
+#EXTINF:-1 tvg-id="OSN Alfa Musalsalat 2 HDx" tvg-name="AR+ | a MUSALSALAT +2" tvg-logo="https://content.osn.com/logo/channel/cropped/SE2.png" group-title="ARABIC+",AR+ | a MUSALSALAT +2
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=933602&extension=ts&play_token=ghYuRSPYQG
-#EXTINF:-1 tvg-id="alsafwa.sa" tvg-name="AR+ | a SAFWA" tvg-logo="http://aptvpix.net/pubs/2022/alphasafwa.png" group-title="ARABIC+",AR+ | a SAFWA
+#EXTINF:-1 tvg-id="alsafwa.sa" tvg-name="AR+ | a SAFWA" tvg-logo="https://content.osn.com/logo/channel/cropped/SAF.png" group-title="ARABIC+",AR+ | a SAFWA
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/179917.ts
-#EXTINF:-1 tvg-id="alyawm.sa" tvg-name="AR+ | a ALYAWM " tvg-logo="http://aptvpix.net/pubs/2022/alphayawm.png" group-title="ARABIC+",AR+ | a ALYAWM
+#EXTINF:-1 tvg-id="alyawm.sa" tvg-name="AR+ | a ALYAWM " tvg-logo="https://content.osn.com/logo/channel/cropped/YAW.png" group-title="ARABIC+",AR+ | a ALYAWM
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=933598&extension=ts&play_token=RtLmyF8PBz
 #EXTINF:-1 tvg-id="artaflam1.sa" tvg-name="AR+ | ART AFLAM 1" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ARTAFLAM1.png" group-title="ARABIC+",AR+ | ART AFLAM 1
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/179943.ts
@@ -45,19 +45,19 @@ http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=933630&extension
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/179909.ts
 #EXTINF:-1 tvg-id="osnmoviesfamilyae" tvg-name="AR+ | OSN MOVIES FAMILY " tvg-logo="https://content.osn.com/logo/channel/cropped/OFM.png" group-title="ARABIC+",AR+ | OSN MOVIES FAMILY
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=925280&extension=ts&play_token=plexxEoWec
-#EXTINF:-1 tvg-id="" tvg-name="AR+ | OSN PopUp CHANNEL" tvg-logo="" group-title="ARABIC+",AR+ | OSN PopUp CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="AR+ | OSN PopUp CHANNEL" tvg-logo="https://content.osn.com/logo/channel/cropped/POP.png" group-title="ARABIC+",AR+ | OSN PopUp CHANNEL
 http://8857.dgpls.net:2082/live/D0D0033DE4B8/v8574qz4n6/289292.ts
-#EXTINF:-1 tvg-id="history.sa" tvg-name="AR+ | History" tvg-logo="" group-title="ARABIC+",AR+ | History
+#EXTINF:-1 tvg-id="history.sa" tvg-name="AR+ | History" tvg-logo="https://content.osn.com/logo/channel/cropped/HIS.png" group-title="ARABIC+",AR+ | History
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=925276&extension=ts&play_token=FyWZUpQNZY
 #EXTINF:-1 tvg-id="" tvg-name="AR+ | HISTORY2" tvg-logo="" group-title="ARABIC+",AR+ | HISTORY2
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=933618&extension=ts&play_token=97L1b7G1FJ
-#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR+ | DISCOVERY " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-SPAIN/DISCOVERYCHANNEL.png" group-title="ARABIC+",AR+ | DISCOVERY
+#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR+ | DISCOVERY " tvg-logo="https://content.osn.com/logo/channel/cropped/DSC.png" group-title="ARABIC+",AR+ | DISCOVERY
 http://ottstreambox.xyz/live/abcdef/FkkL71MrIWYmMN/55157.ts
-#EXTINF:-1 tvg-id="discoveryscience.sa" tvg-name="AR+ | ID" tvg-logo="" group-title="ARABIC+",AR+ | ID
+#EXTINF:-1 tvg-id="discoveryscience.sa" tvg-name="AR+ | ID" tvg-logo="https://content.osn.com/logo/channel/cropped/DCX.png" group-title="ARABIC+",AR+ | ID
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/221162.ts
-#EXTINF:-1 tvg-id="bbcearthenglishar.qa" tvg-name="AR+ | ANIMAL PLANET " tvg-logo="" group-title="ARABIC+",AR+ | ANIMAL PLANET
+#EXTINF:-1 tvg-id="bbcearthenglishar.qa" tvg-name="AR+ | ANIMAL PLANET " tvg-logo="https://content.osn.com/logo/channel/cropped/APL.png" group-title="ARABIC+",AR+ | ANIMAL PLANET
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/221150.ts
-#EXTINF:-1 tvg-id="osnmezzeae" tvg-name="AR+ | Mezze" tvg-logo="" group-title="ARABIC+",AR+ | Mezze
+#EXTINF:-1 tvg-id="osnmezzeae" tvg-name="AR+ | Mezze" tvg-logo="https://content.osn.com/logo/channel/cropped/OMZ.png" group-title="ARABIC+",AR+ | Mezze
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=933619&extension=ts&play_token=swNgWdVPbm
 #EXTINF:-1 tvg-id="natgeo.qa" tvg-name="AR+ | NAT GEO" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-SPAIN/NATGEO.png" group-title="ARABIC+",AR+ | NAT GEO
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/67630.ts
