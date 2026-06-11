@@ -37,7 +37,7 @@ http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=925270&extension
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=933606&extension=ts&play_token=M8qhB0rxN5
 #EXTINF:-1 tvg-id="osnmoviesremiereen.ae" tvg-name="AR+ | OSN MOVIES PREMIERE " tvg-logo="https://content.osn.com/logo/channel/cropped/OM1.png" group-title="ARABIC+",AR+ | OSN MOVIES PREMIERE
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=925268&extension=ts&play_token=lCoLI5GYc1
-#EXTINF:-1 tvg-id="osnshowcaseae" tvg-name="AR+ | OSN SHOWCASE " tvg-logo="http://aptvpix.net/pubs/2022/osnshowcase.png" group-title="ARABIC+",AR+ | OSN SHOWCASE
+#EXTINF:-1 tvg-id="osnshowcaseae" tvg-name="AR+ | OSN SHOWCASE " tvg-logo="https://content.osn.com/logo/channel/cropped/OFH.png" group-title="ARABIC+",AR+ | OSN SHOWCASE
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=925260&extension=ts&play_token=jk8OYiBpYe
 #EXTINF:-1 tvg-id="OSN W HD_en" tvg-name="AR+ | OSN SHOWCASE CLASSICS " tvg-logo="https://content.osn.com/logo/channel/cropped/OST.png" group-title="ARABIC+",AR+ | OSN SHOWCASE CLASSICS
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=933630&extension=ts&play_token=IGAncUnhWw
