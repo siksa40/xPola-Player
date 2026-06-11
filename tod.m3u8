@@ -1,22 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png" ,tod 1
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=2081913&extension=ts&play_token=mdHgzRt0eu
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2081913&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png" ,tod 2
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=2081912&extension=ts&play_token=VsnGGohZaS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2081912&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png" ,tod 3
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=2081911&extension=ts&play_token=CYpYrC7kCD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2081911&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png" ,tod 4
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=2081910&extension=ts&play_token=7HecMRBzgP
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2081910&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png" ,tod 5
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=2081909&extension=ts&play_token=tsEzAoohgv
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2081909&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png" ,tod 6
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=2081908&extension=ts&play_token=xfgqRXLBvi
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2081908&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png" ,tod 7
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=2081907&extension=ts&play_token=rMOgYHvLJW
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2081907&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png" ,tod 8
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=2081906&extension=ts&play_token=f6UNthDW5A
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2081906&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png" ,tod 9
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=2081905&extension=ts&play_token=R1HI8rMggG
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2081905&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png" ,tod 10
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=2081904&extension=ts&play_token=Cr48rfiAX4
-
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2081904&extension=ts
