@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bein-Drama-1" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/Drama_Stacked_nov_2024_200x200.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Drama-1
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=1356721&extension=ts
-#EXTINF:-1 tvg-name="Bein-Movies-1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/BoxOffice1_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",BoxOffice_1
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/183105.ts
-#EXTINF:-1 tvg-name="Bein-Movies-1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/BoxOffice2_DIGITAL_Mono.png.png" group-title="BeIN ⭐ Entertainment (FHD)",BoxOffice_2
-http://pro.netmos.ovh:7355/li#EXTM3U
 #EXTINF:-1 tvg-id="osnyahalaaloulaen.ae" tvg-name="AR+ | OSN YA HALA BIL ARABY " tvg-logo="https://content.osn.com/logo/channel/cropped/OYA.png" group-title="ARABIC+",AR+ | OSN YA HALA BIL ARABY
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=925302&extension=ts&play_token=PQd9rPfxJZ
 #EXTINF:-1 tvg-id="osnyahalaae" tvg-name="AR+ | OSN Ya HALA " tvg-logo="https://content.osn.com/logo/channel/cropped/OYH.png" group-title="ARABIC+",AR+ | OSN Ya HALA
