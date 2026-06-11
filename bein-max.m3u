@@ -47,6 +47,10 @@ http://neosfpoo.top:8080/live/6731771275662/6e88cf51564c/8300.ts
 #EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="BEINSPORT 3 FR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="FRANCE SPORT",BEINSPORT 3 FR
 http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/4208.ts
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png?ver=03-06-2025",beIN SPORTS MAX 1
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=2085728&extension=ts
+http://81637.org:2052/live/dingolove/777333111/312622.ts
+#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png?ver=03-06-2025",beIN SPORTS MAX 1
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2085728&extension=ts
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025",beIN SPORTS MAX 2
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:AB:BA:55&stream=2085725&extension=ts
+http://81637.org:2052/live/dingolove/777333111/312623.ts
+#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025",beIN SPORTS MAX 2
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2085725&extension=ts
