@@ -45,13 +45,13 @@ http://81637.org:2052/live/849DkFCxfy36/DQPHD3qsRBPV/141026.ts
 http://81637.org:2052/live/849DkFCxfy36/DQPHD3qsRBPV/141027.ts
 #EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="CINE+ FESTIVAL HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/532/canal-ouah/CHN43FN/CHN43FN_532_20240703-kAx_" group-title="FRANCE HD",CINE+ FESTIVAL HD
 http://81637.org:2052/live/849DkFCxfy36/DQPHD3qsRBPV/141024.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | SÉRIE CLUB HD" tvg-logo="http://116.202.165.211:2021/logo/chn/2489.png" group-title="Français ",FR | SÉRIE CLUB HD
+#EXTINF:-1 tvg-id="" tvg-name="FR | SÉRIE CLUB HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/19132964" group-title="Français ",FR | SÉRIE CLUB HD
 http://81637.org:2052/live/849DkFCxfy36/DQPHD3qsRBPV/222.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | PARAMOUNT DECALE HD" tvg-logo="http://116.202.165.211:2021/logo/chn/6881.png" group-title="Français ",FR | PARAMOUNT DECALE HD
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 #EXTINF:-1 tvg-id="t18.fr" tvg-name="parispremierere HD" tvg-logo="https://cdn.t18.fr/build/static/images/logos/t18.svg" group-title="FRANCE HD",t18 HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="parispremierere HD" tvg-logo="https://assets-bundle.6cloud.fr/m6/24/svg-sprite/marginless.svg#parispremierereplay" group-title="FRANCE HD",parispremierere HD
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="parispremierere HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/40081/canal-ouah/CHN43FN/CHN43FN__Paris_Premiere_20220415" group-title="FRANCE HD",parispremierere HD
 http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66746746" group-title="FRANCE HD",TF1 HD
 http://81637.org:2052/live/849DkFCxfy36/DQPHD3qsRBPV/20070.ts
@@ -106,7 +106,7 @@ http://81637.org:2052/live/849DkFCxfy36/DQPHD3qsRBPV/218.ts
 http://81637.org:2052/live/849DkFCxfy36/DQPHD3qsRBPV/206.ts
 #EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="CHASSE & PECHE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44978855" group-title="FRANCE HD",CHASSE & PECHE HD
 http://81637.org:2052/live/849DkFCxfy36/DQPHD3qsRBPV/6459.ts
-#EXTINF:-1 tvg-id="ScienceEtVieTV.fr" tvg-name="SCIENCE & VIE TV HD" tvg-logo="http://aptvpix.net/picons/NEW2022/scienceandvie.png" group-title="FRANCE HD",SCIENCE & VIE TV HD
+#EXTINF:-1 tvg-id="ScienceEtVieTV.fr" tvg-name="SCIENCE & VIE TV HD" tvg-logo="https://www.science-et-vie.tv/upload/media/svtv-600af7be54ccb.png" group-title="FRANCE HD",SCIENCE & VIE TV HD
 http://81637.org:2052/live/849DkFCxfy36/DQPHD3qsRBPV/15318.ts
 #EXTINF:-1 tvg-id="seasons.fr" tvg-name="SEASONS HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/577/canal-ouah/CHN43FN/CHN43FN_577_20231128-rzna" group-title="FRANCE HD",SEASONS HD
 http://81637.org:2052/live/849DkFCxfy36/DQPHD3qsRBPV/4212.ts
@@ -114,9 +114,9 @@ http://81637.org:2052/live/849DkFCxfy36/DQPHD3qsRBPV/4212.ts
 http://81637.org:2052/live/849DkFCxfy36/DQPHD3qsRBPV/15477.ts
 #EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1098/canal-ouah/CHN43FN/CHN43FN_1098_20240611-gw0t" group-title="FRANCE HD",DISCOVERY INVESTIGATION HD
 http://81637.org:2052/live/849DkFCxfy36/DQPHD3qsRBPV/15450.ts
-#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="NAT GEO WILD HD" tvg-logo="http://aptvpix.net/picons/NEW2022/nationalwild.png" group-title="FRANCE HD",NAT GEO WILD HD
+#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="NAT GEO WILD HD" tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/2012/Images/Main/natgeowild.png" group-title="FRANCE HD",NAT GEO WILD HD
 http://81637.org:2052/live/849DkFCxfy36/DQPHD3qsRBPV/6445.ts
-#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="NAT GEO HD" tvg-logo="http://aptvpix.net/picons/NEW2022/national.png" group-title="FRANCE HD",NAT GEO HD
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="NAT GEO HD" tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/2012/Images/Main/natgeo.png" group-title="FRANCE HD",NAT GEO HD
 http://81637.org:2052/live/849DkFCxfy36/DQPHD3qsRBPV/19877.ts
 #EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="PLANETE+ HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/4492627" group-title="FRANCE HD",PLANETE+ HD
 http://81637.org:2052/live/849DkFCxfy36/DQPHD3qsRBPV/4644.ts
