@@ -1,21 +1,9 @@
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | ENTV HD" tvg-logo="http://atlaspro.to:80/images/1fe5c0f76edf1698bbc2332f112e41c0.png" group-title="ALGERIA",DZ | ENTV HD
 http://desyra.co/live/dipak_25/429502/319320.ts
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66746746" group-title="FRANCE HD",TF1 HD
-http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/251250.ts
 #EXTINF:-1 tvg-id="m6.fr" tvg-name="M6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/M6_2009.svg/1280px-M6_2009.svg.png" group-title="FRANCE TNT",M6 HD
 http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/251251.ts
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66747568" group-title="FRANCE HD",TMC HD
-http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/251652.ts
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66747551" group-title="FRANCE HD",TFX HD
-http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/251266.ts
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/296/canal-ouah/CHN43FN/CHN43FN_W9_20220415" group-title="FRANCE HD",W9
-http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/251259.ts
 #EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="BEINSPORT 1 FR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" group-title="FRANCE SPORT",BEINSPORT 1 FR
 http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/261661.ts
-#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="BEINSPORT 2 FR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png" group-title="FRANCE SPORT",BEINSPORT 2 FR
-http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/261662.ts
-#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="BEINSPORT 3 FR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="FRANCE SPORT",BEINSPORT 3 FR
-http://81637.org:2052/live/araAmGKm94u5/Y9DAeC4QH5Cp/4208.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR BEIN SPORTS HD",AR ALWAN SPORT 1 HD
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=1859092&extension=ts
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png?ver=03-06-2025",beIN SPORTS MAX 1
@@ -28,6 +16,8 @@ http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2085730&extensio
 http://81637.org:2052/live/849DkFCxfy36/DQPHD3qsRBPV/302.ts
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025",beIN SPORTS MAX 2
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2085729&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1 HD" tvg-logo="https://tvepg.eu/img/albania/logo/supersport-1.webp", SUPER SPORT 1
+http://93.93.113.95:25461/live/TV-Berati/XtreamCodes/495.m3u8
 #EXTINF:-1 tvg-id="tvp-sport"" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/tvp-sport.png" group-title="WORLD SPORTS",TVP Sport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"95620bdd974041409d4674ab629e22d4":"c6c226ca1689f528a6f91e86da618f64","181c091002d04c5481c3faab18752843":"b081b6169351e0f4bfc40212dfeeed10","1163925b6b37434198130f773bc62841":"e2bdd2b87e1ddb502eb7898daece857f"}
