@@ -10,6 +10,10 @@ http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/255235.m3u8
 http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/18321.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR BEIN SPORTS HD",AR ALWAN SPORT 1 HD
 https://13cup.s3.us-east-2.amazonaws.com/max1/max1_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.top4top.io/p_38223stng1.jpg" group-title="AR BEIN SPORTS HD",AR post sport 1 HD
+http://palestine.vibertv.cyou:80/post1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.top4top.io/p_38223stng1.jpg" group-title="AR BEIN SPORTS HD",AR post sport 2 HD
+http://palestine.vibertv.cyou:80/post2/index.m3u8
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/8f53295a73878494e9bc8dd6c3c7104f.128.png?ver=03-06-2025",beIN SPORTS MAX 1 4k
 http://tv.business-cdn-8k.com/live/77c1245c17bd/49bf327067/2023294.ts
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png?ver=03-06-2025",beIN SPORTS MAX 1
