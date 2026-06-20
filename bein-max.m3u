@@ -1,15 +1,15 @@
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | ENTV HD" tvg-logo="http://atlaspro.to:80/images/1fe5c0f76edf1698bbc2332f112e41c0.png" group-title="ALGERIA",DZ | ENTV HD
 http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/70316.m3u8
 #EXTINF:-1 tvg-id="m6.fr" tvg-name="M6 HD" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.3yCnEqL3vfDK2GUTdqq90QHaHa?pid=Api&h=220&P=0" group-title="FRANCE TNT",M6 4K
-http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/136871.m3u8
+http://kanwat1.xyz:8080/94748049499/625256262633/361511
 #EXTINF:-1 tvg-id="m6.fr" tvg-name="M6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/M6_2009.svg/1280px-M6_2009.svg.png" group-title="FRANCE TNT",M6 HD
 http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/8432.ts
 #EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="BEINSPORT 1 FR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" group-title="FRANCE SPORT",BEINSPORT 1 FR
-http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/255235.m3u8
+http://kanwat1.xyz:8080/94748049499/625256262633/387939
 #EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="BEINSPORT 1 FR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" group-title="FRANCE SPORT",BEINSPORT 1 FR
 http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/18321.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR BEIN SPORTS HD",AR ALWAN SPORT 1 HD
-https://13cup.s3.us-east-2.amazonaws.com/max1/max1_1080p/index.m3u8
+http://kanwat1.xyz:8080/94748049499/625256262633/418111
 #EXTINF:-1 tvg-logo="https://i.top4top.io/p_38223stng1.jpg" group-title="AR BEIN SPORTS HD",AR post sport 1 HD
 http://palestine.vibertv.cyou:80/post1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.top4top.io/p_38223stng1.jpg" group-title="AR BEIN SPORTS HD",AR post sport 2 HD
@@ -19,7 +19,7 @@ http://tv.business-cdn-8k.com/live/77c1245c17bd/49bf327067/2023294.ts
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png?ver=03-06-2025",beIN SPORTS MAX 1
 http://h42.reelpush.online/live/610303030/index.m3u8
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png?ver=03-06-2025",beIN SPORTS MAX 1
-https://live.kooraa8.cfd/tooore1.m3u8
+http://kanwat1.xyz:8080/94748049499/625256262633/460862
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png?ver=03-06-2025",beIN SPORTS MAX 1
 https://s3.us-east-2.amazonaws.com/cdnh124/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png?ver=03-06-2025",beIN SPORTS MAX 1
