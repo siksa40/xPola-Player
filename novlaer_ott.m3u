@@ -83,7 +83,4 @@ https://raw.githubusercontent.com/raid35/channel-links/main/Rakuten.m3u
 https://github.com/raid35/channel-links/raw/main/movies.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="قنوات رياضية" tvg-logo="https://i.top4top.io/p_3740rzbk81.png",  
-https://raw.githubusercontent.com/Nur-allhi/EftyTV.m3u/main/NurspublicCollection.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="قنوات رياضية" tvg-logo="https://i.top4top.io/p_3740rzbk81.png",  
-https://huggingface.co/spaces/mmsubandmovies/New1/resolve/main/DENSTV.m3u8
+https://raw.githubusercontent.com/sarsx3/tv-api/main/channels.json
