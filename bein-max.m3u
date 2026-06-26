@@ -5,7 +5,7 @@ http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/156591.ts
 #EXTINF:-1 tvg-id="m6.fr" tvg-name="M6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/M6_2009.svg/1280px-M6_2009.svg.png" group-title="FRANCE TNT",M6 HD
 http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:8E:27:87&stream=1972426&extension=ts
 #EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="BEINSPORT 1 FR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" group-title="FRANCE SPORT",BEINSPORT 1 FR
-http://h42.reelpush.online/live/69854211/index.m3u8
+http://h42.reelpush.online/live/645587700/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981173" group-title="SPORT FR",FR | BEIN SPORT 1 HD
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/399.ts
 #EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981183" group-title="SPORT FR",FR | BEIN SPORT 2 HD
@@ -13,11 +13,11 @@ http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/396.ts
 #EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="BEINSPORT 1 FR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" group-title="FRANCE SPORT",BEINSPORT 1 FR
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR BEIN SPORTS HD",AR ALWAN SPORT 1 HD
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/o9rGbR6FGRnW2kvzC751ILJEq1TJveCBSOnLUsnogRYSSDxenc8Aiv-UflFjMuAZf1KSYahBVfR6WQ1-srqqnA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_playlist.m3u8?type=live
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181660.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR BEIN SPORTS HD",AR ALWAN SPORT 2 HD
-http://line.ottcst.org/live/EYDGKBYBMD/RYHNFTVNJB/1742794.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181663.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR BEIN SPORTS HD",AR ALWAN SPORT 3 HD
-http://line.ottcst.org/live/EYDGKBYBMD/RYHNFTVNJB/1742791.ts
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181666.ts
 #EXTINF:-1 tvg-logo="https://i.top4top.io/p_38223stng1.jpg" group-title="AR BEIN SPORTS HD",AR post sport 1 HD
 https://kogafile.com/proxy18/proxy.php?url=https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/U-pnj6YO6XvmBGzLUqIzYrlL-4yqyVb2JLe2-ypAr-5qOU_FkjTExDiBX869GTQN3VrvCCVcRdt5y5ljwbYZeA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_playlist.m3u8?type=live
 #EXTINF:-1 tvg-logo="https://i.top4top.io/p_38223stng1.jpg" group-title="AR BEIN SPORTS HD",AR post sport 2 HD
