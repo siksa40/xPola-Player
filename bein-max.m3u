@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | ENTV HD" tvg-logo="http://atlaspro.to:80/images/1fe5c0f76edf1698bbc2332f112e41c0.png" group-title="ALGERIA",DZ | ENTV HD
-http://line.ottcst.org/live/EYDGKBYBMD/RYHNFTVNJB/10453.ts
+http://max.rksuper.com/live/0526580016A13/597982698308/486568.ts
 #EXTINF:-1 tvg-id="m6.fr" tvg-name="M6 HD" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.3yCnEqL3vfDK2GUTdqq90QHaHa?pid=Api&h=220&P=0" group-title="FRANCE TNT",M6 4K
 http://line.ottcst.org/live/EYDGKBYBMD/RYHNFTVNJB/12915.ts
 #EXTINF:-1 tvg-id="m6.fr" tvg-name="M6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/M6_2009.svg/1280px-M6_2009.svg.png" group-title="FRANCE TNT",M6 HD
@@ -25,6 +25,8 @@ http://line.ottcst.org/live/EYDGKBYBMD/RYHNFTVNJB/1766245.ts
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/8f53295a73878494e9bc8dd6c3c7104f.128.png?ver=03-06-2025",beIN SPORTS MAX 1 4k
 https://live-aburayhan1109.telewebion.ir/ek/faratar/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/8f53295a73878494e9bc8dd6c3c7104f.128.png?ver=03-06-2025",beIN SPORTS MAX 1 4k
+https://live20.bozztv.com/giatv/giatv-spi_sports_hd/spi_sports_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/8f53295a73878494e9bc8dd6c3c7104f.128.png?ver=03-06-2025",beIN SPORTS MAX 1 4k
 https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/rSh8WpNSVxuopiAUYzCuolwCe73vh8oJnk50pbsfAPax5VcbHOSuNprRxZWFrNTtExsNbMkYj_ytZ00RwVfeEA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_playlist.m3u8?type=live
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png?ver=03-06-2025",beIN SPORTS MAX 1
 http://h42.reelpush.online/live/610303030/index.m3u8
@@ -42,6 +44,10 @@ http://line.ottcst.org/live/EYDGKBYBMD/RYHNFTVNJB/1766244.ts
 http://h42.reelpush.online/live/1515000000/index.m3u8
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025",beIN SPORTS MAX 2
 http://line.ottcst.org/live/EYDGKBYBMD/RYHNFTVNJB/1771010.ts
+#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png?ver=03-06-2025",beIN SPORTS MAX 3
+http://asmrasmr.live:8080/live/39495727290/01928238338/1295247.ts
+#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png?ver=03-06-2025",beIN SPORTS MAX 4
+http://asmrasmr.live:8080/live/39495727290/01928238338/1295249.ts
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU |[RS] ARENA SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/960px-Fox_Broadcasting_Company_logo_%282019%29.svg.png", Fox
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 tvg-id="tvp-sport"" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/tvp-sport.png" group-title="WORLD SPORTS",TVP Sport
