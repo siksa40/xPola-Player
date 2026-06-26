@@ -47,8 +47,6 @@ https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/TmwKAD8B_2zZH8AK_
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025",beIN SPORTS MAX 2
 http://line.ottcst.org/live/EYDGKBYBMD/RYHNFTVNJB/1766244.ts
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025",beIN SPORTS MAX 2
-http://h42.reelpush.online/live/1515000000/index.m3u8
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025",beIN SPORTS MAX 2
 http://line.ottcst.org/live/EYDGKBYBMD/RYHNFTVNJB/1771010.ts
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU |[RS] ARENA SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/960px-Fox_Broadcasting_Company_logo_%282019%29.svg.png", Fox
 http://84.17.50.102/fox/index.m3u8
