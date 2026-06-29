@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="STC Sports 1" tvg-logo="http://tv.asc.vg/stc.sports1.stc.png" group-title="STC",STC Sports 1
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2079517&extension=ts
+http://raztv.online/live/MAGNL39E26/hvhS6xsuZP/1056489.ts
 #EXTINF:-1 tvg-name="STC Sports 2" tvg-logo="http://tv.asc.vg/stc.sports2.stc.png" group-title="STC",STC Sports 2
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2079516&extension=ts
+http://raztv.online/live/MAGNL39E26/hvhS6xsuZP/1056490.ts
 #EXTINF:-1 tvg-name="STC Cinema" tvg-logo="http://tv.asc.vg/stc.cinema.stc.png" group-title="STC",STC Cinema
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2079503&extension=ts
 #EXTINF:-1 tvg-name="STC Drama" tvg-logo="http://tv.asc.vg/stc.drama.stc.png" group-title="STC",STC Drama
