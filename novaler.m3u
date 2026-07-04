@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981173" group-title="SPORT FR",FR | BEIN SPORT 1 HD
-http://coyora.cc/live/9J0T9739PL68511/XngxmSKmzE/56655.ts
+http://coyora.cc/live/9J0T9739PL68511/XngxmSKmzE/56655.m3u8
 #EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981183" group-title="SPORT FR",FR | BEIN SPORT 2 HD
-http://coyora.cc/live/9J0T9739PL68511/XngxmSKmzE/56654.ts
+http://coyora.cc/live/9J0T9739PL68511/XngxmSKmzE/56654.m3u8
 #EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="FR | BEIN SPORT 3 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981545" group-title="SPORT FR",FR | BEIN SPORT 3 HD
-http://coyora.cc/live/9J0T9739PL68511/XngxmSKmzE/56653.ts
+http://coyora.cc/live/9J0T9739PL68511/XngxmSKmzE/56653.m3u8
 #EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+ 4K UHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40052/canal-ouah/CHN43FN/CHN43FN_301_29082023" group-title="FRANCE HD",CANAL+ 4K UHD
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/179.ts
 #EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="CANAL+ FOOT FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40208/canal-ouah/CHN43FN/CHN43FN_19_29082023" group-title="SPORT FR",CANAL+ FOOT FHD
