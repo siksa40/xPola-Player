@@ -14,15 +14,15 @@ http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/311207.ts
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40075/canal-ouah/CHN43FN/CHN43FN_177_29082023" group-title="SPORT FR",CANAL+ SPORT FHD
 http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/56644.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:8e:27:87&stream=1421486&extension=ts
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:D0:84:26&stream=293306&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:8e:27:87&stream=1421487&extension=ts
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:D0:84:26&stream=293307&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 3 HD
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:8e:27:87&stream=1421488&extension=ts
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:D0:84:26&stream=293308&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 4 HD
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:8e:27:87&stream=1421489&extension=ts
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:D0:84:26&stream=293309&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 5 HD
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:8e:27:87&stream=1421490&extension=ts
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:D0:84:26&stream=293310&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44863403" group-title="Français ",FR | L'EQUIPE 21
 https://jmp2.uk/stvp-FR200016Y5
 #EXTINF:-1 tvg-id="MotorvisionPlus.de@SD",Motorvision.tv (French)
@@ -98,31 +98,31 @@ http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/285950.ts
 #EXTINF:-1 tvg-name="FR | TREK" tvg-logo="http://148.251.133.153:8181/logo/chn/2421.png" group-title="Français ",FR | TREK
 http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/56983.ts
 #EXTINF:-1 tvg-id="animaux.fr" tvg-name="ANIMAUX HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/54239442" group-title="FRANCE HD",ANIMAUX HD
-http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/57096.ts
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:D0:84:26&stream=106923&extension=ts
 #EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="USHUAÏA TV HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/142/canal-ouah/CHN43FN/CHN43FN_142_20211018" group-title="FRANCE HD",USHUAÏA TV HD
-http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/56924.ts
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:D0:84:26&stream=106982&extension=ts
 #EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="CHASSE & PECHE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44978855" group-title="FRANCE HD",CHASSE & PECHE HD
-http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/57091.ts
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:D0:84:26&stream=106927&extension=ts
 #EXTINF:-1 tvg-id="ScienceEtVieTV.fr" tvg-name="SCIENCE & VIE TV HD" tvg-logo="https://www.science-et-vie.tv/upload/media/svtv-600af7be54ccb.png" group-title="FRANCE HD",SCIENCE & VIE TV HD
-http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/57082.ts
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:D0:84:26&stream=207206&extension=ts
 #EXTINF:-1 tvg-id="seasons.fr" tvg-name="SEASONS HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/577/canal-ouah/CHN43FN/CHN43FN_577_20231128-rzna" group-title="FRANCE HD",SEASONS HD
 http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/57081.ts
 #EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="DISCOVERY HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/174/canal-ouah/CHN43FN/CHN43FN_174_20240611-RzWh" group-title="FRANCE HD",DISCOVERY HD
-http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/329874.ts
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:D0:84:26&stream=106941&extension=ts
 #EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1098/canal-ouah/CHN43FN/CHN43FN_1098_20240611-gw0t" group-title="FRANCE HD",DISCOVERY INVESTIGATION HD
-http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/57059.ts
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:D0:84:26&stream=106942&extension=ts
 #EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="NAT GEO WILD HD" tvg-logo="https://i5.satexpat.com/cha/nl/nat-geo-wild-95x34.png" group-title="FRANCE HD",NAT GEO WILD HD
-http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/57088.ts
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:D0:84:26&stream=106958&extension=ts
 #EXTINF:-1 tvg-id="natgeo.fr" tvg-name="NAT GEO HD" tvg-logo="https://i5.satexpat.com/cha/be/nat-geo-95x25.png" group-title="FRANCE HD",NAT GEO HD
-http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/57079.ts
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:D0:84:26&stream=207195&extension=ts
 #EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="PLANETE+ HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/4492627" group-title="FRANCE HD",PLANETE+ HD
-http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/57095.ts
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:D0:84:26&stream=220847&extension=ts
 #EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="PLANETE+ AVENTURE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/588/canal-ouah/CHN43FN/CHN43FN_588_120122" group-title="FRANCE HD",PLANETE+ AVENTURE HD
 http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/57083.ts
 #EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="PLANETE+ CRIME HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/587/canal-ouah/CHN43FN/CHN43FN_587_120122" group-title="FRANCE HD",PLANETE+ CRIME HD
 http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/57062.ts
 #EXTINF:-1 tvg-id="histoire.fr" tvg-name="HISTOIRE TV HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/550/canal-ouah/CHN43FN/CHN43FN_550_20211018" group-title="FRANCE HD",HISTOIRE TV HD
-http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/62676.ts
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:D0:84:26&stream=107019&extension=ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 4
 http://line.ottcst.org/live/EYDGKBYBMD/RYHNFTVNJB/12602.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 5
