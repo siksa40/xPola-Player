@@ -1,63 +1,63 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="TN:ALFITNA" tvg-logo="http://im.challenge.tn/tunisie/fitna.jpg" group-title="TUNISIE*",TN:ALFITNA
-http://s1.iptv-chal.net:2052/live/t5fus4VRzdAW/RsHeAhYzC9sn/6.ts
+http://81637.org:2052/live/t5fus4VRzdAW/RsHeAhYzC9sn/6.ts
 #EXTINF:-1 tvg-name="TN:WATANIA1*" tvg-logo="http://im.challenge.tn/tunisie/watania1.png" group-title="TUNISIE*",TN:WATANIA1*
 http://veveo.vip:80/play/live.php?mac=00:1A:79:BA:74:E7&stream=22722&extension=ts&play_token=qc2RxbQkoL
 #EXTINF:-1 tvg-name="TN:WATANIA2*" tvg-logo="http://im.challenge.tn/tunisie/watania2.png" group-title="TUNISIE*",TN:WATANIA2*
-http://s1.iptv-chal.net:2052/live/t5fus4VRzdAW/RsHeAhYzC9sn/3.ts
+http://81637.org:2052/live/t5fus4VRzdAW/RsHeAhYzC9sn/3.ts
 #EXTINF:-1 tvg-name="TN:NESSMA.JDIDA*" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/nessam10.jpg" group-title="TUNISIE*",TN:NESSMA.JDIDA*
-http://s1.iptv-chal.net:2052/live/t5fus4VRzdAW/RsHeAhYzC9sn/113.ts
+http://81637.org:2052/live/t5fus4VRzdAW/RsHeAhYzC9sn/113.ts
 #EXTINF:-1 tvg-name="TN:ATTESIA*" group-title="TUNISIE*",TN:ATTESIA*
-http://s1.iptv-chal.net:2052/live/t5fus4VRzdAW/RsHeAhYzC9sn/170.ts
+http://81637.org:2052/live/t5fus4VRzdAW/RsHeAhYzC9sn/170.ts
 #EXTINF:-1 tvg-name="TN:HANNIBAL*" group-title="TUNISIE*",TN:HANNIBAL*
-http://s1.iptv-chal.net:2052/live/t5fus4VRzdAW/RsHeAhYzC9sn/145.ts
+http://81637.org:2052/live/t5fus4VRzdAW/RsHeAhYzC9sn/145.ts
 #EXTINF:-1 tvg-name="TN:TELVZATV*" group-title="TUNISIE*",TN:TELVZATV*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/125
+http://81637.org:2052/diatou931/diatou139/125
 #EXTINF:-1 tvg-name="TN:TOUNESNA*" group-title="TUNISIE*",TN:TOUNESNA*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/1161
+http://81637.org:2052/diatou931/diatou139/1161
 #EXTINF:-1 tvg-name="TN:ALJANOUBIA*" group-title="TUNISIE*",TN:ALJANOUBIA*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/1162
+http://81637.org:2052/diatou931/diatou139/1162
 #EXTINF:-1 tvg-name="TN:CARTHAGE+*" tvg-logo="http://tvchallenge.tn/logo/tunisia/carthage.jpg" group-title="TUNISIE*",TN:CARTHAGE+*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/8
+http://81637.org:20522/diatou931/diatou139/8
 #EXTINF:-1 tvg-name="TN:ZAYTOONA*" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/zitoun10.jpg" group-title="TUNISIE*",TN:ZAYTOONA*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/33
+http://81637.org:2052/diatou931/diatou139/33
 #EXTINF:-1 tvg-name="TN:ALINSEN.TV*" tvg-logo="http://tvchallenge.tn/logo/tunisia/alinsen.jpg" group-title="TUNISIE*",TN:ALINSEN.TV*
 http://s1.iptv-chal.net:2052/diatou931/diatou139/37
 #EXTINF:-1 tvg-name="TN:JAWHARA.TV*" group-title="TUNISIE*",TN:JAWHARA.TV*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/35
+http://81637.org:2052/diatou931/diatou139/35
 #EXTINF:-1 tvg-name="TN:MATCH1*" group-title="TUNISIE*",TN:MATCH1*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/11
+http://81637.org:2052/diatou931/diatou139/11
 #EXTINF:-1 tvg-name="TN:MATCH2*" group-title="TUNISIE*",TN:MATCH2*
 http://s1.iptv-chal.net:2052/diatou931/diatou139/12
 #EXTINF:-1 tvg-name="TN:ALMUSTAKILA*" group-title="TUNISIE*",TN:ALMUSTAKILA*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/38
+http://81637.org:2052/diatou931/diatou139/38
 #EXTINF:-1 tvg-name="TN:TELEVISION1" tvg-logo="http://tvchallenge.tn/logo/tunisia/television1.jpg" group-title="TUNISIE*",TN:TELEVISION1
-http://s1.iptv-chal.net:2052/diatou931/diatou139/39
+http://81637.org:2052/diatou931/diatou139/39
 #EXTINF:-1 tvg-name="TN:WATANIA1P6*" tvg-logo="http://tvchallenge.tn/logo/tunisia/watania1.png" group-title="TUNISIE*",TN:WATANIA1P6*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/40
+http://81637.org:2052/diatou931/diatou139/40
 #EXTINF:-1 tvg-name="TN:WATANIA2P6*" tvg-logo="http://tvchallenge.tn/logo/tunisia/watania2.png" group-title="TUNISIE*",TN:WATANIA2P6*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/41
+http://81637.org:2052/diatou931/diatou139/41
 #EXTINF:-1 tvg-name="TN:ELHIWARP6*" tvg-logo="http://tvchallenge.tn/logo/tunisia/elhiwar.jpg" group-title="TUNISIE*",TN:ELHIWARP6*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/42
+http://81637.org:2052/diatou931/diatou139/42
 #EXTINF:-1 tvg-name="TN:MOZAIQUEFM*" tvg-logo="http://tvchallenge.tn/logo/tunisia/mozaiquefm.jpg" group-title="TUNISIE*",TN:MOZAIQUEFM*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/45
+http://81637.org:2052/diatou931/diatou139/45
 #EXTINF:-1 tvg-name="TN:IFM*" tvg-logo="http://tvchallenge.tn/logo/tunisia/ifm.png" group-title="TUNISIE*",TN:IFM*
 http://s1.iptv-chal.net:2052/diatou931/diatou139/46
 #EXTINF:-1 tvg-name="TN:EXPRESSFM*" tvg-logo="http://tvchallenge.tn/logo/tunisia/shemsfm.jpg" group-title="TUNISIE*",TN:EXPRESSFM*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/47
+http://81637.org:20522/diatou931/diatou139/47
 #EXTINF:-1 tvg-name="TN:JAWHARAFM*" tvg-logo="http://tvchallenge.tn/logo/tunisia/jawharafm.jpg" group-title="TUNISIE*",TN:JAWHARAFM*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/49
+http://81637.org:2052/diatou931/diatou139/49
 #EXTINF:-1 tvg-name="TN:OXYGENEFM*" tvg-logo="http://tvchallenge.tn/logo/tunisia/oxygenefm.jpg" group-title="TUNISIE*",TN:OXYGENEFM*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/59
+http://81637.org:2052/diatou931/diatou139/59
 #EXTINF:-1 tvg-name="TN:SFAXFM*" tvg-logo="http://tvchallenge.tn/logo/tunisia/sfax.jpg" group-title="TUNISIE*",TN:SFAXFM*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/73
+http://81637.org:2052/diatou931/diatou139/73
 #EXTINF:-1 tvg-name="TN:ARRIERE.ELGODEM" group-title="SERIE TN  LIVE",TN:ARRIERE.ELGODEM
-http://s1.iptv-chal.net:2052/diatou931/diatou139/298905
+http://81637.org:2052/diatou931/diatou139/298905
 #EXTINF:-1 tvg-name="TN:MONASTIRFM*" tvg-logo="http://tvchallenge.tn/logo/tunisia/monastir.jpg" group-title="TUNISIE*",TN:MONASTIRFM*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/82
+http://81637.org:2052/diatou931/diatou139/82
 #EXTINF:-1 tvg-name="TNT:WATANIA1*" tvg-logo="http://tvchallenge.tn/logo/tunisia/watania1.png" group-title="TUNISIE*",TNT:WATANIA1*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/109
+http://81637.org:2052/diatou931/diatou139/109
 #EXTINF:-1 tvg-name="TNT:WATANIA2*" tvg-logo="http://tvchallenge.tn/logo/tunisia/watania2.png" group-title="TUNISIE*",TNT:WATANIA2*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/111
+http://81637.org:2052/diatou931/diatou139/111
 #EXTINF:-1 tvg-name="TN:ELHIWAR*" group-title="TUNISIE*",TN:ELHIWAR*
-http://s1.iptv-chal.net:2052/diatou931/diatou139/4
+http://81637.org:2052/diatou931/diatou139/4
