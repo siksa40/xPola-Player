@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="osnyahalaaloulaen.ae" tvg-name="AR+ | OSN YA HALA BIL ARABY " tvg-logo="https://content.osn.com/logo/channel/cropped/OYA.png" group-title="ARABIC+",AR+ | OSN YA HALA BIL ARABY
-http://erolelektronik.store:2095/live/alprn5495pkt2/alprn0701cc00kk/41211.ts
+http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/48896.ts
 #EXTINF:-1 tvg-id="osnyahalaae" tvg-name="AR+ | OSN Ya HALA " tvg-logo="https://content.osn.com/logo/channel/cropped/OYH.png" group-title="ARABIC+",AR+ | OSN Ya HALA
 http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/265226.ts
 #EXTINF:-1 tvg-id="osnyahalacinimaae" tvg-name="AR+ | OSN YA HALA AFLAM " tvg-logo="https://content.osn.com/logo/channel/cropped/OYC.png" group-title="ARABIC+",AR+ | OSN YA HALA AFLAM
 http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/265231.ts
 #EXTINF:-1 tvg-id="OSN Alfa Cinema 1 HD" tvg-name="AR+ | a CINEMA 1" tvg-logo="http://aptvpix.net/pubs/2022/alphacinema1.png" group-title="ARABIC+",AR+ | a CINEMA 1
-http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/265156.ts
+http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/48927.ts
 #EXTINF:-1 tvg-id="alarabiya.sa" tvg-name="AR+ | a CINEMA 2" tvg-logo="http://aptvpix.net/pubs/2022/alphacinema2.png" group-title="ARABIC+",AR+ | a CINEMA 2
 http://erolelektronik.store:2095/live/alprn5495pkt2/alprn0701cc00kk/99691.ts
 #EXTINF:-1 tvg-id="OSN Alfa Musalsalat 1 HD" tvg-name="AR+ | a MUSALSALAT " tvg-logo="https://content.osn.com/logo/channel/cropped/SER.png" group-title="ARABIC+",AR+ | a MUSALSALAT
 http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/265159.ts
 #EXTINF:-1 tvg-id="OSN Alfa Musalsalat 2 HDx" tvg-name="AR+ | a MUSALSALAT +2" tvg-logo="https://content.osn.com/logo/channel/cropped/SE2.png" group-title="ARABIC+",AR+ | a MUSALSALAT +2
-http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/265160.ts
+http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/48925.ts
 #EXTINF:-1 tvg-id="alsafwa.sa" tvg-name="AR+ | a SAFWA" tvg-logo="https://content.osn.com/logo/channel/cropped/SAF.png" group-title="ARABIC+",AR+ | a SAFWA
 http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/265162.ts
 #EXTINF:-1 tvg-id="alyawm.sa" tvg-name="AR+ | a ALYAWM " tvg-logo="https://content.osn.com/logo/channel/cropped/YAW.png" group-title="ARABIC+",AR+ | a ALYAWM
@@ -34,11 +34,11 @@ http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/265217.ts
 #EXTINF:-1 tvg-id="osnsactionen.ae" tvg-name="AR+ | OSN MOVIES ACTION" tvg-logo="https://content.osn.com/logo/channel/cropped/AHD.png" group-title="ARABIC+",AR+ | OSN MOVIES ACTION
 http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/265163.ts
 #EXTINF:-1 tvg-id="osnmoviesen.ae" tvg-name="AR+ | OSN MOVIES HOLLYWOOD " tvg-logo="https://content.osn.com/logo/channel/cropped/OPR.png" group-title="ARABIC+",AR+ | OSN MOVIES HOLLYWOOD
-http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/265230.ts
+http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/48911.ts
 #EXTINF:-1 tvg-id="osnmoviesremiereen.ae" tvg-name="AR+ | OSN MOVIES PREMIERE " tvg-logo="https://content.osn.com/logo/channel/cropped/OM1.png" group-title="ARABIC+",AR+ | OSN MOVIES PREMIERE
 http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/265228.ts
 #EXTINF:-1 tvg-id="osnshowcaseae" tvg-name="AR+ | OSN SHOWCASE " tvg-logo="https://content.osn.com/logo/channel/cropped/OFH.png" group-title="ARABIC+",AR+ | OSN SHOWCASE
-http://erolelektronik.store:2095/live/alprn5495pkt2/alprn0701cc00kk/113400.ts
+http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/48905.ts
 #EXTINF:-1 tvg-id="OSN W HD_en" tvg-name="AR+ | OSN SHOWCASE CLASSICS " tvg-logo="https://content.osn.com/logo/channel/cropped/OST.png" group-title="ARABIC+",AR+ | OSN SHOWCASE CLASSICS
 http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/26953.ts
 #EXTINF:-1 tvg-id="fx.qa" tvg-name="AR+ | OSN ONE" tvg-logo="https://content.osn.com/logo/channel/cropped/OTO.png" group-title="ARABIC+",AR+ | OSN ONE
