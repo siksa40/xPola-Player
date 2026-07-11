@@ -14,15 +14,15 @@ http://81637.org:2052/live/023987531643/023987531643/141054.ts
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40075/canal-ouah/CHN43FN/CHN43FN_177_29082023" group-title="SPORT FR",CANAL+ SPORT FHD
 http://81637.org:2052/live/023987531643/023987531643/260333.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
-http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/264297.ts
+http://13569-cdn8.ovh/live/0V1W4UZNNH1JWSQ/5uA1qFmkhq/194767.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
-http://tv.maghann.fr/live/4473173766/bayecheikh13oct/469802.ts
+http://13569-cdn8.ovh/live/0V1W4UZNNH1JWSQ/5uA1qFmkhq/194766.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 3 HD
-http://tv.maghann.fr/live/4473173766/bayecheikh13oct/469656.ts
+http://13569-cdn8.ovh/live/0V1W4UZNNH1JWSQ/5uA1qFmkhq/194765.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 4 HD
-http://tv.maghann.fr/live/4473173766/bayecheikh13oct/469804.ts
+http://13569-cdn8.ovh/live/0V1W4UZNNH1JWSQ/5uA1qFmkhq/194764.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 5 HD
-http://tv.maghann.fr/live/4473173766/bayecheikh13oct/469658.ts
+http://13569-cdn8.ovh/live/0V1W4UZNNH1JWSQ/5uA1qFmkhq/194763.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44863403" group-title="Français ",FR | L'EQUIPE 21
 https://jmp2.uk/stvp-FR200016Y5
 #EXTINF:-1 tvg-id="MotorvisionPlus.de@SD",Motorvision.tv (French)
@@ -98,7 +98,7 @@ https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-f
 #EXTINF:-1 tvg-id="",Les Secrets de Nos Régions (1080p)
 https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="CANAL+ DOCS HD " tvg-logo="https://thumb.canalplus.pro/http/unsafe/480x270/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/list/csatald_chaine_cplusdocs_selection/canal-ouah/TITLELOGO/myCANAL_Logo_Fiche_Programme_1920x1080-2024-10-07T155431.542-eVsi" group-title="FRANCE HD",CANAL+ DOCS HD
-http://megoaroma.online/live/Waielxsafwatx/sm03111206/437973.ts
+http://13569-cdn8.ovh/live/0V1W4UZNNH1JWSQ/5uA1qFmkhq/285950.ts
 #EXTINF:-1 tvg-id="animaux.fr" tvg-name="ANIMAUX HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/54239442" group-title="FRANCE HD",ANIMAUX HD
 http://81637.org:2052/live/dodo2026/6292736299273733/218.ts
 #EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="USHUAÏA TV HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/142/canal-ouah/CHN43FN/CHN43FN_142_20211018" group-title="FRANCE HD",USHUAÏA TV HD
