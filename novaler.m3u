@@ -6,7 +6,7 @@ http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/4207.ts
 #EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="FR | BEIN SPORT 3 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981545" group-title="SPORT FR",FR | BEIN SPORT 3 HD
 http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/15471.ts
 #EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+ 4K UHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40052/canal-ouah/CHN43FN/CHN43FN_301_29082023" group-title="FRANCE HD",CANAL+ 4K UHD
-http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/13100.ts
+http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/179.ts
 #EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="CANAL+ FOOT FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40208/canal-ouah/CHN43FN/CHN43FN_19_29082023" group-title="SPORT FR",CANAL+ FOOT FHD
 http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/15394.ts
 #EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="CANAL+ SPORT360 FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/83/canal-ouah/CHN43FN/CHN43FN_83_29082023" group-title="SPORT FR",CANAL+ SPORT360 FHD
@@ -28,23 +28,23 @@ http://13569-cdn8.ovh/live/MAGRTEBMFT/MAGK37K92J/56567.ts
 #EXTINF:-1 tvg-id="MotorvisionPlus.de@SD",Motorvision.tv (French)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40011/canal-ouah/CHN43FN/CHN43FN_198_29082023" group-title="Français ",FR | CANAL+ CINEMA
-http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/57.ts
+http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/847.ts
 #EXTINF:-1 tvg-id="canalpluskids.fr" tvg-name="CANAL+ KIDS HD " tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40183/canal-ouah/CHN43FN/CHN43FN_259_29082023" group-title="FRANCE HD",CANAL+ KIDS HD
-http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/82637.ts
+http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/1056.ts
 #EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/VgFbZDF.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ BOX OFFICE FHD
-http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/205112.ts
+http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/60010.ts
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="CANAL+ GRAND ECRAN HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/900/canal-ouah/CHN43FN/CHN43FN_900_29082023" group-title="FRANCE HD",CANAL+ GRAND ECRAN HD
-http://81637.org:2052/live/minoi-kam/kam-minoi/296522.ts
+http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/53852.ts
 #EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="CINE+ CLASSIC  HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/531/canal-ouah/CHN43FN/CHN43FN_531_20240703-2TQN" group-title="FRANCE HD",CINE+ CLASSIC  HD
-http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/55.ts
+http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/1063.ts
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="CINE+ EMOTION HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/396/canal-ouah/CHN43FN/CHN43FN_396_20240703-ziX9" group-title="FRANCE HD",CINE+ EMOTION HD
-http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/4371.ts
+http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/1061.ts
 #EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="CINE+ FAMILY HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/533/canal-ouah/CHN43FN/CHN43FN_533_20240703-hEX8" group-title="FRANCE HD",CINE+ FAMILY HD
-http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/58.ts
+http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/1062.ts
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="CINE+ FRISSON HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/398/canal-ouah/CHN43FN/CHN43FN_398_20240703--MGY" group-title="FRANCE HD",CINE+ FRISSON HD
-http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/56.ts
+http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/1060.ts
 #EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="CINE+ FESTIVAL HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/532/canal-ouah/CHN43FN/CHN43FN_532_20240703-kAx_" group-title="FRANCE HD",CINE+ FESTIVAL HD
-http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/4643.ts
+http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/3480.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | SÉRIE CLUB HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/19132964" group-title="Français ",FR | SÉRIE CLUB HD
 http://81637.org:2052/live/minoi-kam/kam-minoi/222.ts
 #EXTINF:-1 tvg-id="t18.fr" tvg-name="parispremierere HD" tvg-logo="https://cdn.t18.fr/build/static/images/logos/t18.svg" group-title="FRANCE HD",t18 HD
@@ -94,13 +94,13 @@ https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-f
 #EXTINF:-1 tvg-id="",Les Secrets de Nos Régions (1080p)
 https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="CANAL+ DOCS HD " tvg-logo="https://thumb.canalplus.pro/http/unsafe/480x270/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/list/csatald_chaine_cplusdocs_selection/canal-ouah/TITLELOGO/myCANAL_Logo_Fiche_Programme_1920x1080-2024-10-07T155431.542-eVsi" group-title="FRANCE HD",CANAL+ DOCS HD
-http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/82638.ts
+http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/3115.ts
 #EXTINF:-1 tvg-name="FR | TREK" tvg-logo="https://www.trekhd.tv/upload/media/trek-6012bd10e5f77.png" group-title="Français ",FR | TREK
 http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/38721.ts
 #EXTINF:-1 tvg-id="animaux.fr" tvg-name="ANIMAUX HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/54239442" group-title="FRANCE HD",ANIMAUX HD
 http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/19874.ts
 #EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="USHUAÏA TV HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/142/canal-ouah/CHN43FN/CHN43FN_142_20211018" group-title="FRANCE HD",USHUAÏA TV HD
-http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/19866.ts
+http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/2746.ts
 #EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="CHASSE & PECHE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44978855" group-title="FRANCE HD",CHASSE & PECHE HD
 http://81637.org:2052/live/minoi-kam/kam-minoi/6459.ts
 #EXTINF:-1 tvg-id="ScienceEtVieTV.fr" tvg-name="SCIENCE & VIE TV HD" tvg-logo="https://www.science-et-vie.tv/upload/media/svtv-600af7be54ccb.png" group-title="FRANCE HD",SCIENCE & VIE TV HD
