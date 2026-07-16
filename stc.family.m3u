@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="STC Sports 1" tvg-logo="http://tv.asc.vg/stc.sports1.stc.png" group-title="STC",STC Sports 1
-http://raztv.online/live/MAGNL39E26/hvhS6xsuZP/1056489.ts
+http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/70288.ts
 #EXTINF:-1 tvg-name="STC Sports 2" tvg-logo="http://tv.asc.vg/stc.sports2.stc.png" group-title="STC",STC Sports 2
-http://raztv.online/live/MAGNL39E26/hvhS6xsuZP/1056490.ts
+http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/81638.ts
 #EXTINF:-1 tvg-name="STC Cinema" tvg-logo="http://tv.asc.vg/stc.cinema.stc.png" group-title="STC",STC Cinema
-http://pro.netmos.ovh:7355/live/8LuHbQKRBA/gTBwfhEDkW9/158954.ts
+http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/158954.ts
 #EXTINF:-1 tvg-name="STC Drama" tvg-logo="http://tv.asc.vg/stc.drama.stc.png" group-title="STC",STC Drama
-http://pro.netmos.ovh:7355/live/8LuHbQKRBA/gTBwfhEDkW9/158953.ts
+http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/158953.ts
 #EXTINF:-1 tvg-name="STC Family" tvg-logo="http://tv.asc.vg/stc.family.stc.png" group-title="STC",STC Family
-http://pro.netmos.ovh:7355/live/8LuHbQKRBA/gTBwfhEDkW9/158952.ts
+http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/158952.ts
 #EXTINF:-1 tvg-name="STC Action" tvg-logo="http://tv.asc.vg/stc.action.stc.png" group-title="STC",STC Action
-http://pro.netmos.ovh:7355/live/8LuHbQKRBA/gTBwfhEDkW9/158951.ts
+http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/158951.ts
