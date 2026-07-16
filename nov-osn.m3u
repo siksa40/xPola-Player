@@ -48,9 +48,9 @@ http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221167.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR+ | OSN PopUp CHANNEL" tvg-logo="https://content.osn.com/logo/channel/cropped/POP.png" group-title="ARABIC+",AR+ | OSN PopUp CHANNEL
 http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/265216.ts
 #EXTINF:-1 tvg-id="history.sa" tvg-name="AR+ | History" tvg-logo="https://content.osn.com/logo/channel/cropped/HIS.png" group-title="ARABIC+",AR+ | History
-http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/265190.ts
+http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/232497.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR+ | HISTORY2" tvg-logo="" group-title="ARABIC+",AR+ | HISTORY2
-http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/265192.ts
+http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/232496.ts
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR+ | DISCOVERY " tvg-logo="https://content.osn.com/logo/channel/cropped/DSC.png" group-title="ARABIC+",AR+ | DISCOVERY
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221158.ts
 #EXTINF:-1 tvg-id="discoveryscience.sa" tvg-name="AR+ | ID" tvg-logo="https://content.osn.com/logo/channel/cropped/DCX.png" group-title="ARABIC+",AR+ | ID
