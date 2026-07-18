@@ -14,15 +14,15 @@ http://81637.org:2052/live/023987531643/023987531643/141054.ts
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40075/canal-ouah/CHN43FN/CHN43FN_177_29082023" group-title="SPORT FR",CANAL+ SPORT FHD
 http://81637.org:2052/live/023987531643/023987531643/260333.ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
-http://13569-cdn8.ovh/live/0V1W4UZNNH1JWSQ/5uA1qFmkhq/194767.ts
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=356183&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
-http://13569-cdn8.ovh/live/0V1W4UZNNH1JWSQ/5uA1qFmkhq/194766.ts
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=356182&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 3 HD
-http://13569-cdn8.ovh/live/0V1W4UZNNH1JWSQ/5uA1qFmkhq/194765.ts
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=356181&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 4 HD
-http://13569-cdn8.ovh/live/0V1W4UZNNH1JWSQ/5uA1qFmkhq/194764.ts
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=356180&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 5 HD
-http://13569-cdn8.ovh/live/0V1W4UZNNH1JWSQ/5uA1qFmkhq/194763.ts
+http://streamlyy.space:80/play/live.php?mac=00:1A:79:D5:48:F3&stream=356179&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44863403" group-title="Français ",FR | L'EQUIPE 21
 https://jmp2.uk/stvp-FR200016Y5
 #EXTINF:-1 tvg-id="MotorvisionPlus.de@SD",Motorvision.tv (French)
