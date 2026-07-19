@@ -37,6 +37,10 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/News.m3u
 #EXTINF:-1 tvg-id="" tvg-name="فلسطين" tvg-logo="https://images.seeklogo.com/logo-png/21/2/pray-for-palestine-logo-png_seeklogo-210796.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/palestine.m3u
 
+
+#EXTINF:-1 tvg-id="" tvg-name="فلسطين" tvg-logo="https://fles.lu/content/uploads/FLES-partner-POSTEsportsMasters.png",
+https://raw.githubusercontent.com/raid35/channel-links/main/POST.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/tod.m3u8
 
