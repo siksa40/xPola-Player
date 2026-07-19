@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | ENTV HD" tvg-logo="http://atlaspro.to:80/images/1fe5c0f76edf1698bbc2332f112e41c0.png" group-title="ALGERIA",DZ | ENTV HD
 http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/8075.ts
+#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/8f53295a73878494e9bc8dd6c3c7104f.128.png?ver=03-06-2025",beIN SPORTS MAX 1 4k
+http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/158960.ts
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="MAGHREB SPORT 1" tvg-logo="https://maghrebtelevision.com/wp-content/uploads/2019/10/logo-plat-MAGHREB-TV-02-.png" group-title="SPORTS LIVE",MAGHREB SPORT 1
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/228802
 #EXTINF:-1 tvg-id="m6.fr" tvg-name="M6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/M6_2009.svg/1280px-M6_2009.svg.png" group-title="FRANCE TNT",M6 HD
