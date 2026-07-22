@@ -9,7 +9,7 @@ http://81637.org:2052/live/023987531643/023987531643/260366.ts
 #EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="BEINSPORT 1 FR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" group-title="FRANCE SPORT",BEINSPORT 1 FR
 http://195.182.16.45:8080/live/omar777/01103978590/460876.ts
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png?ver=03-06-2025",beIN SPORTS MAX 1
-http://195.182.16.45:8080/live/omar777/01103978590/460861.ts
+http://192.168.100.23:4323/vavoo?channel=4274246496cae3eb6b9282
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png?ver=03-06-2025",beIN SPORTS MAX 1
 http://195.182.16.45:8080/live/omar777/01103978590/460862.ts
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png?ver=03-06-2025",beIN SPORTS MAX 1
