@@ -80,5 +80,22 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/novaler.m3u
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/Rakuten.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://picons.cmshulk.com/picons/netflix.png",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/NETFILX_MOVIES.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/PRIME-VIDEO.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/Boxoffice/boxoffice.png",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/BoxofficeEN
+
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/Boxoffice/boxoffice.png",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/boxofficeAR
+
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://www.arabiclist.net/media/platforms/logos/starsplay.jpg",
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/tarsplay.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://l.top4top.io/p_3688573ob1.jpg",
 https://github.com/raid35/channel-links/raw/main/movies.m3u
+
+
