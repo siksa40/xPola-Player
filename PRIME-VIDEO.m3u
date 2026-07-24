@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="AR| AMAZON ACTION" tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="AR| AMAZON PRIME",AR| AMAZON ACTION
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/230576.ts
+http://asmrasmr.live:8080/live/8976432467/4245880764/392801.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| AMAZON CRIME" tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="AR| AMAZON PRIME",AR| AMAZON CRIME
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/230577.ts
+http://asmrasmr.live:8080/live/8976432467/4245880764/392809.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| AMAZON MYSTERY" tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="AR| AMAZON PRIME",AR| AMAZON MYSTERY
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/230578.ts
+http://asmrasmr.live:8080/live/8976432467/4245880764/392810.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| AMAZON DRAMA" tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="AR| AMAZON PRIME",AR| AMAZON DRAMA
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/230581.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| AMAZON COMEDY" tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="AR| AMAZON PRIME",AR| AMAZON COMEDY
