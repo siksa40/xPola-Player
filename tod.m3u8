@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981173" group-title="SPORT FR",FR | BEIN SPORT 1 HD
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=526126&extension=ts
 #EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981183" group-title="SPORT FR",FR | BEIN SPORT 2 HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=526125&extension=ts
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507696&extension=ts
 #EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="FR | BEIN SPORT 3 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981545" group-title="SPORT FR",FR | BEIN SPORT 3 HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=526124&extension=ts
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507693&extension=ts
 #EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+ 4K UHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40052/canal-ouah/CHN43FN/CHN43FN_301_29082023" group-title="FRANCE HD",CANAL+ 4K UHD
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972491&extension=ts
 #EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="CANAL+ FOOT FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40208/canal-ouah/CHN43FN/CHN43FN_19_29082023" group-title="SPORT FR",CANAL+ FOOT FHD
@@ -12,7 +12,7 @@ http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1002842&exten
 #EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="CANAL+ SPORT360 FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/83/canal-ouah/CHN43FN/CHN43FN_83_29082023" group-title="SPORT FR",CANAL+ SPORT360 FHD
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1380012&extension=ts
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40075/canal-ouah/CHN43FN/CHN43FN_177_29082023" group-title="SPORT FR",CANAL+ SPORT FHD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=526130&extension=ts&play_token=4aydn4o3l4
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=526130&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1421486&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
