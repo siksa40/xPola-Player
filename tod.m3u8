@@ -14,23 +14,23 @@ http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1380012&exten
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40075/canal-ouah/CHN43FN/CHN43FN_177_29082023" group-title="SPORT FR",CANAL+ SPORT FHD
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=526130&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1421486&extension=ts
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=355923&extension=ts&play_token=ksgLUypqoH
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1421487&extension=ts
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=355924&extension=ts&play_token=ZLAK7r90uw
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 3 HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1421488&extension=ts
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=355925&extension=ts&play_token=Kh7vPqNPuY
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 4 HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1421489&extension=ts
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=355926&extension=ts&play_token=11sFef50T1
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 5 HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1421490&extension=ts
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=355927&extension=ts&play_token=ejfzOESsO0
 #EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44863403" group-title="Français ",FR | L'EQUIPE 21
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507668&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40011/canal-ouah/CHN43FN/CHN43FN_198_29082023" group-title="Français ",FR | CANAL+ CINEMA
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=526134&extension=ts
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=2032270&extension=ts&play_token=oJDtSikiiO
 #EXTINF:-1 tvg-id="canalpluskids.fr" tvg-name="CANAL+ KIDS HD " tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40183/canal-ouah/CHN43FN/CHN43FN_259_29082023" group-title="FRANCE HD",CANAL+ KIDS HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=526132&extension=ts
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=2032273&extension=ts&play_token=DuQx95gQ0h
 #EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/VgFbZDF.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ BOX OFFICE FHD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972487&extension=ts
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=2032269&extension=ts&play_token=RHqvcPiGvs
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="CANAL+ GRAND ECRAN HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/900/canal-ouah/CHN43FN/CHN43FN_900_29082023" group-title="FRANCE HD",CANAL+ GRAND ECRAN HD
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972488&extension=ts
 #EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="CINE+ CLASSIC  HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/531/canal-ouah/CHN43FN/CHN43FN_531_20240703-2TQN" group-title="FRANCE HD",CINE+ CLASSIC  HD
@@ -50,15 +50,15 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="parispremierere HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/40081/canal-ouah/CHN43FN/CHN43FN__Paris_Premiere_20220415" group-title="FRANCE HD",parispremierere HD
 http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66746746" group-title="FRANCE HD",TF1 HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972617&extension=ts
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=355976&extension=ts&play_token=tNLfwOQ4rh
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/526/canal-ouah/CHN43FN/CHN43FN_526_20251024--y7o" group-title="FRANCE HD",TF1 SERIES FILMS HD
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972615&extension=ts
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66747568" group-title="FRANCE HD",TMC HD
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507462&extension=ts
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66747551" group-title="FRANCE HD",TFX HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972616&extension=ts
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=355978&extension=ts&play_token=7BCo1ckIXf
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67032119" group-title="FRANCE HD",FRANCE 2 HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972610&extension=ts
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=355941&extension=ts&play_token=GrrwsbrA5O
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67033022" group-title="FRANCE HD",FRANCE 3 HD
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972609&extension=ts
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67033024" group-title="FRANCE HD",FRANCE 4 HD
@@ -68,7 +68,7 @@ http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972607&exten
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/313/canal-ouah/CHN43FN/CHN43FN_M6_20220415" group-title="FRANCE HD",M6 4k
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972613&extension=ts
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/521/canal-ouah/CHN43FN/CHN43FN_6TER_20220415" group-title="FRANCE HD",6TER HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972606&extension=ts
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=806737&extension=ts&play_token=O1j5RZnVxk
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/296/canal-ouah/CHN43FN/CHN43FN_W9_20220415" group-title="FRANCE HD",W9 HDhttp://81637.org:2052/live/fateh91240/999888777/323.ts
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972605&extension=ts
 #EXTINF:-1 tvg-id="",Motus La Chaîne (1080p)
@@ -94,11 +94,11 @@ https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="CANAL+ DOCS HD " tvg-logo="https://thumb.canalplus.pro/http/unsafe/480x270/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/list/csatald_chaine_cplusdocs_selection/canal-ouah/TITLELOGO/myCANAL_Logo_Fiche_Programme_1920x1080-2024-10-07T155431.542-eVsi" group-title="FRANCE HD",CANAL+ DOCS HD
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=719108&extension=ts
 #EXTINF:-1 tvg-name="FR | TREK" tvg-logo="https://www.trekhd.tv/upload/media/trek-6012bd10e5f77.png" group-title="Français ",FR | TREK
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507325&extension=ts
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=355990&extension=ts&play_token=DEz2YTuyoF
 #EXTINF:-1 tvg-id="animaux.fr" tvg-name="ANIMAUX HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/54239442" group-title="FRANCE HD",ANIMAUX HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506523&extension=ts
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=355908&extension=ts&play_token=jY9KrBXM5a
 #EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="USHUAÏA TV HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/142/canal-ouah/CHN43FN/CHN43FN_142_20211018" group-title="FRANCE HD",USHUAÏA TV HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506527&extension=ts
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=806722&extension=ts&play_token=viG3fVUnyf
 #EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="CHASSE & PECHE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44978855" group-title="FRANCE HD",CHASSE & PECHE HD
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506521&extension=ts
 #EXTINF:-1 tvg-id="ScienceEtVieTV.fr" tvg-name="SCIENCE & VIE TV HD" tvg-logo="https://www.science-et-vie.tv/upload/media/svtv-600af7be54ccb.png" group-title="FRANCE HD",SCIENCE & VIE TV HD
