@@ -24,7 +24,7 @@ http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1141575&exten
 #EXTINF:-1 tvg-name="Bein-BBC Earth" tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/BBCEarth-new_200x200.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-BBC Earth
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1141567&extension=ts
 #EXTINF:-1 tvg-name="Bein-HGTV" tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/HGTV.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-HGTV
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1141561&extension=ts
+https://restream-live.realiptv.to/Marky0416/2c1744538b/659479
 #EXTINF:-1 tvg-name="Bein-Discovery" tvg-logo="http://tv.asc.vg/discovery.channel.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Discovery
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221158.ts
 #EXTINF:-1 tvg-name="Bein-Discovery Family" tvg-logo="http://tv.asc.vg/discovery.family.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Discovery Family
