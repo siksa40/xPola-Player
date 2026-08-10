@@ -1,137 +1,457 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981173" group-title="SPORT FR",FR | BEIN SPORT 1 HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=526126&extension=ts
-#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981183" group-title="SPORT FR",FR | BEIN SPORT 2 HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507696&extension=ts
-#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="FR | BEIN SPORT 3 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981545" group-title="SPORT FR",FR | BEIN SPORT 3 HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507693&extension=ts
-#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+ 4K UHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40052/canal-ouah/CHN43FN/CHN43FN_301_29082023" group-title="FRANCE HD",CANAL+ 4K UHD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972491&extension=ts
-#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="CANAL+ FOOT FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40208/canal-ouah/CHN43FN/CHN43FN_19_29082023" group-title="SPORT FR",CANAL+ FOOT FHD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1002842&extension=ts
-#EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="CANAL+ SPORT360 FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/83/canal-ouah/CHN43FN/CHN43FN_83_29082023" group-title="SPORT FR",CANAL+ SPORT360 FHD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1380012&extension=ts
-#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40075/canal-ouah/CHN43FN/CHN43FN_177_29082023" group-title="SPORT FR",CANAL+ SPORT FHD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=526130&extension=ts
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 1 HD
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=355923&extension=ts&play_token=ksgLUypqoH
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 2 HD
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=355924&extension=ts&play_token=ZLAK7r90uw
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 3 HD
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=355925&extension=ts&play_token=Kh7vPqNPuY
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 4 HD
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=355926&extension=ts&play_token=11sFef50T1
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="FR SPORTS (France)",|FR| CANAL+ SPORT 5 HD
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=355927&extension=ts&play_token=ejfzOESsO0
-#EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44863403" group-title="Français ",FR | L'EQUIPE 21
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507668&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40011/canal-ouah/CHN43FN/CHN43FN_198_29082023" group-title="Français ",FR | CANAL+ CINEMA
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=2032270&extension=ts&play_token=oJDtSikiiO
-#EXTINF:-1 tvg-id="canalpluskids.fr" tvg-name="CANAL+ KIDS HD " tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40183/canal-ouah/CHN43FN/CHN43FN_259_29082023" group-title="FRANCE HD",CANAL+ KIDS HD
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=2032273&extension=ts&play_token=DuQx95gQ0h
-#EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/VgFbZDF.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ BOX OFFICE FHD
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=2032269&extension=ts&play_token=RHqvcPiGvs
-#EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="CANAL+ GRAND ECRAN HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/900/canal-ouah/CHN43FN/CHN43FN_900_29082023" group-title="FRANCE HD",CANAL+ GRAND ECRAN HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972488&extension=ts
-#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="CINE+ CLASSIC  HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/531/canal-ouah/CHN43FN/CHN43FN_531_20240703-2TQN" group-title="FRANCE HD",CINE+ CLASSIC  HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=533033&extension=ts
-#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="CINE+ EMOTION HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/396/canal-ouah/CHN43FN/CHN43FN_396_20240703-ziX9" group-title="FRANCE HD",CINE+ EMOTION HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972588&extension=ts
-#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="CINE+ FAMILY HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/533/canal-ouah/CHN43FN/CHN43FN_533_20240703-hEX8" group-title="FRANCE HD",CINE+ FAMILY HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972587&extension=ts
-#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="CINE+ FRISSON HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/398/canal-ouah/CHN43FN/CHN43FN_398_20240703--MGY" group-title="FRANCE HD",CINE+ FRISSON HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972589&extension=ts
-#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="CINE+ FESTIVAL HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/532/canal-ouah/CHN43FN/CHN43FN_532_20240703-kAx_" group-title="FRANCE HD",CINE+ FESTIVAL HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972586&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR | SÉRIE CLUB HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/19132964" group-title="Français ",FR | SÉRIE CLUB HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507417&extension=ts
-#EXTINF:-1 tvg-id="t18.fr" tvg-name="parispremierere HD" tvg-logo="https://cdn.t18.fr/build/static/images/logos/t18.svg" group-title="FRANCE HD",t18 HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="parispremierere HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/40081/canal-ouah/CHN43FN/CHN43FN__Paris_Premiere_20220415" group-title="FRANCE HD",parispremierere HD
-http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66746746" group-title="FRANCE HD",TF1 HD
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=355976&extension=ts&play_token=tNLfwOQ4rh
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/526/canal-ouah/CHN43FN/CHN43FN_526_20251024--y7o" group-title="FRANCE HD",TF1 SERIES FILMS HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972615&extension=ts
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66747568" group-title="FRANCE HD",TMC HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507462&extension=ts
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66747551" group-title="FRANCE HD",TFX HD
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=355978&extension=ts&play_token=7BCo1ckIXf
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67032119" group-title="FRANCE HD",FRANCE 2 HD
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=355941&extension=ts&play_token=GrrwsbrA5O
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67033022" group-title="FRANCE HD",FRANCE 3 HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972609&extension=ts
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67033024" group-title="FRANCE HD",FRANCE 4 HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972608&extension=ts
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67033026" group-title="FRANCE HD",FRANCE 5 HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972607&extension=ts
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/313/canal-ouah/CHN43FN/CHN43FN_M6_20220415" group-title="FRANCE HD",M6 4k
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972613&extension=ts
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/521/canal-ouah/CHN43FN/CHN43FN_6TER_20220415" group-title="FRANCE HD",6TER HD
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=806737&extension=ts&play_token=O1j5RZnVxk
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/296/canal-ouah/CHN43FN/CHN43FN_W9_20220415" group-title="FRANCE HD",W9 HDhttp://81637.org:2052/live/fateh91240/999888777/323.ts
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972605&extension=ts
-#EXTINF:-1 tvg-id="",Motus La Chaîne (1080p)
-https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="",Le Meilleur d'Arthur (1080p)
-https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="",Le Meilleur de la TV Realite (1080p)
-https://amg02393-awpg-amg02393c4-rakuten-uk-3886.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="",Les Anges (1080p)
-https://amg02393-awpg-amg02393c5-rakuten-uk-2463.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="",Les Z'Amours (1080p)
-https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="https://b.top4top.io/p_3746aag7y1.png" group-title="Français ",FR | travelxp
-https://travelxp-travelxp-4-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Français ",FR | naturetimeemea
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgfr/playlist.m3u8
-#EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="https://www.globalfreetv.com/logo.png" group-title="Français ",FR | myzenfr
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenfr-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="",Homicide la chaîne du fait divers (1080p)
-https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="",Les Secrets de Nos Régions (1080p)
-https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="CANAL+ DOCS HD " tvg-logo="https://thumb.canalplus.pro/http/unsafe/480x270/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/list/csatald_chaine_cplusdocs_selection/canal-ouah/TITLELOGO/myCANAL_Logo_Fiche_Programme_1920x1080-2024-10-07T155431.542-eVsi" group-title="FRANCE HD",CANAL+ DOCS HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=719108&extension=ts
-#EXTINF:-1 tvg-name="FR | TREK" tvg-logo="https://www.trekhd.tv/upload/media/trek-6012bd10e5f77.png" group-title="Français ",FR | TREK
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=355990&extension=ts&play_token=DEz2YTuyoF
-#EXTINF:-1 tvg-id="animaux.fr" tvg-name="ANIMAUX HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/54239442" group-title="FRANCE HD",ANIMAUX HD
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=355908&extension=ts&play_token=jY9KrBXM5a
-#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="USHUAÏA TV HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/142/canal-ouah/CHN43FN/CHN43FN_142_20211018" group-title="FRANCE HD",USHUAÏA TV HD
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=806722&extension=ts&play_token=viG3fVUnyf
-#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="CHASSE & PECHE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44978855" group-title="FRANCE HD",CHASSE & PECHE HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506521&extension=ts
-#EXTINF:-1 tvg-id="ScienceEtVieTV.fr" tvg-name="SCIENCE & VIE TV HD" tvg-logo="https://www.science-et-vie.tv/upload/media/svtv-600af7be54ccb.png" group-title="FRANCE HD",SCIENCE & VIE TV HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507328&extension=ts
-#EXTINF:-1 tvg-id="seasons.fr" tvg-name="SEASONS HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/577/canal-ouah/CHN43FN/CHN43FN_577_20231128-rzna" group-title="FRANCE HD",SEASONS HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507324&extension=ts
-#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="DISCOVERY HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/174/canal-ouah/CHN43FN/CHN43FN_174_20240611-RzWh" group-title="FRANCE HD",DISCOVERY HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507321&extension=ts
-#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1098/canal-ouah/CHN43FN/CHN43FN_1098_20240611-gw0t" group-title="FRANCE HD",DISCOVERY INVESTIGATION HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507319&extension=ts
-#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="NAT GEO WILD HD" tvg-logo="https://i5.satexpat.com/cha/nl/nat-geo-wild-95x34.png" group-title="FRANCE HD",NAT GEO WILD HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507333&extension=ts
-#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="NAT GEO HD" tvg-logo="https://i5.satexpat.com/cha/be/nat-geo-95x25.png" group-title="FRANCE HD",NAT GEO HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507334&extension=ts
-#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="PLANETE+ HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/4492627" group-title="FRANCE HD",PLANETE+ HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972515&extension=ts
-#EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="PLANETE+ AVENTURE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/588/canal-ouah/CHN43FN/CHN43FN_588_120122" group-title="FRANCE HD",PLANETE+ AVENTURE HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507337&extension=ts
-#EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="PLANETE+ CRIME HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/587/canal-ouah/CHN43FN/CHN43FN_587_120122" group-title="FRANCE HD",PLANETE+ CRIME HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972513&extension=ts
-#EXTINF:-1 tvg-id="histoire.fr" tvg-name="HISTOIRE TV HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/550/canal-ouah/CHN43FN/CHN43FN_550_20211018" group-title="FRANCE HD",HISTOIRE TV HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507331&extension=ts
-#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 4
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/363.ts
-#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 5
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/361.ts
-#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 6
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/359.ts
-#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 7" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 7
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/357.ts
-#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 8" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 8
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/351.ts
-#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 9" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 9
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/353.ts
-#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 10" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 10
-http://stream.mcquack.net/491/index.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="https://i.imgur.com/vPb5DQA.png" group-title="FR TV FULL HD|4K  (France)",|FR| TF1 FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TF1 4K HDR UHD (Résolution Exclus)" tvg-logo="https://i.imgur.com/UlG9dS2.png" group-title="FR TV FULL HD|4K  (France)",|FR| TF1 4K HDR UHD (Résolution Exclus)
+http://r665.bid:80/live/xasez13/aHnr65d/37744.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2 FHD" tvg-logo="https://i.imgur.com/7c67vuc.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 2 FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1150.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2 4K UHD" tvg-logo="https://i.imgur.com/HJR98j4.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 2 4K UHD
+http://r665.bid:80/live/xasez13/aHnr65d/112613.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="https://i.imgur.com/Rh0Iz9B.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1151.m3u8
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="|FR| FRANCE 4 FHD" tvg-logo="https://i.imgur.com/2Za4rRB.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 4 FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1152.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="https://i.imgur.com/LnzWwSq.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 5 FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1153.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="|FR| M6 FHD" tvg-logo="https://i.imgur.com/q5nJh5N.png" group-title="FR TV FULL HD|4K  (France)",|FR| M6 FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| M6 4K HDR (EXCLUS)" tvg-logo="https://i.imgur.com/wZmuFAl.png" group-title="FR TV FULL HD|4K  (France)",|FR| M6 4K HDR (EXCLUS)
+http://r665.bid:80/live/xasez13/aHnr65d/37745.m3u8
+#EXTINF:-1 tvg-id="T18.fr" tvg-name="|FR| T18 FHD" tvg-logo="https://i.imgur.com/tn0AgIA.png" group-title="FR TV FULL HD|4K  (France)",|FR| T18 FHD
+http://r665.bid:80/live/xasez13/aHnr65d/97983.m3u8
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="|FR| ARTE FHD" tvg-logo="http://i.imgur.com/nJvsyTf.png" group-title="FR TV FULL HD|4K  (France)",|FR| ARTE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1638.m3u8
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="|FR| W9 FHD" tvg-logo="http://i.imgur.com/eQAm3Du.png" group-title="FR TV FULL HD|4K  (France)",|FR| W9 FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| SECRET STORY FHD" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-secret-story_v2-9397a2-9db8e6-0@2x.avif" group-title="FR TV FULL HD|4K  (France)",|FR| SECRET STORY FHD
+http://r665.bid:80/live/xasez13/aHnr65d/130511.m3u8
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="|FR| TMC FHD" tvg-logo="https://i.imgur.com/t5F4cxN.png" group-title="FR TV FULL HD|4K  (France)",|FR| TMC FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1639.m3u8
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="|FR| TFX FHD" tvg-logo="https://i.imgur.com/fwF8rCo.png" group-title="FR TV FULL HD|4K  (France)",|FR| TFX FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1636.m3u8
+#EXTINF:-1 tvg-id="NOVO19.fr" tvg-name="|FR| NOVO19 FHD" tvg-logo="https://i.imgur.com/vBNs2Uw.png" group-title="FR TV FULL HD|4K  (France)",|FR| NOVO19 FHD
+http://r665.bid:80/live/xasez13/aHnr65d/2884.m3u8
+#EXTINF:-1 tvg-id="molotov/francetvdocs" tvg-name="|FR| FRANCE TV DOCS FHD" tvg-logo="https://i.imgur.com/tduYUrZ.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE TV DOCS FHD
+http://r665.bid:80/live/xasez13/aHnr65d/3376.m3u8
+#EXTINF:-1 tvg-id="molotov/francetvsries" tvg-name="|FR| FRANCE TV SERIES FHD" tvg-logo="https://i.imgur.com/Ta9kM4h.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE TV SERIES FHD
+http://r665.bid:80/live/xasez13/aHnr65d/3369.m3u8
+#EXTINF:-1 tvg-id="6play_lesmarseillaisvslerestedumonde" tvg-name="|FR| LES MARSEILLAIS 24/24 FHD" tvg-logo="https://i.imgur.com/MYGuz4x.png" group-title="FR TV FULL HD|4K  (France)",|FR| LES MARSEILLAIS 24/24 FHD
+http://r665.bid:80/live/xasez13/aHnr65d/2812.m3u8
+#EXTINF:-1 tvg-id="6play_incroyablestransformations" tvg-name="|FR| INCROYABLES TRANSFORMATIONS 24/24 FHD" tvg-logo="https://images-fio.6play.fr/v2/images/4243132/raw?auto=webp&blur=0&fit=max&height=180&interlace=1&optimize=high&width=320&hash=b1c989286073c995064ac876410a316a37c99bcc" group-title="FR TV FULL HD|4K  (France)",|FR| INCROYABLES TRANSFORMATIONS 24/24 FHD
+http://r665.bid:80/live/xasez13/aHnr65d/195390.m3u8
+#EXTINF:-1 tvg-id="LCP.fr" tvg-name="|FR| LCP FHD" tvg-logo="https://i.imgur.com/3DoNpQK.png" group-title="FR TV FULL HD|4K  (France)",|FR| LCP FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1148.m3u8
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="|FR| BFM TV FHD" tvg-logo="https://i.imgur.com/ZGJlvlU.png" group-title="FR TV FULL HD|4K  (France)",|FR| BFM TV FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1947.m3u8
+#EXTINF:-1 tvg-id="molotov/bfm2" tvg-name="|FR| BFM TV 2 FHD" tvg-logo="https://static.s-sfr.fr/amac/BOL/Photos/image_bfm2.png" group-title="FR TV FULL HD|4K  (France)",|FR| BFM TV 2 FHD
+http://r665.bid:80/live/xasez13/aHnr65d/97979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BSMART FHD" tvg-logo="https://i.imgur.com/5JIdyM4.png" group-title="FR TV FULL HD|4K  (France)",|FR| BSMART FHD
+http://r665.bid:80/live/xasez13/aHnr65d/2280.m3u8
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="|FR| CNEWS FHD" tvg-logo="http://i.imgur.com/9DYaC2i.png" group-title="FR TV FULL HD|4K  (France)",|FR| CNEWS FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CNEWS PRIME FHD" tvg-logo="https://i.imgur.com/PnFoL5l.png" group-title="FR TV FULL HD|4K  (France)",|FR| CNEWS PRIME FHD
+http://r665.bid:80/live/xasez13/aHnr65d/17.m3u8
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="|FR| LCI FHD" tvg-logo="https://i.imgur.com/kxI4Rac.png" group-title="FR TV FULL HD|4K  (France)",|FR| LCI FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1848.m3u8
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="|FR| FRANCE INFO FHD" tvg-logo="https://i.imgur.com/UE8gPO0.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE INFO FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1102.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="|FR| FRANCE 24 FHD" tvg-logo="http://i.imgur.com/jELYlh5.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 24 FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| LA CHAINE METEO FHD" tvg-logo="https://i.imgur.com/7kkXwe2.png" group-title="FR TV FULL HD|4K  (France)",|FR| LA CHAINE METEO FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| I-24 NEWS FHD" tvg-logo="http://i.imgur.com/XLpbftT.png" group-title="FR TV FULL HD|4K  (France)",|FR| I-24 NEWS FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROPE 1 FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| EUROPE 1 FHD
+http://r665.bid:80/live/xasez13/aHnr65d/26814.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="|FR| TV5 MONDE FHD" tvg-logo="https://i.imgur.com/nA8WWY4.png" group-title="FR TV FULL HD|4K  (France)",|FR| TV5 MONDE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/26761.m3u8
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="|FR| CSTAR FHD" tvg-logo="http://i.imgur.com/xD060vH.png" group-title="FR TV FULL HD|4K  (France)",|FR| CSTAR FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1949.m3u8
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="|FR| TF1 SERIES FILMS FHD" tvg-logo="https://i.imgur.com/DuiBYGb.png" group-title="FR TV FULL HD|4K  (France)",|FR| TF1 SERIES FILMS FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1224.m3u8
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="|FR| 6TER FHD" tvg-logo="https://i.imgur.com/izo01v1.png" group-title="FR TV FULL HD|4K  (France)",|FR| 6TER FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1950.m3u8
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="|FR| RMC STORY FHD" tvg-logo="https://i.imgur.com/QHuqqm0.png" group-title="FR TV FULL HD|4K  (France)",|FR| RMC STORY FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1951.m3u8
+#EXTINF:-1 tvg-id="RMCLife.fr" tvg-name="|FR| RMC LIFE FHD" tvg-logo="https://i.imgur.com/WyvPX86.png" group-title="FR TV FULL HD|4K  (France)",|FR| RMC LIFE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1919.m3u8
+#EXTINF:-1 tvg-id="SciFi.fr" tvg-name="|FR| SYFY FHD" tvg-logo="https://i.imgur.com/3LroLPZ.png" group-title="FR TV FULL HD|4K  (France)",|FR| SYFY FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1954.m3u8
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="|FR| PARIS PREMIERE FHD" tvg-logo="https://i.imgur.com/YGqu2LH.png" group-title="FR TV FULL HD|4K  (France)",|FR| PARIS PREMIERE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/2036.m3u8
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="|FR| TEVA FHD" tvg-logo="https://i.imgur.com/dtkursW.png" group-title="FR TV FULL HD|4K  (France)",|FR| TEVA FHD
+http://r665.bid:80/live/xasez13/aHnr65d/2035.m3u8
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="|FR| AB1 FHD" tvg-logo="http://i.imgur.com/p4rECc2.png" group-title="FR TV FULL HD|4K  (France)",|FR| AB1 FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1862.m3u8
+#EXTINF:-1 tvg-id="AB3.fr" tvg-name="|FR| AB3 FHD" tvg-logo="http://i.imgur.com/Q5B8PIC.png" group-title="FR TV FULL HD|4K  (France)",|FR| AB3 FHD
+http://r665.bid:80/live/xasez13/aHnr65d/2358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| KTO FHD" tvg-logo="https://i.imgur.com/mZBoWVd.png" group-title="FR TV FULL HD|4K  (France)",|FR| KTO FHD
+http://r665.bid:80/live/xasez13/aHnr65d/113572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ FR ▀▄▀▄  REGIONALES ▄▀▄▀▄▀" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",▀▄ FR ▀▄▀▄  REGIONALES ▄▀▄▀▄▀
+http://r665.bid:80/live/xasez13/aHnr65d/15498.m3u8
+#EXTINF:-1 tvg-id="France3Nord-PasDeCalais.fr" tvg-name="|FR| FRANCE 3 NOA FHD" tvg-logo="https://i.imgur.com/FkpI2fy.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 NOA FHD
+http://r665.bid:80/live/xasez13/aHnr65d/6047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 LANGUE-DOC ROUSSILLON FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 LANGUE-DOC ROUSSILLON FHD
+http://r665.bid:80/live/xasez13/aHnr65d/35215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 ALPES FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 ALPES FHD
+http://r665.bid:80/live/xasez13/aHnr65d/88991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 ALSACE FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 ALSACE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/88992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 AQUITAINE FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 AQUITAINE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/88993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 AUVERGNE FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 AUVERGNE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/88994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 BASSE-NORMANDIE FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 BASSE-NORMANDIE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/88995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 BOURGOGNE FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 BOURGOGNE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/88996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 BRETAGNE FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 BRETAGNE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/88997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 CENTRE FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 CENTRE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/88998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 Champagne-Ardenne FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 Champagne-Ardenne FHD
+http://r665.bid:80/live/xasez13/aHnr65d/88999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 CORSE VIA STELLA FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 CORSE VIA STELLA FHD
+http://r665.bid:80/live/xasez13/aHnr65d/89000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 COTE-D'AZUR FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 COTE-D'AZUR FHD
+http://r665.bid:80/live/xasez13/aHnr65d/89001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 Franche-Comté FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 Franche-Comté FHD
+http://r665.bid:80/live/xasez13/aHnr65d/89002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 HAUTE-NORMANDIE FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 HAUTE-NORMANDIE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/89003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 LIMOUSIN FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 LIMOUSIN FHD
+http://r665.bid:80/live/xasez13/aHnr65d/89004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 Lorraine FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 Lorraine FHD
+http://r665.bid:80/live/xasez13/aHnr65d/89005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 MIDI PYRENEES FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 MIDI PYRENEES FHD
+http://r665.bid:80/live/xasez13/aHnr65d/89006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 NORD PAS-DE-CALAIS FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 NORD PAS-DE-CALAIS FHD
+http://r665.bid:80/live/xasez13/aHnr65d/89007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 PARIS ILE DE FRANCE FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 PARIS ILE DE FRANCE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/89008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 Pays de Loire FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 Pays de Loire FHD
+http://r665.bid:80/live/xasez13/aHnr65d/89009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 PICARDIE FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 PICARDIE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/89010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 POTOU-CHARENTES FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 POTOU-CHARENTES FHD
+http://r665.bid:80/live/xasez13/aHnr65d/89011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 PROVENCE-ALPES FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 PROVENCE-ALPES FHD
+http://r665.bid:80/live/xasez13/aHnr65d/89012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 RHONES-ALPES FHD" tvg-logo="https://i.imgur.com/Hed6w0Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 RHONES-ALPES FHD
+http://r665.bid:80/live/xasez13/aHnr65d/89013.m3u8
+#EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-name="|FR| TV8 MONT BLANC FHD" tvg-logo="http://i.imgur.com/nSOlEXr.png" group-title="FR TV FULL HD|4K  (France)",|FR| TV8 MONT BLANC FHD
+http://r665.bid:80/live/xasez13/aHnr65d/5407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| LE FIGARO IDF FHD" tvg-logo="https://i.imgur.com/XrEcPD0.png" group-title="FR TV FULL HD|4K  (France)",|FR| LE FIGARO IDF FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1922.m3u8
+#EXTINF:-1 tvg-id="molotov/bfmlyonmtropole" tvg-name="|FR| BFM LYON FHD" tvg-logo="https://i.imgur.com/i8EkXJ8.png" group-title="FR TV FULL HD|4K  (France)",|FR| BFM LYON FHD
+http://r665.bid:80/live/xasez13/aHnr65d/32767.m3u8
+#EXTINF:-1 tvg-id="molotov/bfmmarseilleprovence" tvg-name="|FR| BFM MARSEILLE FHD" tvg-logo="https://i.imgur.com/pScWY7f.png" group-title="FR TV FULL HD|4K  (France)",|FR| BFM MARSEILLE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/41293.m3u8
+#EXTINF:-1 tvg-id="molotov/bfmdicihauteprovence" tvg-name="|FR| BFM DICI HAUTE PROVENCE FHD" tvg-logo="https://i.imgur.com/sMqJQGM.png" group-title="FR TV FULL HD|4K  (France)",|FR| BFM DICI HAUTE PROVENCE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/41298.m3u8
+#EXTINF:-1 tvg-id="molotov/bfmnicectedazur" tvg-name="|FR| BFM NICE FHD" tvg-logo="https://i.imgur.com/9wPFcdG.png" group-title="FR TV FULL HD|4K  (France)",|FR| BFM NICE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/41294.m3u8
+#EXTINF:-1 tvg-id="molotov/bfmdicialpesdusud" tvg-name="|FR| BFM DICI ALPES FHD" tvg-logo="https://i.imgur.com/sMqJQGM.png" group-title="FR TV FULL HD|4K  (France)",|FR| BFM DICI ALPES FHD
+http://r665.bid:80/live/xasez13/aHnr65d/41300.m3u8
+#EXTINF:-1 tvg-id="molotov/bfmtoulonvar" tvg-name="|FR| BFM TOULON FHD" tvg-logo="https://i.imgur.com/jM5ZaB0.png" group-title="FR TV FULL HD|4K  (France)",|FR| BFM TOULON FHD
+http://r665.bid:80/live/xasez13/aHnr65d/41296.m3u8
+#EXTINF:-1 tvg-id="molotov/bfmnormandie" tvg-name="|FR| BFM NORMANDIE FHD" tvg-logo="https://i.imgur.com/cejH8YG.png" group-title="FR TV FULL HD|4K  (France)",|FR| BFM NORMANDIE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/15004.m3u8
+#EXTINF:-1 tvg-id="molotov/bfmalsace" tvg-name="|FR| BFM ALSACE FHD" tvg-logo="https://i.imgur.com/PaQQnT2.png" group-title="FR TV FULL HD|4K  (France)",|FR| BFM ALSACE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/112147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TVPI BASQUE FHD" tvg-logo="https://i.imgur.com/LRKnkKi.png" group-title="FR TV FULL HD|4K  (France)",|FR| TVPI BASQUE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/45571.m3u8
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="|FR|  SQOOL TV FHD (EXCLUS)" tvg-logo="https://i.imgur.com/C9ADGZL.png" group-title="FR TV FULL HD|4K  (France)",|FR|  SQOOL TV FHD (EXCLUS)
+http://r665.bid:80/live/xasez13/aHnr65d/37194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ANGERS TÉLÉ FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| ANGERS TÉLÉ FHD
+http://r665.bid:80/live/xasez13/aHnr65d/26374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TV7 BORDEAUX FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| TV7 BORDEAUX FHD
+http://r665.bid:80/live/xasez13/aHnr65d/41329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MANDARIN TV FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| MANDARIN TV FHD
+http://r665.bid:80/live/xasez13/aHnr65d/37274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ZOUK TV FHD" tvg-logo="https://i.imgur.com/fO4CEkh.png" group-title="FR TV FULL HD|4K  (France)",|FR| ZOUK TV FHD
+http://r665.bid:80/live/xasez13/aHnr65d/37276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MAURIENNE TV FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| MAURIENNE TV FHD
+http://r665.bid:80/live/xasez13/aHnr65d/37300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TN TV FHD" tvg-logo="https://i.imgur.com/p66oRuc.png" group-title="FR TV FULL HD|4K  (France)",|FR| TN TV FHD
+http://r665.bid:80/live/xasez13/aHnr65d/37254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|INT| NHK WORLD JAPAN FHD" tvg-logo="https://i.imgur.com/ehouHJX.png" group-title="FR TV FULL HD|4K  (France)",|INT| NHK WORLD JAPAN FHD
+http://r665.bid:80/live/xasez13/aHnr65d/47140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ FR ▀▄▀▄  CANAL+ ▄▀▄▀▄▀" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",▀▄ FR ▀▄▀▄  CANAL+ ▄▀▄▀▄▀
+http://r665.bid:80/live/xasez13/aHnr65d/15497.m3u8
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="|FR| CANAL+ FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/UCW3nvN.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ FHD (DOUBLE AUDIO)
+http://r665.bid:80/live/xasez13/aHnr65d/1184.m3u8
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="|FR| CANAL+ FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/UCW3nvN.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ FHD+ (Resolution Exclusive)
+http://r665.bid:80/live/xasez13/aHnr65d/12784.m3u8
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="|FR| CANAL+ 4K HDR UHD (Résolution Exclusive)" tvg-logo="https://i.imgur.com/VS7FjBB.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ 4K HDR UHD (Résolution Exclusive)
+http://r665.bid:80/live/xasez13/aHnr65d/4075.m3u8
+#EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE FHD" tvg-logo="https://i.imgur.com/VgFbZDF.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ BOX OFFICE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/97972.m3u8
+#EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/VgFbZDF.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)
+http://r665.bid:80/live/xasez13/aHnr65d/12786.m3u8
+#EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE 4K UHD" tvg-logo="https://i.imgur.com/WVqzvbp.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ BOX OFFICE 4K UHD
+http://r665.bid:80/live/xasez13/aHnr65d/112612.m3u8
+#EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="|FR| CANAL+ GRAND ECRAN FHD" tvg-logo="https://i.imgur.com/XH23epL.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ GRAND ECRAN FHD
+http://r665.bid:80/live/xasez13/aHnr65d/37725.m3u8
+#EXTINF:-1 tvg-id="Canal+Kids.fr" tvg-name="|FR| CANAL+ KIDS FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/N5vl8N9.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ KIDS FHD (DOUBLE AUDIO)
+http://r665.bid:80/live/xasez13/aHnr65d/1186.m3u8
+#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name="|FR| CANAL+ KIDS FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/N5vl8N9.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ KIDS FHD+ (Resolution Exclusive)
+http://r665.bid:80/live/xasez13/aHnr65d/12783.m3u8
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="|FR| CANAL+ CINEMA.(S) FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/dcBsUXx.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ CINEMA.(S) FHD (DOUBLE AUDIO)
+http://r665.bid:80/live/xasez13/aHnr65d/1185.m3u8
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="|FR| CANAL+ CINEMA.(S) FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/dcBsUXx.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ CINEMA.(S) FHD+ (Resolution Exclusive)
+http://r665.bid:80/live/xasez13/aHnr65d/12788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ FR ▀▄▀▄  CINEMA  ▄▀▄▀▄▀" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",▀▄ FR ▀▄▀▄  CINEMA  ▄▀▄▀▄▀
+http://r665.bid:80/live/xasez13/aHnr65d/15499.m3u8
+#EXTINF:-1 tvg-id="CinePlusFamily.fr" tvg-name="|FR| CINE FAMILY FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/JoMPhx8.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FAMILY FHD (DOUBLE AUDIO)
+http://r665.bid:80/live/xasez13/aHnr65d/1913.m3u8
+#EXTINF:-1 tvg-id="CinePlusFamily.fr" tvg-name="|FR| CINE FAMILY FHD+ (Resolution Exclusive)" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FAMILY FHD+ (Resolution Exclusive)
+http://r665.bid:80/live/xasez13/aHnr65d/19646.m3u8
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="|FR| CINE EMOTION FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/ZMLffve.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE EMOTION FHD (DOUBLE AUDIO)
+http://r665.bid:80/live/xasez13/aHnr65d/1910.m3u8
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="|FR| CINE EMOTION FHD+ (Resolution Exclusive)" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| CINE EMOTION FHD+ (Resolution Exclusive)
+http://r665.bid:80/live/xasez13/aHnr65d/19654.m3u8
+#EXTINF:-1 tvg-id="OCS.fr" tvg-name="|FR| CINE OCS FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/ODNEJ6B.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE OCS FHD (DOUBLE AUDIO)
+http://r665.bid:80/live/xasez13/aHnr65d/1914.m3u8
+#EXTINF:-1 tvg-id="OCS.fr" tvg-name="|FR| CINE OCS FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/ODNEJ6B.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE OCS FHD+ (Resolution Exclusive)
+http://r665.bid:80/live/xasez13/aHnr65d/19626.m3u8
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="|FR| CINE FRISSON FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/HO348GI.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FRISSON FHD (DOUBLE AUDIO)
+http://r665.bid:80/live/xasez13/aHnr65d/1912.m3u8
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="|FR| CINE FRISSON FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/HO348GI.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FRISSON FHD+ (Resolution Exclusive)
+http://r665.bid:80/live/xasez13/aHnr65d/19655.m3u8
+#EXTINF:-1 tvg-id="CinecinemaClassic.fr" tvg-name="|FR| CINE CLASSIC FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/0TaDF7Y.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE CLASSIC FHD (DOUBLE AUDIO)
+http://r665.bid:80/live/xasez13/aHnr65d/1911.m3u8
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="|FR| CINE CLASSIC FHD+ (Resolution Exclusive)" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| CINE CLASSIC FHD+ (Resolution Exclusive)
+http://r665.bid:80/live/xasez13/aHnr65d/19674.m3u8
+#EXTINF:-1 tvg-id="CinePlusFestival.fr" tvg-name="|FR| CINE FESTIVAL FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/UotczGN.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FESTIVAL FHD (DOUBLE AUDIO)
+http://r665.bid:80/live/xasez13/aHnr65d/1920.m3u8
+#EXTINF:-1 tvg-id="CinePlusFestival.fr" tvg-name="|FR| CINE FESTIVAL FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/UotczGN.png" group-title="FR TV FULL HD|4K  (France)",|FR| CINE FESTIVAL FHD+ (Resolution Exclusive)
+http://r665.bid:80/live/xasez13/aHnr65d/19557.m3u8
+#EXTINF:-1 tvg-id="PolarPlus.fr" tvg-name="|FR| POLAR+ FHD" tvg-logo="https://i.imgur.com/RFjyYV1.png" group-title="FR TV FULL HD|4K  (France)",|FR| POLAR+ FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1807.m3u8
+#EXTINF:-1 tvg-id="PolarPlus.fr" tvg-name="|FR| POLAR+ FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/RFjyYV1.png" group-title="FR TV FULL HD|4K  (France)",|FR| POLAR+ FHD+ (Resolution Exclusive)
+http://r665.bid:80/live/xasez13/aHnr65d/6987.m3u8
+#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-name="|FR| TV BREIZH FHD" tvg-logo="https://i.imgur.com/k8TcnxU.png" group-title="FR TV FULL HD|4K  (France)",|FR| TV BREIZH FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1959.m3u8
+#EXTINF:-1 tvg-id="TCM.fr" tvg-name="|FR| TCM CINEMA FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/88Ilenw.png" group-title="FR TV FULL HD|4K  (France)",|FR| TCM CINEMA FHD (DOUBLE AUDIO)
+http://r665.bid:80/live/xasez13/aHnr65d/1961.m3u8
+#EXTINF:-1 tvg-id="TCM.fr" tvg-name="|FR| TCM CINEMA FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/88Ilenw.png" group-title="FR TV FULL HD|4K  (France)",|FR| TCM CINEMA FHD+ (Resolution Exclusive)
+http://r665.bid:80/live/xasez13/aHnr65d/12083.m3u8
+#EXTINF:-1 tvg-id="Eurochannel.fr" tvg-name="|FR| EUROCHANNEL FHD" tvg-logo="https://i.imgur.com/kOzb1Jl.png" group-title="FR TV FULL HD|4K  (France)",|FR| EUROCHANNEL FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1315.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaEn.eg" tvg-name="|FR| ROTANA CINEMA VOSTFR FHD (CHAINE EXCLUS)" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| ROTANA CINEMA VOSTFR FHD (CHAINE EXCLUS)
+http://r665.bid:80/live/xasez13/aHnr65d/18269.m3u8
+#EXTINF:-1 tvg-id="molotov/driveinmoviechannel" tvg-name="|FR| DRIVE IN MOVIE FHD" tvg-logo="https://i.imgur.com/u71b74Q.png" group-title="FR TV FULL HD|4K  (France)",|FR| DRIVE IN MOVIE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/41386.m3u8
+#EXTINF:-1 tvg-id="Warnertv.fr" tvg-name="|FR| WARNER BROS TV FHD (EXCLUS)" tvg-logo="https://i.imgur.com/QMKrTeq.png" group-title="FR TV FULL HD|4K  (France)",|FR| WARNER BROS TV FHD (EXCLUS)
+http://r665.bid:80/live/xasez13/aHnr65d/2118.m3u8
+#EXTINF:-1 tvg-id="NovelasTV.fr" tvg-name="|FR| NOVELAS FHD" tvg-logo="https://i.imgur.com/nPObgMs.png" group-title="FR TV FULL HD|4K  (France)",|FR| NOVELAS FHD
+http://r665.bid:80/live/xasez13/aHnr65d/2200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ FR ▀▄▀▄  DIVERTISSEMENT ▄▀▄▀▄▀" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",▀▄ FR ▀▄▀▄  DIVERTISSEMENT ▄▀▄▀▄▀
+http://r665.bid:80/live/xasez13/aHnr65d/15500.m3u8
+#EXTINF:-1 tvg-id="rolandgarros_sonyonesriescomdie" tvg-name="|FR| L'EQUIPE CINEMA FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| L'EQUIPE CINEMA FHD
+http://r665.bid:80/live/xasez13/aHnr65d/584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BOUYGUES COMEDY FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| BOUYGUES COMEDY FHD
+http://r665.bid:80/live/xasez13/aHnr65d/7014.m3u8
+#EXTINF:-1 tvg-id="rolandgarros_sonyonefavoris" tvg-name="|FR| SONY ONE FAVORIS FHD" tvg-logo="https://i.imgur.com/Tpie4gs.png" group-title="FR TV FULL HD|4K  (France)",|FR| SONY ONE FAVORIS FHD
+http://r665.bid:80/live/xasez13/aHnr65d/26507.m3u8
+#EXTINF:-1 tvg-id="rolandgarros_sonyonesriescomdie" tvg-name="|FR| BOUYGUES CINEMA FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| BOUYGUES CINEMA FHD
+http://r665.bid:80/live/xasez13/aHnr65d/540.m3u8
+#EXTINF:-1 tvg-id="rolandgarros_sonyonesriesthriller" tvg-name="|FR| SONY ONE SERIES THRILLER FHD" tvg-logo="https://i.imgur.com/ZyQUvMI.png" group-title="FR TV FULL HD|4K  (France)",|FR| SONY ONE SERIES THRILLER FHD
+http://r665.bid:80/live/xasez13/aHnr65d/544.m3u8
+#EXTINF:-1 tvg-id="rolandgarros_sonyonehitsaction" tvg-name="|FR| SONY ONE HITS ACTION FHD" tvg-logo="https://i.imgur.com/oEhrOke.png" group-title="FR TV FULL HD|4K  (France)",|FR| SONY ONE HITS ACTION FHD
+http://r665.bid:80/live/xasez13/aHnr65d/546.m3u8
+#EXTINF:-1 tvg-id="rolandgarros_sonyonehitscomedie" tvg-name="|FR| SONY ONE HITS COMEDIE FHD" tvg-logo="https://i.imgur.com/ob1dTOn.png" group-title="FR TV FULL HD|4K  (France)",|FR| SONY ONE HITS COMEDIE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/548.m3u8
+#EXTINF:-1 tvg-id="molotov/frquencenovelas" tvg-name="|FR| FREQUENCE NOVELAS FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| FREQUENCE NOVELAS FHD
+http://r665.bid:80/live/xasez13/aHnr65d/3454.m3u8
+#EXTINF:-1 tvg-id="13RUE.fr" tvg-name="|FR| 13EME RUE FHD" tvg-logo="http://i.imgur.com/uXsRcHF.png" group-title="FR TV FULL HD|4K  (France)",|FR| 13EME RUE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1956.m3u8
+#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="|FR| SERIE CLUB FHD" tvg-logo="http://i.imgur.com/uo0Y3Cr.png" group-title="FR TV FULL HD|4K  (France)",|FR| SERIE CLUB FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1917.m3u8
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="|FR| COMEDIE + FHD" tvg-logo="http://i.imgur.com/IoJvRKS.png" group-title="FR TV FULL HD|4K  (France)",|FR| COMEDIE + FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1918.m3u8
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="|FR| COMEDIE + FHD+ (Resolution Exclusive)" tvg-logo="http://i.imgur.com/IoJvRKS.png" group-title="FR TV FULL HD|4K  (France)",|FR| COMEDIE + FHD+ (Resolution Exclusive)
+http://r665.bid:80/live/xasez13/aHnr65d/12123.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="|FR| COMEDY CENTRAL FRANCE FHD" tvg-logo="http://i.imgur.com/YwFrAKY.png" group-title="FR TV FULL HD|4K  (France)",|FR| COMEDY CENTRAL FRANCE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/12024.m3u8
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="|FR| ACTION FHD" tvg-logo="http://i.imgur.com/hPVankO.png" group-title="FR TV FULL HD|4K  (France)",|FR| ACTION FHD
+http://r665.bid:80/live/xasez13/aHnr65d/2548.m3u8
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="|FR| RTL9 FHD" tvg-logo="https://i.imgur.com/HKOl2BM.png" group-title="FR TV FULL HD|4K  (France)",|FR| RTL9 FHD
+http://r665.bid:80/live/xasez13/aHnr65d/2038.m3u8
+#EXTINF:-1 tvg-id="Nollywood.fr" tvg-name="|FR| NOLLYWOOD FHD" tvg-logo="http://i.imgur.com/xTQQ8wR.png" group-title="FR TV FULL HD|4K  (France)",|FR| NOLLYWOOD FHD
+http://r665.bid:80/live/xasez13/aHnr65d/6044.m3u8
+#EXTINF:-1 tvg-id="A+.fr" tvg-name="|FR| A+ FHD" tvg-logo="https://i.imgur.com/AwWWvIA.png" group-title="FR TV FULL HD|4K  (France)",|FR| A+ FHD
+http://r665.bid:80/live/xasez13/aHnr65d/22550.m3u8
+#EXTINF:-1 tvg-id="E!Entertainment.fr" tvg-name="|FR| E! FHD" tvg-logo="http://i.imgur.com/kYTUpES.png" group-title="FR TV FULL HD|4K  (France)",|FR| E! FHD
+http://r665.bid:80/live/xasez13/aHnr65d/37218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ FR ▀▄▀▄  DECOUVERTE ▄▀▄▀▄▀" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",▀▄ FR ▀▄▀▄  DECOUVERTE ▄▀▄▀▄▀
+http://r665.bid:80/live/xasez13/aHnr65d/15501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC J'IRAI DORMIR CHEZ VOUS FHD" tvg-logo="https://i.imgur.com/p3Wp9gW.png" group-title="FR TV FULL HD|4K  (France)",|FR| RMC J'IRAI DORMIR CHEZ VOUS FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1188.m3u8
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="|FR| RMC ALERTE SECOURS FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| RMC ALERTE SECOURS FHD
+http://r665.bid:80/live/xasez13/aHnr65d/13127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC MYSTERE FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| RMC MYSTERE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/74057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC WOW FHD" tvg-logo="https://i.imgur.com/bYjWuv7.png" group-title="FR TV FULL HD|4K  (France)",|FR| RMC WOW FHD
+http://r665.bid:80/live/xasez13/aHnr65d/100973.m3u8
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="|FR| RMC DECOUVERTE FHD" tvg-logo="http://i.imgur.com/G26GVRL.png" group-title="FR TV FULL HD|4K  (France)",|FR| RMC DECOUVERTE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1903.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="|FR| DISCOVERY CHANNEL FHD" tvg-logo="http://i.imgur.com/jvvbM2m.png" group-title="FR TV FULL HD|4K  (France)",|FR| DISCOVERY CHANNEL FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1708.m3u8
+#EXTINF:-1 tvg-id="TLC.fr" tvg-name="|FR| TLC FHD (DOUBLE AUDIO)" tvg-logo="https://i.imgur.com/mDsmM41.png" group-title="FR TV FULL HD|4K  (France)",|FR| TLC FHD (DOUBLE AUDIO)
+http://r665.bid:80/live/xasez13/aHnr65d/1709.m3u8
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="|FR| DISCOVERY INVESTIGATION FHD" tvg-logo="http://i.imgur.com/Xbwkt2A.png" group-title="FR TV FULL HD|4K  (France)",|FR| DISCOVERY INVESTIGATION FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1841.m3u8
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="|FR| PLANETE + FHD" tvg-logo="http://i.imgur.com/U8yRpeh.png" group-title="FR TV FULL HD|4K  (France)",|FR| PLANETE + FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1160.m3u8
+#EXTINF:-1 tvg-id="PlanetePlusAventure.fr" tvg-name="|FR| PLANETE+ AVENTURE FHD" tvg-logo="https://i.imgur.com/nplgBz3.png" group-title="FR TV FULL HD|4K  (France)",|FR| PLANETE+ AVENTURE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1159.m3u8
+#EXTINF:-1 tvg-id="PlanetePlusCrime.fr" tvg-name="|FR| PLANETE+ CRIME INVESTIGATION FHD" tvg-logo="https://i.imgur.com/oEtyKkP.png" group-title="FR TV FULL HD|4K  (France)",|FR| PLANETE+ CRIME INVESTIGATION FHD
+http://r665.bid:80/live/xasez13/aHnr65d/20.m3u8
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="|FR| ANIMAUX FHD" tvg-logo="http://i.imgur.com/MumCKYT.png" group-title="FR TV FULL HD|4K  (France)",|FR| ANIMAUX FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1844.m3u8
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="|FR| USHUAIA TV FHD" tvg-logo="https://i.imgur.com/zuW8DkU.png" group-title="FR TV FULL HD|4K  (France)",|FR| USHUAIA TV FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1032.m3u8
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="|FR| USHUAIA TV FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/zuW8DkU.png" group-title="FR TV FULL HD|4K  (France)",|FR| USHUAIA TV FHD+ (Resolution Exclusive)
+http://r665.bid:80/live/xasez13/aHnr65d/19667.m3u8
+#EXTINF:-1 tvg-id="NatGeo.fr" tvg-name="|FR| NATIONAL GEO FHD" tvg-logo="http://i.imgur.com/XqYWZwL.png" group-title="FR TV FULL HD|4K  (France)",|FR| NATIONAL GEO FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1557.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="|FR| NATIONAL GEO FHD+ (Resolution Exclusive)" tvg-logo="http://i.imgur.com/XqYWZwL.png" group-title="FR TV FULL HD|4K  (France)",|FR| NATIONAL GEO FHD+ (Resolution Exclusive)
+http://r665.bid:80/live/xasez13/aHnr65d/19709.m3u8
+#EXTINF:-1 tvg-id="NatGeoWildHD.fr" tvg-name="|FR| NATIONAL GEO WILD FHD" tvg-logo="http://i.imgur.com/ujxfO8I.png" group-title="FR TV FULL HD|4K  (France)",|FR| NATIONAL GEO WILD FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1556.m3u8
+#EXTINF:-1 tvg-id="NatGeoWildHD.fr" tvg-name="|FR| NATIONAL GEO WILD FHD+ (Resolution Exclusive)" tvg-logo="http://i.imgur.com/ujxfO8I.png" group-title="FR TV FULL HD|4K  (France)",|FR| NATIONAL GEO WILD FHD+ (Resolution Exclusive)
+http://r665.bid:80/live/xasez13/aHnr65d/19712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BFM GRANDS REPORTAGES FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2GIgT1GfttlArrAaG0V5UIlyNEZV8GdxpQ&s" group-title="FR TV FULL HD|4K  (France)",|FR| BFM GRANDS REPORTAGES FHD
+http://r665.bid:80/live/xasez13/aHnr65d/112526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FESTIVAL 4K HDR" tvg-logo="https://i.imgur.com/6jZZe5k.png" group-title="FR TV FULL HD|4K  (France)",|FR| FESTIVAL 4K HDR
+http://r665.bid:80/live/xasez13/aHnr65d/37303.m3u8
+#EXTINF:-1 tvg-id="molotov/drivetv" tvg-name="|FR| DRIVE TV FHD" tvg-logo="https://i.imgur.com/emorVCA.png" group-title="FR TV FULL HD|4K  (France)",|FR| DRIVE TV FHD
+http://r665.bid:80/live/xasez13/aHnr65d/37239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TOP SANTE FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| TOP SANTE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/41385.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| L'ESPRIT SORCIER TV FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| L'ESPRIT SORCIER TV FHD
+http://r665.bid:80/live/xasez13/aHnr65d/111932.m3u8
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="|FR| SEASONS FHD" tvg-logo="http://i.imgur.com/h9toD9A.png" group-title="FR TV FULL HD|4K  (France)",|FR| SEASONS FHD
+http://r665.bid:80/live/xasez13/aHnr65d/2026.m3u8
+#EXTINF:-1 tvg-id="ScienceEtVie.fr" tvg-name="|FR| SCIENCE & VIE FHD" tvg-logo="http://i.imgur.com/6YTjNms.png" group-title="FR TV FULL HD|4K  (France)",|FR| SCIENCE & VIE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1840.m3u8
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="|FR| TREK FHD" tvg-logo="http://i.imgur.com/JIhGGbK.png" group-title="FR TV FULL HD|4K  (France)",|FR| TREK FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MYZEN NATURE FHD (EXCLUS)" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| MYZEN NATURE FHD (EXCLUS)
+http://r665.bid:80/live/xasez13/aHnr65d/37158.m3u8
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="|FR| HISTOIRE FHD" tvg-logo="http://i.imgur.com/RfsND7T.png" group-title="FR TV FULL HD|4K  (France)",|FR| HISTOIRE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1904.m3u8
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="|FR| TOUTE L'HISTOIRE FHD" tvg-logo="http://i.imgur.com/idnkI0P.png" group-title="FR TV FULL HD|4K  (France)",|FR| TOUTE L'HISTOIRE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/20313.m3u8
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="|FR| CHASSE ET PECHE FHD" tvg-logo="http://i.imgur.com/lOKG9YK.png" group-title="FR TV FULL HD|4K  (France)",|FR| CHASSE ET PECHE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/3952.m3u8
+#EXTINF:-1 tvg-id="TVLux.be" tvg-name="|FR| LUXE TV 4K UHD" tvg-logo="https://i.imgur.com/1pVyxZ0.png" group-title="FR TV FULL HD|4K  (France)",|FR| LUXE TV 4K UHD
+http://r665.bid:80/live/xasez13/aHnr65d/19566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NAUTICAL FHD" tvg-logo="https://i.imgur.com/9FTrfUl.png" group-title="FR TV FULL HD|4K  (France)",|FR| NAUTICAL FHD
+http://r665.bid:80/live/xasez13/aHnr65d/19572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| GOURMAND TV FHD" tvg-logo="https://i.imgur.com/QcfvaKB.png" group-title="FR TV FULL HD|4K  (France)",|FR| GOURMAND TV FHD
+http://r665.bid:80/live/xasez13/aHnr65d/37269.m3u8
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="|FR| CRIME DISTRICT FHD" tvg-logo="http://i.imgur.com/xxZknyc.png" group-title="FR TV FULL HD|4K  (France)",|FR| CRIME DISTRICT FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| L'EQUIPE NATURE FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| L'EQUIPE NATURE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/22643.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| LOVE NATURE FHD" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="FR TV FULL HD|4K  (France)",|FR| LOVE NATURE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/201649.m3u8
+#EXTINF:-1 tvg-id="rolandgarros_bbcearth" tvg-name="|FR| BBC EARTH FRANCE FHD (EXCLUSIVE)" tvg-logo="https://i.imgur.com/0871wul.png" group-title="FR TV FULL HD|4K  (France)",|FR| BBC EARTH FRANCE FHD (EXCLUSIVE)
+http://r665.bid:80/live/xasez13/aHnr65d/19738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| IMEARTH FHD (EXCLUS)" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| IMEARTH FHD (EXCLUS)
+http://r665.bid:80/live/xasez13/aHnr65d/92332.m3u8
+#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="|FR| CANAL+ DOCS FHD" tvg-logo="https://i.imgur.com/goQLZwi.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ DOCS FHD
+http://r665.bid:80/live/xasez13/aHnr65d/7015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  STINGRAY NATURE ESCAPE FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR|  STINGRAY NATURE ESCAPE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/37192.m3u8
+#EXTINF:-1 tvg-id="Museum.fr" tvg-name="|FR| MUSEUM CHANNEL FHD" tvg-logo="https://i.imgur.com/gbbZfIM.png" group-title="FR TV FULL HD|4K  (France)",|FR| MUSEUM CHANNEL FHD
+http://r665.bid:80/live/xasez13/aHnr65d/13183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ FR ▀▄▀▄  MUSIQUE ▄▀▄▀▄▀" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",▀▄ FR ▀▄▀▄  MUSIQUE ▄▀▄▀▄▀
+http://r665.bid:80/live/xasez13/aHnr65d/15502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROPE 2 POP TV FHD" tvg-logo="https://i.imgur.com/BiYWkLT.png" group-title="FR TV FULL HD|4K  (France)",|FR| EUROPE 2 POP TV FHD
+http://r665.bid:80/live/xasez13/aHnr65d/4639.m3u8
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="|FR| MCM FHD" tvg-logo="http://i.imgur.com/1VkwqMc.png" group-title="FR TV FULL HD|4K  (France)",|FR| MCM FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1156.m3u8
+#EXTINF:-1 tvg-id="M6Music.fr" tvg-name="|FR| M6 MUSIC FHD" tvg-logo="http://i.imgur.com/6z1bBZ5.png" group-title="FR TV FULL HD|4K  (France)",|FR| M6 MUSIC FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1838.m3u8
+#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="|FR| RFM TV FHD" tvg-logo="http://i.imgur.com/OKbiTGo.png" group-title="FR TV FULL HD|4K  (France)",|FR| RFM TV FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| POWER TV FHD" tvg-logo="https://i.imgur.com/3ORlBdX.png" group-title="FR TV FULL HD|4K  (France)",|FR| POWER TV FHD
+http://r665.bid:80/live/xasez13/aHnr65d/37304.m3u8
+#EXTINF:-1 tvg-id="TeleMelody.fr" tvg-name="|FR| TELE MELODY FHD" tvg-logo="https://i.imgur.com/SwS2Oy1.png" group-title="FR TV FULL HD|4K  (France)",|FR| TELE MELODY FHD
+http://r665.bid:80/live/xasez13/aHnr65d/2725.m3u8
+#EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="|FR| NRJ HITS FHD" tvg-logo="https://i.imgur.com/wypsC0g.png" group-title="FR TV FULL HD|4K  (France)",|FR| NRJ HITS FHD
+http://r665.bid:80/live/xasez13/aHnr65d/5743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| VIBES TV FHD" tvg-logo="https://i.imgur.com/6uikc3m.png" group-title="FR TV FULL HD|4K  (France)",|FR| VIBES TV FHD
+http://r665.bid:80/live/xasez13/aHnr65d/5087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| GENERATIONS TV FHD" tvg-logo="https://i.imgur.com/VxKnpYJ.png" group-title="FR TV FULL HD|4K  (France)",|FR| GENERATIONS TV FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1906.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="|FR| TRACE URBAN FHD" tvg-logo="http://i.imgur.com/B0cz4FY.png" group-title="FR TV FULL HD|4K  (France)",|FR| TRACE URBAN FHD
+http://r665.bid:80/live/xasez13/aHnr65d/4458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TRACE CARIBBEAN FHD" tvg-logo="https://i.imgur.com/5mSPHPL.png" group-title="FR TV FULL HD|4K  (France)",|FR| TRACE CARIBBEAN FHD
+http://r665.bid:80/live/xasez13/aHnr65d/22574.m3u8
+#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="|FR| TRACE LATINA FHD" tvg-logo="https://i.imgur.com/8toxc7m.png" group-title="FR TV FULL HD|4K  (France)",|FR| TRACE LATINA FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1243.m3u8
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="|FR| MTV FRANCE FHD" tvg-logo="http://i.imgur.com/yKodmlz.png" group-title="FR TV FULL HD|4K  (France)",|FR| MTV FRANCE FHD
+http://r665.bid:80/live/xasez13/aHnr65d/2760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MUSEUM 4K FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/LOGO_MUSEUM_BLUE_02.png" group-title="FR TV FULL HD|4K  (France)",|FR| MUSEUM 4K FHD
+http://r665.bid:80/live/xasez13/aHnr65d/960.m3u8
+#EXTINF:-1 tvg-id="StingrayIconcerts.fr" tvg-name="|FR| STINGRAY iCONCERTS FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| STINGRAY iCONCERTS FHD
+http://r665.bid:80/live/xasez13/aHnr65d/112214.m3u8
+#EXTINF:-1 tvg-id="StingrayDjazz.fr" tvg-name="|FR| DJAZZ TV FHD" tvg-logo="https://i.imgur.com/dBJjhD6.png" group-title="FR TV FULL HD|4K  (France)",|FR| DJAZZ TV FHD
+http://r665.bid:80/live/xasez13/aHnr65d/5404.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ FR ▀▄▀▄  JEUNESSE ▄▀▄▀▄▀" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",▀▄ FR ▀▄▀▄  JEUNESSE ▄▀▄▀▄▀
+http://r665.bid:80/live/xasez13/aHnr65d/15503.m3u8
+#EXTINF:-1 tvg-id="molotov/mggtv" tvg-name="|FR| MGG TV FHD" tvg-logo="https://i.imgur.com/uU5tp5g.png" group-title="FR TV FULL HD|4K  (France)",|FR| MGG TV FHD
+http://r665.bid:80/live/xasez13/aHnr65d/37202.m3u8
+#EXTINF:-1 tvg-id="Gong.fr" tvg-name="|FR| GONG FHD" tvg-logo="http://i.imgur.com/G2eSPjE.png" group-title="FR TV FULL HD|4K  (France)",|FR| GONG FHD
+http://r665.bid:80/live/xasez13/aHnr65d/34967.m3u8
+#EXTINF:-1 tvg-id="molotov/gongmax" tvg-name="|FR| GONG MAX FHD" tvg-logo="https://i.imgur.com/EA08Kuz.png" group-title="FR TV FULL HD|4K  (France)",|FR| GONG MAX FHD
+http://r665.bid:80/live/xasez13/aHnr65d/542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ONE TV FHD" tvg-logo="https://i.imgur.com/XgUuoK4.png" group-title="FR TV FULL HD|4K  (France)",|FR| ONE TV FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ES1 FHD" tvg-logo="https://i.imgur.com/Cd0wOug.png" group-title="FR TV FULL HD|4K  (France)",|FR| ES1 FHD
+http://r665.bid:80/live/xasez13/aHnr65d/10025.m3u8
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="|FR| MANGAS FHD" tvg-logo="http://i.imgur.com/uWx6McR.png" group-title="FR TV FULL HD|4K  (France)",|FR| MANGAS FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1966.m3u8
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name="|FR| CARTOONITO FHD" tvg-logo="http://i.imgur.com/qahzABa.png" group-title="FR TV FULL HD|4K  (France)",|FR| CARTOONITO FHD
+http://r665.bid:80/live/xasez13/aHnr65d/2236.m3u8
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="|FR| GULLI FHD" tvg-logo="http://i.imgur.com/fauSaUQ.png" group-title="FR TV FULL HD|4K  (France)",|FR| GULLI FHD
+http://r665.bid:80/live/xasez13/aHnr65d/2237.m3u8
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="|FR| BOOMERANG FHD" tvg-logo="http://i.imgur.com/UEwxL0D.png" group-title="FR TV FULL HD|4K  (France)",|FR| BOOMERANG FHD
+http://r665.bid:80/live/xasez13/aHnr65d/2108.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="|FR| CARTOON NETWORK FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/QznQYb7.png" group-title="FR TV FULL HD|4K  (France)",|FR| CARTOON NETWORK FHD (DOUBLE AUDIO)
+http://r665.bid:80/live/xasez13/aHnr65d/2109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PITCHOUN FHD" tvg-logo="https://i.imgur.com/Vrgse5x.png" group-title="FR TV FULL HD|4K  (France)",|FR| PITCHOUN FHD
+http://r665.bid:80/live/xasez13/aHnr65d/37280.m3u8
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="|FR| WARNER TV NEXT FHD" tvg-logo="http://i.imgur.com/feS6esO.png" group-title="FR TV FULL HD|4K  (France)",|FR| WARNER TV NEXT FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1020.m3u8
+#EXTINF:-1 tvg-id="TeleTOON.fr" tvg-name="|FR| TELETOON+ FHD" tvg-logo="http://i.imgur.com/Mr0vd3I.png" group-title="FR TV FULL HD|4K  (France)",|FR| TELETOON+ FHD
+http://r665.bid:80/live/xasez13/aHnr65d/2761.m3u8
+#EXTINF:-1 tvg-id="TeleTOONplus1.fr" tvg-name="|FR| TELETOON +1 FHD" tvg-logo="https://i.imgur.com/cwZ16Rx.png" group-title="FR TV FULL HD|4K  (France)",|FR| TELETOON +1 FHD
+http://r665.bid:80/live/xasez13/aHnr65d/37285.m3u8
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="|FR| PIWI FHD" tvg-logo="http://i.imgur.com/mSG6wsI.png" group-title="FR TV FULL HD|4K  (France)",|FR| PIWI FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1031.m3u8
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="|FR| CANAL J FHD" tvg-logo="https://i.imgur.com/O43pwPr.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL J FHD
+http://r665.bid:80/live/xasez13/aHnr65d/2235.m3u8
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="|FR| TIJI FHD" tvg-logo="http://i.imgur.com/IF20YLE.png" group-title="FR TV FULL HD|4K  (France)",|FR| TIJI FHD
+http://r665.bid:80/live/xasez13/aHnr65d/126.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="|FR| DISNEY JUNIOR FHD" tvg-logo="https://i.imgur.com/WT3AzQD.png" group-title="FR TV FULL HD|4K  (France)",|FR| DISNEY JUNIOR FHD
+http://r665.bid:80/live/xasez13/aHnr65d/2234.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="|FR| DISNEY CHANNEL FHD" tvg-logo="http://i.imgur.com/YKSujcL.png" group-title="FR TV FULL HD|4K  (France)",|FR| DISNEY CHANNEL FHD
+http://r665.bid:80/live/xasez13/aHnr65d/2231.m3u8
+#EXTINF:-1 tvg-id="Disney+.fr" tvg-name="|FR| DREAMWORKS FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| DREAMWORKS FHD
+http://r665.bid:80/live/xasez13/aHnr65d/1157.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelPlus1.fr" tvg-name="|FR| DISNEY CHANNEL +1 FHD" tvg-logo="http://i.imgur.com/DVy30Dw.png" group-title="FR TV FULL HD|4K  (France)",|FR| DISNEY CHANNEL +1 FHD
+http://r665.bid:80/live/xasez13/aHnr65d/37219.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="|FR| NICKELODEON FHD" tvg-logo="http://i.imgur.com/CZTnf46.png" group-title="FR TV FULL HD|4K  (France)",|FR| NICKELODEON FHD
+http://r665.bid:80/live/xasez13/aHnr65d/2034.m3u8
+#EXTINF:-1 tvg-id="NickelodeonPlus1.fr" tvg-name="|FR| NICKELODEON +1 FHD" tvg-logo="http://i.imgur.com/CZTnf46.png" group-title="FR TV FULL HD|4K  (France)",|FR| NICKELODEON +1 FHD
+http://r665.bid:80/live/xasez13/aHnr65d/6045.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon4Teen.fr" tvg-name="|FR| NICKELODEON 4 TEEN FHD" tvg-logo="http://i.imgur.com/Siw7giG.png" group-title="FR TV FULL HD|4K  (France)",|FR| NICKELODEON 4 TEEN FHD
+http://r665.bid:80/live/xasez13/aHnr65d/2587.m3u8
+#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="|FR| NICKELODEON JUNIOR FHD" tvg-logo="https://i.imgur.com/GZ2zgdf.png" group-title="FR TV FULL HD|4K  (France)",|FR| NICKELODEON JUNIOR FHD
+http://r665.bid:80/live/xasez13/aHnr65d/2588.m3u8
