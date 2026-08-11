@@ -104,3 +104,6 @@ https://github.com/raid35/channel-links/raw/main/movies.m3u
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
 https://raw.githubusercontent.com/a78521/MPD/refs/heads/main/MPD
 
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
+https://raw.githubusercontent.com/Alyassinn/premium/Alyassin/abdo.m3u
+
