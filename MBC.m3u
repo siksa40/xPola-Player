@@ -1,4 +1,8 @@
 #EXTM3U
+https://ev-fast-mpd.starzplayarabia.com/live/eds/StarzPlay_Series/DASH/StarzPlay_Series.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b527f6115e7a3a6c8eed0cf215fb6c89:21737a3769189c6dca4169382884c8b4
 #EXTINF:-1 tvg-id="MBC 1 HD.sa" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/rRwmJm8c/mbc-1.png" group-title="MBC",MBC 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
 #EXTINF:-1 tvg-id="MBC Drama HD.sa" tvg-name="MBC DRAMA" tvg-logo="https://i.ibb.co/WNTgbyQH/mbc-drama.png" group-title="MBC",MBC DRAMA
