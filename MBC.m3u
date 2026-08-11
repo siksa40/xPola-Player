@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z95zyQB.jpeg" group-title="قنوات ترفيهية",StarzPlay Series
 https://ev-fast-mpd.starzplayarabia.com/live/eds/StarzPlay_Series/DASH/StarzPlay_Series.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
