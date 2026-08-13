@@ -49,6 +49,8 @@ http://vpncr.tahpascal79.space:80/live/Ernestbelguim2026/8HCFQ7F3/389.ts
 http://vpncr.tahpascal79.space:80/live/Ernestbelguim2026/8HCFQ7F3/391.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | SÉRIE CLUB HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/19132964" group-title="myCANAL CINEMA FR",FR | SÉRIE CLUB HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/1077.ts
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="parispremierere HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/40081/canal-ouah/CHN43FN/CHN43FN__Paris_Premiere_20220415" group-title="myCANAL CINEMA FR",FR | parispremierere HD
+http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
 #EXTINF:-1 tvg-id="rolandgarros_sonyonehitsaction" tvg-name="|FR| SONY ONE HITS ACTION FHD" tvg-logo="https://i.imgur.com/oEhrOke.png" group-title="CINEMA VIP FR",FR  | SONY ONE HITS ACTION FHD
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="rolandgarros_sonyonehitscomedie" tvg-name="|FR| SONY ONE HITS COMEDIE FHD" tvg-logo="https://i.imgur.com/ob1dTOn.png" group-title="CINEMA VIP FR",FR  | SONY ONE HITS COMEDIE FHD
@@ -77,8 +79,6 @@ https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.tv/hls/amagi_hls
 https://amg00711-zylo-amg00711c4-rakuten-us-769.playouts.now.amagi.tv/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-chno="129" tvg-id="FRBB4600002K5" tvg-log="https://static.wixstatic.com/media/6ba705_7aaafdef307149ee8290018a1a80aa96~mv2.png" group-title="CINEMA VIP FR",FR | SCREAM'IN
 https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screamin-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="parispremierere HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/40081/canal-ouah/CHN43FN/CHN43FN__Paris_Premiere_20220415" group-title="FRANCE HD",parispremierere HD
-http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66746746" ggroup-title="TNT FR",FR | TF1 HD
 http://vpncr.tahpascal79.space:80/live/Ernestbelguim2026/8HCFQ7F3/1223125.ts
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/526/canal-ouah/CHN43FN/CHN43FN_526_20251024--y7o" group-title="TNT FR",FR | TF1 SERIES FILMS HD
