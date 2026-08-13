@@ -55,7 +55,7 @@ https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="rolandgarros_sonyonefavoris" tvg-name="|FR| SONY ONE FAVORIS FHD" tvg-logo="https://i.imgur.com/Tpie4gs.png" group-title="CINEMA VIP FR",FR | SONY ONE FAVORIS FHD
 https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-chno="133" tvg-id="FR3000082K" group-title="Cinéma",SONY ONE SERIES COMEDIES
+#EXTINF:-1 tvg-chno="133" tvg-id="FR3000082K" group-title="CINEMA VIP FR",FR | SONY ONE SERIES COMEDIES
 https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="rolandgarros_sonyonesriesthriller" tvg-name="|FR| SONY ONE SERIES THRILLER FHD" tvg-logo="https://i.imgur.com/ZyQUvMI.png" group-title="CINEMA VIP FR",FR  | SONY ONE SERIES THRILLER FHD
 https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
@@ -101,15 +101,15 @@ http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/156591.ts
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/1930.ts
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/296/canal-ouah/CHN43FN/CHN43FN_W9_20220415" group-title="TNT FR",FR | W9 HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/156593.ts
-#EXTINF:-1 tvg-id="",Motus La Chaîne (1080p)
+#EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="" group-title="REGIONALEA VIP FR",FR Motus La Chaîne 
 https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="",Le Meilleur d'Arthur (1080p)
+#EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="" group-title="REGIONALEA VIP FR",FR Le Meilleur d'Arthur 
 https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="",Le Meilleur de la TV Realite (1080p)
+#EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="" group-title="REGIONALEA FR",FR Le Meilleur de la TV Realite 
 https://amg02393-awpg-amg02393c4-rakuten-uk-3886.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="",Les Anges (1080p)
+#EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="" group-title="REGIONALEA VIP FR",FR Les Anges 
 https://amg02393-awpg-amg02393c5-rakuten-uk-2463.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="",Les Z'Amours (1080p)
+#EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="" group-title="REGIONALEA VIP FR",FR Les Z'Amours 
 https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-name="FR | myzenfr" tvg-logo="https://b.top4top.io/p_3746aag7y1.png" group-title="DUCUMENTAIRE VIP FR",FR travelxp
 https://travelxp-travelxp-4-fr.lg.wurl.tv/playlist.m3u8
@@ -123,13 +123,13 @@ https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-f
 https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="RMCDecouverte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-decouverte-fr.png" group-title="DUCUMENTAIRE VIP FR",FR | RMC DÉCOUVERTE
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-id="Numero23.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-story-fr.png" group-title="TNT",RMC STORY
+#EXTINF:-1 tvg-chno="23" tvg-id="Numero23.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-story-fr.png" group-title="DUCUMENTAIRE VIP FR",FR |RMC STORY
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
 #EXTINF:-1 tvg-chno="169" tvg-id="RMCTalkInfo.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCTALKINFOcoul.png" group-title="DUCUMENTAIRE VIP FR",FR | RMC TALK INFO
 https://d75bm5ggq4k1o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gui89fv6hprsj/RMC_TALK_INFO_FR.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-life-fr.png" group-title="DUCUMENTAIRE VIP FR",FR | RMC LIFE
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
-#EXTINF:-1 tvg-chno=69 tvg-id="enquetes-de-choc-fast-media" tvg-logo="https://freebox.cdn.scw.iliad.fr/medium_E02656638_HHSEUK_007310_Flag_A_Overlay_Home_Screen_1_1_Sq_1000x1000px_Template_v02_copie_8aaa923ce1.jpg" group-title="Séries et Divertissements",ENQUÊTES DE CHOC
+#EXTINF:-1 tvg-chno=69 tvg-id="enquetes-de-choc-fast-media" tvg-logo="https://freebox.cdn.scw.iliad.fr/medium_E02656638_HHSEUK_007310_Flag_A_Overlay_Home_Screen_1_1_Sq_1000x1000px_Template_v02_copie_8aaa923ce1.jpg" group-title="DUCUMENTAIRE VIP FR",FR | ENQUÊTES DE CHOC
 https://fastmedia-enquetesdechoc-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-fastmedia-enquetesdechoc-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="CANAL+ DOCS HD " tvg-logo="https://thumb.canalplus.pro/http/unsafe/480x270/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/list/csatald_chaine_cplusdocs_selection/canal-ouah/TITLELOGO/myCANAL_Logo_Fiche_Programme_1920x1080-2024-10-07T155431.542-eVsi" group-title="DUCUMENTAIRE FR",FR | CANAL+ DOCS HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/3115.ts
