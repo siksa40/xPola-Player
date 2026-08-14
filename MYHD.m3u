@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2024/02/emisiones-la-1-uhd.jpg", la-1-uhd
+#EXTINF:-1 tvg-id="MAX" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2024/02/emisiones-la-1-uhd.jpg" group-title="4K ", la-1-UHD HDR
 http://185.47.212.25:8080/tdp_HD/index.m3u8
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/8f53295a73878494e9bc8dd6c3c7104f.128.png?ver=03-06-2025", 4k
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN 4k UHD (True_4K)" tvg-logo="http://pro.netmos.ovh:6051/imgs/bein_4k.png" group-title="4K ", beIN 4k UHD
 https://live-aburayhan1109.telewebion.ir/ek/faratar/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN 4k UHD (True_4K)" tvg-logo="http://pro.netmos.ovh:6051/imgs/bein_4k.png" group-title="SPORTS LIVE",AR: beIN 4k UHD
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN 4k UHD (True_4K)" tvg-logo="http://pro.netmos.ovh:6051/imgs/bein_4k.png" group-title="4K ", beIN 4k UHD
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/228800
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/8f53295a73878494e9bc8dd6c3c7104f.128.png?ver=03-06-2025",beIN 4k UHD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/233902.ts
