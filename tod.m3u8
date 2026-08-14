@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="MAX" tvg-logo="https://sobfast.com/wp-content/uploads/2023/12/TOD-TV-4K-1.png" group-title="TOD-TV ", TOD-TV-4K
-http://xlion.net:8080/80986533788/5662111245/460835
+http://185.191.126.127:8080/live///80986533788/5662111245/460835.ts
 #EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 1 
-http://xlion.net:8080/80986533788/5662111245/460836
+http://185.191.126.127:8080/live///80986533788/5662111245/460836.ts
 #EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 2 
-http://xlion.net:8080/80986533788/5662111245/460837
+http://185.191.126.127:8080/live///80986533788/5662111245/460837.ts
 #EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 3 
-http://xlion.net:8080/80986533788/5662111245/460838
+http://185.191.126.127:8080/live///80986533788/5662111245/460838.ts
 #EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 4 
-http://xlion.net:8080/80986533788/5662111245/460839
+http://185.191.126.127:8080/live///80986533788/5662111245/460839.ts
 #EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ",TOD-TV 5 
-http://xlion.net:8080/80986533788/5662111245/460840
+http://185.191.126.127:8080/live///80986533788/5662111245/460840.ts
 #EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 6 
-http://xlion.net:8080/80986533788/5662111245/460841
+http://185.191.126.127:8080/live///80986533788/5662111245/460841.ts
 #EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 7 
-http://xlion.net:8080/80986533788/5662111245/460842
+http://185.191.126.127:8080/live///80986533788/5662111245/460842.ts
 #EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 8 
-http://xlion.net:8080/80986533788/5662111245/460843
+http://185.191.126.127:8080/live///80986533788/5662111245/460843.ts
 #EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 9 
-http://xlion.net:8080/80986533788/5662111245/460844
+http://185.191.126.127:8080/live///80986533788/5662111245/460844.ts
