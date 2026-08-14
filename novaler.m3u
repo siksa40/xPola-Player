@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981173" group-title="BEIN SPORT FR",FR | BEIN SPORT 1 HD
-http://xlion.net:8080/80986533788/5662111245/361640
+http://185.191.126.127:8080/live///80986533788/5662111245/361640.ts
 #EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981183" group-title="BEIN SPORT FR",FR | BEIN SPORT 2 HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/396.ts
 #EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="FR | BEIN SPORT 3 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981545" group-title="BEIN SPORT FR",FR | BEIN SPORT 3 HD
@@ -138,27 +138,27 @@ http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/2745.m3u8
 #EXTINF:-1 tvg-id="animaux.fr" tvg-name="ANIMAUX HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/54239442" group-title="DUCUMENTAIRE FR",FR | ANIMAUX HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/1172.m3u8
 #EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="USHUAÏA TV HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/142/canal-ouah/CHN43FN/CHN43FN_142_20211018" group-title="DUCUMENTAIRE FR",FR | USHUAÏA TV HD
-http://xlion.net:8080/80986533788/5662111245/361544
+http://185.191.126.127:8080/live///80986533788/5662111245/361544.ts
 #EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="CHASSE & PECHE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44978855" group-title="DUCUMENTAIRE FR",FR | CHASSE & PECHE HD
-http://xlion.net:8080/80986533788/5662111245/361578
+http://185.191.126.127:8080/live///80986533788/5662111245/361578.ts
 #EXTINF:-1 tvg-id="ScienceEtVieTV.fr" tvg-name="SCIENCE & VIE TV HD" tvg-logo="https://www.science-et-vie.tv/upload/media/svtv-600af7be54ccb.png" group-title="DUCUMENTAIRE FR",FR | SCIENCE & VIE TV HD
-http://xlion.net:8080/80986533788/5662111245/361553
+http://185.191.126.127:8080/live///80986533788/5662111245/361553.ts
 #EXTINF:-1 tvg-id="seasons.fr" tvg-name="SEASONS HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/577/canal-ouah/CHN43FN/CHN43FN_577_20231128-rzna" group-title="DUCUMENTAIRE FR",FR | SEASONS HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/3110.ts
 #EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="DISCOVERY HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/174/canal-ouah/CHN43FN/CHN43FN_174_20240611-RzWh" group-title="DUCUMENTAIRE FR",FR | DISCOVERY HD
-http://xlion.net:8080/80986533788/5662111245/361612
+http://185.191.126.127:8080/live///80986533788/5662111245/361612.ts
 #EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1098/canal-ouah/CHN43FN/CHN43FN_1098_20240611-gw0t" group-title="DUCUMENTAIRE FR",FR | DISCOVERY INVESTIGATION HD
-http://xlion.net:8080/80986533788/5662111245/361613
+http://185.191.126.127:8080/live///80986533788/5662111245/361613.ts
 #EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="NAT GEO WILD HD" tvg-logo="https://i5.satexpat.com/cha/nl/nat-geo-wild-95x34.png" group-title="DUCUMENTAIRE FR",FR | NAT GEO WILD HD
-http://xlion.net:8080/80986533788/5662111245/361610
+http://185.191.126.127:8080/live///80986533788/5662111245/361610.ts
 #EXTINF:-1 tvg-id="natgeo.fr" tvg-name="NAT GEO HD" tvg-logo="https://i5.satexpat.com/cha/be/nat-geo-95x25.png" group-title="DUCUMENTAIRE FR",FR | NAT GEO HD
 http://xlion.net:8080/80986533788/5662111245/361611
 #EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="PLANETE+ HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/4492627" group-title="DUCUMENTAIRE FR",FR | PLANETE+ HD
-http://xlion.net:8080/80986533788/5662111245/361554
+http://185.191.126.127:8080/live///80986533788/5662111245/361554.ts
 #EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="PLANETE+ AVENTURE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/588/canal-ouah/CHN43FN/CHN43FN_588_120122" group-title="DUCUMENTAIRE FR",FR | PLANETE+ AVENTURE HD
-http://xlion.net:8080/80986533788/5662111245/361540
+http://185.191.126.127:8080/live///80986533788/5662111245/361540.ts
 #EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="PLANETE+ CRIME HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/587/canal-ouah/CHN43FN/CHN43FN_587_120122" group-title="DUCUMENTAIRE FR",FR | PLANETE+ CRIME HD
-http://xlion.net:8080/80986533788/5662111245/361541
+http://185.191.126.127:8080/live///80986533788/5662111245/361541.ts
 #EXTINF:-1 tvg-id="histoire.fr" tvg-name="HISTOIRE TV HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/550/canal-ouah/CHN43FN/CHN43FN_550_20211018" group-title="DUCUMENTAIRE FR",FR | HISTOIRE TV HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/11563.ts
 #EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="BEIN SPORT FR",FR | BEIN SPORT MAX 4
