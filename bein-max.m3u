@@ -1,68 +1,81 @@
 #EXTM3U
-#EXTINF:-1, Channel 300
-http://145.239.5.177/300/index.m3u8
-#EXTINF:-1, Channel 305
-http://145.239.5.177/305/index.m3u8
-#EXTINF:-1, Channel 306
-http://145.239.5.177/306/index.m3u8
-#EXTINF:-1, Channel 308
-http://145.239.5.177/308/index.m3u8
-#EXTINF:-1, Channel 314
-http://145.239.5.177/314/index.m3u8
-#EXTINF:-1, Channel 315
-http://145.239.5.177/315/index.m3u8
-#EXTINF:-1, Channel 318
-http://145.239.5.177/318/index.m3u8
-#EXTINF:-1, Channel 319
-http://145.239.5.177/319/index.m3u8
-#EXTINF:-1, Channel 320
-http://145.239.5.177/320/index.m3u8
-#EXTINF:-1, Channel 321
-http://145.239.5.177/321/index.m3u8
-#EXTINF:-1, Channel 322
-http://145.239.5.177/322/index.m3u8
-#EXTINF:-1, Channel 329
-http://145.239.5.177/329/index.m3u8
-#EXTINF:-1, Channel 330
-http://145.239.5.177/330/index.m3u8
-#EXTINF:-1, Channel 331
-http://145.239.5.177/331/index.m3u8
-#EXTINF:-1, Channel 332
-http://145.239.5.177/332/index.m3u8
-#EXTINF:-1, Channel 333
-http://145.239.5.177/333/index.m3u8
-#EXTINF:-1, Channel 337
-http://145.239.5.177/337/index.m3u8
-#EXTINF:-1, Channel 341
-http://145.239.5.177/341/index.m3u8
-#EXTINF:-1, Channel 349
-http://145.239.5.177/349/index.m3u8
-#EXTINF:-1, Channel 354
-http://145.239.5.177/354/index.m3u8
-#EXTINF:-1, Channel 355
-http://145.239.5.177/355/index.m3u8
-#EXTINF:-1, Channel 356
-http://145.239.5.177/356/index.m3u8
-#EXTINF:-1, Channel 361
-http://145.239.5.177/361/index.m3u8
-#EXTINF:-1, Channel 368
-http://145.239.5.177/368/index.m3u8
-#EXTINF:-1, Channel 371
-http://145.239.5.177/371/index.m3u8
-#EXTINF:-1, Channel 515
-http://145.239.5.177/515/index.m3u8
-#EXTINF:-1, Channel 518
-http://145.239.5.177/518/index.m3u8
-#EXTINF:-1, Channel 525
-http://145.239.5.177/525/index.m3u8
-#EXTINF:-1, Channel 530
-http://145.239.5.177/530/index.m3u8
-#EXTINF:-1, Channel 549
-http://145.239.5.177/549/index.m3u8
-#EXTINF:-1, Channel 559
-http://145.239.5.177/559/index.m3u8
-#EXTINF:-1, Channel 572
-http://145.239.5.177/572/index.m3u8
-#EXTINF:-1, Channel 573
-http://145.239.5.177/573/index.m3u8
-
+#EXTINF:-1, Channel 001
+https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
+#EXTINF:-1, Channel 002
+https://shd-amg-fast.edgenextcdn.net/tx002/playlist.m3u8
+#EXTINF:-1, Channel 003
+https://shd-amg-fast.edgenextcdn.net/tx003/playlist.m3u8
+#EXTINF:-1, Channel 004
+https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
+#EXTINF:-1, Channel 005
+https://shd-amg-fast.edgenextcdn.net/tx005/playlist.m3u8
+#EXTINF:-1, Channel 006
+https://shd-amg-fast.edgenextcdn.net/tx006/playlist.m3u8
+#EXTINF:-1, Channel 007
+https://shd-amg-fast.edgenextcdn.net/tx007/playlist.m3u8
+#EXTINF:-1, Channel 008
+https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
+#EXTINF:-1, Channel 009
+https://shd-amg-fast.edgenextcdn.net/tx009/playlist.m3u8
+#EXTINF:-1, Channel 010
+https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
+#EXTINF:-1, Channel 011
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+#EXTINF:-1, Channel 012
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+#EXTINF:-1, Channel 013
+https://shd-amg-fast.edgenextcdn.net/tx013/playlist.m3u8
+#EXTINF:-1, Channel 014
+https://shd-amg-fast.edgenextcdn.net/tx014/playlist.m3u8
+#EXTINF:-1, Channel 015
+https://shd-amg-fast.edgenextcdn.net/tx015/playlist.m3u8
+#EXTINF:-1, Channel 016
+https://shd-amg-fast.edgenextcdn.net/tx016/playlist.m3u8
+#EXTINF:-1, Channel 017
+https://shd-amg-fast.edgenextcdn.net/tx017/playlist.m3u8
+#EXTINF:-1, Channel 018
+https://shd-amg-fast.edgenextcdn.net/tx018/playlist.m3u8
+#EXTINF:-1, Channel 019
+https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8
+#EXTINF:-1, Channel 020
+https://shd-amg-fast.edgenextcdn.net/tx020/playlist.m3u8
+#EXTINF:-1, Channel 021
+https://shd-amg-fast.edgenextcdn.net/tx021/playlist.m3u8
+#EXTINF:-1, Channel 022
+https://shd-amg-fast.edgenextcdn.net/tx022/playlist.m3u8
+#EXTINF:-1, Channel 023
+https://shd-amg-fast.edgenextcdn.net/tx023/playlist.m3u8
+#EXTINF:-1, Channel 024
+https://shd-amg-fast.edgenextcdn.net/tx024/playlist.m3u8
+#EXTINF:-1, Channel 025
+https://shd-amg-fast.edgenextcdn.net/tx025/playlist.m3u8
+#EXTINF:-1, Channel 026
+https://shd-amg-fast.edgenextcdn.net/tx026/playlist.m3u8
+#EXTINF:-1, Channel 027
+https://shd-amg-fast.edgenextcdn.net/tx027/playlist.m3u8
+#EXTINF:-1, Channel 028
+https://shd-amg-fast.edgenextcdn.net/tx028/playlist.m3u8
+#EXTINF:-1, Channel 029
+https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
+#EXTINF:-1, Channel 030
+https://shd-amg-fast.edgenextcdn.net/tx030/playlist.m3u8
+#EXTINF:-1, Channel 031
+https://shd-amg-fast.edgenextcdn.net/tx031/playlist.m3u8
+#EXTINF:-1, Channel 032
+https://shd-amg-fast.edgenextcdn.net/tx032/playlist.m3u8
+#EXTINF:-1, Channel 033
+https://shd-amg-fast.edgenextcdn.net/tx033/playlist.m3u8
+#EXTINF:-1, Channel 034
+https://shd-amg-fast.edgenextcdn.net/tx034/playlist.m3u8
+#EXTINF:-1, Channel 035
+https://shd-amg-fast.edgenextcdn.net/tx035/playlist.m3u8
+#EXTINF:-1, Channel 036
+https://shd-amg-fast.edgenextcdn.net/tx036/playlist.m3u8
+#EXTINF:-1, Channel 037
+https://shd-amg-fast.edgenextcdn.net/tx037/playlist.m3u8
+#EXTINF:-1, Channel 038
+https://shd-amg-fast.edgenextcdn.net/tx038/playlist.m3u8
+#EXTINF:-1, Channel 039
+https://shd-amg-fast.edgenextcdn.net/tx039/playlist.m3u8
+#EXTINF:-1, Channel 040
+https://shd-amg-fast.edgenextcdn.net/tx040/playlist.m3u8
