@@ -1,72 +1,51 @@
-#EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | ENTV HD" tvg-logo="http://atlaspro.to:80/images/1fe5c0f76edf1698bbc2332f112e41c0.png" group-title="ALGERIA",DZ | ENTV HD
-http://81637.org:2052/live/Destie01/HNHYvmQxEWcc/8075.ts
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/8f53295a73878494e9bc8dd6c3c7104f.128.png?ver=03-06-2025",beIN SPORTS MAX 1 4k
-http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/158960.ts
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="MAGHREB SPORT 1" tvg-logo="https://maghrebtelevision.com/wp-content/uploads/2019/10/logo-plat-MAGHREB-TV-02-.png" group-title="SPORTS LIVE",MAGHREB SPORT 1
-http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/228802
-#EXTINF:-1 tvg-id="m6.fr" tvg-name="M6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/M6_2009.svg/1280px-M6_2009.svg.png" group-title="FRANCE TNT",M6 HD
-http://81637.org:2052/live/023987531643/023987531643/260366.ts
-#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="BEINSPORT 1 FR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" group-title="FRANCE SPORT",BEINSPORT 1 FR
-http://195.182.16.45:8080/live/omar777/01103978590/460876.ts
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png?ver=03-06-2025",beIN SPORTS MAX 1
-http://192.168.100.23:4323/vavoo?channel=4274246496cae3eb6b9282
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png?ver=03-06-2025",beIN SPORTS MAX 1
-http://195.182.16.45:8080/live/omar777/01103978590/460862.ts
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png?ver=03-06-2025",beIN SPORTS MAX 1
-http://195.182.16.45:8080/live/omar777/01103978590/460863.ts
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025",beIN SPORTS MAX 2
-http://195.182.16.45:8080/live/omar777/01103978590/460864.ts
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025",beIN SPORTS MAX 2
-http://195.182.16.45:8080/live/omar777/01103978590/460865.ts
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png?ver=03-06-2025",beIN SPORTS MAX 3
-http://195.182.16.45:8080/live/omar777/01103978590/460867.ts
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png?ver=03-06-2025",beIN SPORTS MAX 3
-http://195.182.16.45:8080/live/omar777/01103978590/460868.ts
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png?ver=03-06-2025",beIN SPORTS MAX 4
-http://195.182.16.45:8080/live/omar777/01103978590/460870.ts
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png?ver=03-06-2025",beIN SPORTS MAX 4
-http://195.182.16.45:8080/live/omar777/01103978590/460871.ts
-#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981173" group-title="SPORT FR",FR | BEIN SPORT 1 HD
-http://81637.org:2052/live/023987531643/023987531643/15466.ts
-#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="BEINSPORT 1 FR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" group-title="FRANCE SPORT",BEINSPORT 1 FR
-https://streemkrdtv.site/api/hls-proxy?url=https%3A%2F%2Fprod-fastly-us-east-1.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2F0r143oSa6ROVh1fU0N9YPEaE1iubZyxbFpNud21L6iXosByoNo79kcupxNyKFFMDm143o0Z5PrT-_SCBdjGy3w%2Ftranscode%2Fus-east-1%2Fperiscope-replay-direct-prod-us-east-1-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE%2Fdynamic_playlist.m3u8%3Ftype%3Dlive
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR BEIN SPORTS HD",AR ALWAN SPORT 1 HD
-http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/418111.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR BEIN SPORTS HD",AR ALWAN SPORT 2 HD
-http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339214.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR BEIN SPORTS HD",AR ALWAN SPORT 3 HD
-http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339225.ts
-#EXTINF:-1 tvg-name="AL-FAJER TV 1 HD" tvg-logo="http://tayaara.store:80/images/marvel/1716985163331.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 1 HD
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/186407.ts
-#EXTINF:-1 tvg-name="AL-FAJER TV 3 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985180242.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 3 FHD
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/463534.ts
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/8f53295a73878494e9bc8dd6c3c7104f.128.png?ver=03-06-2025",beIN SPORTS MAX 1 4k
-https://live-aburayhan1109.telewebion.ir/ek/faratar/live/playlist.m3u8
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/8f53295a73878494e9bc8dd6c3c7104f.128.png?ver=03-06-2025",beIN SPORTS MAX 1 4k
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/233902.ts
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png?ver=03-06-2025",beIN SPORTS MAX 1
-http://h42.reelpush.online/live/610303030/index.m3u8
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025",beIN SPORTS MAX 2
-http://h42.reelpush.online/live/1515000000/index.m3u8
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png?ver=03-06-2025",beIN SPORTS MAX 3
-http://h42.reelpush.online/live/33523510/index.m3u8
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png?ver=03-06-2025",beIN SPORTS MAX 4
-http://h42.reelpush.online/live/918454578001/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU |[RS] ARENA SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/960px-Fox_Broadcasting_Company_logo_%282019%29.svg.png", Fox
-http://84.17.50.102/fox/index.m3u8
-#EXTINF:-1 tvg-id="tvp-sport"" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/tvp-sport.png" group-title="WORLD SPORTS",TVP Sport
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"95620bdd974041409d4674ab629e22d4":"c6c226ca1689f528a6f91e86da618f64","181c091002d04c5481c3faab18752843":"b081b6169351e0f4bfc40212dfeeed10","1163925b6b37434198130f773bc62841":"e2bdd2b87e1ddb502eb7898daece857f"}
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="Sports",CAZE TV 1
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="Sports",CAZE TV 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="Sports",CAZE TV 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-#EXTINF:-1 tvg-logo="https://yootv.online/images/logo-channel/setanta-sports-1-tv.png" ,setanta 1
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTM3U
+#EXTINF:-1, Channel 300
+http://145.239.5.177/300/index.m3u8
+#EXTINF:-1, Channel 305
+http://145.239.5.177/305/index.m3u8
+#EXTINF:-1, Channel 306
+http://145.239.5.177/306/index.m3u8
+#EXTINF:-1, Channel 308
+http://145.239.5.177/308/index.m3u8
+#EXTINF:-1, Channel 314
+http://145.239.5.177/314/index.m3u8
+#EXTINF:-1, Channel 315
+http://145.239.5.177/315/index.m3u8
+#EXTINF:-1, Channel 318
+http://145.239.5.177/318/index.m3u8
+#EXTINF:-1, Channel 319
+http://145.239.5.177/319/index.m3u8
+#EXTINF:-1, Channel 320
+http://145.239.5.177/320/index.m3u8
+#EXTINF:-1, Channel 321
+http://145.239.5.177/321/index.m3u8
+#EXTINF:-1, Channel 322
+http://145.239.5.177/322/index.m3u8
+#EXTINF:-1, Channel 329
+http://145.239.5.177/329/index.m3u8
+#EXTINF:-1, Channel 330
+http://145.239.5.177/330/index.m3u8
+#EXTINF:-1, Channel 331
+http://145.239.5.177/331/index.m3u8
+#EXTINF:-1, Channel 332
+http://145.239.5.177/332/index.m3u8
+#EXTINF:-1, Channel 333
+http://145.239.5.177/333/index.m3u8
+#EXTINF:-1, Channel 337
+http://145.239.5.177/337/index.m3u8
+#EXTINF:-1, Channel 341
+http://145.239.5.177/341/index.m3u8
+#EXTINF:-1, Channel 349
+http://145.239.5.177/349/index.m3u8
+#EXTINF:-1, Channel 354
+http://145.239.5.177/354/index.m3u8
+#EXTINF:-1, Channel 355
+http://145.239.5.177/355/index.m3u8
+#EXTINF:-1, Channel 356
+http://145.239.5.177/356/index.m3u8
+#EXTINF:-1, Channel 361
+http://145.239.5.177/361/index.m3u8
+#EXTINF:-1, Channel 368
+http://145.239.5.177/368/index.m3u8
+#EXTINF:-1, Channel 371
+http://145.239.5.177/371/index.m3u8
