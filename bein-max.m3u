@@ -49,3 +49,20 @@ http://145.239.5.177/361/index.m3u8
 http://145.239.5.177/368/index.m3u8
 #EXTINF:-1, Channel 371
 http://145.239.5.177/371/index.m3u8
+#EXTINF:-1, Channel 515
+http://145.239.5.177/515/index.m3u8
+#EXTINF:-1, Channel 518
+http://145.239.5.177/518/index.m3u8
+#EXTINF:-1, Channel 525
+http://145.239.5.177/525/index.m3u8
+#EXTINF:-1, Channel 530
+http://145.239.5.177/530/index.m3u8
+#EXTINF:-1, Channel 549
+http://145.239.5.177/549/index.m3u8
+#EXTINF:-1, Channel 559
+http://145.239.5.177/559/index.m3u8
+#EXTINF:-1, Channel 572
+http://145.239.5.177/572/index.m3u8
+#EXTINF:-1, Channel 573
+http://145.239.5.177/573/index.m3u8
+
