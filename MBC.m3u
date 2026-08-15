@@ -134,3 +134,6 @@ https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist
 #KODIPROP:inputstream.adaptive.license_key=90393b8adb2b2d641012ebf5ae0dd703:f01d0e9c12a92e0774fdc05ed91e2933
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-1-kw.png" group-title="قنوات ترفيهية",Kuwait TV HD
 https://ev-fast-mpd.starzplayarabia.com/live/eds/KuwaitTV_HD/DASH/KuwaitTV_HD.mpd
+#EXTINF:-1 tvg-logo="hhttps://www.dubaitv.ae/content/dam/dubaitv/icons/dubai-tv.jpg" group-title="قنوات ترفيهية",Dubai_TV
+http://185.9.2.18/chid_139/index.m3u8
+
