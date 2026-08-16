@@ -1,22 +1,22 @@
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrugKiVmcCg-dwVYlfYEYNwIjmrBEAdHBsPmlC5Vqz5w&s=10",
+#EXTINF:-1 tvg-id="" tvg-name="quran" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrugKiVmcCg-dwVYlfYEYNwIjmrBEAdHBsPmlC5Vqz5w&s=10",group-title="quran",quran
 https://raw.githubusercontent.com/raid35/channel-links/main/quran.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw ",
+#EXTINF:-1 tvg-id="" tvg-name="match" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw ",group-title="match",match
 https://raid35.github.io/docs/siksa_match.html
 
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXl0VxgKj5P_YyoJ8limOdPwgVdJBH9fOn6h1JjTNDVQ&s=10",
+#EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXl0VxgKj5P_YyoJ8limOdPwgVdJBH9fOn6h1JjTNDVQ&s=10",group-title="ALGERIA",ALGERIA
 https://raw.githubusercontent.com/raid35/channel-links/main/ALGERIA.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDpXFiSv50Xj79dp6L_1qh17eMjx61iBX1LqHLswJSiJWAfyH5xerkjUkc&s=10",
+#EXTINF:-1 tvg-id="" tvg-name="cha3biDz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDpXFiSv50Xj79dp6L_1qh17eMjx61iBX1LqHLswJSiJWAfyH5xerkjUkc&s=10",group-title="cha3biDz",cha3biDz
 https://raw.githubusercontent.com/raid35/docs/main/cha3biDz.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://a.top4top.io/p_3879b6qm41.jpg",
+#EXTINF:-1 tvg-id="" tvg-name="Ray_dz" tvg-logo="https://a.top4top.io/p_3879b6qm41.jpg",group-title="Ray_dz",Ray_dz
 https://raw.githubusercontent.com/raid35/docs/main/Ray_dz.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://j.top4top.io/p_3741nas731.jpg",
+#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://j.top4top.io/p_3741nas731.jpg",group-title="MUSIC",MUSIC
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/MUSIC.m3u
 
-#EXTINF:-1 tvg-id="MBC 1 HD.sa" tvg-name="MBC 1" tvg-logo="https://i.top4top.io/p_3741rpnwy1.png" 
+#EXTINF:-1 tvg-id="MBC 1 HD.sa" tvg-name="MBC 1" tvg-logo="https://i.top4top.io/p_3741rpnwy1.png" group-title="MBC",MBC
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/MBC.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="قنوات رياضية" tvg-logo="https://h.top4top.io/p_37494dcdl1.png", 
