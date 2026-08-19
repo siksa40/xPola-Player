@@ -80,7 +80,10 @@ https://raw.githubusercontent.com/raid35/docs/main/myCANAL_CINEMA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="|FR| myCANAL TNT" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|FR| myCANAL TNT", |FR| myCANAL TNT
 https://raw.githubusercontent.com/raid35/docs/main/TNT.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="|FR| myCANAL_DUCUMENTAIRE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|FR| myCANAL_DUCUMENTAIRE", |FR| myCANAL_DUCUMENTAIRE
+#EXTINF:-1 tvg-id="" tvg-name="|FR| VIP DUCUMENTAIRE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|FR| VIP DUCUMENTAIRE", |FR| VIP DUCUMENTAIRE
+https://raw.githubusercontent.com/raid35/docs/main/VIP_DOC.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="|FR| myCANAL DUCUMENTAIRE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|FR| myCANAL DUCUMENTAIRE", |FR| myCANAL DUCUMENTAIRE
 https://raw.githubusercontent.com/raid35/docs/main/myCANAL_DUCUMENTAIRE.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-u0uOdujAViWs4ZkNfjxmlnrhmc5lwtgbk6JCmJ79ug&s=10",group-title="ألأخبار", ألأخبار
