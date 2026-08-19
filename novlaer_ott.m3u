@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/raid35/channel-links/main/ALWAN1.m3u
 #EXTINF:-1 tvg-id="" tvg-name="tod TV" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png",group-title=" TOD TV",tod TV
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/tod.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="جدول المباريات" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw ",group-title="جدول المباريات",جدول المباريات
+#EXTINF:-1 tvg-id="" tvg-name="|8K| BEIN Sport" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw ",group-title="|8K| BEIN Sport",|8K| BEIN Sport
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/8k.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="|G| BEIN Sport" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",group-title="|G| BEIN Sport",|G| BEIN Sport
@@ -76,6 +76,3 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/novaler_2.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",group-title="Rakuten",Rakuten
 https://raw.githubusercontent.com/raid35/channel-links/main/Rakuten.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="افلام مسلاسلات" tvg-logo="https://l.top4top.io/p_3688573ob1.jpg",group-title="افلام مسلاسلات",افلام مسلاسلات
-https://github.com/raid35/channel-links/raw/main/movies.m3u
