@@ -1,9 +1,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="قرإن الكريم" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrugKiVmcCg-dwVYlfYEYNwIjmrBEAdHBsPmlC5Vqz5w&s=10",group-title="قرإن الكريم",قرإن الكريم
 https://raw.githubusercontent.com/raid35/channel-links/main/quran.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="جدول المباريات" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw ",group-title="جدول المباريات",جدول المباريات
-https://raid35.github.io/docs/siksa_match.html
-
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXl0VxgKj5P_YyoJ8limOdPwgVdJBH9fOn6h1JjTNDVQ&s=10",group-title="ALGERIA",ALGERIA
 https://raw.githubusercontent.com/raid35/channel-links/main/ALGERIA.m3u
 
@@ -44,8 +41,11 @@ https://raw.githubusercontent.com/raid35/channel-links/main/POST.m3u
 #EXTINF:-1 tvg-id="ALWAN" tvg-name="SPORT ALWAN" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN",group-title="SPORT ALWAN",SPORT ALWAN
 https://raw.githubusercontent.com/raid35/channel-links/main/ALWAN1.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="tod TV" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png",group-title=" TV",tod TV
+#EXTINF:-1 tvg-id="" tvg-name="tod TV" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png",group-title=" TOD TV",tod TV
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/tod.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="جدول المباريات" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw ",group-title="جدول المباريات",جدول المباريات
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/8k.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="|G| BEIN Sport" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",group-title="|G| BEIN Sport",|G| BEIN Sport
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/ostora.m3u
