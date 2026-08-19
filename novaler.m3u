@@ -1,32 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981173" group-title="BEIN SPORT FR",FR | BEIN SPORT 1 HD
-http://185.191.126.127:8080/live///80986533788/5662111245/361640.ts
-#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981183" group-title="BEIN SPORT FR",FR | BEIN SPORT 2 HD
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/396.ts
-#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="FR | BEIN SPORT 3 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981545" group-title="BEIN SPORT FR",FR | BEIN SPORT 3 HD
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/393.ts
-#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="CANAL+ FOOT FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40208/canal-ouah/CHN43FN/CHN43FN_19_29082023" group-title="myCANAL SPORT FR",FR | CANAL+ FOOT FHD
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/2751.ts
-#EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="CANAL+ SPORT360 FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/83/canal-ouah/CHN43FN/CHN43FN_83_29082023" group-title="myCANAL SPORT FR",FR | CANAL+ SPORT360 FHD
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/239420.ts
-#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40075/canal-ouah/CHN43FN/CHN43FN_177_29082023" group-title="myCANAL SPORT FR",FR | CANAL+ SPORT FHD
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/168.ts
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 1 HD" tvg-logo="https://i.imgur.com/W7dLvdz.png" group-title="myCANAL SPORT AF",AF | CANAL+ SPORT 1 HD
-http://pro.netmos.ovh:7355/live/PR1125024867281/4641912740375/238613.ts
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/dSW77wl.png" group-title="myCANAL SPORT AF",AF | CANAL+ SPORT 2 HD
-http://pro.netmos.ovh:7355/live/PR1125024867281/4641912740375/33838.ts
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/HL2NrRi.png" group-title="myCANAL SPORT AF",AF | CANAL+ SPORT 3 HD
-http://pro.netmos.ovh:7355/live/PR1125024867281/4641912740375/33839.ts
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/1Ikjjzo.png" group-title="myCANAL SPORT AF",AF | CANAL+ SPORT 4 HD
-http://pro.netmos.ovh:7355/live/PR1125024867281/4641912740375/33840.ts
-#EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/szq4wBg.png" group-title="myCANAL SPORT AF",AF | CANAL+ SPORT 5 HD
-http://pro.netmos.ovh:7355/live/PR1125024867281/4641912740375/33841.ts
-#EXTINF:-1 tvg-chno="174" tvg-id="InfosportPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/infosport-plus-fr.png" group-title="myCANAL SPORT FR",FR | INFOSPORT+ HD
-http://212.102.60.80/Infosport/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44863403" group-title="myCANAL SPORT FR",FR | L'EQUIPE 21
-https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
-#EXTINF:-1 tvg-chno="179" tvg-logo="https://freebox.cdn.scw.iliad.fr/large_logo_afterfoot_TV_fondblanc_83130699dd.png"group-title="myCANAL SPORT FR",FR | AFTER FOOT TV
-https://d278gam2ft6q08.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ic4hqa502el6/AfterfootTV_FR.m3u8
 #EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+ 4K UHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40052/canal-ouah/CHN43FN/CHN43FN_301_29082023" group-title="myCANAL CINEMA FR",FR | CANAL+ 4K UHD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/179.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ CINEMA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40011/canal-ouah/CHN43FN/CHN43FN_198_29082023" group-title="myCANAL CINEMA FR",FR | CANAL+ CINEMA
@@ -163,17 +135,3 @@ http://185.191.126.127:8080/live///80986533788/5662111245/361540.ts
 http://185.191.126.127:8080/live///80986533788/5662111245/361541.ts
 #EXTINF:-1 tvg-id="histoire.fr" tvg-name="HISTOIRE TV HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/550/canal-ouah/CHN43FN/CHN43FN_550_20211018" group-title="DUCUMENTAIRE FR",FR | HISTOIRE TV HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/11563.ts
-#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="BEIN SPORT FR",FR | BEIN SPORT MAX 4
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/363.ts
-#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="BEIN SPORT FR",FR | BEIN SPORT MAX 5
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/361.ts
-#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="BEIN SPORT FR",FR | BEIN SPORT MAX 6
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/359.ts
-#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 7" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="BEIN SPORT FR",FR | BEIN SPORT MAX 7
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/357.ts
-#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 8" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="BEIN SPORT FR",FR | BEIN SPORT MAX 8
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/351.ts
-#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 9" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png" group-title="BEIN SPORT FR",FR | BEIN SPORT MAX 9
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/353.ts
-#EXTINF:-1 tvg-id="BEIN SPORm3u8 MAX 10" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="BEIN SPORT FR",FR | BEIN SPORT MAX 10
-http://stream.mcquack.net/491/index.m3u8
