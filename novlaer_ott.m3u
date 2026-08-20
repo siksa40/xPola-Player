@@ -26,10 +26,10 @@ https://raw.githubusercontent.com/raid35/docs/main/starzplayarabia.m3u
 #EXTINF:-1 tvg-id="" tvg-name="|VIP| shahid SPORT" tvg-logo="http://tv.asc.vg/shahid.sport.png",group-title="|VIP| shahid SPORT", |VIP| shahid SPORT
 https://raw.githubusercontent.com/raid35/docs/main/shahid_SPORT.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Thmanayh" tvg-logo="http://tv.asc.vg/shahid.sport.png",group-title="Thmanayh", ThmanayhT
+#EXTINF:-1 tvg-id="" tvg-name="Thmanayh" tvg-logo="http://tv.asc.vg/shahid.sport.png",group-title="Thmanayh", Thmanayh
 https://raw.githubusercontent.com/raid35/docs/main/Thmanayh.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Thmanayh" tvg-logo="https://i.top4top.io/p_3740rzbk81.png", group-title="Thmanayh", Thmanayh
+#EXTINF:-1 tvg-id="" tvg-name="|VIP| SPORT_UROP" tvg-logo="https://i.top4top.io/p_3740rzbk81.png", group-title="|VIP| SPORT_UROP", |VIP| SPORT_UROP
 https://raw.githubusercontent.com/raid35/docs/main/SPORT_UROP.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT EUROPE" tvg-logo="https://i.top4top.io/p_3740rzbk81.png",  group-title="SPORT EUROPE",  EUROPE SPORT
