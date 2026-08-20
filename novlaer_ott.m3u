@@ -19,8 +19,15 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/MBC.m3u
 #EXTINF:-1 tvg-id="" tvg-name="|VIP| Bein Sport" tvg-logo="https://h.top4top.io/p_37494dcdl1.png", group-title="|VIP| Bein Sport", |VIP| Bein Sport
 https://raw.githubusercontent.com/raid35/docs/main/Bein_CONACT.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="|VIP| AR SPORT" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg ", group-title="|VIP| AR SPORT", |VIP| AR SPORT 
-https://raw.githubusercontent.com/raid35/docs/main/SP_ARAB.m3u
+#EXTINF:-1 tvg-id="" tvg-name="|VIP| STARZPLAYARABIA SPORT" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg ", group-title="|VIP| STARZPLAYARABIA SPORT", |VIP| STARZPLAYARABIA SPORT
+https://raw.githubusercontent.com/raid35/docs/main/starzplayarabia.m3u
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|VIP| shahid SPORT" tvg-logo="http://tv.asc.vg/shahid.sport.png",group-title="|VIP| shahid SPORT", |VIP| shahid SPORT
+https://raw.githubusercontent.com/raid35/docs/main/shahid_SPORT.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="|VIP| shahid SPORT" tvg-logo="http://tv.asc.vg/shahid.sport.png",group-title="|VIP| shahid SPORT", |VIP| shahid SPORT
+https://raw.githubusercontent.com/raid35/docs/main/Thmanayh.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="|VIP|SPORT EUROPE" tvg-logo="https://i.top4top.io/p_3740rzbk81.png", group-title="|VIP|SPORT EUROPE", |VIP| EUROPE SPORT
 https://raw.githubusercontent.com/raid35/docs/main/SPORT_UROP.m3u
@@ -85,9 +92,9 @@ https://raw.githubusercontent.com/raid35/docs/master/VIP_DOC.m3u
 #EXTINF:-1 tvg-id="" tvg-name="|FR| myCANAL DUCUMENTAIRE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|FR| myCANAL DUCUMENTAIRE", |FR| myCANAL DUCUMENTAIRE
 https://raw.githubusercontent.com/raid35/docs/main/myCANAL_DUCUMENTAIRE.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="|VIP| DUCUMENTAIRE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|VIP| DUCUMENTAIRE", |VIP| DUCUMENTAIRE
+https://raw.githubusercontent.com/raid35/docs/main/VIP-DOC_URP.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-u0uOdujAViWs4ZkNfjxmlnrhmc5lwtgbk6JCmJ79ug&s=10",group-title="ألأخبار", ألأخبار
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/News.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="abdo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-u0uOdujAViWs4ZkNfjxmlnrhmc5lwtgbk6JCmJ79ug&s=10",group-title="abdo", abdo
-https://raw.githubusercontent.com/BuddyChewChew/RakutenTV/main/playlist.m3u
 
