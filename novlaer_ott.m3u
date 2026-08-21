@@ -79,6 +79,9 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/novaler-Bein-Mov.m3u
 #EXTINF:-1 tvg-id="" tvg-name="OSN" tvg-logo="https://play-lh.googleusercontent.com/IwQZ9I3BnYQVEIqJE5tUfSzd-hDhAO_5ekKNirQVOyDNsDB_QUgY5wz0FHrsgXM-iSE=w240-h480-rw",group-title="OSN", OSN
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/nov-osn.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="|VIP| FRANCE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|VIP| FRANCE", |VIP| FRANCE
+https://raw.githubusercontent.com/raid35/docs/main/France_vip.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="|FR| myCANAL_CINEMA" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|FR| myCANAL_CINEMA", |FR| myCANAL_CINEMA
 https://raw.githubusercontent.com/raid35/docs/main/myCANAL_CINEMA.m3u
 
@@ -96,4 +99,10 @@ https://raw.githubusercontent.com/raid35/docs/main/VIP-DOC_URP.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-u0uOdujAViWs4ZkNfjxmlnrhmc5lwtgbk6JCmJ79ug&s=10",group-title="ألأخبار", ألأخبار
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/News.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="europe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-u0uOdujAViWs4ZkNfjxmlnrhmc5lwtgbk6JCmJ79ug&s=10",group-title="europe", europe
+https://github.com/ClementeCEO/TVus/blob/main/europe/de.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="pl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-u0uOdujAViWs4ZkNfjxmlnrhmc5lwtgbk6JCmJ79ug&s=10",group-title="pl", pl
+https://github.com/ClementeCEO/TVus/blob/main/europe/pl.m3u
 
