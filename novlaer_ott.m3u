@@ -88,6 +88,9 @@ https://raw.githubusercontent.com/raid35/docs/main/myCANAL_CINEMA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="|FR| myCANAL TNT" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|FR| myCANAL TNT", |FR| myCANAL TNT
 https://raw.githubusercontent.com/raid35/docs/main/TNT.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANALPLAY A LA CARTE " tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|FR| CANALPLAY A LA CARTE ", |FR| CANALPLAY A LA CARTE 
+https://raw.githubusercontent.com/raid35/docs/main/CANALPLAY.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="|FR| VIP DUCUMENTAIRE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|FR| VIP DUCUMENTAIRE", |FR| VIP DUCUMENTAIRE
 https://raw.githubusercontent.com/raid35/docs/master/VIP_DOC.m3u
 
