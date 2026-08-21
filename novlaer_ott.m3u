@@ -100,9 +100,3 @@ https://raw.githubusercontent.com/raid35/docs/main/VIP-DOC_URP.m3u
 #EXTINF:-1 tvg-id="" tvg-name="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-u0uOdujAViWs4ZkNfjxmlnrhmc5lwtgbk6JCmJ79ug&s=10",group-title="ألأخبار", ألأخبار
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/News.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="europe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-u0uOdujAViWs4ZkNfjxmlnrhmc5lwtgbk6JCmJ79ug&s=10",group-title="europe", europe
-https://github.com/ClementeCEO/TVus/blob/main/europe/de.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="pl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-u0uOdujAViWs4ZkNfjxmlnrhmc5lwtgbk6JCmJ79ug&s=10",group-title="pl", pl
-https://github.com/ClementeCEO/TVus/blob/main/europe/pl.m3u
-
