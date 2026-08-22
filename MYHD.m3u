@@ -10,7 +10,7 @@ http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2034167&extensio
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 1" tvg-logo="http://51.158.145.100/picons/logos/bein/1836268.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 1
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=1836268&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 2" tvg-logo="http://51.158.145.100/picons/logos/bein/1836267.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 2
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=1836267&extension=m3u8
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=1836267&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 3" tvg-logo="http://51.158.145.100/picons/logos/bein/1836266.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 3
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=1836266&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 4" tvg-logo="http://51.158.145.100/picons/logos/bein/1836265.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 4
