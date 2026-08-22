@@ -4,24 +4,25 @@ http://185.47.212.25:8080/tdp_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN 4k UHD (True_4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/IRIB_FARATAR_UHD.png" group-title="4K ", IRIB FARATAR UHD
 https://live-aburayhan1109.telewebion.ir/ek/faratar/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN 4k UHD (True_4K)" tvg-logo="http://pro.netmos.ovh:6051/imgs/bein_4k.png" group-title="4K ", beIN 4k UHD
-http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/228800
+http://iptvnow.nl:80/live/53b18c7f3e/b991312911b5/2034169.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN 4k UHD (True_4K)" tvg-logo="http://pro.netmos.ovh:6051/imgs/bein_4k.png" group-title="4K ", beIN 4k UHD
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/233902.ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 1 HD
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/233883.ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 2 HD
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/233884.ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 3 HD
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/233885.ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 4 HD
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/233886.ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 5 HD
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/233887.ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 6 HD
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/233888.ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 7 HD
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/233889.ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 8 HD
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/233890.ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" group-title="AR BEIN SPORTS HD",AR BEIN SPORTS 9 HD
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/233891.ts
+http://iptvnow.nl:80/live/53b18c7f3e/b991312911b5/2034167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 1" tvg-logo="http://51.158.145.100/picons/logos/bein/1836268.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 1
+http://iptvnow.nl:80/live/53b18c7f3e/b991312911b5/1836268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 2" tvg-logo="http://51.158.145.100/picons/logos/bein/1836267.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 2
+http://iptvnow.nl:80/live/53b18c7f3e/b991312911b5/1836267.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 3" tvg-logo="http://51.158.145.100/picons/logos/bein/1836266.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 3
+http://iptvnow.nl:80/live/53b18c7f3e/b991312911b5/1836266.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 4" tvg-logo="http://51.158.145.100/picons/logos/bein/1836265.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 4
+http://iptvnow.nl:80/live/53b18c7f3e/b991312911b5/1836265.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 5" tvg-logo="http://51.158.145.100/picons/logos/bein/1836264.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 5
+http://iptvnow.nl:80/live/53b18c7f3e/b991312911b5/1836264.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 6" tvg-logo="http://51.158.145.100/picons/logos/bein/1836263.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 6
+http://iptvnow.nl:80/live/53b18c7f3e/b991312911b5/1836263.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 7" tvg-logo="http://51.158.145.100/picons/logos/bein/1836262.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 7
+http://iptvnow.nl:80/live/53b18c7f3e/b991312911b5/1836262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 8" tvg-logo="http://51.158.145.100/picons/logos/bein/1836261.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 8
+http://iptvnow.nl:80/live/53b18c7f3e/b991312911b5/1836261.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 9" tvg-logo="http://51.158.145.100/picons/logos/bein/1836260.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 9
+http://iptvnow.nl:80/live/53b18c7f3e/b991312911b5/1836260.m3u8
+
