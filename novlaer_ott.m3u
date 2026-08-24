@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/raid35/channel-links/main/palestine.m3u
 #EXTINF:-1 tvg-id="ALWAN" tvg-name="|FR| CANAL SPORT" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png",group-title="|FR| CANAL SPORT",|FR| CANAL SPORT
 https://raw.githubusercontent.com/raid35/docs/main/CANAL_SPORT.m3u
 
-#EXTINF:-1 tvg-id="ALWAN" tvg-name="|FR| CANAL SPORT" tvg-logo="https://ligue1.com/images/Logo_Ligue1.webp",group-title="|FR| CANAL SPORT",|FR| Ligue1
+#EXTINF:-1 tvg-id="ALWAN" tvg-name="|FR| Ligue1" tvg-logo="https://ligue1.com/images/Logo_Ligue1.webp",group-title="|FR| Ligue1",|FR| Ligue1
 https://raw.githubusercontent.com/raid35/docs/main/Ligue1.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN Sport" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",group-title="|FR| BEIN Sport",|FR| BEIN Sport
