@@ -1,37 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 1 4K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 1 4K
 http://185.191.126.127:8080/live///80986533788/5662111245/318197.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="BEIN SPORT HD |G|",|G| | BEIN SPORT 1 HD
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=1411374&extension=ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 2 4K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_2.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 2 4K
 http://185.191.126.127:8080/live///80986533788/5662111245/318198.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="BEIN SPORT HD |G|",|G| | BEIN SPORT 2 HD
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=1411373&extension=ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 3 4K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_3.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 3 4K
 http://185.191.126.127:8080/live///80986533788/5662111245/318199.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="BEIN SPORT HD |G|",|G| | BEIN SPORT 3 HD
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=1411372&extension=ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 4 4K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_4.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 4 4K
 http://185.191.126.127:8080/live///80986533788/5662111245/440580.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="BEIN SPORT HD |G|",|G| | BEIN SPORT 4 HD
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=1411371&extension=ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 5 4K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_5.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 5 4K
 http://185.191.126.127:8080/live///80986533788/5662111245/318201.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="BEIN SPORT HD |G|",|G| | BEIN SPORT 5 HD
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=1411370&extension=ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 6 4K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_6.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 6 4K
 http://185.191.126.127:8080/live///80986533788/5662111245/318202.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="BEIN SPORT HD |G|",|G| | BEIN SPORT 6 HD
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=1411369&extension=ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 7 4K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_7.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 7 4K
 http://185.191.126.127:8080/live///80986533788/5662111245/318203.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="BEIN SPORT HD |G|",|G| | BEIN SPORT 7 HD
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_8.png" group-title="BEIN SPORT HD |G|",|G| | BEIN SPORT 7 HD
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=1411368&extension=ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 8 4K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_8.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 8 4K
 http://185.191.126.127:8080/live///80986533788/5662111245/318204.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="BEIN SPORT HD |G|",|G| | BEIN SPORT 8 HD
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=1411367&extension=ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 9 4K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_9.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 9 4K
 http://185.191.126.127:8080/live///80986533788/5662111245/318205.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png" group-title="BEIN SPORT HD |G|",|G| | BEIN SPORT 9 HD
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=1411366&extension=ts
