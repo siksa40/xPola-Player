@@ -8,21 +8,21 @@ http://familyuae.net:8080/live/c8:12:0b:12:fa:ae/19735531731258/1017027.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN 4k UHD (True_4K)" tvg-logo="http://pro.netmos.ovh:6051/imgs/bein_4k.png" group-title="4K ", beIN 4k UHD
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2034167&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 1" tvg-logo="http://51.158.145.100/picons/logos/bein/1836268.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 1
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49319.ts
+http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49319.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 2" tvg-logo="http://51.158.145.100/picons/logos/bein/1836267.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 2
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49321.ts
+http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49321.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 3" tvg-logo="http://51.158.145.100/picons/logos/bein/1836266.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 3
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49320.ts
+http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49320.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 4" tvg-logo="http://51.158.145.100/picons/logos/bein/1836265.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 4
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49320.ts
+http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49320.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 5" tvg-logo="http://51.158.145.100/picons/logos/bein/1836264.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 5
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49323.ts
+http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49323.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 6" tvg-logo="http://51.158.145.100/picons/logos/bein/1836263.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 6
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49324.ts
+http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49324.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 7" tvg-logo="http://51.158.145.100/picons/logos/bein/1836262.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 7
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49325.ts
+http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49325.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 8" tvg-logo="http://51.158.145.100/picons/logos/bein/1836261.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 8
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49326.ts
+http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49326.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 9" tvg-logo="http://51.158.145.100/picons/logos/bein/1836260.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 9
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49327.ts
+http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49327.m3u8
 
