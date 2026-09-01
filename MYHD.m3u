@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2024/02/emisiones-la-1-uhd.jpg" group-title="4K ", la-1-UHD HDR
-http://185.47.212.25:8080/tdp_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN 4k UHD (True_4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/IRIB_FARATAR_UHD.png" group-title="4K ", IRIB FARATAR UHD
 https://live-aburayhan1109.telewebion.ir/ek/faratar/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN 4k UHD (True_4K)" tvg-logo="http://pro.netmos.ovh:6051/imgs/bein_4k.png" group-title="4K ", beIN 4k UHD
@@ -8,21 +6,21 @@ http://familyuae.net:8080/live/c8:12:0b:12:fa:ae/19735531731258/1017027.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN 4k UHD (True_4K)" tvg-logo="http://pro.netmos.ovh:6051/imgs/bein_4k.png" group-title="4K ", beIN 4k UHD
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2034167&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 1" tvg-logo="http://51.158.145.100/picons/logos/bein/1836268.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 1
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49319.m3u8
+http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1576582.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 2" tvg-logo="http://51.158.145.100/picons/logos/bein/1836267.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 2
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49321.m3u8
+http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1576581.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 3" tvg-logo="http://51.158.145.100/picons/logos/bein/1836266.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 3
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49320.m3u8
+http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1576580.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 4" tvg-logo="http://51.158.145.100/picons/logos/bein/1836265.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 4
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49320.m3u8
+http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1576588.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 5" tvg-logo="http://51.158.145.100/picons/logos/bein/1836264.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 5
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49323.m3u8
+http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1576587.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 6" tvg-logo="http://51.158.145.100/picons/logos/bein/1836263.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 6
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49324.m3u8
+http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1576586.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 7" tvg-logo="http://51.158.145.100/picons/logos/bein/1836262.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 7
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49325.m3u8
+http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1576585.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 8" tvg-logo="http://51.158.145.100/picons/logos/bein/1836261.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 8
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49326.m3u8
+http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1576584.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD 9" tvg-logo="http://51.158.145.100/picons/logos/bein/1836260.png" group-title="AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 9
-http://atlas06.xyz/live/687159048179/6813835cb731f.30173/49327.m3u8
+http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1576583.m3u8
 
