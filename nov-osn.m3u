@@ -51,15 +51,5 @@ http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1546005.m3u8
 http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1545959.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR+ | HISTORY2" tvg-logo="" group-title="ARABIC+",AR+ | HISTORY2
 http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1545958.m3u8
-#EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR+ | DISCOVERY " tvg-logo="https://content.osn.com/logo/channel/cropped/DSC.png" group-title="ARABIC+",AR+ | DISCOVERY
-http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1545968.m3u8
-#EXTINF:-1 tvg-id="discoveryscience.sa" tvg-name="AR+ | ID" tvg-logo="https://content.osn.com/logo/channel/cropped/DCX.png" group-title="ARABIC+",AR+ | ID
-http://185.191.126.127:8080/live/80986533788/5662111245/313351.m3u8
-#EXTINF:-1 tvg-id="bbcearthenglishar.qa" tvg-name="AR+ | ANIMAL PLANET " tvg-logo="https://content.osn.com/logo/channel/cropped/APL.png" group-title="ARABIC+",AR+ | ANIMAL PLANET
-http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/158932.ts
 #EXTINF:-1 tvg-id="osnmezzeae" tvg-name="AR+ | Mezze" tvg-logo="https://content.osn.com/logo/channel/cropped/OMZ.png" group-title="ARABIC+",AR+ | Mezze
 http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1600301.m3u8
-#EXTINF:-1 tvg-id="natgeo.qa" tvg-name="AR+ | NAT GEO" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-SPAIN/NATGEO.png" group-title="ARABIC+",AR+ | NAT GEO
-http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1545964.m3u8
-#EXTINF:-1 tvg-id="natgeowildhd.qa" tvg-name="AR+ | NAT GEO WILD " tvg-logo="" group-title="ARABIC+",AR+ | NAT GEO WILD
-http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1545962.m3u8
