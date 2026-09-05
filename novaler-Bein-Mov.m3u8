@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bein-Drama-1" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/Drama_Stacked_nov_2024_200x200.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Drama-1
-http://ar.ycncdn.online/live/072/index.m3u8?t=pjeWJhVsk2q_o9dU5RK_og&e=1788590383
+http://qwerty8520.online:2052/live/maxiptvworldcup/12345678910/433.ts
 #EXTINF:-1 tvg-name="BoxOffice_1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/BoxOffice1_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",BoxOffice_1
 http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1633196.m3u8
 #EXTINF:-1 tvg-name="Bein-Movies-1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-1
@@ -18,17 +18,17 @@ http://185.191.126.127:8080/live///80986533788/5662111245/319677.ts
 #EXTINF:-1 tvg-name="Bein-Fatafeat" tvg-logo="http://tv.asc.vg/fatafeat.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Fatafeat
 http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1509595.m3u8
 #EXTINF:-1 tvg-id="GOURMET DIGITAL.qa" tvg-name="beIN GOURMET" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/GOURMET_DIGITAL_Mono.png" group-title="BEIN MEDIA",beIN GOURMET
-http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/158944.ts
+http://oct.nexon.rocks/live/ijsgiufsl4/er00rpptmb/1937093.ts
 #EXTINF:-1 tvg-name="Bein-BBC Earth" tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/BBCEarth-new_200x200.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-BBC Earth
 http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1566611.m3u8
 #EXTINF:-1 tvg-name="Bein-HGTV" tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/HGTV.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-HGTV
 http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1527103.m3u8
 #EXTINF:-1 tvg-name="Bein-Discovery" tvg-logo="http://tv.asc.vg/discovery.channel.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Discovery
-http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1545968.m3u8
+http://oct.nexon.rocks/live/ijsgiufsl4/er00rpptmb/359201.ts
 #EXTINF:-1 tvg-name="Bein-Discovery Family" tvg-logo="http://tv.asc.vg/discovery.family.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Discovery Family
 http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/158931.ts
 #EXTINF:-1 tvg-id="discoveryscience.sa" tvg-name="AR+ | ID" tvg-logo="https://content.osn.com/logo/channel/cropped/DCX.png" group-title="ARABIC+",AR+ | ID
-http://185.191.126.127:8080/live/80986533788/5662111245/313351.m3u8
+http://oct.nexon.rocks/live/ijsgiufsl4/er00rpptmb/359203.ts
 #EXTINF:-1 tvg-name="Bein-Animal Planet" tvg-logo="http://tv.asc.vg/animal.planet.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Animal Planet
 http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/158932.ts
 #EXTINF:-1 tvg-name="Bein-Nat Geo Wild" tvg-logo="http://tv.asc.vg/nat.geo.wild.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Nat Geo Wild
