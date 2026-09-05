@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="STC Sports 1" tvg-logo="http://tv.asc.vg/stc.sports1.stc.png" group-title="STC",STC Sports 1
-http://oct.nexon.rocks/live/ijsgiufsl4/er00rpptmb/1841270.ts
+http://iptvnow.nl/live/53b18c7f3e/b991312911b5/2112618.ts
 #EXTINF:-1 tvg-name="STC Sports 2" tvg-logo="http://tv.asc.vg/stc.sports2.stc.png" group-title="STC",STC Sports 2
-http://oct.nexon.rocks/live/ijsgiufsl4/er00rpptmb/1841269.ts
+http://iptvnow.nl/live/53b18c7f3e/b991312911b5/2112617.ts
 #EXTINF:-1 tvg-name="STC Cinema" tvg-logo="http://tv.asc.vg/stc.cinema.stc.png" group-title="STC",STC Cinema
-http://185.191.126.127:8080/live/80986533788/5662111245/409588.m3u8
+http://iptvnow.nl/live/53b18c7f3e/b991312911b5/2112602.ts
 #EXTINF:-1 tvg-name="STC Drama" tvg-logo="http://tv.asc.vg/stc.drama.stc.png" group-title="STC",STC Drama
-http://185.191.126.127:8080/live/80986533788/5662111245/409586.m3u8
+http://iptvnow.nl/live/53b18c7f3e/b991312911b5/2112601.ts
 #EXTINF:-1 tvg-name="STC Family" tvg-logo="http://tv.asc.vg/stc.family.stc.png" group-title="STC",STC Family
-http://185.191.126.127:8080/live/80986533788/5662111245/409587.m3u8
+http://iptvnow.nl/live/53b18c7f3e/b991312911b5/2112600.ts
 #EXTINF:-1 tvg-name="STC Action" tvg-logo="http://tv.asc.vg/stc.action.stc.png" group-title="STC",STC Action
 http://185.191.126.127:8080/live/80986533788/5662111245/409589.m3u8
