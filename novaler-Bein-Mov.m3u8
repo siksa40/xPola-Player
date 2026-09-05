@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bein-Drama-1" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/Drama_Stacked_nov_2024_200x200.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Drama-1
-http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1576599.m3u8
+http://ar.ycncdn.online/live/072/index.m3u8?t=pjeWJhVsk2q_o9dU5RK_og&e=1788590383
 #EXTINF:-1 tvg-name="BoxOffice_1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/BoxOffice1_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",BoxOffice_1
 http://45.139.122.199:2095/live/Pm2e5NEugM/ngORTY5fvp/1633196.m3u8
 #EXTINF:-1 tvg-name="Bein-Movies-1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-1
