@@ -52,6 +52,9 @@ https://raw.githubusercontent.com/raid35/docs/main/bein_TR.m3u
 #EXTINF:-1 tvg-id="ALWAN" tvg-name="|AR| ALWAN SPORT" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN",group-title="|AR| ALWAN SPORT", |AR| ALWAN SPORT
 https://raw.githubusercontent.com/raid35/channel-links/main/ALWAN1.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="tod TV" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png",group-title=" TOD TV", وقت المباريات
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/bein_max1.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="tod TV" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png",group-title=" TOD TV", TOD TV SPORT
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/tod.m3u8
 
