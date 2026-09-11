@@ -61,7 +61,7 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/tod.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|4K| BEIN Sport" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png", group-title="|4K| BEIN Sport", |4K| BEIN Sport
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/bein8k.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="|8K| BEIN Sport" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw ",group-title="|8K| BEIN Sport",|8K| BEIN Sport
+#EXTINF:-1 tvg-id="" tvg-name="|NM| BEIN Sport" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw ",group-title="|NM| BEIN Sport",|NM| BEIN Sport
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/8k.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="|G| BEIN Sport" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",group-title="|G| BEIN Sport", |G| BEIN Sport
