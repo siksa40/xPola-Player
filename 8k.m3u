@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN 4k UHD (True_4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/IRIB_FARATAR_UHD.png" group-title="4K ", IRIB FARATAR UHD
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN 4k UHD (True_4K)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20201208110723" group-title="BEIN SPORT |NM|",|NM| | IRIB FARATAR UHD
 https://live-aburayhan1109.telewebion.ir/ek/faratar/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN 4k UHD (True_4K)" tvg-logo="http://pro.netmos.ovh:6051/imgs/bein_4k.png" group-title="4K ", beIN 4k UHD
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN 4k UHD (True_4K)" tvg-logo="http://pro.netmos.ovh:6051/imgs/bein_4k.png" group-title="BEIN SPORT |NM|",|NM| | beIN 4k UHD
 http://qwerty8520.online:2052/live/maxiptvworldcup/12345678910/593209.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 1 8K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT |NM|",|NM| | BEIN SPORT 1 NM
 http://qwerty8520.online:2052/live/17810359400475/39215025645488/677021.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_2.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 2 8K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_2.png" group-title="BEIN SPORT |NM|",|NM| | BEIN SPORT 2 NM
 http://qwerty8520.online:2052/live/17810359400475/39215025645488/677022.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_3.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 3 4K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_3.png" group-title="BEIN SPORT |NM|",|NM| | BEIN SPORT 3 NM
 http://qwerty8520.online:2052/live/17810359400475/39215025645488/677023.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_4.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 4 4K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_4.png" group-title="BEIN SPORT |NM|",|NM| | BEIN SPORT 4 NM
 http://qwerty8520.online:2052/live/17810359400475/39215025645488/677024.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_5.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 5 4K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_5.png" group-title="BEIN SPORT |NM|",|NM| | BEIN SPORT 5 NM
 http://qwerty8520.online:2052/live/17810359400475/39215025645488/677025.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_6.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 6 4K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_6.png" group-title="BEIN SPORT |NM|",|NM| | BEIN SPORT 6 NM
 http://qwerty8520.online:2052/live/17810359400475/39215025645488/677026.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_7.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 7 4K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_7.png" group-title="BEIN SPORT |NM|",|NM| | BEIN SPORT 7 NM
 http://qwerty8520.online:2052/live/17810359400475/39215025645488/677027.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_8.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 8 4K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_8.png" group-title="BEIN SPORT |NM|",|NM| | BEIN SPORT 8 NM
 http://qwerty8520.online:2052/live/17810359400475/39215025645488/677028.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_9.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 9 4K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_9.png" group-title="BEIN SPORT |NM|",|NM| | BEIN SPORT 9 NM
 http://qwerty8520.online:2052/live/17810359400475/39215025645488/677029.ts
