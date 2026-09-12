@@ -1,19 +1,20 @@
-#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN 4k UHD (True_4K)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20201208110723" group-title="BEIN SPORT |NM|",|NM| | IRIB FARATAR UHD
+http://217.60.15.154:8080/ICIvUZ1rX-f8_PBrfzNOnLzdZtNFxzC92PDzUBmS1GVbkSyd98E4A-2SCOs3
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 1 4K
-http://qwerty8520.online:2052/live/17810359400475/39215025645488/677012.ts
+http://217.60.15.154:8080/IIQFFLpY5gumsKvGNVkJjpfqI56CVxjs7W4AtOcyBXjXMjVCnm7t0j62iqDi
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_2.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 2 4K
-http://qwerty8520.online:2052/live/17810359400475/39215025645488/677013.ts
+http://172.110.216.236:8080/IL4LDgA-tSljxLWSQKQBfvNzuDhrMX5lnL7wgJPKbTDrMD1Fh84m0QTcfFO4
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_3.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 3 4K
-http://qwerty8520.online:2052/live/17810359400475/39215025645488/677014.ts
+http://217.60.15.125:8080/IPAZIc6UQE4sWJdu38JJF_r59BLw-nZnor-900yYQn4MageBv7aL6w3sYpgS
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_4.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 4 4K
-http://qwerty8520.online:2052/live/17810359400475/39215025645488/677015.ts
+http://217.60.15.52:8080/IMoXO3TyE2zpLIk6qiR0e-JVP6n9G_5XpmIziPi52JucOM_YZ9qqMu9kJNgh
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_5.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 5 4K
-http://qwerty8520.online:2052/live/17810359400475/39215025645488/677016.ts
+http://172.110.216.236:8080/IH5Nq4DzM5aYwCA0SmO26vz9V-QJabVZIefe2cvgydY_dbxHsccw33MYJHlr
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_6.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 6 4K
-http://qwerty8520.online:2052/live/17810359400475/39215025645488/677017.ts
+http://217.60.15.42:8080/IERDsTqVYLRdtD5gP_3xsGF6LB8zBOcO1OxKMBGk57aigySyIwHlmAFSMG18
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_7.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 7 4K
-http://qwerty8520.online:2052/live/17810359400475/39215025645488/677018.ts
+http://217.60.15.107:8080/IApRnvQ_ldMSKBycoN1aYgSFxezxCFiE-UjMQRozeXOmBO3awzVlqlOkdZfU
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_8.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 8 4K
-http://qwerty8520.online:2052/live/17810359400475/39215025645488/677019.ts
+http://172.110.216.220:8080/IDBfhE5ZxvHXXALI1Q8KO8QZidLwIGIZYYvrDFMSEarwnIW9BxpXPcaSjeTx
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_9.png" group-title="BEIN SPORT 4K |G|",|G| | BEIN SPORT 9 4K
-http://qwerty8520.online:2052/live/17810359400475/39215025645488/677020.ts
+http://172.110.216.220:8080/IJZ1wWlqfx2NEFllnxYZJ0X7fyx2zYYv4E2uYRLOAXOMfHxd0bIKI36fZR74
