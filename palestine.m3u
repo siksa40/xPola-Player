@@ -1,13 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="AL-FAJER TV 1 HD" tvg-logo="http://tayaara.store:80/images/marvel/1716985163331.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 1 HD
-http://95.216.115.170:3021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6728
-#EXTINF:-1 tvg-name="AL-FAJER TV 2 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985169172.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 2 FHD
-http://95.216.115.170:3021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6728
-#EXTINF:-1 tvg-name="AL-FAJER TV 3 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985180242.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 3 FHD
-http://95.216.115.170:3021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6729
-#EXTINF:-1 tvg-name="AL-FAJER TV 4 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985192379.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 4 FHD
-http://95.216.115.170:3021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6730
-#EXTINF:-1 tvg-name="AL-FAJER TV 5 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985203400.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 5 FHD
-http://95.216.115.170:3021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6731
-#EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="General",Ajyal TV
-http://htvmada.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/8f53295a73878494e9bc8dd6c3c7104f.128.png?ver=03-06-2025" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 4K
+https://ADAM.TPN@scontent.xx.fbcdn.net/hvideo-nha-vll/_nc_cat-102/_nc_sr_t-4/v/rAScKtAAuExzamPoGa8Slval9lF3G-12RFXlyu_izHKlD4w/_nc_ohc-HaAJ88wHPMAQ7kNvwEkfAVd/live-dash/dash-abr-ibr-audio/122322153062079343.mpd?_nc_eui2=AeFbQLRyV1L6epPe03SkbME-_zwwCUGe4nT_PDAJQZ7idKd4lVTy1OJb8iu5LX3aeq6XXVEDwGV_0KUTZjIm2Y40&_nc_zt=28&ccb=2-4&lvp=1&ms=m_CN&p_bd=Vd2j9w4YrqxtbR2L6KDW&sc_t=1&oh=00_AQKcZKq5P_Mg8866w0pMaz9TqaVSwtVdVzqj4X1nVjzMaw&oe=6AA77CF8
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 1 
+http://specialdn.com/live/001c4d1e5e/225bde5b2b1c/1178403.ts
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_2.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 2 
+http://specialdn.com/live/001c4d1e5e/225bde5b2b1c/1178402.ts
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_3.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 3 
+http://specialdn.com/live/001c4d1e5e/225bde5b2b1c/1178401.ts
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_4.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 4 
+http://specialdn.com/live/001c4d1e5e/225bde5b2b1c/1178400.ts
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_5.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 5 
+http://specialdn.com/live/001c4d1e5e/225bde5b2b1c/1178399.ts
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_6.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 6 
+http://specialdn.com/live/001c4d1e5e/225bde5b2b1c/1178398.ts
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_7.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 7 
+http://specialdn.com/live/001c4d1e5e/225bde5b2b1c/1178397.ts
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_8.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 8 
+http://specialdn.com/live/001c4d1e5e/225bde5b2b1c/1178396.ts
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_9.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 9 
+http://specialdn.com/live/001c4d1e5e/225bde5b2b1c/1178395.ts
