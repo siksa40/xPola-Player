@@ -1,18 +1,18 @@
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 1 8K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 1 
 http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/221764.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_2.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 2 8K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_2.png" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 2 
 http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/158900.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_3.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 3 4K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_3.png" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 3 
 http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/158901.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_4.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 4 4K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_4.png" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 4 
 http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/158902.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_5.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 5 4K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_5.png" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 5 
 http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/158903.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_6.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 6 4K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_6.png" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 6 
 http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/221769.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_7.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 7 4K
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_7.png" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 7 
 http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/221770.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_8.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 8 4K
-http://specialdn.com/live/a2c14709e4/f8e14daed713/1156624.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_9.png" group-title="BEIN SPORT |8K|",|8K| | BEIN SPORT 9 4K
-http://specialdn.com/live/a2c14709e4/f8e14daed713/1156623.ts
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_8.png" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 8 
+http://specialdn.com/live/001c4d1e5e/225bde5b2b1c/1156624.ts
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_9.png" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 9 
+http://specialdn.com/live/001c4d1e5e/225bde5b2b1c/1156623.ts
