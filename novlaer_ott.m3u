@@ -1,6 +1,9 @@
 #EXTINF:-1 tvg-id="" tvg-name="قرإن الكريم" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrugKiVmcCg-dwVYlfYEYNwIjmrBEAdHBsPmlC5Vqz5w&s=10",group-title="قرإن الكريم ",قرإن الكريم
 https://raw.githubusercontent.com/raid35/channel-links/main/quran.m3u
 
+#EXTINF:-1 tvg-id="MBC " tvg-name="4K " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThVHWNa3Ga-G1lSR7d6IW1bkycE9M5rMRQ2V1hFt3PXjtfYhQsruUA0Vw-&s=10" group-title="4K", 4K
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/4K.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXl0VxgKj5P_YyoJ8limOdPwgVdJBH9fOn6h1JjTNDVQ&s=10",group-title="ALGERIA", ALGERIA
 https://raw.githubusercontent.com/raid35/channel-links/main/ALGERIA.m3u
 
