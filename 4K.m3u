@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="bein sport [4K]" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/7/75/BEIN_4K.png/revision/latest?cb=20190818174249&path-prefix=fr" group-title="|4K|", bein sport 4k
+http://8k-strong.xyz/live/01a84814bb42/5c9b05c4c7/1556138.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports [4K]" tvg-logo="https://v.wpimg.pl/OC84NTcuYCJZVjhnTA5tNxoObDcTHRAzTEJjJxcUKCYaGGwhQU9tbFRbKTtMFz0qX1w6e1JHd2wAAXl6ExsoYUU" group-title="|4K|", Eleven Sports 1 4K
+http://8k-strong.xyz/live/01a84814bb42/5c9b05c4c7/1544301.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Ultimat [4K]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/TNT_Sports_Ultimate_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230704071536" group-title="|4K|", TNT Sports Ultimat 4K 
+http://8k-strong.xyz/live/01a84814bb42/5c9b05c4c7/1544247.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport [4K]" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gx31dn1621012630.png" group-title="|4K|", Sky Sport UHD
+http://8k-strong.xyz/live/01a84814bb42/5c9b05c4c7/1544238.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport [4K]" tvg-logo="https://ik.imagekit.io/tp/20220623-ziggo-sport-logo.png?tr=w-800,h-456" group-title="|4K|", Ziggo Sport 4K
+http://8k-strong.xyz/live/01a84814bb42/5c9b05c4c7/1544251.ts
