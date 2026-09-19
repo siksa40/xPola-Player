@@ -1,81 +1,13 @@
 #EXTM3U
-#EXTINF:-1, Channel 001
-https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
-#EXTINF:-1, Channel 002
-https://shd-amg-fast.edgenextcdn.net/tx002/playlist.m3u8
-#EXTINF:-1, Channel 003
-https://shd-amg-fast.edgenextcdn.net/tx003/playlist.m3u8
-#EXTINF:-1, Channel 004
-https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
-#EXTINF:-1, Channel 005
-https://shd-amg-fast.edgenextcdn.net/tx005/playlist.m3u8
-#EXTINF:-1, Channel 006
-https://shd-amg-fast.edgenextcdn.net/tx006/playlist.m3u8
-#EXTINF:-1, Channel 007
-https://shd-amg-fast.edgenextcdn.net/tx007/playlist.m3u8
-#EXTINF:-1, Channel 008
-https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
-#EXTINF:-1, Channel 009
-https://shd-amg-fast.edgenextcdn.net/tx009/playlist.m3u8
-#EXTINF:-1, Channel 010
-https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
-#EXTINF:-1, Channel 011
-https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
-#EXTINF:-1, Channel 012
-https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
-#EXTINF:-1, Channel 013
-https://shd-amg-fast.edgenextcdn.net/tx013/playlist.m3u8
-#EXTINF:-1, Channel 014
-https://shd-amg-fast.edgenextcdn.net/tx014/playlist.m3u8
-#EXTINF:-1, Channel 015
-https://shd-amg-fast.edgenextcdn.net/tx015/playlist.m3u8
-#EXTINF:-1, Channel 016
-https://shd-amg-fast.edgenextcdn.net/tx016/playlist.m3u8
-#EXTINF:-1, Channel 017
-https://shd-amg-fast.edgenextcdn.net/tx017/playlist.m3u8
-#EXTINF:-1, Channel 018
-https://shd-amg-fast.edgenextcdn.net/tx018/playlist.m3u8
-#EXTINF:-1, Channel 019
-https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8
-#EXTINF:-1, Channel 020
-https://shd-amg-fast.edgenextcdn.net/tx020/playlist.m3u8
-#EXTINF:-1, Channel 021
-https://shd-amg-fast.edgenextcdn.net/tx021/playlist.m3u8
-#EXTINF:-1, Channel 022
-https://shd-amg-fast.edgenextcdn.net/tx022/playlist.m3u8
-#EXTINF:-1, Channel 023
-https://shd-amg-fast.edgenextcdn.net/tx023/playlist.m3u8
-#EXTINF:-1, Channel 024
-https://shd-amg-fast.edgenextcdn.net/tx024/playlist.m3u8
-#EXTINF:-1, Channel 025
-https://shd-amg-fast.edgenextcdn.net/tx025/playlist.m3u8
-#EXTINF:-1, Channel 026
-https://shd-amg-fast.edgenextcdn.net/tx026/playlist.m3u8
-#EXTINF:-1, Channel 027
-https://shd-amg-fast.edgenextcdn.net/tx027/playlist.m3u8
-#EXTINF:-1, Channel 028
-https://shd-amg-fast.edgenextcdn.net/tx028/playlist.m3u8
-#EXTINF:-1, Channel 029
-https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
-#EXTINF:-1, Channel 030
-https://shd-amg-fast.edgenextcdn.net/tx030/playlist.m3u8
-#EXTINF:-1, Channel 031
-https://shd-amg-fast.edgenextcdn.net/tx031/playlist.m3u8
-#EXTINF:-1, Channel 032
-https://shd-amg-fast.edgenextcdn.net/tx032/playlist.m3u8
-#EXTINF:-1, Channel 033
-https://shd-amg-fast.edgenextcdn.net/tx033/playlist.m3u8
-#EXTINF:-1, Channel 034
-https://shd-amg-fast.edgenextcdn.net/tx034/playlist.m3u8
-#EXTINF:-1, Channel 035
-https://shd-amg-fast.edgenextcdn.net/tx035/playlist.m3u8
-#EXTINF:-1, Channel 036
-https://shd-amg-fast.edgenextcdn.net/tx036/playlist.m3u8
-#EXTINF:-1, Channel 037
-https://shd-amg-fast.edgenextcdn.net/tx037/playlist.m3u8
-#EXTINF:-1, Channel 038
-https://shd-amg-fast.edgenextcdn.net/tx038/playlist.m3u8
-#EXTINF:-1, Channel 039
-https://shd-amg-fast.edgenextcdn.net/tx039/playlist.m3u8
-#EXTINF:-1, Channel 040
-https://shd-amg-fast.edgenextcdn.net/tx040/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="SOLO| SOLO SPORTS 4K HDR " tvg-logo="http://163.172.73.81/mylogo20191019/beinhd/solo.png" group-title="SOLO SPORT |LIVE EVENT solo|",|SOLO|  4K HDR 
+http://todmultisport.com:8080/live/98:06:3c:a9:7d:a33/8zTt5eTHpCdq1n8/249999.ts
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="SOLO| SOLO SPORTS 1" tvg-logo="http://163.172.73.81/mylogo20191019/beinhd/solo.png" group-title="SOLO SPORT |LIVE EVENT solo|",|SOLO| SOLO SPORTS 1 (EXCLUS)
+http://todmultisport.com:8080/live/98:06:3c:a9:7d:a33/8zTt5eTHpCdq1n8/250000.ts
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="SOLO| SOLO SPORTS 2" tvg-logo="http://163.172.73.81/mylogo20191019/beinhd/solo.png" group-title="SOLO SPORT |LIVE EVENT solo|",|SOLO| SOLO SPORTS 2 (EXCLUS)
+http://todmultisport.com:8080/live/98:06:3c:a9:7d:a33/8zTt5eTHpCdq1n8/250004.ts
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="SOLO| SOLO SPORTS 3" tvg-logo="http://163.172.73.81/mylogo20191019/beinhd/solo.png" group-title="SOLO SPORT |LIVE EVENT solo|",|SOLO| SOLO SPORTS 3 (EXCLUS)
+http://todmultisport.com:8080/live/98:06:3c:a9:7d:a33/8zTt5eTHpCdq1n8/250008.ts
+#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="SOLO| SOLO SPORTS 4" tvg-logo="http://163.172.73.81/mylogo20191019/beinhd/solo.png" group-title="SOLO SPORT |LIVE EVENT solo|",|SOLO| SOLO SPORTS 4 (EXCLUS)
+http://todmultisport.com:8080/live/98:06:3c:a9:7d:a33/8zTt5eTHpCdq1n8/250012.ts
+#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="SOLO| SOLO SPORTS 5" tvg-logo="http://163.172.73.81/mylogo20191019/beinhd/solo.png" group-title="SOLO SPORT |LIVE EVENT solo|",|SOLO| SOLO SPORTS 5 (EXCLUS)
+http://todmultisport.com:8080/live/98:06:3c:a9:7d:a33/8zTt5eTHpCdq1n8/250016.ts
