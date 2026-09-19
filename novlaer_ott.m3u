@@ -40,6 +40,10 @@ https://raw.githubusercontent.com/raid35/channel-links/main/gremani.m3u
 #EXTINF:-1 tvg-id="" tvg-name="AL-FAJER TV" tvg-logo="https://images.seeklogo.com/logo-png/21/2/pray-for-palestine-logo-png_seeklogo-210796.png",group-title="AL-FAJER TV", AL-FAJER TV
 https://raw.githubusercontent.com/raid35/channel-links/main/palestine.m3u
 
+
+#EXTINF:-1 tvg-id="ALWAN" tvg-name="|ES| M+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png",group-title="|ES| M+",|ES| M+
+https://raw.githubusercontent.com/raid35/docs/main/M%2B_ES.m3u
+
 #EXTINF:-1 tvg-id="ALWAN" tvg-name="|FR| DAZN" tvg-logo="https://play-lh.googleusercontent.com/2m6bTc0_zIgzimPNQo_ZfZkhGHEjBXJIPbIs3_wliCXm4VTNkLW31yMMUqmB7Vpn51Fed62sUv91YtC1kRcZAQ=w240-h480-rw",group-title="|FR| DAZN",|FR| DAZN
 https://raw.githubusercontent.com/raid35/docs/main/DAZN_FR.m3u
 
