@@ -62,7 +62,7 @@ https://raw.githubusercontent.com/raid35/docs/main/bein_TR.m3u
 #EXTINF:-1 tvg-id="ALWAN" tvg-name="|AR| ALWAN SPORT" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN",group-title="|AR| ALWAN SPORT", |AR| ALWAN SPORT
 https://raw.githubusercontent.com/raid35/channel-links/main/ALWAN1.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SOLO SPORT " tvg-logo="http://163.172.73.81/mylogo20191019/beinhd/solo.png",group-title="SOLO SPOR",group-title="|AR| SOLO SPOR", |AR| SOLO SPORT
+#EXTINF:-1 tvg-id="SOLO SPORT" tvg-name="|AR| SOLO SPORT" tvg-logo="http://163.172.73.81/mylogo20191019/beinhd/solo.png" group-title="|AR| SOLO SPORT", |AR| SOLO SPORT
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/SOLO_SP.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="وقت المباريات" tvg-logo="https://images.seeklogo.com/logo-png/45/1/tod-tv-logo-png_seeklogo-457286.png",group-title=" وقت المباريات",وقت المباريات
