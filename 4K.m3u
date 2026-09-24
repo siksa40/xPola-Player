@@ -1,13 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="bein sport [4K]" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/7/75/BEIN_4K.png/revision/latest?cb=20190818174249&path-prefix=fr" group-title="|4K|", bein sport 4k
 http://qwerty8520.online:2052/live/17810359400475/39215025645488/593209.ts
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+ 4K UHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40052/canal-ouah/CHN43FN/CHN43FN_301_29082023" group-title="myCANAL CINEMA FR",FR | CANAL+ 4K UHD
+http://apex-ayoumas.com/live/00F38D15A933CA2/2czKTdHW9p/1281086.ts
+#EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/VgFbZDF.png" group-title="myCANAL CINEMA FR",FR | CANAL+ BOX OFFICE 4K UHD
+http://apex-ayoumas.com/live/00F38D15A933CA2/2czKTdHW9p/1281448.ts
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="CANAL+ FOOT FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40208/canal-ouah/CHN43FN/CHN43FN_19_29082023" group-title="SPORT FR",CANAL+ FOOT 4K UHD
+http://apex-ayoumas.com/live/00F38D15A933CA2/2czKTdHW9p/30412.ts
+#EXTINF:-1 tvg-logo="https://ligue1.com/images/Logo_Ligue1.webp" group-title="Ligue Plus FR",Ligue 1+ 1 4K UHD
+http://apex-ayoumas.com/live/00F38D15A933CA2/2czKTdHW9p/1470230.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport [4K]" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gx31dn1621012630.png" group-title="|4K|", Sky Sport UHD
-http://8k-strong.xyz/live/01a84814bb42/5c9b05c4c7/1544238.ts
+http://apex-ayoumas.com/live/00F38D15A933CA2/2czKTdHW9p/1281068.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport [4K]" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gx31dn1621012630.png" group-title="|4K|", Sky Sport UHD 1
-http://qwerty8520.online:2052/live/17810359400475/39215025645488/632957.ts
+http://apex-ayoumas.com/live/00F38D15A933CA2/2czKTdHW9p/1281426.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro Sports [4K]" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="|4K|", Astro Sports UHD
-http://qwerty8520.online:2052/live/17810359400475/39215025645488/593218.ts
+http://apex-ayoumas.com/live/00F38D15A933CA2/2czKTdHW9p/1470225.ts
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports [4K]" tvg-logo="https://v.wpimg.pl/OC84NTcuYCJZVjhnTA5tNxoObDcTHRAzTEJjJxcUKCYaGGwhQU9tbFRbKTtMFz0qX1w6e1JHd2wAAXl6ExsoYUU" group-title="|4K|", Eleven Sports 1 4K
-http://8k-strong.xyz/live/01a84814bb42/5c9b05c4c7/1544301.ts
+http://apex-ayoumas.com/live/00F38D15A933CA2/2czKTdHW9p/1281071.ts
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Ultimat [4K]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/TNT_Sports_Ultimate_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230704071536" group-title="|4K|", TNT Sports Ultimat 4K 
-http://qwerty8520.online:2052/live/17810359400475/39215025645488/593217.ts
+http://apex-ayoumas.com/live/00F38D15A933CA2/2czKTdHW9p/1281078.ts
