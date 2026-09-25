@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="bein sport [4K]" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/7/75/BEIN_4K.png/revision/latest?cb=20190818174249&path-prefix=fr" group-title="|4K|", bein sport 4k
+http://asmr4k.pro:8080/live/32465471078/0761689075/440081.ts
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT |NM|",|NM| | BEIN SPORT 1 NM
+http://asmr4k.pro:8080/live/32465471078/0761689075/497111.ts
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_2.png" group-title="BEIN SPORT |NM|",|NM| | BEIN SPORT 2 NM
+http://asmr4k.pro:8080/live/32465471078/0761689075/497112.ts
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_3.png" group-title="BEIN SPORT |NM|",|NM| | BEIN SPORT 3 NM
+http://asmr4k.pro:8080/live/32465471078/0761689075/497113.ts
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_4.png" group-title="BEIN SPORT |NM|",|NM| | BEIN SPORT 4 NM
+http://asmr4k.pro:8080/live/32465471078/0761689075/497114.ts
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_5.png" group-title="BEIN SPORT |NM|",|NM| | BEIN SPORT 5 NM
+http://asmr4k.pro:8080/live/32465471078/0761689075/497115.ts
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_6.png" group-title="BEIN SPORT |NM|",|NM| | BEIN SPORT 6 NM
+http://asmr4k.pro:8080/live/32465471078/0761689075/497116.ts
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_7.png" group-title="BEIN SPORT |NM|",|NM| | BEIN SPORT 7 NM
+http://asmr4k.pro:8080/live/32465471078/0761689075/497117.ts
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_8.png" group-title="BEIN SPORT |NM|",|NM| | BEIN SPORT 8 NM
+http://asmr4k.pro:8080/live/32465471078/0761689075/497118.ts
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_9.png" group-title="BEIN SPORT |NM|",|NM| | BEIN SPORT 9 NM
+http://asmr4k.pro:8080/live/32465471078/0761689075/497119.ts
