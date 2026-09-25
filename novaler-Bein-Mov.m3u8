@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bein-Drama-1" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/Drama_Stacked_nov_2024_200x200.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Drama-1
-http://hydratv.cc/live/Shaya10/733151581/247740.ts
+http://asmr4k.pro:8080/live/32465471078/0761689075/1012886.ts
 #EXTINF:-1 tvg-name="BoxOffice_1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/BoxOffice1_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",BoxOffice 1
 http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/158955.ts
 #EXTINF:-1 tvg-name="BoxOffice_2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/BoxOffice2_DIGITAL_Mono.png.png" group-title="BeIN ⭐ Entertainment (FHD)",BoxOffice 2
 http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/158956.ts
 #EXTINF:-1 tvg-name="Bein-Movies-1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-1
-http://asmr4k.pro:8080/live/3146007635/5780662145/1012874.ts
+http://asmr4k.pro:8080/live/32465471078/0761689075/1012874.ts
 #EXTINF:-1 tvg-name="Bein-Movies-2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-2
 http://asmr4k.pro:8080/live/3146007635/5780662145/1012876.ts
 #EXTINF:-1 tvg-name="Bein-Movies-3" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-3
-http://asmr4k.pro:8080/live/3146007635/5780662145/1012878.ts
+http://asmr4k.pro:8080/live/32465471078/0761689075/1012878.ts
 #EXTINF:-1 tvg-name="Bein-Movies-4" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-4
-http://asmr4k.pro:8080/live/3146007635/5780662145/1012880.ts
+http://asmr4k.pro:8080/live/32465471078/0761689075/1012880.ts
 #EXTINF:-1 tvg-name="beIN.SERIES 1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/SERIES1_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (265)",beIN.SERIES 1
 http://asmr4k.pro:8080/live/3146007635/5780662145/1012882.ts
 #EXTINF:-1 tvg-name="beIN.SERIES 2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/SERIES2_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (265)",beIN.SERIES 2
@@ -32,7 +32,7 @@ http://eg2.kimoiptv.pro/live/svmz2wf5eb/ortv8uxcg9/137498.ts
 #EXTINF:-1 tvg-id="discoveryscience.sa" tvg-name="AR+ | ID" tvg-logo="https://content.osn.com/logo/channel/cropped/DCX.png" group-title="ARABIC+",AR+ | ID
 http://hydratv.cc/live/Shaya10/733151581/236630.ts
 #EXTINF:-1 tvg-name="Bein-Animal Planet" tvg-logo="http://tv.asc.vg/animal.planet.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Animal Planet
-http://asmr4k.pro:8080/live/3146007635/5780662145/1012898.ts
+http://asmr4k.pro:8080/live/32465471078/0761689075/1012898.ts
 #EXTINF:-1 tvg-name="Bein-Nat Geo Wild" tvg-logo="http://tv.asc.vg/nat.geo.wild.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Nat Geo Wild
 http://eg2.kimoiptv.pro/live/svmz2wf5eb/ortv8uxcg9/4553.ts
 #EXTINF:-1 tvg-name="Bein-Nat Geo" tvg-logo="http://tv.asc.vg/nat.geo.bein.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Nat Geo
