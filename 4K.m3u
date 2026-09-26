@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="bein sport [4K]" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/7/75/BEIN_4K.png/revision/latest?cb=20190818174249&path-prefix=fr" group-title="|4K|", bein sport 4k
-http://qwerty8520.online:2052/live/17810359400475/39215025645488/593209.ts
+http://hydratv.cc/live/Shaya10/733151581/327327.ts
 #EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+ 4K UHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40052/canal-ouah/CHN43FN/CHN43FN_301_29082023" group-title="myCANAL CINEMA FR",FR | CANAL+ 4K UHD
 http://apex-ayoumas.com/live/00F38D15A933CA2/2czKTdHW9p/1281086.m3u8
 #EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/VgFbZDF.png" group-title="myCANAL CINEMA FR",FR | CANAL+ BOX OFFICE 4K UHD
 http://apex-ayoumas.com/live/00F38D15A933CA2/2czKTdHW9p/1281448.m3u8
 #EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="CANAL+ FOOT FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40208/canal-ouah/CHN43FN/CHN43FN_19_29082023" group-title="SPORT FR",CANAL+ FOOT 4K UHD
-http://apex-ayoumas.com/live/00F38D15A933CA2/2czKTdHW9p/30412.m3u8
+http://hydratv.cc/live/Shaya10/733151581/586177.ts
 #EXTINF:-1 tvg-logo="https://ligue1.com/images/Logo_Ligue1.webp" group-title="Ligue Plus FR",Ligue 1+ 1 4K UHD
 http://apex-ayoumas.com/live/00F38D15A933CA2/2czKTdHW9p/1470230.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport [4K]" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gx31dn1621012630.png" group-title="|4K|", Sky Sport UHD
-http://81285-bills.cdn-o2.me/live/5cab117768/d59b8adcbec6/577995.ts
+http://hydratv.cc/live/Shaya10/733151581/756071.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport [4K]" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gx31dn1621012630.png" group-title="|4K|", Sky Sport UHD 1
-http://81285-bills.cdn-o2.me/live/5cab117768/d59b8adcbec6/577996.ts
+http://hydratv.cc/live/Shaya10/733151581/756070.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro Sports [4K]" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="|4K|", Astro Sports UHD
 http://81285-bills.cdn-o2.me/live/5cab117768/d59b8adcbec6/828099.ts
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports [4K]" tvg-logo="https://v.wpimg.pl/OC84NTcuYCJZVjhnTA5tNxoObDcTHRAzTEJjJxcUKCYaGGwhQU9tbFRbKTtMFz0qX1w6e1JHd2wAAXl6ExsoYUU" group-title="|4K|", Eleven Sports 1 4K
