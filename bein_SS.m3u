@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 4k]" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/7/75/BEIN_4K.png/revision/latest?cb=20190818174249&path-prefix=fr" group-title="|4K|", bein sport 4k
-http://asmr4k.pro:8080/live/32465471078/0761689075/440081.ts
+http://asmr4k.pro:8080/live/32465471078/0761689075/440081.m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT |SS|",|SS| | BEIN SPORT 1 
-http://1.ge-pro.cfd/live/bu2y4plhjl/pet6moauqm/3854.m3u8
+http://asmr4k.pro:8080/live/9210995066/0295009597/1112753.m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_2.png" group-title="BEIN SPORT |SS|",|SS| | BEIN SPORT 2 
-http://1.ge-pro.cfd/live/bu2y4plhjl/pet6moauqm/3853.m3u8
+http://asmr4k.pro:8080/live/9210995066/0295009597/369968.m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_3.png" group-title="BEIN SPORT |SS|",|SS| | BEIN SPORT 3 
-http://1.ge-pro.cfd/live/bu2y4plhjl/pet6moauqm/3851.m3u8
+http://asmr4k.pro:8080/live/9210995066/0295009597/369969.m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_4.png" group-title="BEIN SPORT |SS|",|SS| | BEIN SPORT 4 
-http://1.ge-pro.cfd/live/bu2y4plhjl/pet6moauqm/3850.m3u8
+http://asmr4k.pro:8080/live/9210995066/0295009597/369970.m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_5.png" group-title="BEIN SPORT |SS|",|SS| | BEIN SPORT 5 
-http://1.ge-pro.cfd/live/bu2y4plhjl/pet6moauqm/3849.m3u8
+http://asmr4k.pro:8080/live/9210995066/0295009597/369971.m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_6.png" group-title="BEIN SPORT |SS|",|SS| | BEIN SPORT 6 
-http://1.ge-pro.cfd/live/bu2y4plhjl/pet6moauqm/3848.m3u8
+http://asmr4k.pro:8080/live/9210995066/0295009597/369972.m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_7.png" group-title="BEIN SPORT |SS|",|SS| | BEIN SPORT 7 
-http://1.ge-pro.cfd/live/bu2y4plhjl/pet6moauqm/3847.m3u8
+http://asmr4k.pro:8080/live/9210995066/0295009597/369973.m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_8.png" group-title="BEIN SPORT |SS|",|SS| | BEIN SPORT 8 
-http://1.ge-pro.cfd/live/bu2y4plhjl/pet6moauqm/114045.m3u8
+http://asmr4k.pro:8080/live/9210995066/0295009597/369974.m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_9.png" group-title="BEIN SPORT |SS|",|SS| | BEIN SPORT 9 
-http://1.ge-pro.cfd/live/bu2y4plhjl/pet6moauqm/10362.m3u8
+http://asmr4k.pro:8080/live/9210995066/0295009597/369975.m3u8
