@@ -4,7 +4,7 @@ http://apontv.pm/live/555031616179163/1593574628/118902.m3u8
 #EXTINF:-1 tvg-name="Thmanayh 1 4K" tvg-logo="http://tv.asc.vg/thmanayh.ksa.png" group-title="Thmanayh 8 ⚽ RSL",Thmanayh 1 4K
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/293313.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66746746" ggroup-title="TNT FR",FR | TF1 4K UHD HDR
-http://apontv.pm/live/555031616179163/1593574628/99360.m3u8
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/282820.ts
 #EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+ 4K UHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40052/canal-ouah/CHN43FN/CHN43FN_301_29082023" group-title="myCANAL CINEMA FR",FR | CANAL+ 4K UHD HDR
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/282854.m3u8
 #EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE FHD+ (Resolution Exclusive)" tvg-logo="https://i.imgur.com/VgFbZDF.png" group-title="myCANAL CINEMA FR",FR | CANAL+ BOX OFFICE 4K UHD HDR
@@ -22,7 +22,7 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/282848.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport [4K]" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gx31dn1621012630.png" group-title="|4K|", Sky Sport UHD 2 HDR
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/282849.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Sports [4K]" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="|4K|", Astro Sports UHD HDR
-http://apontv.pm/live/555031616179163/1593574628/73735.m3u8
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/293312.ts
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports [4K]" tvg-logo="https://v.wpimg.pl/OC84NTcuYCJZVjhnTA5tNxoObDcTHRAzTEJjJxcUKCYaGGwhQU9tbFRbKTtMFz0qX1w6e1JHd2wAAXl6ExsoYUU" group-title="|4K|", Eleven Sports 1 4K
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/282823.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9bXIjD19rfqVSULfuRfOwam-GTJQkycoSwvj-2WloHQ&s=10" ,Viaplay ultra 
