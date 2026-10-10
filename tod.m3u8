@@ -1,21 +1,30 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 1 
+http://pro.8k-strong.tv/live/bd01ce754a07/0866bfd49f/2016501.m3u8
 http://pro.netmos.ovh:7355/live/31542574029953292/U09ZEDdu@6X!PeD/237697.ts
 #EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 2 
+http://pro.8k-strong.tv/live/bd01ce754a07/0866bfd49f/2016500.m3u8
 http://pro.netmos.ovh:7355/live/31542574029953292/U09ZEDdu@6X!PeD/237698.ts
-#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 3 
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 3
+http://pro.8k-strong.tv/live/bd01ce754a07/0866bfd49f/2016499.m3u8
 http://pro.netmos.ovh:7355/live/31542574029953292/U09ZEDdu@6X!PeD/237699.ts
 #EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 4 
+http://pro.8k-strong.tv/live/bd01ce754a07/0866bfd49f/2016498.m3u8
 http://pro.netmos.ovh:7355/live/31542574029953292/U09ZEDdu@6X!PeD/238207.ts
 #EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ",TOD-TV 5 
+http://pro.8k-strong.tv/live/bd01ce754a07/0866bfd49f/2016497.m3u8
 http://pro.netmos.ovh:7355/live/31542574029953292/U09ZEDdu@6X!PeD/239617.ts
 #EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 6 
+http://pro.8k-strong.tv/live/bd01ce754a07/0866bfd49f/2016496.m3u8
 http://pro.netmos.ovh:7355/live/31542574029953292/U09ZEDdu@6X!PeD/239618.ts
 #EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 7 
+http://pro.8k-strong.tv/live/bd01ce754a07/0866bfd49f/2016495.m3u8
 http://pro.netmos.ovh:7355/live/31542574029953292/U09ZEDdu@6X!PeD/240623.ts
 #EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 8 
+http://pro.8k-strong.tv/live/bd01ce754a07/0866bfd49f/2016494.m3u8
 http://pro.netmos.ovh:7355/live/31542574029953292/U09ZEDdu@6X!PeD/240625.ts
 #EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV 9 
+http://pro.8k-strong.tv/live/bd01ce754a07/0866bfd49f/2016493.m3u8
 http://pro.netmos.ovh:7355/live/31542574029953292/U09ZEDdu@6X!PeD/240627.ts
 #EXTINF:-1 tvg-logo="https://a.top4top.io/p_3878v2wr11.png" group-title="TOD-TV ", TOD-TV  XTRA 1 
 http://specialdn.com/live/a2c14709e4/f8e14daed713/1178444.ts
