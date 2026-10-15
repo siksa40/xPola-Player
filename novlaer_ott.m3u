@@ -116,7 +116,7 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/nov-osn.m3u
 https://raw.githubusercontent.com/raid35/docs/main/France_vip.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="|FR| myCANAL_CINEMA" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|FR| myCANAL_CINEMA", |FR| myCANAL_CINEMA
-https://raw.githubusercontent.com/raid35/docs/main/myCANAL_CINEMA.m3u
+https://raw.githubusercontent.com/siksa40/Siksa-Player/main/myCANAL_CINEMA.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="|FR| myCANAL TNT" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|FR| myCANAL TNT", |FR| myCANAL TNT
 https://raw.githubusercontent.com/raid35/docs/main/TNT.m3u
@@ -128,7 +128,7 @@ https://raw.githubusercontent.com/raid35/docs/main/CANALPLAY.m3u
 https://raw.githubusercontent.com/raid35/docs/master/VIP_DOC.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="|FR| myCANAL DUCUMENTAIRE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|FR| myCANAL DUCUMENTAIRE", |FR| myCANAL DUCUMENTAIRE
-https://raw.githubusercontent.com/raid35/docs/main/myCANAL_DUCUMENTAIRE.m3u
+https://raw.githubusercontent.com/siksa40/Siksa-Player/main/myCANAL_CINEMA.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="|VIP| DUCUMENTAIRE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|VIP| DUCUMENTAIRE", |VIP| DUCUMENTAIRE
 https://raw.githubusercontent.com/raid35/docs/main/VIP-DOC_URP.m3u
