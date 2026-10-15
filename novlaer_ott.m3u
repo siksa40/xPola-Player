@@ -139,3 +139,6 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/News.m3u
 #EXTINF:-1 tvg-id="" tvg-name="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-u0uOdujAViWs4ZkNfjxmlnrhmc5lwtgbk6JCmJ79ug&s=10",group-title="ألأخبار", ألأخبار
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/test.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTCmMu7aWMdwkRk6gWVvd4fOT73yq7su82t735HmuCA&s=10",group-title="sport",sport
+https://raw.githubusercontent.com/raid35/channel-links/main/Canal_SP.m3u
+
