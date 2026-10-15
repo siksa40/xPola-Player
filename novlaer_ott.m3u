@@ -43,9 +43,6 @@ https://raw.githubusercontent.com/raid35/channel-links/main/palestine.m3u
 #EXTINF:-1 tvg-id="ALWAN" tvg-name="|NO| VAIPLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKXdpNxVMmebCmamkw_YdD_x8NS4FoDpgF7qbiQwkZGg&s=10",group-title="|NO| VAIPLAY",|NO| VAIPLAY
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/viaplay.m3u
 
-#EXTINF:-1 tvg-id="ALWAN" tvg-name="|PL| ELEVEN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",|PL| ELEVEN SPORTS
-https://raw.githubusercontent.com/siksa40/Siksa-Player/main/eleven-sport.m3u
-
 #EXTINF:-1 tvg-id="ALWAN" tvg-name="|ES| M+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png",group-title="|ES| M+",|ES| M+
 https://raw.githubusercontent.com/raid35/docs/main/M%2B_ES.m3u
 
@@ -61,8 +58,8 @@ https://raw.githubusercontent.com/siksa40/Siksa-Player/main/CANAL_SPORT.m3u
 #EXTINF:-1 tvg-id="ALWAN" tvg-name="|AF| CANAL SPORT" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png",group-title="|AF| CANAL SPORT",|AF| CANAL SPORT
 https://raw.githubusercontent.com/siksa40/Siksa-Player/main/AF_CANAL.m3u
 
-#EXTINF:-1 tvg-id="ALWAN" tvg-name="|SK| CANAL SPORT" tvg-logo="https://www.canalplussport.cz/custom/img/loga/logo-canalplus-sport.svg",group-title="|SK| CANAL SPORT",|SK| CANAL SPORT
-https://raw.githubusercontent.com/raid35/docs/main/Canal+_SK.m3u
+#EXTINF:-1 tvg-id="ALWAN" tvg-name="|SK| CANAL SPORT" tvg-logo="https://www.satelitnatv.sk/obrazky/loga_stanic/50/canal_sport_m7_50.png",group-title="|SK| CANAL SPORT",|SK| CANAL SPORT
+https://raw.githubusercontent.com/siksa40/Siksa-Player/main/Canal%2B_SK.m3u
 
 #EXTINF:-1 tvg-id="ALWAN" tvg-name="|FR| Ligue1" tvg-logo="https://ligue1.com/images/Logo_Ligue1.webp",group-title="|FR| Ligue1",|FR| Ligue1
 https://raw.githubusercontent.com/siksa40/Siksa-Player/main/Ligue1.m3u
