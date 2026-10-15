@@ -50,22 +50,22 @@ https://raw.githubusercontent.com/raid35/docs/main/M%2B_ES.m3u
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/POR_SP.m3u
 
 #EXTINF:-1 tvg-id="ALWAN" tvg-name="|FR| DAZN" tvg-logo="https://play-lh.googleusercontent.com/2m6bTc0_zIgzimPNQo_ZfZkhGHEjBXJIPbIs3_wliCXm4VTNkLW31yMMUqmB7Vpn51Fed62sUv91YtC1kRcZAQ=w240-h480-rw",group-title="|FR| DAZN",|FR| DAZN
-https://raw.githubusercontent.com/raid35/docs/main/DAZN_FR.m3u
+https://raw.githubusercontent.com/siksa40/Siksa-Player/main/main/DAZN_FR.m3u
 
 #EXTINF:-1 tvg-id="ALWAN" tvg-name="|FR| CANAL SPORT" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png",group-title="|FR| CANAL SPORT",|FR| CANAL SPORT
-https://raw.githubusercontent.com/raid35/docs/main/CANAL_SPORT.m3u
+https://raw.githubusercontent.com/siksa40/Siksa-Player/main/CANAL_SPORT.m3u
 
 #EXTINF:-1 tvg-id="ALWAN" tvg-name="|AF| CANAL SPORT" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png",group-title="|AF| CANAL SPORT",|AF| CANAL SPORT
-https://raw.githubusercontent.com/raid35/docs/main/AF_CANAL.m3u
+https://raw.githubusercontent.com/siksa40/Siksa-Player/main/AF_CANAL.m3u
 
 #EXTINF:-1 tvg-id="ALWAN" tvg-name="|SK| CANAL SPORT" tvg-logo="https://www.canalplussport.cz/custom/img/loga/logo-canalplus-sport.svg",group-title="|SK| CANAL SPORT",|SK| CANAL SPORT
 https://raw.githubusercontent.com/raid35/docs/main/Canal+_SK.m3u
 
 #EXTINF:-1 tvg-id="ALWAN" tvg-name="|FR| Ligue1" tvg-logo="https://ligue1.com/images/Logo_Ligue1.webp",group-title="|FR| Ligue1",|FR| Ligue1
-https://raw.githubusercontent.com/raid35/docs/main/Ligue1.m3u
+https://raw.githubusercontent.com/siksa40/Siksa-Player/main/Ligue1.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN Sport" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",group-title="|FR| BEIN Sport",|FR| BEIN Sport
-https://raw.githubusercontent.com/raid35/docs/main/Bein_FR.m3u
+https://raw.githubusercontent.com/siksa40/Siksa-Player/main//main/Bein_FR.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN Sport" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",group-title="|TR| BEIN Sport",|TR| BEIN Sport
 https://raw.githubusercontent.com/raid35/docs/main/bein_TR.m3u
@@ -119,7 +119,7 @@ https://raw.githubusercontent.com/raid35/docs/main/France_vip.m3u
 https://raw.githubusercontent.com/siksa40/Siksa-Player/main/myCANAL_CINEMA.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="|FR| myCANAL TNT" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|FR| myCANAL TNT", |FR| myCANAL TNT
-https://raw.githubusercontent.com/raid35/docs/main/TNT.m3u
+https://raw.githubusercontent.com/siksa40/Siksa-Player/main/TNT.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="|FR| CANALPLAY A LA CARTE " tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|FR| CANALPLAY A LA CARTE ", |FR| CANALPLAY A LA CARTE 
 https://raw.githubusercontent.com/raid35/docs/main/CANALPLAY.m3u
