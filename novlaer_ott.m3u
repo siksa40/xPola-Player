@@ -128,7 +128,7 @@ https://raw.githubusercontent.com/raid35/docs/main/CANALPLAY.m3u
 https://raw.githubusercontent.com/raid35/docs/master/VIP_DOC.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="|FR| myCANAL DUCUMENTAIRE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|FR| myCANAL DUCUMENTAIRE", |FR| myCANAL DUCUMENTAIRE
-https://raw.githubusercontent.com/siksa40/Siksa-Player/main/myCANAL_CINEMA.m3u
+https://raw.githubusercontent.com/siksa40/Siksa-Player/main/Docs-fr.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="|VIP| DUCUMENTAIRE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|VIP| DUCUMENTAIRE", |VIP| DUCUMENTAIRE
 https://raw.githubusercontent.com/raid35/docs/main/VIP-DOC_URP.m3u
