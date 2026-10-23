@@ -11,3 +11,24 @@ http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/271548.ts
 http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/158952.ts
 #EXTINF:-1 tvg-name="STC Action" tvg-logo="http://tv.asc.vg/stc.action.stc.png" group-title="STC",STC Action
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/271555.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 1.AU" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="vip bein" , BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
+https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" group-title="ALL SPORTS",beIN Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd1e5fed6b05e927ce87961d6891c5d4:3cd6a4cf18a1a7fd58eef44e67b6df9d
+https://mena-jit-avod-cdn-lb.starzplayarabia.com/JIT/SPA/ingest-itnfilms-avod/AVOD2177THESANFRANCISCOLOVEHACKERCRIMESY2019M/5492bdd19b4de9f8839f0a35aae213d2/AVOD2177THESANFRANCISCOLOVEHACKERCRIMESY2019M.ism/AVOD2177THESANFRANCISCOLOVEHACKERCRIMESY2019M.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="ALL SPORTS",beIN Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae29cb26a8cdd4c65e682c5eb686f2b0:dd93bb8dca5a9947ade4ffa7cd4a5818
+https://mena-jit-avod-cdn-lb.starzplayarabia.com/JIT/SPA/ingest-filmhub-avod/AVODADVENTURESINGAMECHASINGY2019M/9ddc2d8926a28d3e85d85ad067e4cc29/AVODADVENTURESINGAMECHASINGY2019M.ism/AVODADVENTURESINGAMECHASINGY2019M.mpd
