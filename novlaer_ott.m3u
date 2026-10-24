@@ -131,7 +131,7 @@ https://raw.githubusercontent.com/raid35/docs/master/VIP_DOC.m3u
 https://raw.githubusercontent.com/siksa40/Siksa-Player/main/Docs-fr.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="|VIP| DUCUMENTAIRE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|VIP| DUCUMENTAIRE", |VIP| DUCUMENTAIRE
-https://raw.githubusercontent.com/raid35/docs/main/VIP-DOC_URP.m3u
+https://raw.githubusercontent.com/raid35/channel-links/main/Canal_SP.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-u0uOdujAViWs4ZkNfjxmlnrhmc5lwtgbk6JCmJ79ug&s=10",group-title="ألأخبار", ألأخبار
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/News.m3u
@@ -140,5 +140,5 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/News.m3u
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/test-sport.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTCmMu7aWMdwkRk6gWVvd4fOT73yq7su82t735HmuCA&s=10",group-title="sport",sport
-https://raw.githubusercontent.com/raid35/channel-links/main/Canal_SP.m3u
+https://raw.githubusercontent.com/raid35/channel-links/main/CANAL.m3u
 
